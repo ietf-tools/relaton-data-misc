@@ -1,0 +1,40 @@
+---
+id: ITU.Q931.1998
+title:
+  content: Digital Subscriber Signalling System No. 1 (DSS 1) - ISDN User - Network
+    Interface Layer 3 Specification for Basic Call Control
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+- id: ITU.Q931.1998
+  type: IETF
+- id: ITU.Q931.1998
+  type: rfc-anchor
+docnumber: Q931.1998
+date:
+  type: published
+  value: '1998-05-01'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- organization:
+    name: ''
+  role: author
+revdate: '1998-05-01'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: ISO
+    language: en
+    script: Latn
+    format: text/plain
+  number: Standard 9594-1
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: rfc

@@ -1,0 +1,42 @@
+---
+id: IEEE.802-11H.2003
+title:
+  content: 'Information technology - Telecommunications and information exchange between
+    systems - Local and metropolitan area networks - Specific requirements - Part
+    11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) specifications
+    - Amendment 5: Spectrum and Transmit Power  Management Extensions in the 5 GHz
+    band in Europe'
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: http://standards.ieee.org/getieee802/download/802.11h-2003.pdf
+  type: src
+type: standard
+docid:
+- id: IEEE.802-11H.2003
+  type: IETF
+- id: IEEE.802-11H.2003
+  type: rfc-anchor
+docnumber: 802-11H.2003
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- organization:
+    name: ''
+  role: author
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: IEEE
+    language: en
+    script: Latn
+    format: text/plain
+  number: Standard 802.11h
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: ieee

@@ -1,0 +1,40 @@
+---
+id: ITU.T30.1996
+title:
+  content: Procedures for Document Facsimile Transmission in the General Switched
+    Telephone Network
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+- id: ITU.T30.1996
+  type: IETF
+- id: ITU.T30.1996
+  type: rfc-anchor
+docnumber: T30.1996
+date:
+  type: published
+  value: '1996-07-01'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- organization:
+    name: International Telecommunications Union
+  role: author
+revdate: '1996-07-01'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: ITU-T
+    language: en
+    script: Latn
+    format: text/plain
+  number: Recommendation T.30
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: rfc

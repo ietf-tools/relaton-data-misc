@@ -1,0 +1,40 @@
+---
+id: ISO.9577.1990
+title:
+  content: Information technology - Telecommunications and Information exchange between
+    systems - Protocol identification in the network layer
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+- id: ISO.9577.1990
+  type: IETF
+- id: ISO.9577.1990
+  type: rfc-anchor
+docnumber: '9577.1990'
+date:
+  type: published
+  value: '1990-12-01'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- organization:
+    name: International Organization for Standardization
+  role: author
+revdate: '1990-12-01'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: ISO
+    language: en
+    script: Latn
+    format: text/plain
+  number: Technical Report 9577
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: rfc

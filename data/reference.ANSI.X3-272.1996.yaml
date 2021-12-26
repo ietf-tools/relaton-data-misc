@@ -1,0 +1,39 @@
+---
+id: ANSI.X3-272.1996
+title:
+  content: Information Technology - Fibre Channel - Arbiturated Loop (FC-AL)
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+- id: ANSI.X3-272.1996
+  type: IETF
+- id: ANSI.X3-272.1996
+  type: rfc-anchor
+docnumber: X3-272.1996
+date:
+  type: published
+  value: '1996-01-01'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- organization:
+    name: American National Standards Institute
+  role: author
+revdate: '1996-01-01'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: ANSI
+    language: en
+    script: Latn
+    format: text/plain
+  number: X3.272
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: rfc

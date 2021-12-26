@@ -1,0 +1,40 @@
+---
+id: ANSI.T1-618.1991
+title:
+  content: Telecommunications - Integrated Services Digital Network - Core Aspects
+    of Frame Protocol for Use with Frame Relay Bearer Service
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+- id: ANSI.T1-618.1991
+  type: IETF
+- id: ANSI.T1-618.1991
+  type: rfc-anchor
+docnumber: T1-618.1991
+date:
+  type: published
+  value: '1991-06-18'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- organization:
+    name: American National Standards Institute
+  role: author
+revdate: '1991-06-18'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: ANSI
+    language: en
+    script: Latn
+    format: text/plain
+  number: T1.618
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: rfc

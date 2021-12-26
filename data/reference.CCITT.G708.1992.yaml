@@ -1,0 +1,39 @@
+---
+id: CCITT.G708.1992
+title:
+  content: Network Node Interface for the Synchronous Digital Hierarchy
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+- id: CCITT.G708.1992
+  type: IETF
+- id: CCITT.G708.1992
+  type: rfc-anchor
+docnumber: G708.1992
+date:
+  type: published
+  value: '1992-06-01'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- organization:
+    name: International Telephone and Telegraph Consultative Committee
+  role: author
+revdate: '1992-06-01'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: CCITT
+    language: en
+    script: Latn
+    format: text/plain
+  number: Recommendation G.708
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: rfc

@@ -1,0 +1,42 @@
+---
+id: ISO.27729.2012
+title:
+  content: "\n      Information and documentation - International standard name identifier
+    (ISNI)\n    "
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+- id: ISO.27729.2012
+  type: IETF
+- id: ISO.27729.2012
+  type: rfc-anchor
+docnumber: '27729.2012'
+date:
+  type: published
+  value: '2012-03-09'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- organization:
+    name: "\n      Technical Committee ISO/TC 46, Information and\n      documentation,
+      Subcommittee SC 9, Identification and\n      description.\n      "
+    abbreviation: ISO/TC46
+  role: author
+revdate: '2012-03-09'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: ISO
+    language: en
+    script: Latn
+    format: text/plain
+  number: Draft Standard 27729
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: rfc

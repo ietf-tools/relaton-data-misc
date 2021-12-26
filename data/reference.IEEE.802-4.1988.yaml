@@ -1,0 +1,39 @@
+---
+id: IEEE.802-4.1988
+title:
+  content: Token-Passing Bus Access Method and Physical Layer Specifications
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+- id: IEEE.802-4.1988
+  type: IETF
+- id: IEEE.802-4.1988
+  type: rfc-anchor
+docnumber: 802-4.1988
+date:
+  type: published
+  value: '1988-05-01'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- organization:
+    name: Institute of Electrical and Electronics Engineers
+  role: author
+revdate: '1988-05-01'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: IEEE
+    language: en
+    script: Latn
+    format: text/plain
+  number: Standard 802.4
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: ieee

@@ -1,0 +1,35 @@
+---
+id: ITU.I363.1993
+title:
+  content: B-ISDN ATM Adaptation Layer (AAL) Specification
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+- id: ITU.I363.1993
+  type: IETF
+- id: ITU.I363.1993
+  type: rfc-anchor
+docnumber: I363.1993
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- organization:
+    name: International Telecommunications Union
+  role: author
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: ITU-T
+    language: en
+    script: Latn
+    format: text/plain
+  number: Recommendation I.363
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: rfc

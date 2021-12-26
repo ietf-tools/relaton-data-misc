@@ -1,0 +1,39 @@
+---
+id: ANSI.X3T9.1984
+title:
+  content: FDDI Station Management (SMT)
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+- id: ANSI.X3T9.1984
+  type: IETF
+- id: ANSI.X3T9.1984
+  type: rfc-anchor
+docnumber: X3T9.1984
+date:
+  type: published
+  value: '1984-01-01'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- organization:
+    name: American National Standards Institute
+  role: author
+revdate: '1984-01-01'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: ANSI
+    language: en
+    script: Latn
+    format: text/plain
+  number: X3T9.5
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: rfc

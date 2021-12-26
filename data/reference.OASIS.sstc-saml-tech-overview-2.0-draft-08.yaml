@@ -1,0 +1,74 @@
+---
+id: OASIS.sstc-saml-tech-overview-2.0-draft-08
+title:
+  content: |-
+    Security Assertion Markup Language
+                (SAML) V2.0 Technical Overview
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS.sstc-saml-tech-overview-2.0-draft-08
+  type: IETF
+- id: OASIS.sstc-saml-tech-overview-2.0-draft-08
+  type: rfc-anchor
+docnumber: sstc-saml-tech-overview-2.0-draft-08
+date:
+  type: published
+  value: '2005-09-01'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- person:
+    name:
+      initial:
+        content: J.
+        language: en
+      surname:
+        content: Hughes
+        language: en
+      completename:
+        content: John Hughes
+        language: en
+    affiliation:
+      organization:
+        name: Individual
+    contact:
+      type: email
+      value: ''
+  role: author
+- person:
+    name:
+      initial:
+        content: E.
+        language: en
+      surname:
+        content: Maler
+        language: en
+      completename:
+        content: Eve Maler
+        language: en
+    affiliation:
+      organization:
+        name: Sun Microsystems
+    contact:
+      type: email
+      value: eve.maler@sun.com
+  role: author
+revdate: '2005-09-01'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: OASIS SSTC Working Draft
+    language: en
+    script: Latn
+    format: text/plain
+  number: sstc-saml-tech-overview-2.0-draft-08
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: rfc

@@ -1,0 +1,164 @@
+---
+id: OASIS.saml-profiles-2.0-os
+title:
+  content: |-
+    Profiles for the OASIS Security Assertion Markup Language
+                (SAML) V2.0
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS.saml-profiles-2.0-os
+  type: IETF
+- id: OASIS.saml-profiles-2.0-os
+  type: rfc-anchor
+docnumber: saml-profiles-2.0-os
+date:
+  type: published
+  value: '2005-03-01'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- person:
+    name:
+      initial:
+        content: J.
+        language: en
+      surname:
+        content: Hughes
+        language: en
+      completename:
+        content: John Hughes
+        language: en
+    affiliation:
+      organization:
+        name: Altos Origin
+    contact:
+      type: email
+      value: ''
+  role: author
+- person:
+    name:
+      initial:
+        content: S.
+        language: en
+      surname:
+        content: Cantor
+        language: en
+      completename:
+        content: Scott Cantor
+        language: en
+    affiliation:
+      organization:
+        name: Internet2
+    contact:
+      type: email
+      value: cantor.2@osu.edu
+  role: author
+- person:
+    name:
+      initial:
+        content: J.
+        language: en
+      surname:
+        content: Hodges
+        language: en
+      completename:
+        content: Jeff Hodges
+        language: en
+    affiliation:
+      organization:
+        name: NeuStar
+    contact:
+      type: email
+      value: Jeff.Hodges@neustar.biz
+  role: author
+- person:
+    name:
+      initial:
+        content: F.
+        language: en
+      surname:
+        content: Hirsch
+        language: en
+      completename:
+        content: Frederick Hirsch
+        language: en
+    affiliation:
+      organization:
+        name: Nokia
+    contact:
+      type: email
+      value: Frederick.Hirsch@nokia.com
+  role: author
+- person:
+    name:
+      initial:
+        content: P.
+        language: en
+      surname:
+        content: Mishra
+        language: en
+      completename:
+        content: Prateek Mishra
+        language: en
+    affiliation:
+      organization:
+        name: Principal Identity
+    contact:
+      type: email
+      value: pmishra@principalidentity.com
+  role: author
+- person:
+    name:
+      initial:
+        content: R.
+        language: en
+      surname:
+        content: Philpott
+        language: en
+      completename:
+        content: Rob Philpott
+        language: en
+    affiliation:
+      organization:
+        name: RSA Security
+    contact:
+      type: email
+      value: rphilpott@rsasecurity.com
+  role: author
+- person:
+    name:
+      initial:
+        content: E.
+        language: en
+      surname:
+        content: Maler
+        language: en
+      completename:
+        content: Eve Maler
+        language: en
+    affiliation:
+      organization:
+        name: Sun Microsystems
+    contact:
+      type: email
+      value: eve.maler@sun.com
+  role: author
+revdate: '2005-03-01'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: OASIS Standard
+    language: en
+    script: Latn
+    format: text/plain
+  number: OASIS.saml-profiles-2.0-os
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: rfc

@@ -1,0 +1,39 @@
+---
+id: CCITT.G711.1972
+title:
+  content: Pulse Code Modulation (PCM) of Voice Frequencies
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+- id: CCITT.G711.1972
+  type: IETF
+- id: CCITT.G711.1972
+  type: rfc-anchor
+docnumber: G711.1972
+date:
+  type: published
+  value: '1972-01-01'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- organization:
+    name: International Telephone and Telegraph Consultative Committee
+  role: author
+revdate: '1972-01-01'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: CCITT
+    language: en
+    script: Latn
+    format: text/plain
+  number: Recommendation G.711
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: rfc

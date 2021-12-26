@@ -1,0 +1,39 @@
+---
+id: ISO.9594-8.1987
+title:
+  content: 'The Directory: Authentication Framework'
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+- id: ISO.9594-8.1987
+  type: IETF
+- id: ISO.9594-8.1987
+  type: rfc-anchor
+docnumber: 9594-8.1987
+date:
+  type: published
+  value: '1987-01-01'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- organization:
+    name: International Organization for Standardization
+  role: author
+revdate: '1987-01-01'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: ISO
+    language: en
+    script: Latn
+    format: text/plain
+  number: Standard 9594-8
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: rfc

@@ -1,0 +1,183 @@
+---
+id: W3C.soap11
+title:
+  content: Simple Object Access Protocol (SOAP) 1.1
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: http://www.w3.org/TR/SOAP/
+  type: src
+type: standard
+docid:
+- id: W3C.soap11
+  type: IETF
+- id: W3C.soap11
+  type: rfc-anchor
+docnumber: soap11
+date:
+  type: published
+  value: '2000-05-08'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- person:
+    name:
+      initial:
+        content: D.
+        language: en
+      surname:
+        content: Box
+        language: en
+      completename:
+        content: Don Box
+        language: en
+    affiliation:
+      organization:
+        name: Developmentor
+    contact:
+      type: email
+      value: dbox@develop.com
+  role: author
+- person:
+    name:
+      initial:
+        content: D.
+        language: en
+      surname:
+        content: Ehnebuske
+        language: en
+      completename:
+        content: David Ehnebuske
+        language: en
+    affiliation:
+      organization:
+        name: IBM
+    contact:
+      type: email
+      value: davide@us.ibm.com
+  role: author
+- person:
+    name:
+      initial:
+        content: G.
+        language: en
+      surname:
+        content: Kakivaya
+        language: en
+      completename:
+        content: Gopal Kakivaya
+        language: en
+    affiliation:
+      organization:
+        name: Microsoft
+    contact:
+      type: email
+      value: gopalk@microsoft.com
+  role: author
+- person:
+    name:
+      initial:
+        content: A.
+        language: en
+      surname:
+        content: Layman
+        language: en
+      completename:
+        content: Andrew Layman
+        language: en
+    affiliation:
+      organization:
+        name: Microsoft
+    contact:
+      type: email
+      value: andrewl@microsoft.com
+  role: author
+- person:
+    name:
+      initial:
+        content: N.
+        language: en
+      surname:
+        content: Mendelsohn
+        language: en
+      completename:
+        content: Noah Mendelsohn
+        language: en
+    affiliation:
+      organization:
+        name: Lotus Development Corp.
+    contact:
+      type: email
+      value: Noah_Mendelsohn@lotus.com
+  role: author
+- person:
+    name:
+      initial:
+        content: H.
+        language: en
+      surname:
+        content: Nielsen
+        language: en
+      completename:
+        content: Henrik Frystyk Nielsen
+        language: en
+    affiliation:
+      organization:
+        name: Microsoft
+    contact:
+      type: email
+      value: frystyk@microsoft.com
+  role: author
+- person:
+    name:
+      initial:
+        content: S.
+        language: en
+      surname:
+        content: Thatte
+        language: en
+      completename:
+        content: Satish Thatte
+        language: en
+    affiliation:
+      organization:
+        name: Microsoft
+    contact:
+      type: email
+      value: satisht@microsoft.com
+  role: author
+- person:
+    name:
+      initial:
+        content: D.
+        language: en
+      surname:
+        content: Winer
+        language: en
+      completename:
+        content: Dave Winer
+        language: en
+    affiliation:
+      organization:
+        name: UserLand Software
+    contact:
+      type: email
+      value: dave@userland.com
+  role: author
+revdate: '2000-05-08'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: W3C Note
+    language: en
+    script: Latn
+    format: text/plain
+  number: soap11
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: rfc

@@ -1,0 +1,39 @@
+---
+id: PKCS.12.1997
+title:
+  content: Personal Information Exchange Standard", Version 1.0 Draft
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+- id: PKCS.12.1997
+  type: IETF
+- id: PKCS.12.1997
+  type: rfc-anchor
+docnumber: '12.1997'
+date:
+  type: published
+  value: '1997-04-01'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- organization:
+    name: ''
+  role: author
+revdate: '1997-04-01'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: PKCS
+    language: en
+    script: Latn
+    format: text/plain
+  number: '12'
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: rfc

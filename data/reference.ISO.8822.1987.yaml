@@ -1,0 +1,40 @@
+---
+id: ISO.8822.1987
+title:
+  content: Information Processing Systems - Open Systems Interconnection, Connection
+    Oriented Presentation Service Definition
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+- id: ISO.8822.1987
+  type: IETF
+- id: ISO.8822.1987
+  type: rfc-anchor
+docnumber: '8822.1987'
+date:
+  type: published
+  value: '1987-06-01'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- organization:
+    name: International Organization for Standardization
+  role: author
+revdate: '1987-06-01'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: ISO
+    language: en
+    script: Latn
+    format: text/plain
+  number: Standard 8822
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: rfc

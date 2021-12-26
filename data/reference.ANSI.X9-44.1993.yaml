@@ -1,0 +1,40 @@
+---
+id: ANSI.X9-44.1993
+title:
+  content: 'Public Key Cryptography Using Reversible Algorithms for the Financial
+    Services Industry: Transport of Symmetric Algorithm Keys Using RSA'
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+- id: ANSI.X9-44.1993
+  type: IETF
+- id: ANSI.X9-44.1993
+  type: rfc-anchor
+docnumber: X9-44.1993
+date:
+  type: published
+  value: '1993-01-01'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- organization:
+    name: American National Standards Institute
+  role: author
+revdate: '1993-01-01'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: ANSI
+    language: en
+    script: Latn
+    format: text/plain
+  number: X9.44
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: rfc

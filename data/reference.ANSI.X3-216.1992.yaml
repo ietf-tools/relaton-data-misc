@@ -1,0 +1,40 @@
+---
+id: ANSI.X3-216.1992
+title:
+  content: The Structure and Semantics of the Domain-Specific Part (DSP) of the OSI
+    Network Service Access Point (NSAP) Address
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+- id: ANSI.X3-216.1992
+  type: IETF
+- id: ANSI.X3-216.1992
+  type: rfc-anchor
+docnumber: X3-216.1992
+date:
+  type: published
+  value: '1992-01-01'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- organization:
+    name: American National Standards Institute
+  role: author
+revdate: '1992-01-01'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: ANSI
+    language: en
+    script: Latn
+    format: text/plain
+  number: X3.216
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: rfc

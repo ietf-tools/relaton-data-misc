@@ -1,0 +1,111 @@
+---
+id: W3C.DSig-label
+title:
+  content: PICS Signed Labels (DSig) 1.0 Specification
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: http://www.w3.org/TR/REC-DSig-label
+  type: src
+type: standard
+docid:
+- id: W3C.DSig-label
+  type: IETF
+- id: W3C.DSig-label
+  type: rfc-anchor
+docnumber: DSig-label
+date:
+  type: published
+  value: '1998-05-27'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- person:
+    name:
+      initial:
+        content: Y.
+        language: en
+      surname:
+        content: 'Chu '
+        language: en
+      completename:
+        content: Yang-hua Chu
+        language: en
+    affiliation:
+      organization:
+        name: Carnegie Mellon University, Department of Computer Science
+    contact:
+      type: email
+      value: yhchu@cs.cmu.edu
+  role: author
+- person:
+    name:
+      initial:
+        content: P.
+        language: en
+      surname:
+        content: DesAutels
+        language: en
+      completename:
+        content: Philip DesAutels
+        language: en
+    affiliation:
+      organization:
+        name: MatchLogic, Inc.
+    contact:
+      type: email
+      value: philipd@matchlogic.com
+  role: author
+- person:
+    name:
+      initial:
+        content: B.
+        language: en
+      surname:
+        content: LaMacchia
+        language: en
+      completename:
+        content: Brian LaMacchia
+        language: en
+    affiliation:
+      organization:
+        name: Microsoft Corporation
+    contact:
+      type: email
+      value: bal@microsoft.com
+  role: author
+- person:
+    name:
+      initial:
+        content: P.
+        language: en
+      surname:
+        content: Lipp
+        language: en
+      completename:
+        content: Peter Lipp
+        language: en
+    affiliation:
+      organization:
+        name: IAIK, University of Technology, Graz
+    contact:
+      type: email
+      value: plipp@iaik.tu-graz.ac.at
+  role: author
+revdate: '1998-05-27'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: W3C Recommendation
+    language: en
+    script: Latn
+    format: text/plain
+  number: REC-DSig-label
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: rfc

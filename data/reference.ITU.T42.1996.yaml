@@ -1,0 +1,39 @@
+---
+id: ITU.T42.1996
+title:
+  content: Continuous-tone color representation method for facsimile
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+- id: ITU.T42.1996
+  type: IETF
+- id: ITU.T42.1996
+  type: rfc-anchor
+docnumber: T42.1996
+date:
+  type: published
+  value: '1996-01-01'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- organization:
+    name: International Telecommunications Union
+  role: author
+revdate: '1996-01-01'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: ITU-T
+    language: en
+    script: Latn
+    format: text/plain
+  number: Recommendation T.42
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: rfc

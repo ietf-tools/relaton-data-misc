@@ -1,0 +1,40 @@
+---
+id: ISO.8208.1990
+title:
+  content: Information technology - Data communication - X.25 Packet layer Protocol
+    for Data Terminal Equipment
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+- id: ISO.8208.1990
+  type: IETF
+- id: ISO.8208.1990
+  type: rfc-anchor
+docnumber: '8208.1990'
+date:
+  type: published
+  value: '1990-03-01'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- organization:
+    name: International Organization for Standardization
+  role: author
+revdate: '1990-03-01'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: ISO
+    language: en
+    script: Latn
+    format: text/plain
+  number: Standard 8208
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: rfc

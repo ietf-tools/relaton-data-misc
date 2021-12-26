@@ -1,0 +1,40 @@
+---
+id: ITU.G826.1995
+title:
+  content: Error Performance Parameters and Objectives for International Constant
+    Bit Rate Digital Paths at or above Primary Rate
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+- id: ITU.G826.1995
+  type: IETF
+- id: ITU.G826.1995
+  type: rfc-anchor
+docnumber: G826.1995
+date:
+  type: published
+  value: '1995-09-01'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- organization:
+    name: International Telecommunications Union
+  role: author
+revdate: '1995-09-01'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: ITU
+    language: en
+    script: Latn
+    format: text/plain
+  number: Recommendation G.826
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: rfc

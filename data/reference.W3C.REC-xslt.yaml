@@ -1,0 +1,54 @@
+---
+id: W3C.REC-xslt
+title:
+  content: XSL Transformations (XSLT) Version 1.0
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: http://www.w3.org/TR/2000/REC-xslt-19991116
+  type: src
+type: standard
+docid:
+- id: W3C.REC-xslt
+  type: IETF
+- id: W3C.REC-xslt
+  type: rfc-anchor
+docnumber: REC-xslt
+date:
+  type: published
+  value: '1999-11-16'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- person:
+    name:
+      initial:
+        content: J.
+        language: en
+      surname:
+        content: Clark
+        language: en
+      completename:
+        content: James Clark
+        language: en
+    contact:
+      type: email
+      value: jjc@jclark.com
+  role: author
+revdate: '1999-11-16'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: W3C
+    language: en
+    script: Latn
+    format: text/plain
+  number: REC-xslt
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: rfc

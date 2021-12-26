@@ -1,0 +1,48 @@
+---
+id: ITU.X511.2001
+title:
+  content: |-
+    Information Technology - Open Systems Interconnection - The Directory:
+    Abstract service definition
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+- id: ITU.X511.2001
+  type: IETF
+- id: ITU.X511.2001
+  type: rfc-anchor
+docnumber: X511.2001
+date:
+  type: published
+  value: '2001-02-01'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- organization:
+    name: International Telecommunications Union
+  role: author
+revdate: '2001-02-01'
+language: en
+script: Latn
+series:
+- type: main
+  title:
+    content: ITU-T
+    language: en
+    script: Latn
+    format: text/plain
+  number: Recommendation X.511
+- type: main
+  title:
+    content: ISO
+    language: en
+    script: Latn
+    format: text/plain
+  number: Standard 9594-3
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: rfc

@@ -1,0 +1,39 @@
+---
+id: ITU.H341.1999
+title:
+  content: Line Transmission of Non-Telephone Signals
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+- id: ITU.H341.1999
+  type: IETF
+- id: ITU.H341.1999
+  type: rfc-anchor
+docnumber: H341.1999
+date:
+  type: published
+  value: '1999-05-01'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- organization:
+    name: ''
+  role: author
+revdate: '1999-05-01'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: ITU-T
+    language: en
+    script: Latn
+    format: text/plain
+  number: Recommendation H.341
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: rfc

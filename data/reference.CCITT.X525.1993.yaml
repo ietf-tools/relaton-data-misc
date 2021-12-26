@@ -1,0 +1,42 @@
+---
+id: CCITT.X525.1993
+title:
+  content: 'Information Technology - Open Systems Interconnection - The Directory:
+    Replication'
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+- id: CCITT.X525.1993
+  type: IETF
+- id: CCITT.X525.1993
+  type: rfc-anchor
+docnumber: X525.1993
+date:
+  type: published
+  value: '1993-11-01'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- organization:
+    name: |-
+      International Telephone and Telegraph
+      Consultative Committee
+  role: author
+revdate: '1993-11-01'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: CCITT
+    language: en
+    script: Latn
+    format: text/plain
+  number: Recommendation X.525
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: rfc

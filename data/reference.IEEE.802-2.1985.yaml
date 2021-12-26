@@ -1,0 +1,39 @@
+---
+id: IEEE.802-2.1985
+title:
+  content: 'Local Area Networks: Logical Link Control'
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+- id: IEEE.802-2.1985
+  type: IETF
+- id: IEEE.802-2.1985
+  type: rfc-anchor
+docnumber: 802-2.1985
+date:
+  type: published
+  value: '1985-01-01'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- organization:
+    name: Institute of Electrical and Electronics Engineers
+  role: author
+revdate: '1985-01-01'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: IEEE
+    language: en
+    script: Latn
+    format: text/plain
+  number: Standard 802.2
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: ieee

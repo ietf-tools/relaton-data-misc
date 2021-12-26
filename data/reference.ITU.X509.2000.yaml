@@ -1,0 +1,48 @@
+---
+id: ITU.X509.2000
+title:
+  content: |-
+    Information technology - Open Systems Interconnection - The Directory:
+    Public-key and attribute certificate frameworks
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+- id: ITU.X509.2000
+  type: IETF
+- id: ITU.X509.2000
+  type: rfc-anchor
+docnumber: X509.2000
+date:
+  type: published
+  value: '2000-03-01'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- organization:
+    name: International Telecommunications Union
+  role: author
+revdate: '2000-03-01'
+language: en
+script: Latn
+series:
+- type: main
+  title:
+    content: ITU-T
+    language: en
+    script: Latn
+    format: text/plain
+  number: Recommendation X.509
+- type: main
+  title:
+    content: ISO
+    language: en
+    script: Latn
+    format: text/plain
+  number: Standard 9594-8
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: rfc

@@ -1,0 +1,40 @@
+---
+id: ANSI.T1-105.1988
+title:
+  content: Telecommunications - Digital Hierarchy - Optical Interface Rates and Formats
+    Specification
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+- id: ANSI.T1-105.1988
+  type: IETF
+- id: ANSI.T1-105.1988
+  type: rfc-anchor
+docnumber: T1-105.1988
+date:
+  type: published
+  value: '1988-01-01'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- organization:
+    name: American National Standards Institute
+  role: author
+revdate: '1988-01-01'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: ANSI
+    language: en
+    script: Latn
+    format: text/plain
+  number: T1.105
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: rfc

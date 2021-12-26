@@ -1,0 +1,40 @@
+---
+id: FIPS.6-4.1990
+title:
+  content: Counties and Equivalent Entities of the United States, its Possessions,
+    and Associated Areas
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+- id: FIPS.6-4.1990
+  type: IETF
+- id: FIPS.6-4.1990
+  type: rfc-anchor
+docnumber: 6-4.1990
+date:
+  type: published
+  value: '1990-08-31'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- organization:
+    name: National Institute of Standards and Technology
+  role: author
+revdate: '1990-08-31'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: FIPS
+    language: en
+    script: Latn
+    format: text/plain
+  number: PUB 6-4
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: rfc

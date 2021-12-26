@@ -1,0 +1,72 @@
+---
+id: OASIS.xacml-schema-policy
+title:
+  content: OASIS eXtensible Access Control Markup Language (XACML)
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: http://www.oasis-open.org/committees/xacml/repository/draft-xacml-schema-policy-15.doc
+  type: src
+type: standard
+docid:
+- id: OASIS.xacml-schema-policy
+  type: IETF
+- id: OASIS.xacml-schema-policy
+  type: rfc-anchor
+docnumber: xacml-schema-policy
+date:
+  type: published
+  value: '2002-07-12'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- person:
+    name:
+      initial:
+        content: S.
+        language: en
+      surname:
+        content: Godik
+        language: en
+      completename:
+        content: Simon Godik
+        language: en
+    contact:
+      type: email
+      value: simon@godik.com
+  role: author
+- person:
+    name:
+      initial:
+        content: T.
+        language: en
+      surname:
+        content: Moses
+        language: en
+      completename:
+        content: Tim Moses
+        language: en
+    affiliation:
+      organization:
+        name: Entrust
+    contact:
+      type: email
+      value: tim.moses@entrust.com
+  role: author
+revdate: '2002-07-12'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: OASIS Committee Working Draft
+    language: en
+    script: Latn
+    format: text/plain
+  number: xacml-schema-policy
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: rfc

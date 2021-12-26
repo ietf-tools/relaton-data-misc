@@ -1,0 +1,39 @@
+---
+id: ANSI.X3-124.1985
+title:
+  content: 'Draft Proposal: Graphical Kernel System'
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+- id: ANSI.X3-124.1985
+  type: IETF
+- id: ANSI.X3-124.1985
+  type: rfc-anchor
+docnumber: X3-124.1985
+date:
+  type: published
+  value: '1985-01-01'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- organization:
+    name: American National Standards Institute
+  role: author
+revdate: '1985-01-01'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: ANSI
+    language: en
+    script: Latn
+    format: text/plain
+  number: X3.124
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: rfc

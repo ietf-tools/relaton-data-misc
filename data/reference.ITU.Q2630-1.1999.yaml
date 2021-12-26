@@ -1,0 +1,39 @@
+---
+id: ITU.Q2630-1.1999
+title:
+  content: AAL type 2 Signalling Protocol (Capability Set 1)
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+- id: ITU.Q2630-1.1999
+  type: IETF
+- id: ITU.Q2630-1.1999
+  type: rfc-anchor
+docnumber: Q2630-1.1999
+date:
+  type: published
+  value: '1999-12-01'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- organization:
+    name: ''
+  role: author
+revdate: '1999-12-01'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: ITU-T
+    language: en
+    script: Latn
+    format: text/plain
+  number: Recommendation Q.2630.1
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: rfc

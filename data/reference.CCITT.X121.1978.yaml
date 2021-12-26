@@ -1,0 +1,39 @@
+---
+id: CCITT.X121.1978
+title:
+  content: International Numbering Plan for Public Data Networks
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+- id: CCITT.X121.1978
+  type: IETF
+- id: CCITT.X121.1978
+  type: rfc-anchor
+docnumber: X121.1978
+date:
+  type: published
+  value: '1978-01-01'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- organization:
+    name: International Telephone and Telegraph Consultative Committee
+  role: author
+revdate: '1978-01-01'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: CCITT
+    language: en
+    script: Latn
+    format: text/plain
+  number: Recommendation X.121
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: rfc

@@ -1,0 +1,40 @@
+---
+id: ISO.9596.1990
+title:
+  content: Information Processing Systems - Open Systems Interconnection - Management
+    Information Protocol Specification - Common Management Information Protocol
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+- id: ISO.9596.1990
+  type: IETF
+- id: ISO.9596.1990
+  type: rfc-anchor
+docnumber: '9596.1990'
+date:
+  type: published
+  value: '1990-11-01'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- organization:
+    name: International Organization for Standardization
+  role: author
+revdate: '1990-11-01'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: ISO
+    language: en
+    script: Latn
+    format: text/plain
+  number: Standard 9596
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: rfc

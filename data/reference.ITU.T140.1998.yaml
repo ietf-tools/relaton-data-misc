@@ -1,0 +1,39 @@
+---
+id: ITU.T140.1998
+title:
+  content: Protocol for Multimedia Application Text Conversation
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+- id: ITU.T140.1998
+  type: IETF
+- id: ITU.T140.1998
+  type: rfc-anchor
+docnumber: T140.1998
+date:
+  type: published
+  value: '1998-02-01'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- organization:
+    name: ''
+  role: author
+revdate: '1998-02-01'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: ITU-T
+    language: en
+    script: Latn
+    format: text/plain
+  number: Recommendation T.140
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: rfc

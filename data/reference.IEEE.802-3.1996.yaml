@@ -1,0 +1,42 @@
+---
+id: IEEE.802-3.1996
+title:
+  content: 'Information technology - Telecommunications and Information Exchange between
+    Systems - Local and Metropolitan Area Networks - Specific requirements - Part
+    3: Carrier sense multiple access with collision detection (CSMA/CD) Access Method
+    and Physical Layer Specifications'
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+- id: IEEE.802-3.1996
+  type: IETF
+- id: IEEE.802-3.1996
+  type: rfc-anchor
+docnumber: 802-3.1996
+date:
+  type: published
+  value: '1996-01-01'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- organization:
+    name: Institute of Electrical and Electronics Engineers
+  role: author
+revdate: '1996-01-01'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: IEEE
+    language: en
+    script: Latn
+    format: text/plain
+  number: Standard 802.3
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: ieee

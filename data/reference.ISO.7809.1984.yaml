@@ -1,0 +1,40 @@
+---
+id: ISO.7809.1984
+title:
+  content: Data Communication - High-level data link control procedures - Consolidation
+    of classes of procedures
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+- id: ISO.7809.1984
+  type: IETF
+- id: ISO.7809.1984
+  type: rfc-anchor
+docnumber: '7809.1984'
+date:
+  type: published
+  value: '1984-01-01'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- organization:
+    name: International Organization for Standardization
+  role: author
+revdate: '1984-01-01'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: ISO
+    language: en
+    script: Latn
+    format: text/plain
+  number: Standard 7809
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: rfc

@@ -1,0 +1,39 @@
+---
+id: ISO.2629.1973
+title:
+  content: Basic mode control procedures - Conversational information message transfer
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+- id: ISO.2629.1973
+  type: IETF
+- id: ISO.2629.1973
+  type: rfc-anchor
+docnumber: '2629.1973'
+date:
+  type: published
+  value: '1973-01-01'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- organization:
+    name: International Organization for Standardization
+  role: author
+revdate: '1973-01-01'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: ISO
+    language: en
+    script: Latn
+    format: text/plain
+  number: Standard 2629
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: rfc

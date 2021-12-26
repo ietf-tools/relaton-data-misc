@@ -1,0 +1,40 @@
+---
+id: IEEE.P802-5D.1989
+title:
+  content: Draft Addendum to ANSI/IEEE Std 802.5-1988 Token Ring MAC and PHY Specification
+    Enhancement for Multiple-Ring Networks
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+- id: IEEE.P802-5D.1989
+  type: IETF
+- id: IEEE.P802-5D.1989
+  type: rfc-anchor
+docnumber: P802-5D.1989
+date:
+  type: published
+  value: '1989-05-01'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- organization:
+    name: Institute of Electrical and Electronics Engineers
+  role: author
+revdate: '1989-05-01'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: IEEE
+    language: en
+    script: Latn
+    format: text/plain
+  number: Draft P802.5D
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: ieee

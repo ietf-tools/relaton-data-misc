@@ -1,0 +1,39 @@
+---
+id: ISO.9945-2-2.1991
+title:
+  content: CD POSIX Shell and Utilities, informative annex F
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+- id: ISO.9945-2-2.1991
+  type: IETF
+- id: ISO.9945-2-2.1991
+  type: rfc-anchor
+docnumber: 9945-2-2.1991
+date:
+  type: published
+  value: '1991-10-01'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- organization:
+    name: International Organization for Standardization
+  role: author
+revdate: '1991-10-01'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: ISO
+    language: en
+    script: Latn
+    format: text/plain
+  number: Standard 9945-2.2
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: rfc

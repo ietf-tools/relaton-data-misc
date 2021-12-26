@@ -1,0 +1,39 @@
+---
+id: FIPS.500-166.1989
+title:
+  content: 'Computer Viruses and Related Threats: A Management Guide'
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+- id: FIPS.500-166.1989
+  type: IETF
+- id: FIPS.500-166.1989
+  type: rfc-anchor
+docnumber: 500-166.1989
+date:
+  type: published
+  value: '1989-08-01'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- organization:
+    name: National Institute of Standards and Technology
+  role: author
+revdate: '1989-08-01'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: FIPS
+    language: en
+    script: Latn
+    format: text/plain
+  number: PUB 500-166
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: rfc

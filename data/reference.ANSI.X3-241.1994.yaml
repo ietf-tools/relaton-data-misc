@@ -1,0 +1,40 @@
+---
+id: ANSI.X3-241.1994
+title:
+  content: Data Compression Method, Adaptive Coding with Sliding Window of Information
+    Interchange
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+- id: ANSI.X3-241.1994
+  type: IETF
+- id: ANSI.X3-241.1994
+  type: rfc-anchor
+docnumber: X3-241.1994
+date:
+  type: published
+  value: '1994-01-01'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- organization:
+    name: American National Standards Institute
+  role: author
+revdate: '1994-01-01'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: ANSI
+    language: en
+    script: Latn
+    format: text/plain
+  number: X3.241
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: rfc

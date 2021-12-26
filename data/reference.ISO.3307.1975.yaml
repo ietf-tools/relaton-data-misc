@@ -1,0 +1,39 @@
+---
+id: ISO.3307.1975
+title:
+  content: Information Interchange - Representations of time of the day
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+- id: ISO.3307.1975
+  type: IETF
+- id: ISO.3307.1975
+  type: rfc-anchor
+docnumber: '3307.1975'
+date:
+  type: published
+  value: '1975-01-01'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- organization:
+    name: International Organization for Standardization
+  role: author
+revdate: '1975-01-01'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: ISO
+    language: en
+    script: Latn
+    format: text/plain
+  number: Standard 3307
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: rfc

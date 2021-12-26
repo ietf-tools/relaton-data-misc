@@ -1,0 +1,41 @@
+---
+id: CCITT.X25.1980
+title:
+  content: Interface between Data Terminal Equipment (DTE) and Data Circuit Terminating
+    Equipment (DCE) for Terminals Operating in the Packet Mode and Connected to Public
+    Data Networks by Dedicated Circuit
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+- id: CCITT.X25.1980
+  type: IETF
+- id: CCITT.X25.1980
+  type: rfc-anchor
+docnumber: X25.1980
+date:
+  type: published
+  value: '1980-01-01'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- organization:
+    name: International Telephone and Telegraph Consultative Committee
+  role: author
+revdate: '1980-01-01'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: CCITT
+    language: en
+    script: Latn
+    format: text/plain
+  number: Recommendation X.25
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: rfc

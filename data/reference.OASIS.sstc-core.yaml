@@ -1,0 +1,76 @@
+---
+id: OASIS.sstc-core
+title:
+  content: Assertions and Protocol for the OASIS Security Assertion Markup Language
+    (SAML)
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: http://www.oasis-open.org/committees/security/docs/cs-sstc-core-01.pdf
+  type: src
+type: standard
+docid:
+- id: OASIS.sstc-core
+  type: IETF
+- id: OASIS.sstc-core
+  type: rfc-anchor
+docnumber: sstc-core
+date:
+  type: published
+  value: '2002-05-31'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- person:
+    name:
+      initial:
+        content: P.
+        language: en
+      surname:
+        content: Hallam-Baker
+        language: en
+      completename:
+        content: Phillip Hallam-Baker
+        language: en
+    affiliation:
+      organization:
+        name: VeriSign
+    contact:
+      type: email
+      value: pbaker@verisign.com
+  role: author
+- person:
+    name:
+      initial:
+        content: E.
+        language: en
+      surname:
+        content: Maler
+        language: en
+      completename:
+        content: Eve Maler
+        language: en
+    affiliation:
+      organization:
+        name: Sun Microsystems
+    contact:
+      type: email
+      value: eve.maler@sun.com
+  role: author
+revdate: '2002-05-31'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: OASIS Committee Specification
+    language: en
+    script: Latn
+    format: text/plain
+  number: sstc-core
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: rfc

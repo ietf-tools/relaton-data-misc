@@ -1,0 +1,42 @@
+---
+id: FIPS.81.1980
+title:
+  content: DES Modes of Operation
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: http://www.itl.nist.gov/fipspubs/fip81.htm
+  type: src
+type: standard
+docid:
+- id: FIPS.81.1980
+  type: IETF
+- id: FIPS.81.1980
+  type: rfc-anchor
+docnumber: '81.1980'
+date:
+  type: published
+  value: '1980-12-01'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- organization:
+    name: National Institute of Standards and Technology
+  role: author
+revdate: '1980-12-01'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: FIPS
+    language: en
+    script: Latn
+    format: text/plain
+  number: PUB 81
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: rfc

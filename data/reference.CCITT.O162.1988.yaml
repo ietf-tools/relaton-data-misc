@@ -1,0 +1,39 @@
+---
+id: CCITT.O162.1988
+title:
+  content: Equipment To Perform In Service Monitoring On 2048 kbit/s Signals
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+- id: CCITT.O162.1988
+  type: IETF
+- id: CCITT.O162.1988
+  type: rfc-anchor
+docnumber: O162.1988
+date:
+  type: published
+  value: '1988-07-01'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- organization:
+    name: International Telephone and Telegraph Consultative Committee
+  role: author
+revdate: '1988-07-01'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: CCITT
+    language: en
+    script: Latn
+    format: text/plain
+  number: Recommendation O.162
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: rfc

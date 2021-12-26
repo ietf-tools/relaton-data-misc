@@ -1,0 +1,40 @@
+---
+id: IEEE.P802-3P.1992
+title:
+  content: Layer Management for 10 Mb/s Medium Access Unit (MAUs), Section 20, Draft
+    5
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+- id: IEEE.P802-3P.1992
+  type: IETF
+- id: IEEE.P802-3P.1992
+  type: rfc-anchor
+docnumber: P802-3P.1992
+date:
+  type: published
+  value: '1992-07-11'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- organization:
+    name: Institute of Electrical and Electronics Engineers
+  role: author
+revdate: '1992-07-11'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: IEEE
+    language: en
+    script: Latn
+    format: text/plain
+  number: Draft Supplement P802.3P
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: ieee

@@ -1,0 +1,146 @@
+---
+id: OASIS.sstc-saml-tech-overview-2.0-draft-16
+title:
+  content: |-
+    Security Assertion Markup Language
+                (SAML) V2.0 Technical Overview
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS.sstc-saml-tech-overview-2.0-draft-16
+  type: IETF
+- id: OASIS.sstc-saml-tech-overview-2.0-draft-16
+  type: rfc-anchor
+docnumber: sstc-saml-tech-overview-2.0-draft-16
+date:
+  type: published
+  value: '2008-05-01'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- person:
+    name:
+      initial:
+        content: N.
+        language: en
+      surname:
+        content: Ragouzis
+        language: en
+      completename:
+        content: Nick Ragouzis
+        language: en
+    affiliation:
+      organization:
+        name: Enosis Group LLC
+    contact:
+      type: email
+      value: ''
+  role: author
+- person:
+    name:
+      initial:
+        content: J.
+        language: en
+      surname:
+        content: Hughes
+        language: en
+      completename:
+        content: John Hughes
+        language: en
+    affiliation:
+      organization:
+        name: PA Consulting
+    contact:
+      type: email
+      value: ''
+  role: author
+- person:
+    name:
+      initial:
+        content: R.
+        language: en
+      surname:
+        content: Philpott
+        language: en
+      completename:
+        content: Rob Philpott
+        language: en
+    affiliation:
+      organization:
+        name: RSA Security
+    contact:
+      type: email
+      value: ''
+  role: author
+- person:
+    name:
+      initial:
+        content: E.
+        language: en
+      surname:
+        content: Maler
+        language: en
+      completename:
+        content: Eve Maler
+        language: en
+    affiliation:
+      organization:
+        name: Sun Microsystems
+    contact:
+      type: email
+      value: eve.maler@sun.com
+  role: author
+- person:
+    name:
+      initial:
+        content: P.
+        language: en
+      surname:
+        content: Madsen
+        language: en
+      completename:
+        content: Paul Madsen
+        language: en
+    affiliation:
+      organization:
+        name: NTT
+    contact:
+      type: email
+      value: paulmadsen@rogers.com
+  role: author
+- person:
+    name:
+      initial:
+        content: T.
+        language: en
+      surname:
+        content: Scavo
+        language: en
+      completename:
+        content: Tom Scavo
+        language: en
+    affiliation:
+      organization:
+        name: NCSA/University of Illinois
+    contact:
+      type: email
+      value: trscavo@gmail.com
+  role: author
+revdate: '2008-05-01'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: OASIS SSTC Working Draft
+    language: en
+    script: Latn
+    format: text/plain
+  number: sstc-saml-tech-overview-2.0-draft-16
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: rfc

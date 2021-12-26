@@ -1,0 +1,39 @@
+---
+id: IEEE.P1394A.1995
+title:
+  content: Draft Standard for a High Performance Serial Bus (Supplement)
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+- id: IEEE.P1394A.1995
+  type: IETF
+- id: IEEE.P1394A.1995
+  type: rfc-anchor
+docnumber: P1394A.1995
+date:
+  type: published
+  value: '1995-01-01'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- organization:
+    name: Institute of Electrical and Electronics Engineers
+  role: author
+revdate: '1995-01-01'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: IEEE
+    language: en
+    script: Latn
+    format: text/plain
+  number: Draft P1394A
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: ieee

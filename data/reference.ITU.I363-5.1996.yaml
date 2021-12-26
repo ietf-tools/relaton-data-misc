@@ -1,0 +1,39 @@
+---
+id: ITU.I363-5.1996
+title:
+  content: 'B-ISDN ATM Adaptation Layer Specification: Type 5 AAL'
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+- id: ITU.I363-5.1996
+  type: IETF
+- id: ITU.I363-5.1996
+  type: rfc-anchor
+docnumber: I363-5.1996
+date:
+  type: published
+  value: '1996-08-01'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- organization:
+    name: International Telecommunications Union
+  role: author
+revdate: '1996-08-01'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: ITU-T
+    language: en
+    script: Latn
+    format: text/plain
+  number: Recommendation I.363.5
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: rfc

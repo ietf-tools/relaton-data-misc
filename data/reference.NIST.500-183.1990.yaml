@@ -1,0 +1,39 @@
+---
+id: NIST.500-183.1990
+title:
+  content: Stable Agreements for Open Systems Interconnection Protocols
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+- id: NIST.500-183.1990
+  type: IETF
+- id: NIST.500-183.1990
+  type: rfc-anchor
+docnumber: 500-183.1990
+date:
+  type: published
+  value: '1990-12-01'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- organization:
+    name: National Institute of Standards and Technology
+  role: author
+revdate: '1990-12-01'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: NIST
+    language: en
+    script: Latn
+    format: text/plain
+  number: 500-183
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: rfc

@@ -1,0 +1,92 @@
+---
+id: OASIS.saml-sec-consider-2.0-os
+title:
+  content: |-
+    Security and Privacy Considerations for the OASIS Security Markup
+                Language (SAML) V2.0
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS.saml-sec-consider-2.0-os
+  type: IETF
+- id: OASIS.saml-sec-consider-2.0-os
+  type: rfc-anchor
+docnumber: saml-sec-consider-2.0-os
+date:
+  type: published
+  value: '2005-03-01'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- person:
+    name:
+      initial:
+        content: F.
+        language: en
+      surname:
+        content: Hirsch
+        language: en
+      completename:
+        content: Frederick Hirsch
+        language: en
+    affiliation:
+      organization:
+        name: Nokia
+    contact:
+      type: email
+      value: Frederick.Hirsch@nokia.com
+  role: author
+- person:
+    name:
+      initial:
+        content: R.
+        language: en
+      surname:
+        content: Philpott
+        language: en
+      completename:
+        content: Rob Philpott
+        language: en
+    affiliation:
+      organization:
+        name: RSA Security
+    contact:
+      type: email
+      value: rphilpott@rsasecurity.com
+  role: author
+- person:
+    name:
+      initial:
+        content: E.
+        language: en
+      surname:
+        content: Maler
+        language: en
+      completename:
+        content: Eve Maler
+        language: en
+    affiliation:
+      organization:
+        name: Sun Microsystems
+    contact:
+      type: email
+      value: eve.maler@sun.com
+  role: author
+revdate: '2005-03-01'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: OASIS Standard
+    language: en
+    script: Latn
+    format: text/plain
+  number: saml-sec-consider-2.0-os
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: rfc

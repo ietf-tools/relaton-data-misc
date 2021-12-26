@@ -1,0 +1,39 @@
+---
+id: ISO.8473.1986
+title:
+  content: Protocol for Providing the Connectionless-mode Network Service
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+- id: ISO.8473.1986
+  type: IETF
+- id: ISO.8473.1986
+  type: rfc-anchor
+docnumber: '8473.1986'
+date:
+  type: published
+  value: '1986-01-01'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- organization:
+    name: International Organization for Standardization
+  role: author
+revdate: '1986-01-01'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: ISO
+    language: en
+    script: Latn
+    format: text/plain
+  number: Standard 8473
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: rfc

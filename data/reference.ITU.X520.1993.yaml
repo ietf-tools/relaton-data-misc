@@ -1,0 +1,48 @@
+---
+id: ITU.X520.1993
+title:
+  content: |-
+    Information Technology - Open Systems Interconnection - The Directory:
+    Selected Attribute Types
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+- id: ITU.X520.1993
+  type: IETF
+- id: ITU.X520.1993
+  type: rfc-anchor
+docnumber: X520.1993
+date:
+  type: published
+  value: '1993-01-01'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- organization:
+    name: International Telecommunications Union
+  role: author
+revdate: '1993-01-01'
+language: en
+script: Latn
+series:
+- type: main
+  title:
+    content: ITU-T
+    language: en
+    script: Latn
+    format: text/plain
+  number: Recommendation X.520
+- type: main
+  title:
+    content: ISO
+    language: en
+    script: Latn
+    format: text/plain
+  number: Standard 9594-6
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: rfc

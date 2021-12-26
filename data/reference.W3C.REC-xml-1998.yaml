@@ -1,0 +1,84 @@
+---
+id: W3C.REC-xml-1998
+title:
+  content: Extensible Markup Language (XML) 1.0
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: http://www.w3.org/TR/1998/REC-xml-19980210/
+  type: src
+type: standard
+docid:
+- id: W3C.REC-xml-1998
+  type: IETF
+- id: W3C.REC-xml-1998
+  type: rfc-anchor
+docnumber: REC-xml-1998
+date:
+  type: published
+  value: '1998-02-10'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- person:
+    name:
+      initial:
+        content: T.
+        language: en
+      surname:
+        content: Bray
+        language: en
+      completename:
+        content: Tim Bray
+        language: en
+    affiliation:
+      organization:
+        name: Textuality and Netscape
+  role: author
+- person:
+    name:
+      initial:
+        content: J.
+        language: en
+      surname:
+        content: Paoli
+        language: en
+      completename:
+        content: Jean Paoli
+        language: en
+    affiliation:
+      organization:
+        name: Microsoft
+  role: author
+- person:
+    name:
+      initial:
+        content: C. M.
+        language: en
+      surname:
+        content: Sperberg-McQueen
+        language: en
+      completename:
+        content: C. M. Sperberg-McQueen
+        language: en
+    affiliation:
+      organization:
+        name: University of Illinois at Chicago
+  role: author
+revdate: '1998-02-10'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: W3C
+    language: en
+    script: Latn
+    format: text/plain
+  number: REC-xml-1998
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: rfc

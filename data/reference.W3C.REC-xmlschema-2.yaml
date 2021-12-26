@@ -1,0 +1,69 @@
+---
+id: W3C.REC-xmlschema-2
+title:
+  content: 'XML Schema Part 2: Datatypes'
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: http://www.w3.org/TR/xmlschema-2/
+  type: src
+type: standard
+docid:
+- id: W3C.REC-xmlschema-2
+  type: IETF
+- id: W3C.REC-xmlschema-2
+  type: rfc-anchor
+docnumber: REC-xmlschema-2
+date:
+  type: published
+  value: '2001-05-02'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- person:
+    name:
+      initial:
+        content: P.
+        language: en
+      surname:
+        content: Biron
+        language: en
+      completename:
+        content: Paul V. Biron
+        language: en
+    affiliation:
+      organization:
+        name: Kaiser Permanente
+  role: author
+- person:
+    name:
+      initial:
+        content: A.
+        language: en
+      surname:
+        content: Malhotra
+        language: en
+      completename:
+        content: Ashok Malhotra
+        language: en
+    affiliation:
+      organization:
+        name: Microsoft
+  role: author
+revdate: '2001-05-02'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: W3C
+    language: en
+    script: Latn
+    format: text/plain
+  number: REC-xmlschema-2
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: rfc

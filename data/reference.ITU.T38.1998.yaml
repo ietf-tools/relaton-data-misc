@@ -1,0 +1,40 @@
+---
+id: ITU.T38.1998
+title:
+  content: Procedures for real time Group 3 facsimile communication between terminals
+    using IP Networks
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+- id: ITU.T38.1998
+  type: IETF
+- id: ITU.T38.1998
+  type: rfc-anchor
+docnumber: T38.1998
+date:
+  type: published
+  value: '1998-01-01'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- organization:
+    name: International Telecommunications Union
+  role: author
+revdate: '1998-01-01'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: ITU-T
+    language: en
+    script: Latn
+    format: text/plain
+  number: Recommendation T.38
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: rfc

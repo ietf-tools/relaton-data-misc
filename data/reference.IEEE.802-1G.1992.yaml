@@ -1,0 +1,39 @@
+---
+id: IEEE.802-1G.1992
+title:
+  content: Remote MAC Bridging
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+- id: IEEE.802-1G.1992
+  type: IETF
+- id: IEEE.802-1G.1992
+  type: rfc-anchor
+docnumber: 802-1G.1992
+date:
+  type: published
+  value: '1992-12-30'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- organization:
+    name: Institute of Electrical and Electronics Engineers
+  role: author
+revdate: '1992-12-30'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: IEEE
+    language: en
+    script: Latn
+    format: text/plain
+  number: Draft Standard 802.1G
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: ieee

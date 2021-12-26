@@ -1,0 +1,39 @@
+---
+id: ITU.G707.1996
+title:
+  content: Network node interface for the synchronous digital hierarchy (SDH)
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+- id: ITU.G707.1996
+  type: IETF
+- id: ITU.G707.1996
+  type: rfc-anchor
+docnumber: G707.1996
+date:
+  type: published
+  value: '1996-05-01'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- organization:
+    name: International Telecommunications Union
+  role: author
+revdate: '1996-05-01'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: ITU-T
+    language: en
+    script: Latn
+    format: text/plain
+  number: Recommendation G.707
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: rfc

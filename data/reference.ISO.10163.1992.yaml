@@ -1,0 +1,39 @@
+---
+id: ISO.10163.1992
+title:
+  content: Documentation - Search and Retrieve Protocol Definition
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+- id: ISO.10163.1992
+  type: IETF
+- id: ISO.10163.1992
+  type: rfc-anchor
+docnumber: '10163.1992'
+date:
+  type: published
+  value: '1992-01-01'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- organization:
+    name: International Organization for Standardization
+  role: author
+revdate: '1992-01-01'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: ISO
+    language: en
+    script: Latn
+    format: text/plain
+  number: Standard 10163
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: rfc

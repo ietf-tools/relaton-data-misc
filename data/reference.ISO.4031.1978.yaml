@@ -1,0 +1,39 @@
+---
+id: ISO.4031.1978
+title:
+  content: Information Interchange - Representation of local time differentials
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+- id: ISO.4031.1978
+  type: IETF
+- id: ISO.4031.1978
+  type: rfc-anchor
+docnumber: '4031.1978'
+date:
+  type: published
+  value: '1978-01-01'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- organization:
+    name: International Organization for Standardization
+  role: author
+revdate: '1978-01-01'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: ISO
+    language: en
+    script: Latn
+    format: text/plain
+  number: Standard 4031
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: rfc

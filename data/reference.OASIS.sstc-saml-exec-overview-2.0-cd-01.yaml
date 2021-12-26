@@ -1,0 +1,72 @@
+---
+id: OASIS.sstc-saml-exec-overview-2.0-cd-01
+title:
+  content: SAML V2.0 Executive Overview
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+- id: OASIS.sstc-saml-exec-overview-2.0-cd-01
+  type: IETF
+- id: OASIS.sstc-saml-exec-overview-2.0-cd-01
+  type: rfc-anchor
+docnumber: sstc-saml-exec-overview-2.0-cd-01
+date:
+  type: published
+  value: '2005-04-01'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- person:
+    name:
+      initial:
+        content: P.
+        language: en
+      surname:
+        content: Madsen
+        language: en
+      completename:
+        content: Paul Madsen
+        language: en
+    affiliation:
+      organization:
+        name: NTT
+    contact:
+      type: email
+      value: paulmadsen@rogers.com
+  role: author
+- person:
+    name:
+      initial:
+        content: E.
+        language: en
+      surname:
+        content: Maler
+        language: en
+      completename:
+        content: Eve Maler
+        language: en
+    affiliation:
+      organization:
+        name: Sun Microsystems
+    contact:
+      type: email
+      value: eve.maler@sun.com
+  role: author
+revdate: '2005-04-01'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: OASIS SSTC Committee Draft
+    language: en
+    script: Latn
+    format: text/plain
+  number: sstc-saml-exec-overview-2.0-cd-01
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: rfc

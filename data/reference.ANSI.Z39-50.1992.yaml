@@ -1,0 +1,42 @@
+---
+id: ANSI.Z39-50.1992
+title:
+  content: 'Information Retrieval: Application Service Definition and Protocol Specification'
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: ftp://ftp.cni.org/pub/NISO/docs/Z39.50-1992/www/Z39.50.toc.html
+  type: src
+type: standard
+docid:
+- id: ANSI.Z39-50.1992
+  type: IETF
+- id: ANSI.Z39-50.1992
+  type: rfc-anchor
+docnumber: Z39-50.1992
+date:
+  type: published
+  value: '1992-01-01'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- organization:
+    name: American National Standards Institute
+  role: author
+revdate: '1992-01-01'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: ANSI
+    language: en
+    script: Latn
+    format: text/plain
+  number: Z39.50
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: rfc

@@ -1,0 +1,40 @@
+---
+id: ISO.8650.1989
+title:
+  content: Information processing systems - Open Systems Interconnection - Protocol
+    specification for the Association Control Service Element
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+- id: ISO.8650.1989
+  type: IETF
+- id: ISO.8650.1989
+  type: rfc-anchor
+docnumber: '8650.1989'
+date:
+  type: published
+  value: '1989-01-01'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- organization:
+    name: International Organization for Standardization
+  role: author
+revdate: '1989-01-01'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: ISO
+    language: en
+    script: Latn
+    format: text/plain
+  number: Standard 8650
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: rfc

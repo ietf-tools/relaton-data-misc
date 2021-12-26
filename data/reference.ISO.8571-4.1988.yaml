@@ -1,0 +1,40 @@
+---
+id: ISO.8571-4.1988
+title:
+  content: 'Information processing systems - Open Systems Interconnection - File Transfer,
+    Access and Management, Part 4: File Protocol Specification'
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+- id: ISO.8571-4.1988
+  type: IETF
+- id: ISO.8571-4.1988
+  type: rfc-anchor
+docnumber: 8571-4.1988
+date:
+  type: published
+  value: '1988-10-01'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- organization:
+    name: International Organization for Standardization
+  role: author
+revdate: '1988-10-01'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: ISO
+    language: en
+    script: Latn
+    format: text/plain
+  number: Standard 8571-4
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: rfc

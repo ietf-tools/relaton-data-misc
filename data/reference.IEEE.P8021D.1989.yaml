@@ -1,0 +1,39 @@
+---
+id: IEEE.P8021D.1989
+title:
+  content: 802 Local and Metropolitan Area Networks, MAC Bridges
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+- id: IEEE.P8021D.1989
+  type: IETF
+- id: IEEE.P8021D.1989
+  type: rfc-anchor
+docnumber: P8021D.1989
+date:
+  type: published
+  value: '1989-07-14'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- organization:
+    name: Institute of Electrical and Electronics Engineers
+  role: author
+revdate: '1989-07-14'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: IEEE
+    language: en
+    script: Latn
+    format: text/plain
+  number: Draft P802.1D
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: ieee

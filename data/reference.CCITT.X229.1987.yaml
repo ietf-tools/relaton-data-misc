@@ -1,0 +1,40 @@
+---
+id: CCITT.X229.1987
+title:
+  content: 'Information processing systems - Text Communication, Remote Operations:
+    Protocol Specification'
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+- id: CCITT.X229.1987
+  type: IETF
+- id: CCITT.X229.1987
+  type: rfc-anchor
+docnumber: X229.1987
+date:
+  type: published
+  value: '1987-11-01'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- organization:
+    name: International Telephone and Telegraph Consultative Committee
+  role: author
+revdate: '1987-11-01'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: CCITT
+    language: en
+    script: Latn
+    format: text/plain
+  number: Recommendation X.229
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: rfc

@@ -1,0 +1,52 @@
+---
+id: IANA.application.samlassertion-xml
+title:
+  content: "\n            application/samlassertion+xml MIME Media Type Registration\n
+    \       "
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+- id: IANA.application.samlassertion-xml
+  type: IETF
+- id: IANA.application.samlassertion-xml
+  type: rfc-anchor
+docnumber: application.samlassertion-xml
+date:
+  type: published
+  value: '2004-12-01'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- person:
+    name:
+      initial:
+        content: ''
+        language: en
+      surname:
+        content: OASIS Security Services Technical Committee (SSTC)
+        language: en
+      completename:
+        content: ''
+        language: en
+    affiliation:
+      organization:
+        name: OASIS SSTC
+  role: author
+revdate: '2004-12-01'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: IANA MIME Media Types Registry
+    language: en
+    script: Latn
+    format: text/plain
+  number: application/samlassertion+xml
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: rfc

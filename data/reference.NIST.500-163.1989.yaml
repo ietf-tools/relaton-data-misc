@@ -1,0 +1,39 @@
+---
+id: NIST.500-163.1989
+title:
+  content: Government Open Systems Interconnection Profile Users' Guide
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+- id: NIST.500-163.1989
+  type: IETF
+- id: NIST.500-163.1989
+  type: rfc-anchor
+docnumber: 500-163.1989
+date:
+  type: published
+  value: '1989-08-01'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- organization:
+    name: National Institute of Standards and Technology
+  role: author
+revdate: '1989-08-01'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: NIST
+    language: en
+    script: Latn
+    format: text/plain
+  number: 500-163
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: rfc

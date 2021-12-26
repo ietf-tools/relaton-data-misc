@@ -1,0 +1,40 @@
+---
+id: ITU.T85.1995
+title:
+  content: Application profile for Recommendation T.82 - Progressive bi-level image
+    compression (JBIG1 coding scheme for facsimile apparatus)
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+- id: ITU.T85.1995
+  type: IETF
+- id: ITU.T85.1995
+  type: rfc-anchor
+docnumber: T85.1995
+date:
+  type: published
+  value: '1995-01-01'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- organization:
+    name: International Telecommunications Union
+  role: author
+revdate: '1995-01-01'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: ITU-T
+    language: en
+    script: Latn
+    format: text/plain
+  number: Recommendation T.85
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: rfc

@@ -1,0 +1,39 @@
+---
+id: ISO.9542-AD.1991
+title:
+  content: Addendum to ISO 9542 Covering Address Administration
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+- id: ISO.9542-AD.1991
+  type: IETF
+- id: ISO.9542-AD.1991
+  type: rfc-anchor
+docnumber: 9542-AD.1991
+date:
+  type: published
+  value: '1991-03-01'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- organization:
+    name: International Organization for Standardization
+  role: author
+revdate: '1991-03-01'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: ISO
+    language: en
+    script: Latn
+    format: text/plain
+  number: Standard 9542 Addendum
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: rfc

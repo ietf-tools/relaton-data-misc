@@ -1,0 +1,39 @@
+---
+id: IEEE.802-1D.1991
+title:
+  content: MAC Bridges, IEEE Project 802 Local and Metropolitan Area Networks
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+- id: IEEE.802-1D.1991
+  type: IETF
+- id: IEEE.802-1D.1991
+  type: rfc-anchor
+docnumber: 802-1D.1991
+date:
+  type: published
+  value: '1991-03-08'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- organization:
+    name: Institute of Electrical and Electronics Engineers
+  role: author
+revdate: '1991-03-08'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: IEEE
+    language: en
+    script: Latn
+    format: text/plain
+  number: Standard 802.1D
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: ieee

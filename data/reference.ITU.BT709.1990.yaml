@@ -1,0 +1,40 @@
+---
+id: ITU.BT709.1990
+title:
+  content: Basic Parameter Values for the HDTV Standard for the Studio and for International
+    Programme Exchange
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+- id: ITU.BT709.1990
+  type: IETF
+- id: ITU.BT709.1990
+  type: rfc-anchor
+docnumber: BT709.1990
+date:
+  type: published
+  value: '1990-01-01'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- organization:
+    name: International Telecommunications Union
+  role: author
+revdate: '1990-01-01'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: ITU-R
+    language: en
+    script: Latn
+    format: text/plain
+  number: Recommendation BT.709
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: rfc

@@ -1,0 +1,39 @@
+---
+id: ANSI.X3-4.1968
+title:
+  content: USA Code for Information Interchange
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+- id: ANSI.X3-4.1968
+  type: IETF
+- id: ANSI.X3-4.1968
+  type: rfc-anchor
+docnumber: X3-4.1968
+date:
+  type: published
+  value: '1968-01-01'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- organization:
+    name: American National Standards Institute
+  role: author
+revdate: '1968-01-01'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: ANSI
+    language: en
+    script: Latn
+    format: text/plain
+  number: X3.4
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: rfc

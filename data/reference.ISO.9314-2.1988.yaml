@@ -1,0 +1,39 @@
+---
+id: ISO.9314-2.1988
+title:
+  content: Fiber Distributed Data Interface (FDDI) - Media Access Control
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+- id: ISO.9314-2.1988
+  type: IETF
+- id: ISO.9314-2.1988
+  type: rfc-anchor
+docnumber: 9314-2.1988
+date:
+  type: published
+  value: '1988-01-01'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- organization:
+    name: International Organization for Standardization
+  role: author
+revdate: '1988-01-01'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: ISO
+    language: en
+    script: Latn
+    format: text/plain
+  number: Standard 9314-2
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: rfc

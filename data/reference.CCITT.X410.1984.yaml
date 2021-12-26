@@ -1,0 +1,39 @@
+---
+id: CCITT.X410.1984
+title:
+  content: 'Message Handling Systems: Remote Operations and Reliable Transfer Server'
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+- id: CCITT.X410.1984
+  type: IETF
+- id: CCITT.X410.1984
+  type: rfc-anchor
+docnumber: X410.1984
+date:
+  type: published
+  value: '1984-10-01'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- organization:
+    name: International Telephone and Telegraph Consultative Committee
+  role: author
+revdate: '1984-10-01'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: CCITT
+    language: en
+    script: Latn
+    format: text/plain
+  number: Recommendation X.410
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: rfc

@@ -1,0 +1,39 @@
+---
+id: PKCS.1.1993
+title:
+  content: RSA Encryption Standard, Version 1.5
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+- id: PKCS.1.1993
+  type: IETF
+- id: PKCS.1.1993
+  type: rfc-anchor
+docnumber: '1.1993'
+date:
+  type: published
+  value: '1993-11-01'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- organization:
+    name: RSA Laboratories
+  role: author
+revdate: '1993-11-01'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: PKCS
+    language: en
+    script: Latn
+    format: text/plain
+  number: '1'
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: rfc

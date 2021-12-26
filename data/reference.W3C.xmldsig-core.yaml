@@ -1,0 +1,93 @@
+---
+id: W3C.xmldsig-core
+title:
+  content: XML-Signature Syntax and Processing
+  language: en
+  script: Latn
+  format: text/plain
+link:
+  content: http://www.w3.org/TR/xmldsig-core/
+  type: src
+type: standard
+docid:
+- id: W3C.xmldsig-core
+  type: IETF
+- id: W3C.xmldsig-core
+  type: rfc-anchor
+docnumber: xmldsig-core
+date:
+  type: published
+  value: '2000-10-06'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- person:
+    name:
+      initial:
+        content: D.
+        language: en
+      surname:
+        content: Eastlake
+        language: en
+      completename:
+        content: Donald Eastlake
+        language: en
+    affiliation:
+      organization:
+        name: Motorola
+    contact:
+      type: email
+      value: dee3@torque.pothole.com
+  role: author
+- person:
+    name:
+      initial:
+        content: J.
+        language: en
+      surname:
+        content: 'Reagle '
+        language: en
+      completename:
+        content: 'Joseph Reagle '
+        language: en
+    affiliation:
+      organization:
+        name: W3C
+    contact:
+      type: email
+      value: reagle@w3.org
+  role: author
+- person:
+    name:
+      initial:
+        content: D.
+        language: en
+      surname:
+        content: Solo
+        language: en
+      completename:
+        content: David Solo
+        language: en
+    affiliation:
+      organization:
+        name: Citigroup
+    contact:
+      type: email
+      value: dsolo@alum.mit.edu
+  role: author
+revdate: '2000-10-06'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: W3C Recommendation
+    language: en
+    script: Latn
+    format: text/plain
+  number: xmldsig-core
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: rfc

@@ -1,0 +1,40 @@
+---
+id: ISO.11578.1996
+title:
+  content: Information technology - Open Systems Interconnection - Remote Procedure
+    Call (RPC)
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+- id: ISO.11578.1996
+  type: IETF
+- id: ISO.11578.1996
+  type: rfc-anchor
+docnumber: '11578.1996'
+date:
+  type: published
+  value: '1996-01-01'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- organization:
+    name: International Organization for Standardization
+  role: author
+revdate: '1996-01-01'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: ISO
+    language: en
+    script: Latn
+    format: text/plain
+  number: Standard 11578
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: rfc

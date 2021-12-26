@@ -1,0 +1,40 @@
+---
+id: NIST.500-214.1993
+title:
+  content: Stable Implementation Agreements for Open Systems Interconnection Protocols,
+    Version 7, Edition 1
+  language: en
+  script: Latn
+  format: text/plain
+type: standard
+docid:
+- id: NIST.500-214.1993
+  type: IETF
+- id: NIST.500-214.1993
+  type: rfc-anchor
+docnumber: 500-214.1993
+date:
+  type: published
+  value: '1993-12-01'
+contributor:
+- organization:
+    name: Internet Engineering Task Force
+    abbreviation: IETF
+  role: publisher
+- organization:
+    name: National Institute of Standards and Technology
+  role: author
+revdate: '1993-12-01'
+language: en
+script: Latn
+series:
+  type: main
+  title:
+    content: NIST
+    language: en
+    script: Latn
+    format: text/plain
+  number: 500-214
+place: Fremont, CA
+fetched: '2021-12-26'
+doctype: rfc
