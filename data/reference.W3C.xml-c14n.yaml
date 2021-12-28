@@ -10,10 +10,9 @@ link:
   type: src
 type: standard
 docid:
-- id: W3C.xml-c14n
+  id: W3C.xml-c14n
   type: IETF
-- id: W3C.xml-c14n
-  type: rfc-anchor
+  scope: anchor
 docnumber: xml-c14n
 date:
   type: published
@@ -53,5 +52,5 @@ series:
     format: text/plain
   number: xpath
 place: Fremont, CA
-fetched: '2021-12-26'
+fetched: '2021-12-28'
 doctype: rfc

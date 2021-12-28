@@ -10,10 +10,9 @@ link:
   type: src
 type: standard
 docid:
-- id: OASIS.xacml-schema-policy
+  id: OASIS.xacml-schema-policy
   type: IETF
-- id: OASIS.xacml-schema-policy
-  type: rfc-anchor
+  scope: anchor
 docnumber: xacml-schema-policy
 date:
   type: published
@@ -68,5 +67,5 @@ series:
     format: text/plain
   number: xacml-schema-policy
 place: Fremont, CA
-fetched: '2021-12-26'
+fetched: '2021-12-28'
 doctype: rfc

@@ -7,10 +7,9 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: ANSI.T1-105-02.1993
+  id: ANSI.T1-105-02.1993
   type: IETF
-- id: ANSI.T1-105-02.1993
-  type: rfc-anchor
+  scope: anchor
 docnumber: T1-105-02.1993
 date:
   type: published
@@ -35,5 +34,5 @@ series:
     format: text/plain
   number: T1.105
 place: Fremont, CA
-fetched: '2021-12-26'
+fetched: '2021-12-28'
 doctype: rfc

@@ -10,10 +10,9 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: IEEE.802-3.1998
+  id: IEEE.802-3.1998
   type: IETF
-- id: IEEE.802-3.1998
-  type: rfc-anchor
+  scope: anchor
 docnumber: 802-3.1998
 date:
   type: published
@@ -38,5 +37,5 @@ series:
     format: text/plain
   number: Standard 802.3
 place: Fremont, CA
-fetched: '2021-12-26'
+fetched: '2021-12-28'
 doctype: ieee

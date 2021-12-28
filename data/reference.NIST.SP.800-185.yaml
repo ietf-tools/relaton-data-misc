@@ -12,8 +12,7 @@ type: standard
 docid:
 - id: NIST.SP.800-185
   type: IETF
-- id: NIST.SP.800-185
-  type: rfc-anchor
+  scope: anchor
 - id: 10.6028/nist.sp.800-185
   type: DOI
 docnumber: SP.800-185
@@ -82,5 +81,5 @@ series:
     format: text/plain
   number: SP 800-185
 place: Fremont, CA
-fetched: '2021-12-26'
+fetched: '2021-12-28'
 doctype: rfc

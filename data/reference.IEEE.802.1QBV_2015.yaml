@@ -13,8 +13,7 @@ type: standard
 docid:
 - id: IEEE.802.1QBV_2015
   type: IETF
-- id: IEEE.802.1QBV_2015
-  type: rfc-anchor
+  scope: anchor
 - id: 10.1109/IEEESTD.2016.7572858
   type: DOI
 docnumber: 802.1QBV_2015
@@ -47,5 +46,5 @@ series:
     format: text/plain
   number: 802.1Qbv-2015
 place: Fremont, CA
-fetched: '2021-12-26'
+fetched: '2021-12-28'
 doctype: ieee

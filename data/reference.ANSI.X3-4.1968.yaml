@@ -7,10 +7,9 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: ANSI.X3-4.1968
+  id: ANSI.X3-4.1968
   type: IETF
-- id: ANSI.X3-4.1968
-  type: rfc-anchor
+  scope: anchor
 docnumber: X3-4.1968
 date:
   type: published
@@ -35,5 +34,5 @@ series:
     format: text/plain
   number: X3.4
 place: Fremont, CA
-fetched: '2021-12-26'
+fetched: '2021-12-28'
 doctype: rfc

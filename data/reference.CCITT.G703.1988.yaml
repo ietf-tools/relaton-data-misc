@@ -7,10 +7,9 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: CCITT.G703.1988
+  id: CCITT.G703.1988
   type: IETF
-- id: CCITT.G703.1988
-  type: rfc-anchor
+  scope: anchor
 docnumber: G703.1988
 date:
   type: published
@@ -35,5 +34,5 @@ series:
     format: text/plain
   number: Recommendation G.703
 place: Fremont, CA
-fetched: '2021-12-26'
+fetched: '2021-12-28'
 doctype: rfc

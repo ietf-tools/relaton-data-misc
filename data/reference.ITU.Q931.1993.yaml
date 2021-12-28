@@ -7,10 +7,9 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: ITU.Q931.1993
+  id: ITU.Q931.1993
   type: IETF
-- id: ITU.Q931.1993
-  type: rfc-anchor
+  scope: anchor
 docnumber: Q931.1993
 date:
   type: published
@@ -35,5 +34,5 @@ series:
     format: text/plain
   number: Recommendation Q.931
 place: Fremont, CA
-fetched: '2021-12-26'
+fetched: '2021-12-28'
 doctype: rfc

@@ -7,10 +7,9 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: ANSI.Z39-50.1995
+  id: ANSI.Z39-50.1995
   type: IETF
-- id: ANSI.Z39-50.1995
-  type: rfc-anchor
+  scope: anchor
 docnumber: Z39-50.1995
 date:
   type: published
@@ -42,5 +41,5 @@ series:
     format: text/plain
   number: Standard 23950
 place: Fremont, CA
-fetched: '2021-12-26'
+fetched: '2021-12-28'
 doctype: rfc

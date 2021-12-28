@@ -10,10 +10,9 @@ link:
   type: src
 type: standard
 docid:
-- id: W3C.xkms
+  id: W3C.xkms
   type: IETF
-- id: W3C.xkms
-  type: rfc-anchor
+  scope: anchor
 docnumber: xkms
 date:
   type: published
@@ -161,5 +160,5 @@ series:
     format: text/plain
   number: xkms
 place: Fremont, CA
-fetched: '2021-12-26'
+fetched: '2021-12-28'
 doctype: rfc

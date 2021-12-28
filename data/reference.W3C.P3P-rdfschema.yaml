@@ -10,10 +10,9 @@ link:
   type: src
 type: standard
 docid:
-- id: W3C.P3P-rdfschema
+  id: W3C.P3P-rdfschema
   type: IETF
-- id: W3C.P3P-rdfschema
-  type: rfc-anchor
+  scope: anchor
 docnumber: P3P-rdfschema
 date:
   type: published
@@ -90,5 +89,5 @@ series:
     format: text/plain
   number: P3P-rdfschema
 place: Fremont, CA
-fetched: '2021-12-26'
+fetched: '2021-12-28'
 doctype: rfc

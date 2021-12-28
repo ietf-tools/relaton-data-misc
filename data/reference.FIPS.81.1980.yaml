@@ -10,10 +10,9 @@ link:
   type: src
 type: standard
 docid:
-- id: FIPS.81.1980
+  id: FIPS.81.1980
   type: IETF
-- id: FIPS.81.1980
-  type: rfc-anchor
+  scope: anchor
 docnumber: '81.1980'
 date:
   type: published
@@ -38,5 +37,5 @@ series:
     format: text/plain
   number: PUB 81
 place: Fremont, CA
-fetched: '2021-12-26'
+fetched: '2021-12-28'
 doctype: rfc

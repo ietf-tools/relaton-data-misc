@@ -10,10 +10,9 @@ link:
   type: src
 type: standard
 docid:
-- id: W3C.REC-XHTML
+  id: W3C.REC-XHTML
   type: IETF
-- id: W3C.REC-XHTML
-  type: rfc-anchor
+  scope: anchor
 docnumber: REC-XHTML
 date:
   type: published
@@ -50,5 +49,5 @@ series:
     format: text/plain
   number: REC-XHTML
 place: Fremont, CA
-fetched: '2021-12-26'
+fetched: '2021-12-28'
 doctype: rfc

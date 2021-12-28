@@ -9,10 +9,9 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: OASIS.sstc-saml-tech-overview-2.0-draft-16
+  id: OASIS.sstc-saml-tech-overview-2.0-draft-16
   type: IETF
-- id: OASIS.sstc-saml-tech-overview-2.0-draft-16
-  type: rfc-anchor
+  scope: anchor
 docnumber: sstc-saml-tech-overview-2.0-draft-16
 date:
   type: published
@@ -142,5 +141,5 @@ series:
     format: text/plain
   number: sstc-saml-tech-overview-2.0-draft-16
 place: Fremont, CA
-fetched: '2021-12-26'
+fetched: '2021-12-28'
 doctype: rfc

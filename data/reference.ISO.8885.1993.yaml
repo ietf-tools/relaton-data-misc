@@ -9,10 +9,9 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: ISO.8885.1993
+  id: ISO.8885.1993
   type: IETF
-- id: ISO.8885.1993
-  type: rfc-anchor
+  scope: anchor
 docnumber: '8885.1993'
 date:
   type: published
@@ -37,5 +36,5 @@ series:
     format: text/plain
   number: Standard 8885
 place: Fremont, CA
-fetched: '2021-12-26'
+fetched: '2021-12-28'
 doctype: rfc

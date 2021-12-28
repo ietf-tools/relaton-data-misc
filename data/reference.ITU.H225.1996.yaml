@@ -8,10 +8,9 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: ITU.H225.1996
+  id: ITU.H225.1996
   type: IETF
-- id: ITU.H225.1996
-  type: rfc-anchor
+  scope: anchor
 docnumber: H225.1996
 date:
   type: published
@@ -36,5 +35,5 @@ series:
     format: text/plain
   number: Recommendation H.225.0
 place: Fremont, CA
-fetched: '2021-12-26'
+fetched: '2021-12-28'
 doctype: rfc

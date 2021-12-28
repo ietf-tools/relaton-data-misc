@@ -7,10 +7,9 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: ISO.6523.1984
+  id: ISO.6523.1984
   type: IETF
-- id: ISO.6523.1984
-  type: rfc-anchor
+  scope: anchor
 docnumber: '6523.1984'
 date:
   type: published
@@ -35,5 +34,5 @@ series:
     format: text/plain
   number: Standard 6523
 place: Fremont, CA
-fetched: '2021-12-26'
+fetched: '2021-12-28'
 doctype: rfc

@@ -8,10 +8,9 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: ANSI.X3-41.1974
+  id: ANSI.X3-41.1974
   type: IETF
-- id: ANSI.X3-41.1974
-  type: rfc-anchor
+  scope: anchor
 docnumber: X3-41.1974
 date:
   type: published
@@ -43,5 +42,5 @@ series:
     format: text/plain
   number: PUB 35
 place: Fremont, CA
-fetched: '2021-12-26'
+fetched: '2021-12-28'
 doctype: rfc

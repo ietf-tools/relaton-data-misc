@@ -8,10 +8,9 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: ANSI.X9-55.1995
+  id: ANSI.X9-55.1995
   type: IETF
-- id: ANSI.X9-55.1995
-  type: rfc-anchor
+  scope: anchor
 docnumber: X9-55.1995
 date:
   type: published
@@ -36,5 +35,5 @@ series:
     format: text/plain
   number: X9.55
 place: Fremont, CA
-fetched: '2021-12-26'
+fetched: '2021-12-28'
 doctype: rfc

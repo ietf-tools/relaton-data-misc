@@ -10,10 +10,9 @@ link:
   type: src
 type: standard
 docid:
-- id: W3C.soap12-part1
+  id: W3C.soap12-part1
   type: IETF
-- id: W3C.soap12-part1
-  type: rfc-anchor
+  scope: anchor
 docnumber: soap12-part1
 date:
   type: published
@@ -125,5 +124,5 @@ series:
     format: text/plain
   number: soap12-part1
 place: Fremont, CA
-fetched: '2021-12-26'
+fetched: '2021-12-28'
 doctype: rfc

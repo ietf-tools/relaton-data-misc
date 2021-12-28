@@ -7,10 +7,9 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: ISO.8473.1986
+  id: ISO.8473.1986
   type: IETF
-- id: ISO.8473.1986
-  type: rfc-anchor
+  scope: anchor
 docnumber: '8473.1986'
 date:
   type: published
@@ -35,5 +34,5 @@ series:
     format: text/plain
   number: Standard 8473
 place: Fremont, CA
-fetched: '2021-12-26'
+fetched: '2021-12-28'
 doctype: rfc

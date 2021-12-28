@@ -8,10 +8,9 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: IEEE.P802-3P.1992
+  id: IEEE.P802-3P.1992
   type: IETF
-- id: IEEE.P802-3P.1992
-  type: rfc-anchor
+  scope: anchor
 docnumber: P802-3P.1992
 date:
   type: published
@@ -36,5 +35,5 @@ series:
     format: text/plain
   number: Draft Supplement P802.3P
 place: Fremont, CA
-fetched: '2021-12-26'
+fetched: '2021-12-28'
 doctype: ieee

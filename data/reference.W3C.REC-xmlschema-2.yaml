@@ -10,10 +10,9 @@ link:
   type: src
 type: standard
 docid:
-- id: W3C.REC-xmlschema-2
+  id: W3C.REC-xmlschema-2
   type: IETF
-- id: W3C.REC-xmlschema-2
-  type: rfc-anchor
+  scope: anchor
 docnumber: REC-xmlschema-2
 date:
   type: published
@@ -65,5 +64,5 @@ series:
     format: text/plain
   number: REC-xmlschema-2
 place: Fremont, CA
-fetched: '2021-12-26'
+fetched: '2021-12-28'
 doctype: rfc

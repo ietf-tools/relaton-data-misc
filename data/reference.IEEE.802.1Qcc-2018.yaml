@@ -14,8 +14,7 @@ type: standard
 docid:
 - id: IEEE.802.1Qcc-2018
   type: IETF
-- id: IEEE.802.1Qcc-2018
-  type: rfc-anchor
+  scope: anchor
 - id: 10.1109/ieeestd.2018.8514112
   type: DOI
 docnumber: 802.1Qcc-2018
@@ -48,5 +47,5 @@ series:
     format: text/plain
   number: 802.1Qcc-2018
 place: Fremont, CA
-fetched: '2021-12-26'
+fetched: '2021-12-28'
 doctype: ieee

@@ -10,10 +10,9 @@ link:
   type: src
 type: standard
 docid:
-- id: W3C.xmlenc-core
+  id: W3C.xmlenc-core
   type: IETF
-- id: W3C.xmlenc-core
-  type: rfc-anchor
+  scope: anchor
 docnumber: xmlenc-core
 date:
   type: published
@@ -71,5 +70,5 @@ series:
     format: text/plain
   number: xmlenc-core
 place: Fremont, CA
-fetched: '2021-12-26'
+fetched: '2021-12-28'
 doctype: rfc

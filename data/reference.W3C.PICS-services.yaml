@@ -11,10 +11,9 @@ link:
   type: src
 type: standard
 docid:
-- id: W3C.PICS-services
+  id: W3C.PICS-services
   type: IETF
-- id: W3C.PICS-services
-  type: rfc-anchor
+  scope: anchor
 docnumber: PICS-services
 date:
   type: published
@@ -101,5 +100,5 @@ series:
     format: text/plain
   number: REC-PICS-services
 place: Fremont, CA
-fetched: '2021-12-26'
+fetched: '2021-12-28'
 doctype: rfc

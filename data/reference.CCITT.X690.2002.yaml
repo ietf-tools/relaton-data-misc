@@ -8,10 +8,9 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: CCITT.X690.2002
+  id: CCITT.X690.2002
   type: IETF
-- id: CCITT.X690.2002
-  type: rfc-anchor
+  scope: anchor
 docnumber: X690.2002
 date:
   type: published
@@ -38,5 +37,5 @@ series:
     format: text/plain
   number: Recommendation X.690
 place: Fremont, CA
-fetched: '2021-12-26'
+fetched: '2021-12-28'
 doctype: rfc

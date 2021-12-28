@@ -10,10 +10,9 @@ link:
   type: src
 type: standard
 docid:
-- id: W3C.REC-xml-1998
+  id: W3C.REC-xml-1998
   type: IETF
-- id: W3C.REC-xml-1998
-  type: rfc-anchor
+  scope: anchor
 docnumber: REC-xml-1998
 date:
   type: published
@@ -80,5 +79,5 @@ series:
     format: text/plain
   number: REC-xml-1998
 place: Fremont, CA
-fetched: '2021-12-26'
+fetched: '2021-12-28'
 doctype: rfc

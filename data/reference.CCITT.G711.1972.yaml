@@ -7,10 +7,9 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: CCITT.G711.1972
+  id: CCITT.G711.1972
   type: IETF
-- id: CCITT.G711.1972
-  type: rfc-anchor
+  scope: anchor
 docnumber: G711.1972
 date:
   type: published
@@ -35,5 +34,5 @@ series:
     format: text/plain
   number: Recommendation G.711
 place: Fremont, CA
-fetched: '2021-12-26'
+fetched: '2021-12-28'
 doctype: rfc

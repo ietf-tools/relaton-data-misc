@@ -8,10 +8,9 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: IANA.application.samlmetadata-xml
+  id: IANA.application.samlmetadata-xml
   type: IETF
-- id: IANA.application.samlmetadata-xml
-  type: rfc-anchor
+  scope: anchor
 docnumber: application.samlmetadata-xml
 date:
   type: published
@@ -48,5 +47,5 @@ series:
     format: text/plain
   number: application/samlmetadata+xml
 place: Fremont, CA
-fetched: '2021-12-26'
+fetched: '2021-12-28'
 doctype: rfc

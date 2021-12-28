@@ -7,10 +7,9 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: FIPS.180-1.1994
+  id: FIPS.180-1.1994
   type: IETF
-- id: FIPS.180-1.1994
-  type: rfc-anchor
+  scope: anchor
 docnumber: 180-1.1994
 date:
   type: published
@@ -35,5 +34,5 @@ series:
     format: text/plain
   number: PUB 180-1
 place: Fremont, CA
-fetched: '2021-12-26'
+fetched: '2021-12-28'
 doctype: rfc

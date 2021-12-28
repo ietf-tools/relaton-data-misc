@@ -7,10 +7,9 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: FIPS.58.1979
+  id: FIPS.58.1979
   type: IETF
-- id: FIPS.58.1979
-  type: rfc-anchor
+  scope: anchor
 docnumber: '58.1979'
 date:
   type: published
@@ -35,5 +34,5 @@ series:
     format: text/plain
   number: PUB 58
 place: Fremont, CA
-fetched: '2021-12-26'
+fetched: '2021-12-28'
 doctype: rfc

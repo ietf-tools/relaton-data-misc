@@ -7,10 +7,9 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: FIPS.146-1.1989
+  id: FIPS.146-1.1989
   type: IETF
-- id: FIPS.146-1.1989
-  type: rfc-anchor
+  scope: anchor
 docnumber: 146-1.1989
 date:
   type: published
@@ -35,5 +34,5 @@ series:
     format: text/plain
   number: PUB 146-1
 place: Fremont, CA
-fetched: '2021-12-26'
+fetched: '2021-12-28'
 doctype: rfc

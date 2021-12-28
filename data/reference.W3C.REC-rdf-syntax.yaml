@@ -10,10 +10,9 @@ link:
   type: src
 type: standard
 docid:
-- id: W3C.REC-rdf-syntax
+  id: W3C.REC-rdf-syntax
   type: IETF
-- id: W3C.REC-rdf-syntax
-  type: rfc-anchor
+  scope: anchor
 docnumber: REC-rdf-syntax
 date:
   type: published
@@ -82,5 +81,5 @@ series:
     format: text/plain
   number: REC-rdf-syntax
 place: Fremont, CA
-fetched: '2021-12-26'
+fetched: '2021-12-28'
 doctype: rfc

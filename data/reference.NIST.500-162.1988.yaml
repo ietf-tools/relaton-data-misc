@@ -8,10 +8,9 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: NIST.500-162.1988
+  id: NIST.500-162.1988
   type: IETF
-- id: NIST.500-162.1988
-  type: rfc-anchor
+  scope: anchor
 docnumber: 500-162.1988
 date:
   type: published
@@ -36,5 +35,5 @@ series:
     format: text/plain
   number: 500-162
 place: Fremont, CA
-fetched: '2021-12-26'
+fetched: '2021-12-28'
 doctype: rfc

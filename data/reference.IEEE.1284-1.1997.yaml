@@ -7,10 +7,9 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: IEEE.1284-1.1997
+  id: IEEE.1284-1.1997
   type: IETF
-- id: IEEE.1284-1.1997
-  type: rfc-anchor
+  scope: anchor
 docnumber: 1284-1.1997
 date:
   type: published
@@ -35,5 +34,5 @@ series:
     format: text/plain
   number: Standard 1284.1
 place: Fremont, CA
-fetched: '2021-12-26'
+fetched: '2021-12-28'
 doctype: ieee

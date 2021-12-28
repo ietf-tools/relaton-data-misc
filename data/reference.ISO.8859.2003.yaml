@@ -20,10 +20,9 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: ISO.8859.2003
+  id: ISO.8859.2003
   type: IETF
-- id: ISO.8859.2003
-  type: rfc-anchor
+  scope: anchor
 docnumber: '8859.2003'
 date:
   type: published
@@ -48,5 +47,5 @@ series:
     format: text/plain
   number: Standard 8859
 place: Fremont, CA
-fetched: '2021-12-26'
+fetched: '2021-12-28'
 doctype: rfc

@@ -8,10 +8,9 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: ISO.8824.1988
+  id: ISO.8824.1988
   type: IETF
-- id: ISO.8824.1988
-  type: rfc-anchor
+  scope: anchor
 docnumber: '8824.1988'
 date:
   type: published
@@ -36,5 +35,5 @@ series:
     format: text/plain
   number: Standard 8824
 place: Fremont, CA
-fetched: '2021-12-26'
+fetched: '2021-12-28'
 doctype: rfc

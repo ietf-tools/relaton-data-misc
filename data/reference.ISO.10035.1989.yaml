@@ -7,10 +7,9 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: ISO.10035.1989
+  id: ISO.10035.1989
   type: IETF
-- id: ISO.10035.1989
-  type: rfc-anchor
+  scope: anchor
 docnumber: '10035.1989'
 date:
   type: published
@@ -35,5 +34,5 @@ series:
     format: text/plain
   number: Draft Standard 10035
 place: Fremont, CA
-fetched: '2021-12-26'
+fetched: '2021-12-28'
 doctype: rfc
