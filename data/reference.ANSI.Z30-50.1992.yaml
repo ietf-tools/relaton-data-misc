@@ -1,5 +1,5 @@
 ---
-id: ANSI.Z30-50.1992
+id: ANSIZ30-50.1992
 title:
   content: 'Information Retrieval Service and Protocol: Information Retrieval Application
     Service Definition and Protocol Specification for Open Systems Interconnection'
@@ -8,7 +8,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ANSI.Z30-50.1992
+- id: ANSI Z30-50.1992
+  type: IETF
+- id: ANSI.Z30-50.1992
   type: IETF
   scope: anchor
 docnumber: Z30-50.1992
@@ -35,5 +37,5 @@ series:
     format: text/plain
   number: Z30.50
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

@@ -1,5 +1,5 @@
 ---
-id: ITU.X690.1994
+id: ITUX690.1994
 title:
   content: 'Information Technology - ASN.1 encoding rules: Specification of Basic
     Encoding Rules (BER), Canonical Encoding Rules (CER) and Distinguished Encoding
@@ -9,7 +9,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ITU.X690.1994
+- id: ITU X690.1994
+  type: IETF
+- id: ITU.X690.1994
   type: IETF
   scope: anchor
 docnumber: X690.1994
@@ -36,5 +38,5 @@ series:
     format: text/plain
   number: Recommendation X.690
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

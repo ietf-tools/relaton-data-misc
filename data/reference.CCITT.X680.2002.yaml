@@ -1,5 +1,5 @@
 ---
-id: CCITT.X680.2002
+id: CCITTX680.2002
 title:
   content: 'Abstract Syntax Notation One (ASN.1): Specification of basic notation'
   language: en
@@ -7,7 +7,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: CCITT.X680.2002
+- id: CCITT X680.2002
+  type: IETF
+- id: CCITT.X680.2002
   type: IETF
   scope: anchor
 docnumber: X680.2002
@@ -36,5 +38,5 @@ series:
     format: text/plain
   number: Recommendation X.680
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

@@ -1,5 +1,5 @@
 ---
-id: ANSI.T1-617.1991
+id: ANSIT1-617.1991
 title:
   content: Telecommunications - Integrated Services Digital Network (ISDN) - Digital
     Subscriber Signalling System Number 1 (DSS1) - Signalling Specification for Frame
@@ -9,7 +9,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ANSI.T1-617.1991
+- id: ANSI T1-617.1991
+  type: IETF
+- id: ANSI.T1-617.1991
   type: IETF
   scope: anchor
 docnumber: T1-617.1991
@@ -36,5 +38,5 @@ series:
     format: text/plain
   number: T1.617
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

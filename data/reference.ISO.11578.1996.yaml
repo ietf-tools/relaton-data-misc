@@ -1,5 +1,5 @@
 ---
-id: ISO.11578.1996
+id: ISO11578.1996
 title:
   content: Information technology - Open Systems Interconnection - Remote Procedure
     Call (RPC)
@@ -8,7 +8,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ISO.11578.1996
+- id: ISO 11578.1996
+  type: IETF
+- id: ISO.11578.1996
   type: IETF
   scope: anchor
 docnumber: '11578.1996'
@@ -35,5 +37,5 @@ series:
     format: text/plain
   number: Standard 11578
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

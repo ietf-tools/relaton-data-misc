@@ -1,5 +1,5 @@
 ---
-id: ITU.X744.1996
+id: ITUX744.1996
 title:
   content: 'Information Technology - Open Systems Interconnection - Systems Management:
     Software Management Function'
@@ -8,7 +8,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ITU.X744.1996
+- id: ITU X744.1996
+  type: IETF
+- id: ITU.X744.1996
   type: IETF
   scope: anchor
 docnumber: X744.1996
@@ -35,5 +37,5 @@ series:
     format: text/plain
   number: Recommendation X.744
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

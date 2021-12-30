@@ -1,5 +1,5 @@
 ---
-id: IEEE.802-11D.2001
+id: IEEE802-11D.2001
 title:
   content: 'Information technology - Telecommunications and information exchange between
     systems - Local and metropolitan area networks - Specific requirements - Part
@@ -13,7 +13,9 @@ link:
   type: src
 type: standard
 docid:
-  id: IEEE.802-11D.2001
+- id: IEEE 802-11D.2001
+  type: IETF
+- id: IEEE.802-11D.2001
   type: IETF
   scope: anchor
 docnumber: 802-11D.2001
@@ -36,5 +38,5 @@ series:
     format: text/plain
   number: Standard 802.11d
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: ieee

@@ -1,5 +1,5 @@
 ---
-id: ANSI.X125.1997
+id: ANSIX125.1997
 title:
   content: Interchange Control Structure for Electronic Data Interchange
   language: en
@@ -7,7 +7,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ANSI.X125.1997
+- id: ANSI X125.1997
+  type: IETF
+- id: ANSI.X125.1997
   type: IETF
   scope: anchor
 docnumber: X125.1997
@@ -34,5 +36,5 @@ series:
     format: text/plain
   number: X12.5
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

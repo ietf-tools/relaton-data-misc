@@ -1,5 +1,5 @@
 ---
-id: IEEE.802-11H.2003
+id: IEEE802-11H.2003
 title:
   content: 'Information technology - Telecommunications and information exchange between
     systems - Local and metropolitan area networks - Specific requirements - Part
@@ -14,7 +14,9 @@ link:
   type: src
 type: standard
 docid:
-  id: IEEE.802-11H.2003
+- id: IEEE 802-11H.2003
+  type: IETF
+- id: IEEE.802-11H.2003
   type: IETF
   scope: anchor
 docnumber: 802-11H.2003
@@ -37,5 +39,5 @@ series:
     format: text/plain
   number: Standard 802.11h
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: ieee

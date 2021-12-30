@@ -1,5 +1,5 @@
 ---
-id: FIPS.46-2.1993
+id: FIPS46-2.1993
 title:
   content: Data Encryption Standard
   language: en
@@ -10,7 +10,9 @@ link:
   type: src
 type: standard
 docid:
-  id: FIPS.46-2.1993
+- id: FIPS 46-2.1993
+  type: IETF
+- id: FIPS.46-2.1993
   type: IETF
   scope: anchor
 docnumber: 46-2.1993
@@ -37,5 +39,5 @@ series:
     format: text/plain
   number: PUB 46-2
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

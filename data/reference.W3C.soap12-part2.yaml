@@ -1,5 +1,5 @@
 ---
-id: W3C.soap12-part2
+id: W3Csoap12-part2
 title:
   content: 'SOAP Version 1.2 Part 2: Adjuncts'
   language: en
@@ -10,7 +10,9 @@ link:
   type: src
 type: standard
 docid:
-  id: W3C.soap12-part2
+- id: W3C soap12-part2
+  type: IETF
+- id: W3C.soap12-part2
   type: IETF
   scope: anchor
 docnumber: soap12-part2
@@ -124,5 +126,5 @@ series:
     format: text/plain
   number: soap12-part2
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

@@ -1,5 +1,5 @@
 ---
-id: IEEE.1003-1G.1997
+id: IEEE1003-1G.1997
 title:
   content: Protocol Independent Interfaces
   language: en
@@ -7,7 +7,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: IEEE.1003-1G.1997
+- id: IEEE 1003-1G.1997
+  type: IETF
+- id: IEEE.1003-1G.1997
   type: IETF
   scope: anchor
 docnumber: 1003-1G.1997
@@ -34,5 +36,5 @@ series:
     format: text/plain
   number: Standard 1003.1G
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: ieee

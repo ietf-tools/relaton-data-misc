@@ -1,5 +1,5 @@
 ---
-id: CCITT.X214.1984
+id: CCITTX214.1984
 title:
   content: Transport Service Definitions for Open Systems Interconnection (OSI) for
     CCITT Applications
@@ -8,7 +8,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: CCITT.X214.1984
+- id: CCITT X214.1984
+  type: IETF
+- id: CCITT.X214.1984
   type: IETF
   scope: anchor
 docnumber: X214.1984
@@ -35,5 +37,5 @@ series:
     format: text/plain
   number: Recommendation X.214
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

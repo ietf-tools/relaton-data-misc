@@ -1,5 +1,5 @@
 ---
-id: W3C.soap11
+id: W3Csoap11
 title:
   content: Simple Object Access Protocol (SOAP) 1.1
   language: en
@@ -10,7 +10,9 @@ link:
   type: src
 type: standard
 docid:
-  id: W3C.soap11
+- id: W3C soap11
+  type: IETF
+- id: W3C.soap11
   type: IETF
   scope: anchor
 docnumber: soap11
@@ -178,5 +180,5 @@ series:
     format: text/plain
   number: soap11
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

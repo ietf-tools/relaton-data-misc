@@ -1,5 +1,5 @@
 ---
-id: ISO.8825.1987
+id: ISO8825.1987
 title:
   content: Information Processing Systems - Open Systems Interconnection - Specification
     of Basic Encoding Rules for Abstract Syntax Notation One (ASN.1)
@@ -8,7 +8,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ISO.8825.1987
+- id: ISO 8825.1987
+  type: IETF
+- id: ISO.8825.1987
   type: IETF
   scope: anchor
 docnumber: '8825.1987'
@@ -35,5 +37,5 @@ series:
     format: text/plain
   number: Standard 8825
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

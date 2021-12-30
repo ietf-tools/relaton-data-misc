@@ -1,5 +1,5 @@
 ---
-id: ANSI.Z39-50.1992
+id: ANSIZ39-50.1992
 title:
   content: 'Information Retrieval: Application Service Definition and Protocol Specification'
   language: en
@@ -10,7 +10,9 @@ link:
   type: src
 type: standard
 docid:
-  id: ANSI.Z39-50.1992
+- id: ANSI Z39-50.1992
+  type: IETF
+- id: ANSI.Z39-50.1992
   type: IETF
   scope: anchor
 docnumber: Z39-50.1992
@@ -37,5 +39,5 @@ series:
     format: text/plain
   number: Z39.50
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

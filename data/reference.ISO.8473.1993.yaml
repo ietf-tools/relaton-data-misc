@@ -1,5 +1,5 @@
 ---
-id: ISO.8473.1993
+id: ISO8473.1993
 title:
   content: Protocol for providing the connectionless-mode network service, edition
     2
@@ -8,7 +8,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ISO.8473.1993
+- id: ISO 8473.1993
+  type: IETF
+- id: ISO.8473.1993
   type: IETF
   scope: anchor
 docnumber: '8473.1993'
@@ -35,5 +37,5 @@ series:
     format: text/plain
   number: Standard 8473
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

@@ -1,5 +1,5 @@
 ---
-id: ISO.8802-5.1992
+id: ISO8802-5.1992
 title:
   content: 'Information technology - Local and metropolitan area networks - Part 5:
     Token ring access method and physical layer specifications'
@@ -8,7 +8,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ISO.8802-5.1992
+- id: ISO 8802-5.1992
+  type: IETF
+- id: ISO.8802-5.1992
   type: IETF
   scope: anchor
 docnumber: 8802-5.1992
@@ -35,5 +37,5 @@ series:
     format: text/plain
   number: Standard 8802-5
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

@@ -1,5 +1,5 @@
 ---
-id: ITU.G707.1996
+id: ITUG707.1996
 title:
   content: Network node interface for the synchronous digital hierarchy (SDH)
   language: en
@@ -7,7 +7,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ITU.G707.1996
+- id: ITU G707.1996
+  type: IETF
+- id: ITU.G707.1996
   type: IETF
   scope: anchor
 docnumber: G707.1996
@@ -34,5 +36,5 @@ series:
     format: text/plain
   number: Recommendation G.707
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

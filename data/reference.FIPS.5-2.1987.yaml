@@ -1,5 +1,5 @@
 ---
-id: FIPS.5-2.1987
+id: FIPS5-2.1987
 title:
   content: Codes for the Identification of the States, The District of Columbia and
     Outlying Areas of the United States, and Associated Areas
@@ -8,7 +8,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: FIPS.5-2.1987
+- id: FIPS 5-2.1987
+  type: IETF
+- id: FIPS.5-2.1987
   type: IETF
   scope: anchor
 docnumber: 5-2.1987
@@ -35,5 +37,5 @@ series:
     format: text/plain
   number: PUB 5-2
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

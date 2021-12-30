@@ -1,5 +1,5 @@
 ---
-id: ISO.10589.1992
+id: ISO10589.1992
 title:
   content: Intermediate system to intermediate system intra-domain-routing routine
     information exchange protocol for use in conjunction with the protocol for providing
@@ -9,7 +9,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ISO.10589.1992
+- id: ISO 10589.1992
+  type: IETF
+- id: ISO.10589.1992
   type: IETF
   scope: anchor
 docnumber: '10589.1992'
@@ -36,5 +38,5 @@ series:
     format: text/plain
   number: Standard 10589
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

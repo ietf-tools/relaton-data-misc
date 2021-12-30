@@ -1,5 +1,5 @@
 ---
-id: W3C.daml+oil-reference
+id: W3Cdaml+oil-reference
 title:
   content: DAML+OIL (March 2001) Reference Description
   language: en
@@ -10,7 +10,9 @@ link:
   type: src
 type: standard
 docid:
-  id: W3C.daml+oil-reference
+- id: W3C daml+oil-reference
+  type: IETF
+- id: W3C.daml+oil-reference
   type: IETF
   scope: anchor
 docnumber: daml+oil-reference
@@ -109,5 +111,5 @@ series:
     format: text/plain
   number: daml+oil-reference
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

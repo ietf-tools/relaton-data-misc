@@ -1,5 +1,5 @@
 ---
-id: W3C.REC-RUBY
+id: W3CREC-RUBY
 title:
   content: Ruby Annotation
   language: en
@@ -10,7 +10,9 @@ link:
   type: src
 type: standard
 docid:
-  id: W3C.REC-RUBY
+- id: W3C REC-RUBY
+  type: IETF
+- id: W3C.REC-RUBY
   type: IETF
   scope: anchor
 docnumber: REC-RUBY
@@ -94,5 +96,5 @@ series:
     format: text/plain
   number: REC-RUBY
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

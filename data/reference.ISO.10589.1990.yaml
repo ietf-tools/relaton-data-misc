@@ -1,5 +1,5 @@
 ---
-id: ISO.10589.1990
+id: ISO10589.1990
 title:
   content: Information processing systems - Telecommunications and information exchange
     between systems - Intermediate system to Intermediate system Intra-Domain routeing
@@ -10,7 +10,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ISO.10589.1990
+- id: ISO 10589.1990
+  type: IETF
+- id: ISO.10589.1990
   type: IETF
   scope: anchor
 docnumber: '10589.1990'
@@ -37,5 +39,5 @@ series:
     format: text/plain
   number: Standard 10589
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

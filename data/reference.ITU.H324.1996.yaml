@@ -1,5 +1,5 @@
 ---
-id: ITU.H324.1996
+id: ITUH324.1996
 title:
   content: Terminal for low bit rate multimedia communication
   language: en
@@ -7,7 +7,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ITU.H324.1996
+- id: ITU H324.1996
+  type: IETF
+- id: ITU.H324.1996
   type: IETF
   scope: anchor
 docnumber: H324.1996
@@ -34,5 +36,5 @@ series:
     format: text/plain
   number: Recommendation H.324
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

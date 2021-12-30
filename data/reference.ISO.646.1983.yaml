@@ -1,5 +1,5 @@
 ---
-id: ISO.646.1983
+id: ISO646.1983
 title:
   content: Information Processing - ISO 7-bit coded character set for information
     interchange (Invariant Code Set)
@@ -8,7 +8,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ISO.646.1983
+- id: ISO 646.1983
+  type: IETF
+- id: ISO.646.1983
   type: IETF
   scope: anchor
 docnumber: '646.1983'
@@ -35,5 +37,5 @@ series:
     format: text/plain
   number: Standard 646
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

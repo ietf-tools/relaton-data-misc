@@ -1,5 +1,5 @@
 ---
-id: ISO.1000.1992
+id: ISO1000.1992
 title:
   content: SI units and recommendations for the use of their multiples and of certain
     other units
@@ -8,7 +8,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ISO.1000.1992
+- id: ISO 1000.1992
+  type: IETF
+- id: ISO.1000.1992
   type: IETF
   scope: anchor
 docnumber: '1000.1992'
@@ -35,5 +37,5 @@ series:
     format: text/plain
   number: Standard 1000
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

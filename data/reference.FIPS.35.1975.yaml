@@ -1,5 +1,5 @@
 ---
-id: FIPS.35.1975
+id: FIPS35.1975
 title:
   content: Code Extension Techniques in 7 or 8 Bits
   language: en
@@ -7,7 +7,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: FIPS.35.1975
+- id: FIPS 35.1975
+  type: IETF
+- id: FIPS.35.1975
   type: IETF
   scope: anchor
 docnumber: '35.1975'
@@ -34,5 +36,5 @@ series:
     format: text/plain
   number: PUB 35
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

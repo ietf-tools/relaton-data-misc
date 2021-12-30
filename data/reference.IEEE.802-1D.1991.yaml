@@ -1,5 +1,5 @@
 ---
-id: IEEE.802-1D.1991
+id: IEEE802-1D.1991
 title:
   content: MAC Bridges, IEEE Project 802 Local and Metropolitan Area Networks
   language: en
@@ -7,7 +7,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: IEEE.802-1D.1991
+- id: IEEE 802-1D.1991
+  type: IETF
+- id: IEEE.802-1D.1991
   type: IETF
   scope: anchor
 docnumber: 802-1D.1991
@@ -34,5 +36,5 @@ series:
     format: text/plain
   number: Standard 802.1D
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: ieee

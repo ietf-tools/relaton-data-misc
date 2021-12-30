@@ -1,5 +1,5 @@
 ---
-id: CCITT.G783.1992
+id: CCITTG783.1992
 title:
   content: Characteristics of Synchronous Digital Hierarchy (SDH) Multiplexing Equipment
     Functional Blocks
@@ -8,7 +8,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: CCITT.G783.1992
+- id: CCITT G783.1992
+  type: IETF
+- id: CCITT.G783.1992
   type: IETF
   scope: anchor
 docnumber: G783.1992
@@ -35,5 +37,5 @@ series:
     format: text/plain
   number: Recommendation G.783
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

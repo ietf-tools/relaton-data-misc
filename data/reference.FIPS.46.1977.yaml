@@ -1,5 +1,5 @@
 ---
-id: FIPS.46.1977
+id: FIPS46.1977
 title:
   content: Data Encryption Standard
   language: en
@@ -7,7 +7,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: FIPS.46.1977
+- id: FIPS 46.1977
+  type: IETF
+- id: FIPS.46.1977
   type: IETF
   scope: anchor
 docnumber: '46.1977'
@@ -34,5 +36,5 @@ series:
     format: text/plain
   number: PUB 46
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

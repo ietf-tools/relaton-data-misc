@@ -1,5 +1,5 @@
 ---
-id: ITU.V42.1994
+id: ITUV42.1994
 title:
   content: Error-correcting Procedures for DCEs Using Asynchronous-to-Synchronous
     Conversion
@@ -8,7 +8,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ITU.V42.1994
+- id: ITU V42.1994
+  type: IETF
+- id: ITU.V42.1994
   type: IETF
   scope: anchor
 docnumber: V42.1994
@@ -35,5 +37,5 @@ series:
     format: text/plain
   number: Recommendation V.42
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

@@ -1,5 +1,5 @@
 ---
-id: ISO.9595.1988
+id: ISO9595.1988
 title:
   content: 'Information Processing Systems - Open Systems Interconnection, Management
     Information Service Definition - Part 2: Common Management Information Service'
@@ -8,7 +8,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ISO.9595.1988
+- id: ISO 9595.1988
+  type: IETF
+- id: ISO.9595.1988
   type: IETF
   scope: anchor
 docnumber: '9595.1988'
@@ -35,5 +37,5 @@ series:
     format: text/plain
   number: Standard 9595
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

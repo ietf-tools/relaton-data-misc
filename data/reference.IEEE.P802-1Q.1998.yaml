@@ -1,5 +1,5 @@
 ---
-id: IEEE.P802-1Q.1998
+id: IEEEP802-1Q.1998
 title:
   content: 'Local and Metropolitan Area Networks: Virtual Bridged Local Area Networks'
   language: en
@@ -7,7 +7,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: IEEE.P802-1Q.1998
+- id: IEEE P802-1Q.1998
+  type: IETF
+- id: IEEE.P802-1Q.1998
   type: IETF
   scope: anchor
 docnumber: P802-1Q.1998
@@ -34,5 +36,5 @@ series:
     format: text/plain
   number: Draft P802.1Q
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: ieee

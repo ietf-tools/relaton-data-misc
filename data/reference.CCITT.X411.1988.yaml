@@ -1,5 +1,5 @@
 ---
-id: CCITT.X411.1988
+id: CCITTX411.1988
 title:
   content: 'Message Handling Systems: Message Transfer System: Abstract Service Definition
     and Procedures'
@@ -8,7 +8,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: CCITT.X411.1988
+- id: CCITT X411.1988
+  type: IETF
+- id: CCITT.X411.1988
   type: IETF
   scope: anchor
 docnumber: X411.1988
@@ -35,5 +37,5 @@ series:
     format: text/plain
   number: Recommendation X.411
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

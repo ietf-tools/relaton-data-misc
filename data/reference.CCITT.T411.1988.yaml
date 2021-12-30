@@ -1,5 +1,5 @@
 ---
-id: CCITT.T411.1988
+id: CCITTT411.1988
 title:
   content: Open Document Architecture (ODA) and Interchange Format, Introduction and
     General Principles
@@ -8,7 +8,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: CCITT.T411.1988
+- id: CCITT T411.1988
+  type: IETF
+- id: CCITT.T411.1988
   type: IETF
   scope: anchor
 docnumber: T411.1988
@@ -35,5 +37,5 @@ series:
     format: text/plain
   number: Recommendation T.411
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

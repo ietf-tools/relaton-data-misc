@@ -1,5 +1,5 @@
 ---
-id: CCITT.X25.1984
+id: CCITTX25.1984
 title:
   content: Interface Between Data Terminal Equipment (DTE) and Data Circuit Terminating
     Equipment (DCE) for Terminals Operating in the Packet Mode on Public Data Networks
@@ -8,7 +8,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: CCITT.X25.1984
+- id: CCITT X25.1984
+  type: IETF
+- id: CCITT.X25.1984
   type: IETF
   scope: anchor
 docnumber: X25.1984
@@ -35,5 +37,5 @@ series:
     format: text/plain
   number: Recommendation X.25
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

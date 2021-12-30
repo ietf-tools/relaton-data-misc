@@ -1,5 +1,5 @@
 ---
-id: ISO.2111.1973
+id: ISO2111.1973
 title:
   content: Data Communication - Basic mode control procedures - Code independent information
     transfer
@@ -8,7 +8,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ISO.2111.1973
+- id: ISO 2111.1973
+  type: IETF
+- id: ISO.2111.1973
   type: IETF
   scope: anchor
 docnumber: '2111.1973'
@@ -35,5 +37,5 @@ series:
     format: text/plain
   number: Standard 2111
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

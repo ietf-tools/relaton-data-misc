@@ -1,5 +1,5 @@
 ---
-id: ANSI.X3S3-3.1987
+id: ANSIX3S3-3.1987
 title:
   content: Intermediate System to Intermediate System Intra-Domain Routing Exchange
     Protocol
@@ -8,7 +8,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ANSI.X3S3-3.1987
+- id: ANSI X3S3-3.1987
+  type: IETF
+- id: ANSI.X3S3-3.1987
   type: IETF
   scope: anchor
 docnumber: X3S3-3.1987
@@ -35,5 +37,5 @@ series:
     format: text/plain
   number: X3S3.3
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

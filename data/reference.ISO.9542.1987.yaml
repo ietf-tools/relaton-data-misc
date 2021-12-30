@@ -1,5 +1,5 @@
 ---
-id: ISO.9542.1987
+id: ISO9542.1987
 title:
   content: End system to Intermediate system routing exchange protocol for use in
     conjunction with the Protocol for providing the connectionless-mode network service
@@ -8,7 +8,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ISO.9542.1987
+- id: ISO 9542.1987
+  type: IETF
+- id: ISO.9542.1987
   type: IETF
   scope: anchor
 docnumber: '9542.1987'
@@ -35,5 +37,5 @@ series:
     format: text/plain
   number: Standard 9542
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

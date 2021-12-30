@@ -1,5 +1,5 @@
 ---
-id: ITU.T43.1997
+id: ITUT43.1997
 title:
   content: Colour and gray-scale image representation using lossless coding scheme
     for facsimile
@@ -8,7 +8,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ITU.T43.1997
+- id: ITU T43.1997
+  type: IETF
+- id: ITU.T43.1997
   type: IETF
   scope: anchor
 docnumber: T43.1997
@@ -35,5 +37,5 @@ series:
     format: text/plain
   number: Recommendation T.43
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

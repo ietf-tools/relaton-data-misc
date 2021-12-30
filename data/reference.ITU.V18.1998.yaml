@@ -1,5 +1,5 @@
 ---
-id: ITU.V18.1998
+id: ITUV18.1998
 title:
   content: Operational and Interworking Requirements for DCEs Operating in Text Telephone
     Mode
@@ -8,7 +8,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ITU.V18.1998
+- id: ITU V18.1998
+  type: IETF
+- id: ITU.V18.1998
   type: IETF
   scope: anchor
 docnumber: V18.1998
@@ -35,5 +37,5 @@ series:
     format: text/plain
   number: Recommendation V.18
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

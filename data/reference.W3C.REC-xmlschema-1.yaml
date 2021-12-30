@@ -1,5 +1,5 @@
 ---
-id: W3C.REC-xmlschema-1
+id: W3CREC-xmlschema-1
 title:
   content: 'XML Schema Part 1: Structures'
   language: en
@@ -10,7 +10,9 @@ link:
   type: src
 type: standard
 docid:
-  id: W3C.REC-xmlschema-1
+- id: W3C REC-xmlschema-1
+  type: IETF
+- id: W3C.REC-xmlschema-1
   type: IETF
   scope: anchor
 docnumber: REC-xmlschema-1
@@ -94,5 +96,5 @@ series:
     format: text/plain
   number: REC-xmlschema-1
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

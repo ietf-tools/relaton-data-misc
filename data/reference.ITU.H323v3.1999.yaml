@@ -1,5 +1,5 @@
 ---
-id: ITU.H323v3.1999
+id: ITUH323v3.1999
 title:
   content: Packet-based Multimedia Communications Systems (includes Annex C - H.323
     on ATM)
@@ -8,7 +8,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ITU.H323v3.1999
+- id: ITU H323v3.1999
+  type: IETF
+- id: ITU.H323v3.1999
   type: IETF
   scope: anchor
 docnumber: H323v3.1999
@@ -35,5 +37,5 @@ series:
     format: text/plain
   number: Recommendation H.323v3
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

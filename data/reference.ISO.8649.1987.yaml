@@ -1,5 +1,5 @@
 ---
-id: ISO.8649.1987
+id: ISO8649.1987
 title:
   content: Information processing systems - Open Systems Interconnection - Service
     definition for the Association Control Service Element
@@ -8,7 +8,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ISO.8649.1987
+- id: ISO 8649.1987
+  type: IETF
+- id: ISO.8649.1987
   type: IETF
   scope: anchor
 docnumber: '8649.1987'
@@ -35,5 +37,5 @@ series:
     format: text/plain
   number: Standard 8649
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

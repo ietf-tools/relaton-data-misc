@@ -1,5 +1,5 @@
 ---
-id: ISO.10646-1-AD2.1996
+id: ISO10646-1-AD2.1996
 title:
   content: 'Information Technology - Universal Multiple-octet coded Character Set
     (UCS) - Amendment 2: UCS Transformation Format 8 (UTF-8)'
@@ -8,7 +8,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ISO.10646-1-AD2.1996
+- id: ISO 10646-1-AD2.1996
+  type: IETF
+- id: ISO.10646-1-AD2.1996
   type: IETF
   scope: anchor
 docnumber: 10646-1-AD2.1996
@@ -35,5 +37,5 @@ series:
     format: text/plain
   number: Standard 10646-1 Addendum 2
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

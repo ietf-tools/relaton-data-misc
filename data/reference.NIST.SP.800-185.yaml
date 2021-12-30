@@ -1,5 +1,5 @@
 ---
-id: NIST.SP.800-185
+id: NISTSP.800-185
 title:
   content: 'SHA-3 Derived Functions: cSHAKE, KMAC, TupleHash and ParallelHash'
   language: en
@@ -10,6 +10,8 @@ link:
   type: src
 type: standard
 docid:
+- id: NIST SP.800-185
+  type: IETF
 - id: NIST.SP.800-185
   type: IETF
   scope: anchor
@@ -81,5 +83,5 @@ series:
     format: text/plain
   number: SP 800-185
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

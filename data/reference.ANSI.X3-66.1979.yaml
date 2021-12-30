@@ -1,5 +1,5 @@
 ---
-id: ANSI.X3-66.1979
+id: ANSIX3-66.1979
 title:
   content: Advanced Data Communication Procedures (ADCCP)
   language: en
@@ -7,7 +7,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ANSI.X3-66.1979
+- id: ANSI X3-66.1979
+  type: IETF
+- id: ANSI.X3-66.1979
   type: IETF
   scope: anchor
 docnumber: X3-66.1979
@@ -34,5 +36,5 @@ series:
     format: text/plain
   number: X3.66
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

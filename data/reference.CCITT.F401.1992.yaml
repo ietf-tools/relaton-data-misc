@@ -1,5 +1,5 @@
 ---
-id: CCITT.F401.1992
+id: CCITTF401.1992
 title:
   content: Message Handling Services - Operations and Definitions of Service - Naming
     and Addressing for Public Message Handling Services, Annex B
@@ -11,7 +11,9 @@ link:
   type: src
 type: standard
 docid:
-  id: CCITT.F401.1992
+- id: CCITT F401.1992
+  type: IETF
+- id: CCITT.F401.1992
   type: IETF
   scope: anchor
 docnumber: F401.1992
@@ -38,5 +40,5 @@ series:
     format: text/plain
   number: Recommendation F.401
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

@@ -1,5 +1,5 @@
 ---
-id: ISO.8859.1992
+id: ISO8859.1992
 title:
   content: 'Information processing - 8-bit single-byte coded graphic character sets
     - Part 1: Latin alphabet No. 1 (1987) - Part 2: Latin alphabet No. 2 (1987) -
@@ -12,7 +12,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ISO.8859.1992
+- id: ISO 8859.1992
+  type: IETF
+- id: ISO.8859.1992
   type: IETF
   scope: anchor
 docnumber: '8859.1992'
@@ -39,5 +41,5 @@ series:
     format: text/plain
   number: Standard 8859
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

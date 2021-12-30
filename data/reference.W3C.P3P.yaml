@@ -1,5 +1,5 @@
 ---
-id: W3C.P3P
+id: W3CP3P
 title:
   content: The Platform for Privacy Preferences 1.0 (P3P1.0) Specification
   language: en
@@ -7,7 +7,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: W3C.P3P
+- id: W3C P3P
+  type: IETF
+- id: W3C.P3P
   type: IETF
   scope: anchor
 docnumber: P3P
@@ -113,5 +115,5 @@ series:
     format: text/plain
   number: REC-PICS-services
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

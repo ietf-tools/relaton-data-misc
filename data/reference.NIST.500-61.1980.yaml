@@ -1,5 +1,5 @@
 ---
-id: NIST.500-61.1980
+id: NIST500-61.1980
 title:
   content: Maintenance Testing for the Data Encryption Standard
   language: en
@@ -7,7 +7,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: NIST.500-61.1980
+- id: NIST 500-61.1980
+  type: IETF
+- id: NIST.500-61.1980
   type: IETF
   scope: anchor
 docnumber: 500-61.1980
@@ -34,5 +36,5 @@ series:
     format: text/plain
   number: 500-61
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

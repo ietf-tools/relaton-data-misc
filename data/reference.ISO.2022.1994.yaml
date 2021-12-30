@@ -1,5 +1,5 @@
 ---
-id: ISO.2022.1994
+id: ISO2022.1994
 title:
   content: Information technology - Character code structure and extension techniques
   language: en
@@ -7,7 +7,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ISO.2022.1994
+- id: ISO 2022.1994
+  type: IETF
+- id: ISO.2022.1994
   type: IETF
   scope: anchor
 docnumber: '2022.1994'
@@ -34,5 +36,5 @@ series:
     format: text/plain
   number: Standard 2022
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

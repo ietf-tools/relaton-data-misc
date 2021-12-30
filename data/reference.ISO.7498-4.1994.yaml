@@ -1,5 +1,5 @@
 ---
-id: ISO.7498-4.1994
+id: ISO7498-4.1994
 title:
   content: Open Systems Interconnection Basic Reference Model, ISO 7498-4, 1994
   language: en
@@ -7,7 +7,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ISO.7498-4.1994
+- id: ISO 7498-4.1994
+  type: IETF
+- id: ISO.7498-4.1994
   type: IETF
   scope: anchor
 docnumber: 7498-4.1994
@@ -34,5 +36,5 @@ series:
     format: text/plain
   number: Standard 7498-4
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

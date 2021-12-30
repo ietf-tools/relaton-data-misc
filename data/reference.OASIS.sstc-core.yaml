@@ -1,5 +1,5 @@
 ---
-id: OASIS.sstc-core
+id: OASISsstc-core
 title:
   content: Assertions and Protocol for the OASIS Security Assertion Markup Language
     (SAML)
@@ -11,7 +11,9 @@ link:
   type: src
 type: standard
 docid:
-  id: OASIS.sstc-core
+- id: OASIS sstc-core
+  type: IETF
+- id: OASIS.sstc-core
   type: IETF
   scope: anchor
 docnumber: sstc-core
@@ -71,5 +73,5 @@ series:
     format: text/plain
   number: sstc-core
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

@@ -1,5 +1,5 @@
 ---
-id: ISO.7498.1984
+id: ISO7498.1984
 title:
   content: Information Processing Systems - Open Systems Interconnection - Basic Reference
     Model
@@ -8,7 +8,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ISO.7498.1984
+- id: ISO 7498.1984
+  type: IETF
+- id: ISO.7498.1984
   type: IETF
   scope: anchor
 docnumber: '7498.1984'
@@ -35,5 +37,5 @@ series:
     format: text/plain
   number: Standard 7498
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

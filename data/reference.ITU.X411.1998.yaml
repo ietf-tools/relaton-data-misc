@@ -1,5 +1,5 @@
 ---
-id: ITU.X411.1998
+id: ITUX411.1998
 title:
   content: 'Information technology - Message Handling Systems (MHS): Message transfer
     system: Abstract service definition and procedures'
@@ -8,7 +8,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ITU.X411.1998
+- id: ITU X411.1998
+  type: IETF
+- id: ITU.X411.1998
   type: IETF
   scope: anchor
 docnumber: X411.1998
@@ -35,5 +37,5 @@ series:
     format: text/plain
   number: Recommendation X.411
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

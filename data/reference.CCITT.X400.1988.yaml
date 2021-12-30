@@ -1,5 +1,5 @@
 ---
-id: CCITT.X400.1988
+id: CCITTX400.1988
 title:
   content: 'Message Handling: System and Service Overview'
   language: en
@@ -7,7 +7,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: CCITT.X400.1988
+- id: CCITT X400.1988
+  type: IETF
+- id: CCITT.X400.1988
   type: IETF
   scope: anchor
 docnumber: X400.1988
@@ -41,5 +43,5 @@ series:
     format: text/plain
   number: Standard 10021-1
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

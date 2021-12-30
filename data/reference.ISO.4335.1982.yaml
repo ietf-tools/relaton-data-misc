@@ -1,5 +1,5 @@
 ---
-id: ISO.4335.1982
+id: ISO4335.1982
 title:
   content: Data Communication - High-level data link control procedures - Consolidation
     of elements of procedures
@@ -8,7 +8,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ISO.4335.1982
+- id: ISO 4335.1982
+  type: IETF
+- id: ISO.4335.1982
   type: IETF
   scope: anchor
 docnumber: '4335.1982'
@@ -35,5 +37,5 @@ series:
     format: text/plain
   number: Standard 4335
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

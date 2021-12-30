@@ -1,5 +1,5 @@
 ---
-id: ISO.8823.1988
+id: ISO8823.1988
 title:
   content: Information Processing Systems - Open Systems Interconnection - Connection
     Oriented Presentation Protocol Specification (Final Text of DIS 8822)
@@ -8,7 +8,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ISO.8823.1988
+- id: ISO 8823.1988
+  type: IETF
+- id: ISO.8823.1988
   type: IETF
   scope: anchor
 docnumber: '8823.1988'
@@ -35,5 +37,5 @@ series:
     format: text/plain
   number: Standard 8823
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

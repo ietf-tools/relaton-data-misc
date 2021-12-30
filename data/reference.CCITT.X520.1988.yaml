@@ -1,5 +1,5 @@
 ---
-id: CCITT.X520.1988
+id: CCITTX520.1988
 title:
   content: 'Information Technology - Open Systems Interconnection - The Directory:
     Selected Attribute Types'
@@ -8,7 +8,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: CCITT.X520.1988
+- id: CCITT X520.1988
+  type: IETF
+- id: CCITT.X520.1988
   type: IETF
   scope: anchor
 docnumber: X520.1988
@@ -37,5 +39,5 @@ series:
     format: text/plain
   number: Recommendation X.520
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

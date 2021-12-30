@@ -1,5 +1,5 @@
 ---
-id: ITU.I361.1993
+id: ITUI361.1993
 title:
   content: B-ISDN ATM Layer Specification
   language: en
@@ -7,7 +7,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ITU.I361.1993
+- id: ITU I361.1993
+  type: IETF
+- id: ITU.I361.1993
   type: IETF
   scope: anchor
 docnumber: I361.1993
@@ -30,5 +32,5 @@ series:
     format: text/plain
   number: Recommendation I.361
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

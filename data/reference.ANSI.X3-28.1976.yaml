@@ -1,5 +1,5 @@
 ---
-id: ANSI.X3-28.1976
+id: ANSIX3-28.1976
 title:
   content: Procedures for the Use of the Communication Control Characters of American
     National Standard Code for Information Interchange in Specified Data Communication
@@ -9,7 +9,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ANSI.X3-28.1976
+- id: ANSI X3-28.1976
+  type: IETF
+- id: ANSI.X3-28.1976
   type: IETF
   scope: anchor
 docnumber: X3-28.1976
@@ -36,5 +38,5 @@ series:
     format: text/plain
   number: X3.28
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

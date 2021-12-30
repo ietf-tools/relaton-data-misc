@@ -1,5 +1,5 @@
 ---
-id: ISO.10160.1997
+id: ISO10160.1997
 title:
   content: Information and Documentation - Open Systems Interconnection - Interlibrary
     Loan Application Service Definition
@@ -8,7 +8,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ISO.10160.1997
+- id: ISO 10160.1997
+  type: IETF
+- id: ISO.10160.1997
   type: IETF
   scope: anchor
 docnumber: '10160.1997'
@@ -35,5 +37,5 @@ series:
     format: text/plain
   number: Standard 10160
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

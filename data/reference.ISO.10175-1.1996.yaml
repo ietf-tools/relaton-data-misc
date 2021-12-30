@@ -1,5 +1,5 @@
 ---
-id: ISO.10175-1.1996
+id: ISO10175-1.1996
 title:
   content: 'Information technology - Text and office systems - Document Printing Application
     (DPA) - Part 1: Abstract service definition and procedures'
@@ -8,7 +8,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ISO.10175-1.1996
+- id: ISO 10175-1.1996
+  type: IETF
+- id: ISO.10175-1.1996
   type: IETF
   scope: anchor
 docnumber: 10175-1.1996
@@ -35,5 +37,5 @@ series:
     format: text/plain
   number: Standard 10175-1
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

@@ -1,5 +1,5 @@
 ---
-id: CCITT.G726.1990
+id: CCITTG726.1990
 title:
   content: General Aspects of Digital Transmission Systems, Terminal Equipment - 40,
     32, 24,16 kbit/s Adaptive Differential Pulse Code Modulation (ADPCM)
@@ -8,7 +8,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: CCITT.G726.1990
+- id: CCITT G726.1990
+  type: IETF
+- id: CCITT.G726.1990
   type: IETF
   scope: anchor
 docnumber: G726.1990
@@ -35,5 +37,5 @@ series:
     format: text/plain
   number: Recommendation G.726
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

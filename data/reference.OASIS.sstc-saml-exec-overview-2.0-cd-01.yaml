@@ -1,5 +1,5 @@
 ---
-id: OASIS.sstc-saml-exec-overview-2.0-cd-01
+id: OASISsstc-saml-exec-overview-2.0-cd-01
 title:
   content: SAML V2.0 Executive Overview
   language: en
@@ -7,7 +7,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: OASIS.sstc-saml-exec-overview-2.0-cd-01
+- id: OASIS sstc-saml-exec-overview-2.0-cd-01
+  type: IETF
+- id: OASIS.sstc-saml-exec-overview-2.0-cd-01
   type: IETF
   scope: anchor
 docnumber: sstc-saml-exec-overview-2.0-cd-01
@@ -67,5 +69,5 @@ series:
     format: text/plain
   number: sstc-saml-exec-overview-2.0-cd-01
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

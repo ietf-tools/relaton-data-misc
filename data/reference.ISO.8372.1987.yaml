@@ -1,5 +1,5 @@
 ---
-id: ISO.8372.1987
+id: ISO8372.1987
 title:
   content: 'Information Processing Systems: Data Encipherment: Modes of Operation
     of a 64-bit Block Cipher'
@@ -8,7 +8,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ISO.8372.1987
+- id: ISO 8372.1987
+  type: IETF
+- id: ISO.8372.1987
   type: IETF
   scope: anchor
 docnumber: '8372.1987'
@@ -35,5 +37,5 @@ series:
     format: text/plain
   number: Standard 8372
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

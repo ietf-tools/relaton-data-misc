@@ -1,5 +1,5 @@
 ---
-id: FIPS.81.1980
+id: FIPS81.1980
 title:
   content: DES Modes of Operation
   language: en
@@ -10,7 +10,9 @@ link:
   type: src
 type: standard
 docid:
-  id: FIPS.81.1980
+- id: FIPS 81.1980
+  type: IETF
+- id: FIPS.81.1980
   type: IETF
   scope: anchor
 docnumber: '81.1980'
@@ -37,5 +39,5 @@ series:
     format: text/plain
   number: PUB 81
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

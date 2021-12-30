@@ -1,5 +1,5 @@
 ---
-id: PKCS.3.1993
+id: PKCS3.1993
 title:
   content: Diffie-Hellman Key-Agreement Standard, Version 1.4
   language: en
@@ -7,7 +7,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: PKCS.3.1993
+- id: PKCS 3.1993
+  type: IETF
+- id: PKCS.3.1993
   type: IETF
   scope: anchor
 docnumber: '3.1993'
@@ -34,5 +36,5 @@ series:
     format: text/plain
   number: '3'
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

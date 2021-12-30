@@ -1,5 +1,5 @@
 ---
-id: ISO.10038.1993
+id: ISO10038.1993
 title:
   content: Information technology - Telecommunications and information exchange between
     systems - Local area networks - Media access control (MAC) bridges
@@ -8,7 +8,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ISO.10038.1993
+- id: ISO 10038.1993
+  type: IETF
+- id: ISO.10038.1993
   type: IETF
   scope: anchor
 docnumber: '10038.1993'
@@ -35,5 +37,5 @@ series:
     format: text/plain
   number: Standard 10038
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

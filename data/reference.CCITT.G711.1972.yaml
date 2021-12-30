@@ -1,5 +1,5 @@
 ---
-id: CCITT.G711.1972
+id: CCITTG711.1972
 title:
   content: Pulse Code Modulation (PCM) of Voice Frequencies
   language: en
@@ -7,7 +7,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: CCITT.G711.1972
+- id: CCITT G711.1972
+  type: IETF
+- id: CCITT.G711.1972
   type: IETF
   scope: anchor
 docnumber: G711.1972
@@ -34,5 +36,5 @@ series:
     format: text/plain
   number: Recommendation G.711
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

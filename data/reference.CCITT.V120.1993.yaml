@@ -1,5 +1,5 @@
 ---
-id: CCITT.V120.1993
+id: CCITTV120.1993
 title:
   content: Support by an ISDN of Data Terminal Equipment with V-Series Type Interfaces
     with Provision for Statistical Multiplexing
@@ -8,7 +8,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: CCITT.V120.1993
+- id: CCITT V120.1993
+  type: IETF
+- id: CCITT.V120.1993
   type: IETF
   scope: anchor
 docnumber: V120.1993
@@ -35,5 +37,5 @@ series:
     format: text/plain
   number: Recommendation V.120
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

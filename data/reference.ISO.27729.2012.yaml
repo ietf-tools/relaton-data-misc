@@ -1,5 +1,5 @@
 ---
-id: ISO.27729.2012
+id: ISO27729.2012
 title:
   content: "\n      Information and documentation - International standard name identifier
     (ISNI)\n    "
@@ -8,7 +8,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ISO.27729.2012
+- id: ISO 27729.2012
+  type: IETF
+- id: ISO.27729.2012
   type: IETF
   scope: anchor
 docnumber: '27729.2012'
@@ -37,5 +39,5 @@ series:
     format: text/plain
   number: Draft Standard 27729
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

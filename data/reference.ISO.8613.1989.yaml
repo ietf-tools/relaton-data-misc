@@ -1,5 +1,5 @@
 ---
-id: ISO.8613.1989
+id: ISO8613.1989
 title:
   content: 'Information Processing: Text and Office System; Office Document Architecture
     (ODA) and Interchange Format (ODIF), Part 1-8'
@@ -8,7 +8,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ISO.8613.1989
+- id: ISO 8613.1989
+  type: IETF
+- id: ISO.8613.1989
   type: IETF
   scope: anchor
 docnumber: '8613.1989'
@@ -35,5 +37,5 @@ series:
     format: text/plain
   number: Standard 8613
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

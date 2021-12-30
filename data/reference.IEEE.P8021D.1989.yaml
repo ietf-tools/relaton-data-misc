@@ -1,5 +1,5 @@
 ---
-id: IEEE.P8021D.1989
+id: IEEEP8021D.1989
 title:
   content: 802 Local and Metropolitan Area Networks, MAC Bridges
   language: en
@@ -7,7 +7,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: IEEE.P8021D.1989
+- id: IEEE P8021D.1989
+  type: IETF
+- id: IEEE.P8021D.1989
   type: IETF
   scope: anchor
 docnumber: P8021D.1989
@@ -34,5 +36,5 @@ series:
     format: text/plain
   number: Draft P802.1D
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: ieee

@@ -1,5 +1,5 @@
 ---
-id: ISO.8885.1993
+id: ISO8885.1993
 title:
   content: Information technology - Telecommunications and information exchange between
     systems - High-level data link control (HDLC) procedures - General purpose XID
@@ -9,7 +9,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ISO.8885.1993
+- id: ISO 8885.1993
+  type: IETF
+- id: ISO.8885.1993
   type: IETF
   scope: anchor
 docnumber: '8885.1993'
@@ -36,5 +38,5 @@ series:
     format: text/plain
   number: Standard 8885
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

@@ -1,5 +1,5 @@
 ---
-id: NIST.500-163.1989
+id: NIST500-163.1989
 title:
   content: Government Open Systems Interconnection Profile Users' Guide
   language: en
@@ -7,7 +7,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: NIST.500-163.1989
+- id: NIST 500-163.1989
+  type: IETF
+- id: NIST.500-163.1989
   type: IETF
   scope: anchor
 docnumber: 500-163.1989
@@ -34,5 +36,5 @@ series:
     format: text/plain
   number: 500-163
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

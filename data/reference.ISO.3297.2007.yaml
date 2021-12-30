@@ -1,5 +1,5 @@
 ---
-id: ISO.3297.2007
+id: ISO3297.2007
 title:
   content: "\n      Information and documentation - International standard serial
     number (ISSN)\n    "
@@ -8,7 +8,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ISO.3297.2007
+- id: ISO 3297.2007
+  type: IETF
+- id: ISO.3297.2007
   type: IETF
   scope: anchor
 docnumber: '3297.2007'
@@ -37,5 +39,5 @@ series:
     format: text/plain
   number: Standard 3297
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

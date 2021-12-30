@@ -1,5 +1,5 @@
 ---
-id: ITU.Q2931.1994
+id: ITUQ2931.1994
 title:
   content: Broadband Integrated Service Digital Network (B-ISDN) Digital Subscriber
     Signaling System No.2 (DSS2) User Network Interface Layer 3 Specification for
@@ -9,7 +9,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ITU.Q2931.1994
+- id: ITU Q2931.1994
+  type: IETF
+- id: ITU.Q2931.1994
   type: IETF
   scope: anchor
 docnumber: Q2931.1994
@@ -36,5 +38,5 @@ series:
     format: text/plain
   number: Recommendation Q.2931
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

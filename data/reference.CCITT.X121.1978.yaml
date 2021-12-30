@@ -1,5 +1,5 @@
 ---
-id: CCITT.X121.1978
+id: CCITTX121.1978
 title:
   content: International Numbering Plan for Public Data Networks
   language: en
@@ -7,7 +7,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: CCITT.X121.1978
+- id: CCITT X121.1978
+  type: IETF
+- id: CCITT.X121.1978
   type: IETF
   scope: anchor
 docnumber: X121.1978
@@ -34,5 +36,5 @@ series:
     format: text/plain
   number: Recommendation X.121
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

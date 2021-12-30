@@ -1,5 +1,5 @@
 ---
-id: ISO.11572-2.1997
+id: ISO11572-2.1997
 title:
   content: Information technology - Telecommunications and information exchange between
     systems - Private Integrated Services Network - Circuit mode bearer services -
@@ -9,7 +9,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ISO.11572-2.1997
+- id: ISO 11572-2.1997
+  type: IETF
+- id: ISO.11572-2.1997
   type: IETF
   scope: anchor
 docnumber: 11572-2.1997
@@ -36,5 +38,5 @@ series:
     format: text/plain
   number: Standard 9594-1
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

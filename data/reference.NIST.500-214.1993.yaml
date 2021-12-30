@@ -1,5 +1,5 @@
 ---
-id: NIST.500-214.1993
+id: NIST500-214.1993
 title:
   content: Stable Implementation Agreements for Open Systems Interconnection Protocols,
     Version 7, Edition 1
@@ -8,7 +8,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: NIST.500-214.1993
+- id: NIST 500-214.1993
+  type: IETF
+- id: NIST.500-214.1993
   type: IETF
   scope: anchor
 docnumber: 500-214.1993
@@ -35,5 +37,5 @@ series:
     format: text/plain
   number: 500-214
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

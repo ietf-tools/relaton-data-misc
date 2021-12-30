@@ -1,5 +1,5 @@
 ---
-id: W3C.CR-rdf-schema
+id: W3CCR-rdf-schema
 title:
   content: Resource Description Framework (RDF) Schema Specification 1.0
   language: en
@@ -10,7 +10,9 @@ link:
   type: src
 type: standard
 docid:
-  id: W3C.CR-rdf-schema
+- id: W3C CR-rdf-schema
+  type: IETF
+- id: W3C.CR-rdf-schema
   type: IETF
   scope: anchor
 docnumber: CR-rdf-schema
@@ -64,5 +66,5 @@ series:
     format: text/plain
   number: CR-rdf-schema
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

@@ -1,5 +1,5 @@
 ---
-id: IEEE.802-1G.1992
+id: IEEE802-1G.1992
 title:
   content: Remote MAC Bridging
   language: en
@@ -7,7 +7,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: IEEE.802-1G.1992
+- id: IEEE 802-1G.1992
+  type: IETF
+- id: IEEE.802-1G.1992
   type: IETF
   scope: anchor
 docnumber: 802-1G.1992
@@ -34,5 +36,5 @@ series:
     format: text/plain
   number: Draft Standard 802.1G
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: ieee

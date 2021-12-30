@@ -1,5 +1,5 @@
 ---
-id: CCITT.Q922.1991
+id: CCITTQ922.1991
 title:
   content: ISDN Data Link Layer Specification for Frame Mode Bearer Services
   language: en
@@ -7,7 +7,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: CCITT.Q922.1991
+- id: CCITT Q922.1991
+  type: IETF
+- id: CCITT.Q922.1991
   type: IETF
   scope: anchor
 docnumber: Q922.1991
@@ -34,5 +36,5 @@ series:
     format: text/plain
   number: Recommendation Q.922
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

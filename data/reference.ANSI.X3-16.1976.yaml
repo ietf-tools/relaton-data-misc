@@ -1,5 +1,5 @@
 ---
-id: ANSI.X3-16.1976
+id: ANSIX3-16.1976
 title:
   content: Character Structure and Character Parity Sense for Serial-by-Bit Data Communication
     in the American National Standard Code for Information Interchange
@@ -8,7 +8,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ANSI.X3-16.1976
+- id: ANSI X3-16.1976
+  type: IETF
+- id: ANSI.X3-16.1976
   type: IETF
   scope: anchor
 docnumber: X3-16.1976
@@ -35,5 +37,5 @@ series:
     format: text/plain
   number: X3.16
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

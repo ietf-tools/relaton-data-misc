@@ -1,5 +1,5 @@
 ---
-id: ISO.9735.1991
+id: ISO9735.1991
 title:
   content: United Nations Economic Commission (UN/EC) Electronic Data Interchange
     For Administration, Commerce and Transport (EDIFACT) - Application Level Syntax
@@ -9,7 +9,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ISO.9735.1991
+- id: ISO 9735.1991
+  type: IETF
+- id: ISO.9735.1991
   type: IETF
   scope: anchor
 docnumber: '9735.1991'
@@ -36,5 +38,5 @@ series:
     format: text/plain
   number: Standard 9735
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

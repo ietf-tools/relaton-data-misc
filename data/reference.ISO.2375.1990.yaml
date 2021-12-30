@@ -1,5 +1,5 @@
 ---
-id: ISO.2375.1990
+id: ISO2375.1990
 title:
   content: International Register of Coded Character Sets to be Used With Escape Sequences
   language: en
@@ -7,7 +7,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ISO.2375.1990
+- id: ISO 2375.1990
+  type: IETF
+- id: ISO.2375.1990
   type: IETF
   scope: anchor
 docnumber: '2375.1990'
@@ -34,5 +36,5 @@ series:
     format: text/plain
   number: Standard 2375
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

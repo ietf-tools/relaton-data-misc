@@ -1,5 +1,5 @@
 ---
-id: ISO.8208.1990
+id: ISO8208.1990
 title:
   content: Information technology - Data communication - X.25 Packet layer Protocol
     for Data Terminal Equipment
@@ -8,7 +8,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ISO.8208.1990
+- id: ISO 8208.1990
+  type: IETF
+- id: ISO.8208.1990
   type: IETF
   scope: anchor
 docnumber: '8208.1990'
@@ -35,5 +37,5 @@ series:
     format: text/plain
   number: Standard 8208
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

@@ -1,5 +1,5 @@
 ---
-id: OASIS.saml-bindings-2.0-os
+id: OASISsaml-bindings-2.0-os
 title:
   content: |-
     Bindings for the OASIS Security Assertion Markup Language
@@ -9,7 +9,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: OASIS.saml-bindings-2.0-os
+- id: OASIS saml-bindings-2.0-os
+  type: IETF
+- id: OASIS.saml-bindings-2.0-os
   type: IETF
   scope: anchor
 docnumber: saml-bindings-2.0-os
@@ -123,5 +125,5 @@ series:
     format: text/plain
   number: saml-bindings-2.0-os
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

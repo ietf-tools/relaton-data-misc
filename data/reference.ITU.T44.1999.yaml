@@ -1,5 +1,5 @@
 ---
-id: ITU.T44.1999
+id: ITUT44.1999
 title:
   content: Mixed Raster Content (MRC)
   language: en
@@ -7,7 +7,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ITU.T44.1999
+- id: ITU T44.1999
+  type: IETF
+- id: ITU.T44.1999
   type: IETF
   scope: anchor
 docnumber: T44.1999
@@ -34,5 +36,5 @@ series:
     format: text/plain
   number: Recommendation T.44
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

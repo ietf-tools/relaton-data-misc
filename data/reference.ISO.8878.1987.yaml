@@ -1,5 +1,5 @@
 ---
-id: ISO.8878.1987
+id: ISO8878.1987
 title:
   content: Information processing systems - Data communications - Use of X.25 to provide
     the OSI connection-mode network service
@@ -8,7 +8,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ISO.8878.1987
+- id: ISO 8878.1987
+  type: IETF
+- id: ISO.8878.1987
   type: IETF
   scope: anchor
 docnumber: '8878.1987'
@@ -35,5 +37,5 @@ series:
     format: text/plain
   number: Draft Standard 8878
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

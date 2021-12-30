@@ -1,5 +1,5 @@
 ---
-id: NIST.500-20.1977
+id: NIST500-20.1977
 title:
   content: Validating the Correctness of Hardware Implementations of the NBS Data
     Encryption Standard
@@ -8,7 +8,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: NIST.500-20.1977
+- id: NIST 500-20.1977
+  type: IETF
+- id: NIST.500-20.1977
   type: IETF
   scope: anchor
 docnumber: 500-20.1977
@@ -35,5 +37,5 @@ series:
     format: text/plain
   number: 500-20
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

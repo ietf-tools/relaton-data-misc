@@ -1,5 +1,5 @@
 ---
-id: IANA.application.samlassertion-xml
+id: IANAapplication.samlassertion-xml
 title:
   content: "\n            application/samlassertion+xml MIME Media Type Registration\n
     \       "
@@ -8,7 +8,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: IANA.application.samlassertion-xml
+- id: IANA application.samlassertion-xml
+  type: IETF
+- id: IANA.application.samlassertion-xml
   type: IETF
   scope: anchor
 docnumber: application.samlassertion-xml
@@ -47,5 +49,5 @@ series:
     format: text/plain
   number: application/samlassertion+xml
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

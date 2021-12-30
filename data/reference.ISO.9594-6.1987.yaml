@@ -1,5 +1,5 @@
 ---
-id: ISO.9594-6.1987
+id: ISO9594-6.1987
 title:
   content: 'The Directory: Selected Attribute Types'
   language: en
@@ -7,7 +7,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ISO.9594-6.1987
+- id: ISO 9594-6.1987
+  type: IETF
+- id: ISO.9594-6.1987
   type: IETF
   scope: anchor
 docnumber: 9594-6.1987
@@ -34,5 +36,5 @@ series:
     format: text/plain
   number: Standard 9594-6
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

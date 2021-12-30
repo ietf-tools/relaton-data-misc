@@ -1,5 +1,5 @@
 ---
-id: ANSI.T1-413.1995
+id: ANSIT1-413.1995
 title:
   content: Telecommunications - Network and Customer Installation Interfaces - Asymmetric
     Digital Subscriber Line (ASDL) Metallic Interface
@@ -8,7 +8,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ANSI.T1-413.1995
+- id: ANSI T1-413.1995
+  type: IETF
+- id: ANSI.T1-413.1995
   type: IETF
   scope: anchor
 docnumber: T1-413.1995
@@ -35,5 +37,5 @@ series:
     format: text/plain
   number: T1.413
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

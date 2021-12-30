@@ -1,5 +1,5 @@
 ---
-id: ISO.9594-8.1993
+id: ISO9594-8.1993
 title:
   content: 'Information Technology - Open Systems Interconnection - The Directory:
     Authentication Framework'
@@ -8,7 +8,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ISO.9594-8.1993
+- id: ISO 9594-8.1993
+  type: IETF
+- id: ISO.9594-8.1993
   type: IETF
   scope: anchor
 docnumber: 9594-8.1993
@@ -35,5 +37,5 @@ series:
     format: text/plain
   number: Standard 9594-8
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

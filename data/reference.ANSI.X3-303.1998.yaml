@@ -1,5 +1,5 @@
 ---
-id: ANSI.X3-303.1998
+id: ANSIX3-303.1998
 title:
   content: Fibre Channel Physical and Signalling Interface-3 (FC-PH-3)
   language: en
@@ -7,7 +7,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ANSI.X3-303.1998
+- id: ANSI X3-303.1998
+  type: IETF
+- id: ANSI.X3-303.1998
   type: IETF
   scope: anchor
 docnumber: X3-303.1998
@@ -34,5 +36,5 @@ series:
     format: text/plain
   number: X3.303
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

@@ -1,5 +1,5 @@
 ---
-id: FIPS.55-2.1987
+id: FIPS55-2.1987
 title:
   content: 'Guideline: Codes for Named Populated Places, Primary County Divisions,
     and other Locational Entities of the United States and Outlying Areas'
@@ -8,7 +8,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: FIPS.55-2.1987
+- id: FIPS 55-2.1987
+  type: IETF
+- id: FIPS.55-2.1987
   type: IETF
   scope: anchor
 docnumber: 55-2.1987
@@ -35,5 +37,5 @@ series:
     format: text/plain
   number: PUB 55-2
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

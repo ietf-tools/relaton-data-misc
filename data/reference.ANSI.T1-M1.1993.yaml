@@ -1,5 +1,5 @@
 ---
-id: ANSI.T1-M1.1993
+id: ANSIT1-M1.1993
 title:
   content: Telecommunications - Layer 1 In-Service Digital Transmission Performance
     Monitoring
@@ -8,7 +8,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ANSI.T1-M1.1993
+- id: ANSI T1-M1.1993
+  type: IETF
+- id: ANSI.T1-M1.1993
   type: IETF
   scope: anchor
 docnumber: T1-M1.1993
@@ -35,5 +37,5 @@ series:
     format: text/plain
   number: T1M1.3
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

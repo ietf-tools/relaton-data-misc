@@ -1,5 +1,5 @@
 ---
-id: ITU.X509.2000
+id: ITUX509.2000
 title:
   content: |-
     Information technology - Open Systems Interconnection - The Directory:
@@ -9,7 +9,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ITU.X509.2000
+- id: ITU X509.2000
+  type: IETF
+- id: ITU.X509.2000
   type: IETF
   scope: anchor
 docnumber: X509.2000
@@ -43,5 +45,5 @@ series:
     format: text/plain
   number: Standard 9594-8
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

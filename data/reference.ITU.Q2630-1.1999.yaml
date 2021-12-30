@@ -1,5 +1,5 @@
 ---
-id: ITU.Q2630-1.1999
+id: ITUQ2630-1.1999
 title:
   content: AAL type 2 Signalling Protocol (Capability Set 1)
   language: en
@@ -7,7 +7,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ITU.Q2630-1.1999
+- id: ITU Q2630-1.1999
+  type: IETF
+- id: ITU.Q2630-1.1999
   type: IETF
   scope: anchor
 docnumber: Q2630-1.1999
@@ -34,5 +36,5 @@ series:
     format: text/plain
   number: Recommendation Q.2630.1
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

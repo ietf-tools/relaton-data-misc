@@ -1,5 +1,5 @@
 ---
-id: FIPS.146.1990
+id: FIPS146.1990
 title:
   content: Government Open Systems Interconnection Profile (GOSIP) Version 2
   language: en
@@ -7,7 +7,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: FIPS.146.1990
+- id: FIPS 146.1990
+  type: IETF
+- id: FIPS.146.1990
   type: IETF
   scope: anchor
 docnumber: '146.1990'
@@ -34,5 +36,5 @@ series:
     format: text/plain
   number: PUB 146
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

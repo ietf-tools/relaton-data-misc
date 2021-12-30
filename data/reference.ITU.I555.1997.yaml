@@ -1,5 +1,5 @@
 ---
-id: ITU.I555.1997
+id: ITUI555.1997
 title:
   content: Frame Relaying Bearer Service Internetworking
   language: en
@@ -7,7 +7,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ITU.I555.1997
+- id: ITU I555.1997
+  type: IETF
+- id: ITU.I555.1997
   type: IETF
   scope: anchor
 docnumber: I555.1997
@@ -34,5 +36,5 @@ series:
     format: text/plain
   number: Recommendation I.555
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

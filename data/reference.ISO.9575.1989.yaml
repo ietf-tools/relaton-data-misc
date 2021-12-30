@@ -1,5 +1,5 @@
 ---
-id: ISO.9575.1989
+id: ISO9575.1989
 title:
   content: Information Technology - Telecommunications and Information Exchange Between
     Systems - OSI Routeing Framework
@@ -8,7 +8,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ISO.9575.1989
+- id: ISO 9575.1989
+  type: IETF
+- id: ISO.9575.1989
   type: IETF
   scope: anchor
 docnumber: '9575.1989'
@@ -35,5 +37,5 @@ series:
     format: text/plain
   number: Technical Report 9575
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

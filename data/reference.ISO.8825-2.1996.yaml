@@ -1,5 +1,5 @@
 ---
-id: ISO.8825-2.1996
+id: ISO8825-2.1996
 title:
   content: ": Information technology - ASN.1 encoding rules: Specification of Packed
     Encoding Rules (PER)"
@@ -8,7 +8,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ISO.8825-2.1996
+- id: ISO 8825-2.1996
+  type: IETF
+- id: ISO.8825-2.1996
   type: IETF
   scope: anchor
 docnumber: 8825-2.1996
@@ -35,5 +37,5 @@ series:
     format: text/plain
   number: Standard 8825
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

@@ -1,5 +1,5 @@
 ---
-id: ANSI.X9-55.1995
+id: ANSIX9-55.1995
 title:
   content: 'Public Key Cryptography For The Financial Services Industry: Extensions
     To Public Key Certificates And Certificate Revocation Lists'
@@ -8,7 +8,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ANSI.X9-55.1995
+- id: ANSI X9-55.1995
+  type: IETF
+- id: ANSI.X9-55.1995
   type: IETF
   scope: anchor
 docnumber: X9-55.1995
@@ -35,5 +37,5 @@ series:
     format: text/plain
   number: X9.55
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

@@ -1,5 +1,5 @@
 ---
-id: CCITT.T4.1980
+id: CCITTT4.1980
 title:
   content: Standardization of Group 3 Facsimile Apparatus for Document Transmission
   language: en
@@ -7,7 +7,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: CCITT.T4.1980
+- id: CCITT T4.1980
+  type: IETF
+- id: CCITT.T4.1980
   type: IETF
   scope: anchor
 docnumber: T4.1980
@@ -34,5 +36,5 @@ series:
     format: text/plain
   number: Recommendation T.4
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

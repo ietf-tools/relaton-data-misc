@@ -1,5 +1,5 @@
 ---
-id: ANSI.X3T9.1990
+id: ANSIX3T9.1990
 title:
   content: FDDI Station Management
   language: en
@@ -7,7 +7,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ANSI.X3T9.1990
+- id: ANSI X3T9.1990
+  type: IETF
+- id: ANSI.X3T9.1990
   type: IETF
   scope: anchor
 docnumber: X3T9.1990
@@ -34,5 +36,5 @@ series:
     format: text/plain
   number: X3T9.5
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

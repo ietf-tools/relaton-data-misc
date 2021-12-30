@@ -1,5 +1,5 @@
 ---
-id: CCITT.Q921.1984
+id: CCITTQ921.1984
 title:
   content: ISDN User-network Interface Data Link Layer Specification
   language: en
@@ -7,7 +7,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: CCITT.Q921.1984
+- id: CCITT Q921.1984
+  type: IETF
+- id: CCITT.Q921.1984
   type: IETF
   scope: anchor
 docnumber: Q921.1984
@@ -34,5 +36,5 @@ series:
     format: text/plain
   number: Recommendation Q.921
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

@@ -1,5 +1,5 @@
 ---
-id: CCITT.X410.1984
+id: CCITTX410.1984
 title:
   content: 'Message Handling Systems: Remote Operations and Reliable Transfer Server'
   language: en
@@ -7,7 +7,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: CCITT.X410.1984
+- id: CCITT X410.1984
+  type: IETF
+- id: CCITT.X410.1984
   type: IETF
   scope: anchor
 docnumber: X410.1984
@@ -34,5 +36,5 @@ series:
     format: text/plain
   number: Recommendation X.410
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

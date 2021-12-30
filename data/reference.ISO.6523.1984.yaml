@@ -1,5 +1,5 @@
 ---
-id: ISO.6523.1984
+id: ISO6523.1984
 title:
   content: Data interchange - structures for the identification of organization
   language: en
@@ -7,7 +7,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ISO.6523.1984
+- id: ISO 6523.1984
+  type: IETF
+- id: ISO.6523.1984
   type: IETF
   scope: anchor
 docnumber: '6523.1984'
@@ -34,5 +36,5 @@ series:
     format: text/plain
   number: Standard 6523
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

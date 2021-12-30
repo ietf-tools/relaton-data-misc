@@ -1,5 +1,5 @@
 ---
-id: ISO.8073.1986
+id: ISO8073.1986
 title:
   content: Information processing systems - Open systems interconnection - Transport
     Protocol Specification
@@ -8,7 +8,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ISO.8073.1986
+- id: ISO 8073.1986
+  type: IETF
+- id: ISO.8073.1986
   type: IETF
   scope: anchor
 docnumber: '8073.1986'
@@ -35,5 +37,5 @@ series:
     format: text/plain
   number: Standard 8073
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

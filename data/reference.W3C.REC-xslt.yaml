@@ -1,5 +1,5 @@
 ---
-id: W3C.REC-xslt
+id: W3CREC-xslt
 title:
   content: XSL Transformations (XSLT) Version 1.0
   language: en
@@ -10,7 +10,9 @@ link:
   type: src
 type: standard
 docid:
-  id: W3C.REC-xslt
+- id: W3C REC-xslt
+  type: IETF
+- id: W3C.REC-xslt
   type: IETF
   scope: anchor
 docnumber: REC-xslt
@@ -49,5 +51,5 @@ series:
     format: text/plain
   number: REC-xslt
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

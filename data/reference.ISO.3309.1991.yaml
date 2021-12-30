@@ -1,5 +1,5 @@
 ---
-id: ISO.3309.1991
+id: ISO3309.1991
 title:
   content: Information Technology - Telecommunications and information exchange between
     systems - High-level data link control (HDLC) procedures - Frame structure
@@ -8,7 +8,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ISO.3309.1991
+- id: ISO 3309.1991
+  type: IETF
+- id: ISO.3309.1991
   type: IETF
   scope: anchor
 docnumber: '3309.1991'
@@ -35,5 +37,5 @@ series:
     format: text/plain
   number: Standard 3309
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

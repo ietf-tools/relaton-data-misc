@@ -1,5 +1,5 @@
 ---
-id: FIPS.186.1994
+id: FIPS186.1994
 title:
   content: Digital Signature Standard
   language: en
@@ -7,7 +7,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: FIPS.186.1994
+- id: FIPS 186.1994
+  type: IETF
+- id: FIPS.186.1994
   type: IETF
   scope: anchor
 docnumber: '186.1994'
@@ -34,5 +36,5 @@ series:
     format: text/plain
   number: PUB 186
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

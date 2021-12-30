@@ -1,5 +1,5 @@
 ---
-id: FIPS.197.2001
+id: FIPS197.2001
 title:
   content: Advanced Encryption Standard (AES)
   language: en
@@ -10,7 +10,9 @@ link:
   type: src
 type: standard
 docid:
-  id: FIPS.197.2001
+- id: FIPS 197.2001
+  type: IETF
+- id: FIPS.197.2001
   type: IETF
   scope: anchor
 docnumber: '197.2001'
@@ -37,5 +39,5 @@ series:
     format: text/plain
   number: PUB 197
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

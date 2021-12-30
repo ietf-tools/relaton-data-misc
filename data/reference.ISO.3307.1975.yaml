@@ -1,5 +1,5 @@
 ---
-id: ISO.3307.1975
+id: ISO3307.1975
 title:
   content: Information Interchange - Representations of time of the day
   language: en
@@ -7,7 +7,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ISO.3307.1975
+- id: ISO 3307.1975
+  type: IETF
+- id: ISO.3307.1975
   type: IETF
   scope: anchor
 docnumber: '3307.1975'
@@ -34,5 +36,5 @@ series:
     format: text/plain
   number: Standard 3307
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

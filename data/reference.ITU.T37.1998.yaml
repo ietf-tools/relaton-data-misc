@@ -1,5 +1,5 @@
 ---
-id: ITU.T37.1998
+id: ITUT37.1998
 title:
   content: Procedures for the transfer of facsimile data via store-and-forward on
     the Internet
@@ -8,7 +8,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ITU.T37.1998
+- id: ITU T37.1998
+  type: IETF
+- id: ITU.T37.1998
   type: IETF
   scope: anchor
 docnumber: T37.1998
@@ -35,5 +37,5 @@ series:
     format: text/plain
   number: Recommendation T.37
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

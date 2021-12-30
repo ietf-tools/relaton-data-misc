@@ -1,5 +1,5 @@
 ---
-id: ANSI.T1-102.1987
+id: ANSIT1-102.1987
 title:
   content: Telecommunications - Digital Hierarchy - Electrical Interfaces
   language: en
@@ -7,7 +7,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ANSI.T1-102.1987
+- id: ANSI T1-102.1987
+  type: IETF
+- id: ANSI.T1-102.1987
   type: IETF
   scope: anchor
 docnumber: T1-102.1987
@@ -34,5 +36,5 @@ series:
     format: text/plain
   number: T1
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

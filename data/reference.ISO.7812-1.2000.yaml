@@ -1,5 +1,5 @@
 ---
-id: ISO.7812-1.2000
+id: ISO7812-1.2000
 title:
   content: 'Identification card - Identification of issuers - Part 1: Numbering system'
   language: en
@@ -7,7 +7,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ISO.7812-1.2000
+- id: ISO 7812-1.2000
+  type: IETF
+- id: ISO.7812-1.2000
   type: IETF
   scope: anchor
 docnumber: 7812-1.2000
@@ -34,5 +36,5 @@ series:
     format: text/plain
   number: Standard 7812-1
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

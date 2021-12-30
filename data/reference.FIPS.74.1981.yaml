@@ -1,5 +1,5 @@
 ---
-id: FIPS.74.1981
+id: FIPS74.1981
 title:
   content: Guidelines for Implementing and Using the NBS Data Encryption Standard
   language: en
@@ -10,7 +10,9 @@ link:
   type: src
 type: standard
 docid:
-  id: FIPS.74.1981
+- id: FIPS 74.1981
+  type: IETF
+- id: FIPS.74.1981
   type: IETF
   scope: anchor
 docnumber: '74.1981'
@@ -37,5 +39,5 @@ series:
     format: text/plain
   number: PUB 74
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

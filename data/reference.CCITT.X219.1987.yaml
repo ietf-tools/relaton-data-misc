@@ -1,5 +1,5 @@
 ---
-id: CCITT.X219.1987
+id: CCITTX219.1987
 title:
   content: 'Information processing systems - Text Communication, Remote Operations:
     Model, Notation and Service Definition'
@@ -8,7 +8,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: CCITT.X219.1987
+- id: CCITT X219.1987
+  type: IETF
+- id: CCITT.X219.1987
   type: IETF
   scope: anchor
 docnumber: X219.1987
@@ -35,5 +37,5 @@ series:
     format: text/plain
   number: Recommendation X.219
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

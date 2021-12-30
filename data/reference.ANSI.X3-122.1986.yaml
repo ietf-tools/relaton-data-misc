@@ -1,5 +1,5 @@
 ---
-id: ANSI.X3-122.1986
+id: ANSIX3-122.1986
 title:
   content: 'Draft Proposal: Virtual Device Metafile'
   language: en
@@ -7,7 +7,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ANSI.X3-122.1986
+- id: ANSI X3-122.1986
+  type: IETF
+- id: ANSI.X3-122.1986
   type: IETF
   scope: anchor
 docnumber: X3-122.1986
@@ -34,5 +36,5 @@ series:
     format: text/plain
   number: X3.122
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

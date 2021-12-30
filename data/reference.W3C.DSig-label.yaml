@@ -1,5 +1,5 @@
 ---
-id: W3C.DSig-label
+id: W3CDSig-label
 title:
   content: PICS Signed Labels (DSig) 1.0 Specification
   language: en
@@ -10,7 +10,9 @@ link:
   type: src
 type: standard
 docid:
-  id: W3C.DSig-label
+- id: W3C DSig-label
+  type: IETF
+- id: W3C.DSig-label
   type: IETF
   scope: anchor
 docnumber: DSig-label
@@ -106,5 +108,5 @@ series:
     format: text/plain
   number: REC-DSig-label
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

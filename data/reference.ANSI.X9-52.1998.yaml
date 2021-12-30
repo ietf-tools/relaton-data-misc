@@ -1,5 +1,5 @@
 ---
-id: ANSI.X9-52.1998
+id: ANSIX9-52.1998
 title:
   content: Triple Data Encryption Algorithm Modes of Operation
   language: en
@@ -7,7 +7,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ANSI.X9-52.1998
+- id: ANSI X9-52.1998
+  type: IETF
+- id: ANSI.X9-52.1998
   type: IETF
   scope: anchor
 docnumber: X9-52.1998
@@ -34,5 +36,5 @@ series:
     format: text/plain
   number: X9.52
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

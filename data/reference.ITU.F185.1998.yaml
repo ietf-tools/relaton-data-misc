@@ -1,5 +1,5 @@
 ---
-id: ITU.F185.1998
+id: ITUF185.1998
 title:
   content: 'Internet facsimile: Guidelines for the support of the communication of
     facsimile documents'
@@ -8,7 +8,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ITU.F185.1998
+- id: ITU F185.1998
+  type: IETF
+- id: ITU.F185.1998
   type: IETF
   scope: anchor
 docnumber: F185.1998
@@ -35,5 +37,5 @@ series:
     format: text/plain
   number: Recommendation F.185
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

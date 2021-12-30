@@ -1,5 +1,5 @@
 ---
-id: OASIS.sstc-saml-tech-overview-2.0-draft-16
+id: OASISsstc-saml-tech-overview-2.0-draft-16
 title:
   content: |-
     Security Assertion Markup Language
@@ -9,7 +9,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: OASIS.sstc-saml-tech-overview-2.0-draft-16
+- id: OASIS sstc-saml-tech-overview-2.0-draft-16
+  type: IETF
+- id: OASIS.sstc-saml-tech-overview-2.0-draft-16
   type: IETF
   scope: anchor
 docnumber: sstc-saml-tech-overview-2.0-draft-16
@@ -141,5 +143,5 @@ series:
     format: text/plain
   number: sstc-saml-tech-overview-2.0-draft-16
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

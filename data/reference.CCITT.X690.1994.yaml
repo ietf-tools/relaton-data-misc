@@ -1,5 +1,5 @@
 ---
-id: CCITT.X690.1994
+id: CCITTX690.1994
 title:
   content: " ASN.1 encoding rules: Specification of Basic Encoding Rules (BER), Canonical
     Encoding Rules (CER) and Distinguished Encoding Rules (DER)"
@@ -8,7 +8,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: CCITT.X690.1994
+- id: CCITT X690.1994
+  type: IETF
+- id: CCITT.X690.1994
   type: IETF
   scope: anchor
 docnumber: X690.1994
@@ -37,5 +39,5 @@ series:
     format: text/plain
   number: Recommendation X.690
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

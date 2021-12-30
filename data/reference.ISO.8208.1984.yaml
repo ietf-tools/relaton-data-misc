@@ -1,5 +1,5 @@
 ---
-id: ISO.8208.1984
+id: ISO8208.1984
 title:
   content: Information processing systems - Data communications - X.25 packet level
     protocol for Data terminal equipment
@@ -8,7 +8,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ISO.8208.1984
+- id: ISO 8208.1984
+  type: IETF
+- id: ISO.8208.1984
   type: IETF
   scope: anchor
 docnumber: '8208.1984'
@@ -35,5 +37,5 @@ series:
     format: text/plain
   number: Standard 8208
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

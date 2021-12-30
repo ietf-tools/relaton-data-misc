@@ -1,5 +1,5 @@
 ---
-id: ANSI.T1-S1.1990
+id: ANSIT1-S1.1990
 title:
   content: Telecommunications - DSSI Core Aspects of Frame Rely
   language: en
@@ -7,7 +7,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ANSI.T1-S1.1990
+- id: ANSI T1-S1.1990
+  type: IETF
+- id: ANSI.T1-S1.1990
   type: IETF
   scope: anchor
 docnumber: T1-S1.1990
@@ -34,5 +36,5 @@ series:
     format: text/plain
   number: T1S1
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

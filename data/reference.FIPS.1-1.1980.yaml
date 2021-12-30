@@ -1,5 +1,5 @@
 ---
-id: FIPS.1-1.1980
+id: FIPS1-1.1980
 title:
   content: Code for Information
   language: en
@@ -7,7 +7,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: FIPS.1-1.1980
+- id: FIPS 1-1.1980
+  type: IETF
+- id: FIPS.1-1.1980
   type: IETF
   scope: anchor
 docnumber: 1-1.1980
@@ -34,5 +36,5 @@ series:
     format: text/plain
   number: PUB 1-1
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

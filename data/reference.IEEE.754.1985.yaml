@@ -1,5 +1,5 @@
 ---
-id: IEEE.754.1985
+id: IEEE754.1985
 title:
   content: Standard for Binary Floating-Point Arithmetic
   language: en
@@ -7,7 +7,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: IEEE.754.1985
+- id: IEEE 754.1985
+  type: IETF
+- id: IEEE.754.1985
   type: IETF
   scope: anchor
 docnumber: '754.1985'
@@ -34,5 +36,5 @@ series:
     format: text/plain
   number: Standard 754
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: ieee

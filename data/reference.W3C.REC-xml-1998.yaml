@@ -1,5 +1,5 @@
 ---
-id: W3C.REC-xml-1998
+id: W3CREC-xml-1998
 title:
   content: Extensible Markup Language (XML) 1.0
   language: en
@@ -10,7 +10,9 @@ link:
   type: src
 type: standard
 docid:
-  id: W3C.REC-xml-1998
+- id: W3C REC-xml-1998
+  type: IETF
+- id: W3C.REC-xml-1998
   type: IETF
   scope: anchor
 docnumber: REC-xml-1998
@@ -79,5 +81,5 @@ series:
     format: text/plain
   number: REC-xml-1998
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

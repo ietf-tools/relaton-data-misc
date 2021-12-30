@@ -1,5 +1,5 @@
 ---
-id: ITU.T6.1984
+id: ITUT6.1984
 title:
   content: Facsimile coding schemes and coding control functions for Group 4 facsimile
     apparatus
@@ -8,7 +8,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ITU.T6.1984
+- id: ITU T6.1984
+  type: IETF
+- id: ITU.T6.1984
   type: IETF
   scope: anchor
 docnumber: T6.1984
@@ -35,5 +37,5 @@ series:
     format: text/plain
   number: Recommendation T.6
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

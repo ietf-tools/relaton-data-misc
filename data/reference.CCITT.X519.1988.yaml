@@ -1,5 +1,5 @@
 ---
-id: CCITT.X519.1988
+id: CCITTX519.1988
 title:
   content: 'Information Technology - Open Systems Interconnection - The Directory:
     Protocol Specifications'
@@ -8,7 +8,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: CCITT.X519.1988
+- id: CCITT X519.1988
+  type: IETF
+- id: CCITT.X519.1988
   type: IETF
   scope: anchor
 docnumber: X519.1988
@@ -37,5 +39,5 @@ series:
     format: text/plain
   number: Recommendation X.518
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

@@ -1,5 +1,5 @@
 ---
-id: ANSI.X3-222.1993
+id: ANSIX3-222.1993
 title:
   content: High-Performance Parallel Interface - Physical Switch Control (HIPPI-SC)
   language: en
@@ -7,7 +7,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ANSI.X3-222.1993
+- id: ANSI X3-222.1993
+  type: IETF
+- id: ANSI.X3-222.1993
   type: IETF
   scope: anchor
 docnumber: X3-222.1993
@@ -34,5 +36,5 @@ series:
     format: text/plain
   number: X3.222
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

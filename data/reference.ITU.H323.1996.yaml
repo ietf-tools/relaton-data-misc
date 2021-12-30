@@ -1,5 +1,5 @@
 ---
-id: ITU.H323.1996
+id: ITUH323.1996
 title:
   content: Visual telephone systems and equipment for local area networks which provide
     a non-guaranteed quality of service
@@ -8,7 +8,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ITU.H323.1996
+- id: ITU H323.1996
+  type: IETF
+- id: ITU.H323.1996
   type: IETF
   scope: anchor
 docnumber: H323.1996
@@ -35,5 +37,5 @@ series:
     format: text/plain
   number: Recommendation H.323
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

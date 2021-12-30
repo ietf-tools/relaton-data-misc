@@ -1,5 +1,5 @@
 ---
-id: FIPS.98.1983
+id: FIPS98.1983
 title:
   content: Specification for Message Format for Computer Based Message Systems
   language: en
@@ -7,7 +7,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: FIPS.98.1983
+- id: FIPS 98.1983
+  type: IETF
+- id: FIPS.98.1983
   type: IETF
   scope: anchor
 docnumber: '98.1983'
@@ -34,5 +36,5 @@ series:
     format: text/plain
   number: PUB 98
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

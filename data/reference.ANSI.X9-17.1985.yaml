@@ -1,5 +1,5 @@
 ---
-id: ANSI.X9-17.1985
+id: ANSIX9-17.1985
 title:
   content: Financial Institution Key Management (Wholesale)
   language: en
@@ -7,7 +7,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ANSI.X9-17.1985
+- id: ANSI X9-17.1985
+  type: IETF
+- id: ANSI.X9-17.1985
   type: IETF
   scope: anchor
 docnumber: X9-17.1985
@@ -34,5 +36,5 @@ series:
     format: text/plain
   number: X9.17
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

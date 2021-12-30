@@ -1,5 +1,5 @@
 ---
-id: CCITT.I465.1988
+id: CCITTI465.1988
 title:
   content: Data Terminal Equipment Communications over the Telephone Network with
     Provision for Statistical Multiplexing
@@ -8,7 +8,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: CCITT.I465.1988
+- id: CCITT I465.1988
+  type: IETF
+- id: CCITT.I465.1988
   type: IETF
   scope: anchor
 docnumber: I465.1988
@@ -42,5 +44,5 @@ series:
     format: text/plain
   number: Recommendation V.120
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

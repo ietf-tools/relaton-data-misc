@@ -1,5 +1,5 @@
 ---
-id: ANSI.X3-51.1975
+id: ANSIX3-51.1975
 title:
   content: Representations of Universal Time, Local Time Differentials, and United
     States Time Zone References for Information Interchange
@@ -8,7 +8,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ANSI.X3-51.1975
+- id: ANSI X3-51.1975
+  type: IETF
+- id: ANSI.X3-51.1975
   type: IETF
   scope: anchor
 docnumber: X3-51.1975
@@ -35,5 +37,5 @@ series:
     format: text/plain
   number: X3.51
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

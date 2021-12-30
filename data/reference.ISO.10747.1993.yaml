@@ -1,5 +1,5 @@
 ---
-id: ISO.10747.1993
+id: ISO10747.1993
 title:
   content: Information Processing Systems - Telecommunications and Information Exchange
     between Systems - Protocol for Exchange of Inter-domain Routeing Information among
@@ -9,7 +9,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ISO.10747.1993
+- id: ISO 10747.1993
+  type: IETF
+- id: ISO.10747.1993
   type: IETF
   scope: anchor
 docnumber: '10747.1993'
@@ -36,5 +38,5 @@ series:
     format: text/plain
   number: Standard 10747
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

@@ -1,5 +1,5 @@
 ---
-id: FIPS.180-1.1995
+id: FIPS180-1.1995
 title:
   content: Secure Hash Standard
   language: en
@@ -10,7 +10,9 @@ link:
   type: src
 type: standard
 docid:
-  id: FIPS.180-1.1995
+- id: FIPS 180-1.1995
+  type: IETF
+- id: FIPS.180-1.1995
   type: IETF
   scope: anchor
 docnumber: 180-1.1995
@@ -37,5 +39,5 @@ series:
     format: text/plain
   number: PUB 180-1
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

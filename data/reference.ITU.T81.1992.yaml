@@ -1,5 +1,5 @@
 ---
-id: ITU.T81.1992
+id: ITUT81.1992
 title:
   content: Information technology - Digital compression and coding of continuous-tone
     still image - Requirements and guidelines
@@ -8,7 +8,9 @@ title:
   format: text/plain
 type: standard
 docid:
-  id: ITU.T81.1992
+- id: ITU T81.1992
+  type: IETF
+- id: ITU.T81.1992
   type: IETF
   scope: anchor
 docnumber: T81.1992
@@ -35,5 +37,5 @@ series:
     format: text/plain
   number: Recommendation T.81
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc

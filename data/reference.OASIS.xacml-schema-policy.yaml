@@ -1,5 +1,5 @@
 ---
-id: OASIS.xacml-schema-policy
+id: OASISxacml-schema-policy
 title:
   content: OASIS eXtensible Access Control Markup Language (XACML)
   language: en
@@ -10,7 +10,9 @@ link:
   type: src
 type: standard
 docid:
-  id: OASIS.xacml-schema-policy
+- id: OASIS xacml-schema-policy
+  type: IETF
+- id: OASIS.xacml-schema-policy
   type: IETF
   scope: anchor
 docnumber: xacml-schema-policy
@@ -67,5 +69,5 @@ series:
     format: text/plain
   number: xacml-schema-policy
 place: Fremont, CA
-fetched: '2021-12-28'
+fetched: '2021-12-30'
 doctype: rfc
