@@ -36,5 +36,5 @@ series:
     format: text/plain
   number: Standard 1003.1G
 place: Fremont, CA
-fetched: '2022-01-01'
+fetched: '2022-01-02'
 doctype: ieee

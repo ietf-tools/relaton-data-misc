@@ -32,5 +32,5 @@ series:
     format: text/plain
   number: Recommendation I.361
 place: Fremont, CA
-fetched: '2022-01-01'
+fetched: '2022-01-02'
 doctype: rfc
