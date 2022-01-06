@@ -1,11 +1,13 @@
 ---
 id: ISO3166-1.2006
 title:
-  content: |-
+- content: |-
     Codes for the representation of names of countries, 3rd
     edition
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 type: standard
 docid:
@@ -16,29 +18,38 @@ docid:
   scope: anchor
 docnumber: 3166-1.2006
 date:
-  type: published
+- type: published
   value: '2006-01-01'
 contributor:
 - organization:
-    name: Internet Engineering Task Force
+    name:
+    - Internet Engineering Task Force
     abbreviation: IETF
-  role: publisher
+  role:
+  - publisher
 - organization:
-    name: |-
+    name:
+    - |-
       International Organization for
       Standardization
-  role: author
+  role:
+  - author
 revdate: '2006-01-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 series:
-  type: main
+- type: main
   title:
     content: ISO
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
   number: Standard 3166-1
-place: Fremont, CA
-fetched: '2022-01-05'
+place:
+- Fremont, CA
+fetched: '2022-01-06'
 doctype: rfc

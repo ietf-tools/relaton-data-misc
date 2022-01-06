@@ -1,12 +1,14 @@
 ---
 id: W3CREC-XHTML
 title:
-  content: 'XHTML 1.0: The Extensible HyperText Markup Language'
-  language: en
-  script: Latn
+- content: 'XHTML 1.0: The Extensible HyperText Markup Language'
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://www.w3.org/TR/xhtml1/
+- content: http://www.w3.org/TR/xhtml1/
   type: src
 type: standard
 docid:
@@ -17,39 +19,51 @@ docid:
   scope: anchor
 docnumber: REC-XHTML
 date:
-  type: published
+- type: published
   value: '2000-01-26'
 contributor:
 - organization:
-    name: Internet Engineering Task Force
+    name:
+    - Internet Engineering Task Force
     abbreviation: IETF
-  role: publisher
+  role:
+  - publisher
 - person:
     name:
       initial:
-        content: S.
-        language: en
+      - content: S.
+        language:
+        - en
       surname:
         content: Pemberton
-        language: en
+        language:
+        - en
       completename:
         content: Steven Pemberton
-        language: en
+        language:
+        - en
     affiliation:
-      organization:
-        name: CWI
-  role: author
+    - organization:
+        name:
+        - CWI
+  role:
+  - author
 revdate: '2000-01-26'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 series:
-  type: main
+- type: main
   title:
     content: W3C
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
   number: REC-XHTML
-place: Fremont, CA
-fetched: '2022-01-05'
+place:
+- Fremont, CA
+fetched: '2022-01-06'
 doctype: rfc

@@ -1,10 +1,12 @@
 ---
 id: ANSIX9-55.1995
 title:
-  content: 'Public Key Cryptography For The Financial Services Industry: Extensions
+- content: 'Public Key Cryptography For The Financial Services Industry: Extensions
     To Public Key Certificates And Certificate Revocation Lists'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 type: standard
 docid:
@@ -15,27 +17,36 @@ docid:
   scope: anchor
 docnumber: X9-55.1995
 date:
-  type: published
+- type: published
   value: '1995-12-01'
 contributor:
 - organization:
-    name: Internet Engineering Task Force
+    name:
+    - Internet Engineering Task Force
     abbreviation: IETF
-  role: publisher
+  role:
+  - publisher
 - organization:
-    name: American National Standards Institute
-  role: author
+    name:
+    - American National Standards Institute
+  role:
+  - author
 revdate: '1995-12-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 series:
-  type: main
+- type: main
   title:
     content: ANSI
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
   number: X9.55
-place: Fremont, CA
-fetched: '2022-01-05'
+place:
+- Fremont, CA
+fetched: '2022-01-06'
 doctype: rfc

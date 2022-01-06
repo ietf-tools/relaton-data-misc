@@ -1,12 +1,14 @@
 ---
 id: W3Cxmlenc-core
 title:
-  content: XML Encryption Syntax and Processing
-  language: en
-  script: Latn
+- content: XML Encryption Syntax and Processing
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://www.w3.org/TR/xmlenc-core/
+- content: http://www.w3.org/TR/xmlenc-core/
   type: src
 type: standard
 docid:
@@ -17,60 +19,77 @@ docid:
   scope: anchor
 docnumber: xmlenc-core
 date:
-  type: published
+- type: published
   value: '2002-08-02'
 contributor:
 - organization:
-    name: Internet Engineering Task Force
+    name:
+    - Internet Engineering Task Force
     abbreviation: IETF
-  role: publisher
+  role:
+  - publisher
 - person:
     name:
       initial:
-        content: D.
-        language: en
+      - content: D.
+        language:
+        - en
       surname:
         content: Eastlake
-        language: en
+        language:
+        - en
       completename:
         content: Donald Eastlake
-        language: en
+        language:
+        - en
     affiliation:
-      organization:
-        name: Motorola
+    - organization:
+        name:
+        - Motorola
     contact:
-      type: email
+    - type: email
       value: dee3@torque.pothole.com
-  role: author
+  role:
+  - author
 - person:
     name:
       initial:
-        content: J.
-        language: en
+      - content: J.
+        language:
+        - en
       surname:
         content: 'Reagle '
-        language: en
+        language:
+        - en
       completename:
         content: 'Joseph Reagle '
-        language: en
+        language:
+        - en
     affiliation:
-      organization:
-        name: W3C
+    - organization:
+        name:
+        - W3C
     contact:
-      type: email
+    - type: email
       value: reagle@w3.org
-  role: author
+  role:
+  - author
 revdate: '2002-08-02'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 series:
-  type: main
+- type: main
   title:
     content: W3C Candidate Recommendation
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
   number: xmlenc-core
-place: Fremont, CA
-fetched: '2022-01-05'
+place:
+- Fremont, CA
+fetched: '2022-01-06'
 doctype: rfc

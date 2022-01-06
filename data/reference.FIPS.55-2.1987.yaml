@@ -1,10 +1,12 @@
 ---
 id: FIPS55-2.1987
 title:
-  content: 'Guideline: Codes for Named Populated Places, Primary County Divisions,
+- content: 'Guideline: Codes for Named Populated Places, Primary County Divisions,
     and other Locational Entities of the United States and Outlying Areas'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 type: standard
 docid:
@@ -15,27 +17,36 @@ docid:
   scope: anchor
 docnumber: 55-2.1987
 date:
-  type: published
+- type: published
   value: '1987-02-03'
 contributor:
 - organization:
-    name: Internet Engineering Task Force
+    name:
+    - Internet Engineering Task Force
     abbreviation: IETF
-  role: publisher
+  role:
+  - publisher
 - organization:
-    name: National Institute of Standards and Technology
-  role: author
+    name:
+    - National Institute of Standards and Technology
+  role:
+  - author
 revdate: '1987-02-03'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 series:
-  type: main
+- type: main
   title:
     content: FIPS
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
   number: PUB 55-2
-place: Fremont, CA
-fetched: '2022-01-05'
+place:
+- Fremont, CA
+fetched: '2022-01-06'
 doctype: rfc

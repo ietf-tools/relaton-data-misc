@@ -1,12 +1,14 @@
 ---
 id: W3CREC-xml-1998
 title:
-  content: Extensible Markup Language (XML) 1.0
-  language: en
-  script: Latn
+- content: Extensible Markup Language (XML) 1.0
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://www.w3.org/TR/1998/REC-xml-19980210/
+- content: http://www.w3.org/TR/1998/REC-xml-19980210/
   type: src
 type: standard
 docid:
@@ -17,69 +19,91 @@ docid:
   scope: anchor
 docnumber: REC-xml-1998
 date:
-  type: published
+- type: published
   value: '1998-02-10'
 contributor:
 - organization:
-    name: Internet Engineering Task Force
+    name:
+    - Internet Engineering Task Force
     abbreviation: IETF
-  role: publisher
+  role:
+  - publisher
 - person:
     name:
       initial:
-        content: T.
-        language: en
+      - content: T.
+        language:
+        - en
       surname:
         content: Bray
-        language: en
+        language:
+        - en
       completename:
         content: Tim Bray
-        language: en
+        language:
+        - en
     affiliation:
-      organization:
-        name: Textuality and Netscape
-  role: author
+    - organization:
+        name:
+        - Textuality and Netscape
+  role:
+  - author
 - person:
     name:
       initial:
-        content: J.
-        language: en
+      - content: J.
+        language:
+        - en
       surname:
         content: Paoli
-        language: en
+        language:
+        - en
       completename:
         content: Jean Paoli
-        language: en
+        language:
+        - en
     affiliation:
-      organization:
-        name: Microsoft
-  role: author
+    - organization:
+        name:
+        - Microsoft
+  role:
+  - author
 - person:
     name:
       initial:
-        content: C. M.
-        language: en
+      - content: C. M.
+        language:
+        - en
       surname:
         content: Sperberg-McQueen
-        language: en
+        language:
+        - en
       completename:
         content: C. M. Sperberg-McQueen
-        language: en
+        language:
+        - en
     affiliation:
-      organization:
-        name: University of Illinois at Chicago
-  role: author
+    - organization:
+        name:
+        - University of Illinois at Chicago
+  role:
+  - author
 revdate: '1998-02-10'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 series:
-  type: main
+- type: main
   title:
     content: W3C
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
   number: REC-xml-1998
-place: Fremont, CA
-fetched: '2022-01-05'
+place:
+- Fremont, CA
+fetched: '2022-01-06'
 doctype: rfc

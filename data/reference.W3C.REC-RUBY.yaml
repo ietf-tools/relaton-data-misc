@@ -1,12 +1,14 @@
 ---
 id: W3CREC-RUBY
 title:
-  content: Ruby Annotation
-  language: en
-  script: Latn
+- content: Ruby Annotation
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://www.w3.org/TR/ruby/
+- content: http://www.w3.org/TR/ruby/
   type: src
 type: standard
 docid:
@@ -17,84 +19,111 @@ docid:
   scope: anchor
 docnumber: REC-RUBY
 date:
-  type: published
+- type: published
   value: '2001-05-31'
 contributor:
 - organization:
-    name: Internet Engineering Task Force
+    name:
+    - Internet Engineering Task Force
     abbreviation: IETF
-  role: publisher
+  role:
+  - publisher
 - person:
     name:
       initial:
-        content: M.
-        language: en
+      - content: M.
+        language:
+        - en
       surname:
         content: Suignard
-        language: en
+        language:
+        - en
       completename:
         content: Michel Suignard
-        language: en
+        language:
+        - en
     affiliation:
-      organization:
-        name: Microsoft
-  role: author
+    - organization:
+        name:
+        - Microsoft
+  role:
+  - author
 - person:
     name:
       initial:
-        content: M.
-        language: en
+      - content: M.
+        language:
+        - en
       surname:
         content: Ishikawa
-        language: en
+        language:
+        - en
       completename:
         content: Masayasu Ishikawa
-        language: en
+        language:
+        - en
     affiliation:
-      organization:
-        name: W3C
-  role: author
+    - organization:
+        name:
+        - W3C
+  role:
+  - author
 - person:
     name:
       initial:
-        content: M.
-        language: en
+      - content: M.
+        language:
+        - en
       surname:
         content: Duerst
-        language: en
+        language:
+        - en
       completename:
         content: Martin Duerst
-        language: en
+        language:
+        - en
     affiliation:
-      organization:
-        name: W3C
-  role: author
+    - organization:
+        name:
+        - W3C
+  role:
+  - author
 - person:
     name:
       initial:
-        content: T.
-        language: en
+      - content: T.
+        language:
+        - en
       surname:
         content: Texin
-        language: en
+        language:
+        - en
       completename:
         content: Tex Texin
-        language: en
+        language:
+        - en
     affiliation:
-      organization:
-        name: Progress Software Corp.
-  role: author
+    - organization:
+        name:
+        - Progress Software Corp.
+  role:
+  - author
 revdate: '2001-05-31'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 series:
-  type: main
+- type: main
   title:
     content: W3C
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
   number: REC-RUBY
-place: Fremont, CA
-fetched: '2022-01-05'
+place:
+- Fremont, CA
+fetched: '2022-01-06'
 doctype: rfc

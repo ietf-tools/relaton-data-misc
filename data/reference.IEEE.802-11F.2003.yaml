@@ -1,14 +1,16 @@
 ---
 id: IEEE802-11F.2003
 title:
-  content: IEEE Trial-Use Recommended Practice for Multi-Vendor Access Point Interoperability
+- content: IEEE Trial-Use Recommended Practice for Multi-Vendor Access Point Interoperability
     via an Inter-Access Point Protocol Across Distribution Systems Supporting IEEE
     802.11 Operation
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://standards.ieee.org/getieee802/download/802.11F-2003.pdf
+- content: http://standards.ieee.org/getieee802/download/802.11F-2003.pdf
   type: src
 type: standard
 docid:
@@ -20,22 +22,31 @@ docid:
 docnumber: 802-11F.2003
 contributor:
 - organization:
-    name: Internet Engineering Task Force
+    name:
+    - Internet Engineering Task Force
     abbreviation: IETF
-  role: publisher
+  role:
+  - publisher
 - organization:
-    name: ''
-  role: author
-language: en
-script: Latn
+    name:
+    - ''
+  role:
+  - author
+language:
+- en
+script:
+- Latn
 series:
-  type: main
+- type: main
   title:
     content: IEEE
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
   number: Standard 802.11f
-place: Fremont, CA
-fetched: '2022-01-05'
+place:
+- Fremont, CA
+fetched: '2022-01-06'
 doctype: ieee

@@ -1,11 +1,13 @@
 ---
 id: ITUX690.1994
 title:
-  content: 'Information Technology - ASN.1 encoding rules: Specification of Basic
+- content: 'Information Technology - ASN.1 encoding rules: Specification of Basic
     Encoding Rules (BER), Canonical Encoding Rules (CER) and Distinguished Encoding
     Rules (DER)'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 type: standard
 docid:
@@ -16,27 +18,36 @@ docid:
   scope: anchor
 docnumber: X690.1994
 date:
-  type: published
+- type: published
   value: '1994-01-01'
 contributor:
 - organization:
-    name: Internet Engineering Task Force
+    name:
+    - Internet Engineering Task Force
     abbreviation: IETF
-  role: publisher
+  role:
+  - publisher
 - organization:
-    name: International Telecommunications Union
-  role: author
+    name:
+    - International Telecommunications Union
+  role:
+  - author
 revdate: '1994-01-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 series:
-  type: main
+- type: main
   title:
     content: ITU-T
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
   number: Recommendation X.690
-place: Fremont, CA
-fetched: '2022-01-05'
+place:
+- Fremont, CA
+fetched: '2022-01-06'
 doctype: rfc

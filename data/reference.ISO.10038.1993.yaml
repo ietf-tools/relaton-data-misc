@@ -1,10 +1,12 @@
 ---
 id: ISO10038.1993
 title:
-  content: Information technology - Telecommunications and information exchange between
+- content: Information technology - Telecommunications and information exchange between
     systems - Local area networks - Media access control (MAC) bridges
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 type: standard
 docid:
@@ -15,27 +17,36 @@ docid:
   scope: anchor
 docnumber: '10038.1993'
 date:
-  type: published
+- type: published
   value: '1993-01-01'
 contributor:
 - organization:
-    name: Internet Engineering Task Force
+    name:
+    - Internet Engineering Task Force
     abbreviation: IETF
-  role: publisher
+  role:
+  - publisher
 - organization:
-    name: International Organization for Standardization
-  role: author
+    name:
+    - International Organization for Standardization
+  role:
+  - author
 revdate: '1993-01-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 series:
-  type: main
+- type: main
   title:
     content: ISO
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
   number: Standard 10038
-place: Fremont, CA
-fetched: '2022-01-05'
+place:
+- Fremont, CA
+fetched: '2022-01-06'
 doctype: rfc

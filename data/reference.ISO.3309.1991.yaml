@@ -1,10 +1,12 @@
 ---
 id: ISO3309.1991
 title:
-  content: Information Technology - Telecommunications and information exchange between
+- content: Information Technology - Telecommunications and information exchange between
     systems - High-level data link control (HDLC) procedures - Frame structure
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 type: standard
 docid:
@@ -15,27 +17,36 @@ docid:
   scope: anchor
 docnumber: '3309.1991'
 date:
-  type: published
+- type: published
   value: '1991-06-01'
 contributor:
 - organization:
-    name: Internet Engineering Task Force
+    name:
+    - Internet Engineering Task Force
     abbreviation: IETF
-  role: publisher
+  role:
+  - publisher
 - organization:
-    name: International Organization for Standardization
-  role: author
+    name:
+    - International Organization for Standardization
+  role:
+  - author
 revdate: '1991-06-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 series:
-  type: main
+- type: main
   title:
     content: ISO
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
   number: Standard 3309
-place: Fremont, CA
-fetched: '2022-01-05'
+place:
+- Fremont, CA
+fetched: '2022-01-06'
 doctype: rfc

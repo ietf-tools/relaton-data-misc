@@ -1,12 +1,14 @@
 ---
 id: W3Cxml-c14n
 title:
-  content: Canonical XML Version 1.0
-  language: en
-  script: Latn
+- content: Canonical XML Version 1.0
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://www.w3.org/TR/xml-c14n
+- content: http://www.w3.org/TR/xml-c14n
   type: src
 type: standard
 docid:
@@ -17,42 +19,54 @@ docid:
   scope: anchor
 docnumber: xml-c14n
 date:
-  type: published
+- type: published
   value: '2001-03-15'
 contributor:
 - organization:
-    name: Internet Engineering Task Force
+    name:
+    - Internet Engineering Task Force
     abbreviation: IETF
-  role: publisher
+  role:
+  - publisher
 - person:
     name:
       initial:
-        content: J.
-        language: en
+      - content: J.
+        language:
+        - en
       surname:
         content: Boyer
-        language: en
+        language:
+        - en
       completename:
         content: John Boyer
-        language: en
+        language:
+        - en
     affiliation:
-      organization:
-        name: "\n      "
+    - organization:
+        name:
+        - "\n      "
     contact:
-      type: email
+    - type: email
       value: jboyer@PureEdge.com
-  role: author
+  role:
+  - author
 revdate: '2001-03-15'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 series:
-  type: main
+- type: main
   title:
     content: W3C Recommendation
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
   number: xpath
-place: Fremont, CA
-fetched: '2022-01-05'
+place:
+- Fremont, CA
+fetched: '2022-01-06'
 doctype: rfc

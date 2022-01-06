@@ -1,13 +1,15 @@
 ---
 id: W3CPICS-services
 title:
-  content: Platform for Internet Content Selection (PICS) Rating Services and Rating
+- content: Platform for Internet Content Selection (PICS) Rating Services and Rating
     Systems
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://www.w3.org/TR/REC-PICS-services
+- content: http://www.w3.org/TR/REC-PICS-services
   type: src
 type: standard
 docid:
@@ -18,27 +20,33 @@ docid:
   scope: anchor
 docnumber: PICS-services
 date:
-  type: published
+- type: published
   value: '1996-10-31'
 contributor:
 - organization:
-    name: Internet Engineering Task Force
+    name:
+    - Internet Engineering Task Force
     abbreviation: IETF
-  role: publisher
+  role:
+  - publisher
 - person:
     name:
       initial:
-        content: J.
-        language: en
+      - content: J.
+        language:
+        - en
       surname:
         content: Miller
-        language: en
+        language:
+        - en
       completename:
         content: Jim Miller
-        language: en
+        language:
+        - en
     affiliation:
-      organization:
-        name: World Wide Web Consortium
+    - organization:
+        name:
+        - World Wide Web Consortium
         abbreviation: W3C
     contact:
     - street:
@@ -53,54 +61,70 @@ contributor:
       value: jmiller@w3.org
     - type: uri
       value: http://www.w3c.org
-  role: author
+  role:
+  - author
 - person:
     name:
       initial:
-        content: P.
-        language: en
+      - content: P.
+        language:
+        - en
       surname:
         content: Resnick
-        language: en
+        language:
+        - en
       completename:
         content: Paul Resnick
-        language: en
+        language:
+        - en
     affiliation:
-      organization:
-        name: AT&T
+    - organization:
+        name:
+        - AT&T
     contact:
-      type: email
+    - type: email
       value: presnick@research.att.com
-  role: author
+  role:
+  - author
 - person:
     name:
       initial:
-        content: D.
-        language: en
+      - content: D.
+        language:
+        - en
       surname:
         content: Singer
-        language: en
+        language:
+        - en
       completename:
         content: David Singer
-        language: en
+        language:
+        - en
     affiliation:
-      organization:
-        name: IBM
+    - organization:
+        name:
+        - IBM
     contact:
-      type: email
+    - type: email
       value: singer@almaden.ibm.com
-  role: author
+  role:
+  - author
 revdate: '1996-10-31'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 series:
-  type: main
+- type: main
   title:
     content: W3C Recommendation
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
   number: REC-PICS-services
-place: Fremont, CA
-fetched: '2022-01-05'
+place:
+- Fremont, CA
+fetched: '2022-01-06'
 doctype: rfc

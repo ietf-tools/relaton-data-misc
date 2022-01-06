@@ -1,9 +1,11 @@
 ---
 id: IEEE754.1985
 title:
-  content: Standard for Binary Floating-Point Arithmetic
-  language: en
-  script: Latn
+- content: Standard for Binary Floating-Point Arithmetic
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 type: standard
 docid:
@@ -14,27 +16,36 @@ docid:
   scope: anchor
 docnumber: '754.1985'
 date:
-  type: published
+- type: published
   value: '1985-08-01'
 contributor:
 - organization:
-    name: Internet Engineering Task Force
+    name:
+    - Internet Engineering Task Force
     abbreviation: IETF
-  role: publisher
+  role:
+  - publisher
 - organization:
-    name: Institute of Electrical and Electronics Engineers
-  role: author
+    name:
+    - Institute of Electrical and Electronics Engineers
+  role:
+  - author
 revdate: '1985-08-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 series:
-  type: main
+- type: main
   title:
     content: IEEE
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
   number: Standard 754
-place: Fremont, CA
-fetched: '2022-01-05'
+place:
+- Fremont, CA
+fetched: '2022-01-06'
 doctype: ieee

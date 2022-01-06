@@ -1,7 +1,7 @@
 ---
 id: ISO8859.2003
 title:
-  content: |-
+- content: |-
     Information processing - 8-bit single-byte coded graphic
        character sets - Part 1: Latin alphabet No. 1 (1998) - Part 2:
        Latin alphabet No. 2 (1999) - Part 3: Latin alphabet No. 3 (1999)
@@ -15,8 +15,10 @@ title:
        Part 14: Latin alphabet No. 8 (Celtic) (1998) -
        Part 15: Latin alphabet No. 9 (1999) -
        Part 16: Part 16: Latin alphabet No. 10 (2001)
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 type: standard
 docid:
@@ -27,27 +29,36 @@ docid:
   scope: anchor
 docnumber: '8859.2003'
 date:
-  type: published
+- type: published
   value: '2003-01-01'
 contributor:
 - organization:
-    name: Internet Engineering Task Force
+    name:
+    - Internet Engineering Task Force
     abbreviation: IETF
-  role: publisher
+  role:
+  - publisher
 - organization:
-    name: International Organization for Standardization
-  role: author
+    name:
+    - International Organization for Standardization
+  role:
+  - author
 revdate: '2003-01-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 series:
-  type: main
+- type: main
   title:
     content: ISO
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
   number: Standard 8859
-place: Fremont, CA
-fetched: '2022-01-05'
+place:
+- Fremont, CA
+fetched: '2022-01-06'
 doctype: rfc

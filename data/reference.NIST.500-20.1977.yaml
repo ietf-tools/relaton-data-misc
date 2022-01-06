@@ -1,10 +1,12 @@
 ---
 id: NIST500-20.1977
 title:
-  content: Validating the Correctness of Hardware Implementations of the NBS Data
+- content: Validating the Correctness of Hardware Implementations of the NBS Data
     Encryption Standard
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 type: standard
 docid:
@@ -15,27 +17,36 @@ docid:
   scope: anchor
 docnumber: 500-20.1977
 date:
-  type: published
+- type: published
   value: '1977-11-01'
 contributor:
 - organization:
-    name: Internet Engineering Task Force
+    name:
+    - Internet Engineering Task Force
     abbreviation: IETF
-  role: publisher
+  role:
+  - publisher
 - organization:
-    name: National Institute of Standards and Technology
-  role: author
+    name:
+    - National Institute of Standards and Technology
+  role:
+  - author
 revdate: '1977-11-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 series:
-  type: main
+- type: main
   title:
     content: NIST
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
   number: 500-20
-place: Fremont, CA
-fetched: '2022-01-05'
+place:
+- Fremont, CA
+fetched: '2022-01-06'
 doctype: rfc

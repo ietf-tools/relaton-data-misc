@@ -1,11 +1,13 @@
 ---
 id: OASISsstc-saml-tech-overview-2.0-draft-10
 title:
-  content: |-
+- content: |-
     Security Assertion Markup Language
                 (SAML) V2.0 Technical Overview
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 type: standard
 docid:
@@ -16,96 +18,123 @@ docid:
   scope: anchor
 docnumber: sstc-saml-tech-overview-2.0-draft-10
 date:
-  type: published
+- type: published
   value: '2006-10-01'
 contributor:
 - organization:
-    name: Internet Engineering Task Force
+    name:
+    - Internet Engineering Task Force
     abbreviation: IETF
-  role: publisher
+  role:
+  - publisher
 - person:
     name:
       initial:
-        content: N.
-        language: en
+      - content: N.
+        language:
+        - en
       surname:
         content: Ragouzis
-        language: en
+        language:
+        - en
       completename:
         content: Nick Ragouzis
-        language: en
+        language:
+        - en
     affiliation:
-      organization:
-        name: Enosis Group LLC
+    - organization:
+        name:
+        - Enosis Group LLC
     contact:
-      type: email
+    - type: email
       value: ''
-  role: author
+  role:
+  - author
 - person:
     name:
       initial:
-        content: J.
-        language: en
+      - content: J.
+        language:
+        - en
       surname:
         content: Hughes
-        language: en
+        language:
+        - en
       completename:
         content: John Hughes
-        language: en
+        language:
+        - en
     affiliation:
-      organization:
-        name: PA Consulting
+    - organization:
+        name:
+        - PA Consulting
     contact:
-      type: email
+    - type: email
       value: ''
-  role: author
+  role:
+  - author
 - person:
     name:
       initial:
-        content: R.
-        language: en
+      - content: R.
+        language:
+        - en
       surname:
         content: Philpott
-        language: en
+        language:
+        - en
       completename:
         content: Rob Philpott
-        language: en
+        language:
+        - en
     affiliation:
-      organization:
-        name: RSA Security
+    - organization:
+        name:
+        - RSA Security
     contact:
-      type: email
+    - type: email
       value: ''
-  role: author
+  role:
+  - author
 - person:
     name:
       initial:
-        content: E.
-        language: en
+      - content: E.
+        language:
+        - en
       surname:
         content: Maler
-        language: en
+        language:
+        - en
       completename:
         content: Eve Maler
-        language: en
+        language:
+        - en
     affiliation:
-      organization:
-        name: Sun Microsystems
+    - organization:
+        name:
+        - Sun Microsystems
     contact:
-      type: email
+    - type: email
       value: eve.maler@sun.com
-  role: author
+  role:
+  - author
 revdate: '2006-10-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 series:
-  type: main
+- type: main
   title:
     content: OASIS SSTC Working Draft
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
   number: sstc-saml-tech-overview-2.0-draft-10
-place: Fremont, CA
-fetched: '2022-01-05'
+place:
+- Fremont, CA
+fetched: '2022-01-06'
 doctype: rfc

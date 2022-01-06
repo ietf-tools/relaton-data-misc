@@ -1,12 +1,14 @@
 ---
 id: NISTSP.800-185
 title:
-  content: 'SHA-3 Derived Functions: cSHAKE, KMAC, TupleHash and ParallelHash'
-  language: en
-  script: Latn
+- content: 'SHA-3 Derived Functions: cSHAKE, KMAC, TupleHash and ParallelHash'
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-185.pdf
+- content: http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-185.pdf
   type: src
 type: standard
 docid:
@@ -19,69 +21,91 @@ docid:
   type: DOI
 docnumber: SP.800-185
 date:
-  type: published
+- type: published
   value: '2016-12-01'
 contributor:
 - organization:
-    name: Internet Engineering Task Force
+    name:
+    - Internet Engineering Task Force
     abbreviation: IETF
-  role: publisher
+  role:
+  - publisher
 - person:
     name:
       initial:
-        content: J.
-        language: en
+      - content: J.
+        language:
+        - en
       surname:
         content: Kelsey
-        language: en
+        language:
+        - en
       completename:
         content: John Kelsey
-        language: en
+        language:
+        - en
     affiliation:
-      organization:
-        name: National Institute of Standards and Technology
-  role: author
+    - organization:
+        name:
+        - National Institute of Standards and Technology
+  role:
+  - author
 - person:
     name:
       initial:
-        content: S.
-        language: en
+      - content: S.
+        language:
+        - en
       surname:
         content: Change
-        language: en
+        language:
+        - en
       completename:
         content: Shu-jen Change
-        language: en
+        language:
+        - en
     affiliation:
-      organization:
-        name: National Institute of Standards and Technology
-  role: author
+    - organization:
+        name:
+        - National Institute of Standards and Technology
+  role:
+  - author
 - person:
     name:
       initial:
-        content: R.
-        language: en
+      - content: R.
+        language:
+        - en
       surname:
         content: Perlner
-        language: en
+        language:
+        - en
       completename:
         content: Ray Perlner
-        language: en
+        language:
+        - en
     affiliation:
-      organization:
-        name: National Institute of Standards and Technology
-  role: author
+    - organization:
+        name:
+        - National Institute of Standards and Technology
+  role:
+  - author
 revdate: '2016-12-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 series:
-  type: main
+- type: main
   title:
     content: NIST Special Publication
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
   number: SP 800-185
-place: Fremont, CA
-fetched: '2022-01-05'
+place:
+- Fremont, CA
+fetched: '2022-01-06'
 doctype: rfc

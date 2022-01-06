@@ -1,12 +1,14 @@
 ---
 id: W3CDSig-label
 title:
-  content: PICS Signed Labels (DSig) 1.0 Specification
-  language: en
-  script: Latn
+- content: PICS Signed Labels (DSig) 1.0 Specification
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://www.w3.org/TR/REC-DSig-label
+- content: http://www.w3.org/TR/REC-DSig-label
   type: src
 type: standard
 docid:
@@ -17,96 +19,123 @@ docid:
   scope: anchor
 docnumber: DSig-label
 date:
-  type: published
+- type: published
   value: '1998-05-27'
 contributor:
 - organization:
-    name: Internet Engineering Task Force
+    name:
+    - Internet Engineering Task Force
     abbreviation: IETF
-  role: publisher
+  role:
+  - publisher
 - person:
     name:
       initial:
-        content: Y.
-        language: en
+      - content: Y.
+        language:
+        - en
       surname:
         content: 'Chu '
-        language: en
+        language:
+        - en
       completename:
         content: Yang-hua Chu
-        language: en
+        language:
+        - en
     affiliation:
-      organization:
-        name: Carnegie Mellon University, Department of Computer Science
+    - organization:
+        name:
+        - Carnegie Mellon University, Department of Computer Science
     contact:
-      type: email
+    - type: email
       value: yhchu@cs.cmu.edu
-  role: author
+  role:
+  - author
 - person:
     name:
       initial:
-        content: P.
-        language: en
+      - content: P.
+        language:
+        - en
       surname:
         content: DesAutels
-        language: en
+        language:
+        - en
       completename:
         content: Philip DesAutels
-        language: en
+        language:
+        - en
     affiliation:
-      organization:
-        name: MatchLogic, Inc.
+    - organization:
+        name:
+        - MatchLogic, Inc.
     contact:
-      type: email
+    - type: email
       value: philipd@matchlogic.com
-  role: author
+  role:
+  - author
 - person:
     name:
       initial:
-        content: B.
-        language: en
+      - content: B.
+        language:
+        - en
       surname:
         content: LaMacchia
-        language: en
+        language:
+        - en
       completename:
         content: Brian LaMacchia
-        language: en
+        language:
+        - en
     affiliation:
-      organization:
-        name: Microsoft Corporation
+    - organization:
+        name:
+        - Microsoft Corporation
     contact:
-      type: email
+    - type: email
       value: bal@microsoft.com
-  role: author
+  role:
+  - author
 - person:
     name:
       initial:
-        content: P.
-        language: en
+      - content: P.
+        language:
+        - en
       surname:
         content: Lipp
-        language: en
+        language:
+        - en
       completename:
         content: Peter Lipp
-        language: en
+        language:
+        - en
     affiliation:
-      organization:
-        name: IAIK, University of Technology, Graz
+    - organization:
+        name:
+        - IAIK, University of Technology, Graz
     contact:
-      type: email
+    - type: email
       value: plipp@iaik.tu-graz.ac.at
-  role: author
+  role:
+  - author
 revdate: '1998-05-27'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 series:
-  type: main
+- type: main
   title:
     content: W3C Recommendation
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
   number: REC-DSig-label
-place: Fremont, CA
-fetched: '2022-01-05'
+place:
+- Fremont, CA
+fetched: '2022-01-06'
 doctype: rfc

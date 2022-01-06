@@ -1,12 +1,14 @@
 ---
 id: W3CREC-rdf-syntax
 title:
-  content: Resource Description Framework (RDF) Model and Syntax Specification
-  language: en
-  script: Latn
+- content: Resource Description Framework (RDF) Model and Syntax Specification
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://www.w3.org/TR/REC-rdf-syntax
+- content: http://www.w3.org/TR/REC-rdf-syntax
   type: src
 type: standard
 docid:
@@ -17,45 +19,56 @@ docid:
   scope: anchor
 docnumber: REC-rdf-syntax
 date:
-  type: published
+- type: published
   value: '1999-02-22'
 contributor:
 - organization:
-    name: Internet Engineering Task Force
+    name:
+    - Internet Engineering Task Force
     abbreviation: IETF
-  role: publisher
+  role:
+  - publisher
 - person:
     name:
       initial:
-        content: O.
-        language: en
+      - content: O.
+        language:
+        - en
       surname:
         content: Lassila
-        language: en
+        language:
+        - en
       completename:
         content: Ora Lassila
-        language: en
+        language:
+        - en
     affiliation:
-      organization:
-        name: Nokia Research Centre
+    - organization:
+        name:
+        - Nokia Research Centre
     contact:
-      type: email
+    - type: email
       value: ora.lassila@research.nokia.com
-  role: author
+  role:
+  - author
 - person:
     name:
       initial:
-        content: R.
-        language: en
+      - content: R.
+        language:
+        - en
       surname:
         content: Swick
-        language: en
+        language:
+        - en
       completename:
         content: Ralph Swick
-        language: en
+        language:
+        - en
     affiliation:
-      organization:
-        name: World Wide Web Consortium
+    - organization:
+        name:
+        - World Wide Web Consortium
         abbreviation: W3C
     contact:
     - street:
@@ -70,18 +83,24 @@ contributor:
       value: swick@w3.org
     - type: uri
       value: http://www.w3c.org
-  role: author
+  role:
+  - author
 revdate: '1999-02-22'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 series:
-  type: main
+- type: main
   title:
     content: W3C
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
   number: REC-rdf-syntax
-place: Fremont, CA
-fetched: '2022-01-05'
+place:
+- Fremont, CA
+fetched: '2022-01-06'
 doctype: rfc

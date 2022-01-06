@@ -1,15 +1,17 @@
 ---
 id: IEEE802-11I.2004
 title:
-  content: 'Information technology - Telecommunications and information exchange between
+- content: 'Information technology - Telecommunications and information exchange between
     systems - Local and metropolitan area networks - Specific requirements - Part
     11: Wireless LAN Medium Access Control (MAC) and Physical Layer (PHY) specifications
     Amendment 6: Medium Access Control (MAC) Security Enhancements'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://standards.ieee.org/getieee802/download/802.11i-2004.pdf
+- content: http://standards.ieee.org/getieee802/download/802.11i-2004.pdf
   type: src
 type: standard
 docid:
@@ -20,27 +22,36 @@ docid:
   scope: anchor
 docnumber: 802-11I.2004
 date:
-  type: published
+- type: published
   value: '2004-07-01'
 contributor:
 - organization:
-    name: Internet Engineering Task Force
+    name:
+    - Internet Engineering Task Force
     abbreviation: IETF
-  role: publisher
+  role:
+  - publisher
 - organization:
-    name: ''
-  role: author
+    name:
+    - ''
+  role:
+  - author
 revdate: '2004-07-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 series:
-  type: main
+- type: main
   title:
     content: IEEE
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
   number: Standard 802.11i
-place: Fremont, CA
-fetched: '2022-01-05'
+place:
+- Fremont, CA
+fetched: '2022-01-06'
 doctype: ieee

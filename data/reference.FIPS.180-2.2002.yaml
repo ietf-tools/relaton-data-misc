@@ -1,12 +1,14 @@
 ---
 id: FIPS180-2.2002
 title:
-  content: Secure Hash Standard
-  language: en
-  script: Latn
+- content: Secure Hash Standard
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://csrc.nist.gov/publications/fips/fips180-2/fips180-2.pdf
+- content: http://csrc.nist.gov/publications/fips/fips180-2/fips180-2.pdf
   type: src
 type: standard
 docid:
@@ -17,27 +19,36 @@ docid:
   scope: anchor
 docnumber: 180-2.2002
 date:
-  type: published
+- type: published
   value: '2002-08-01'
 contributor:
 - organization:
-    name: Internet Engineering Task Force
+    name:
+    - Internet Engineering Task Force
     abbreviation: IETF
-  role: publisher
+  role:
+  - publisher
 - organization:
-    name: National Institute of Standards and Technology
-  role: author
+    name:
+    - National Institute of Standards and Technology
+  role:
+  - author
 revdate: '2002-08-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 series:
-  type: main
+- type: main
   title:
     content: FIPS
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
   number: PUB 180-2
-place: Fremont, CA
-fetched: '2022-01-05'
+place:
+- Fremont, CA
+fetched: '2022-01-06'
 doctype: rfc

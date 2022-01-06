@@ -1,10 +1,12 @@
 ---
 id: ISO9595.1988
 title:
-  content: 'Information Processing Systems - Open Systems Interconnection, Management
+- content: 'Information Processing Systems - Open Systems Interconnection, Management
     Information Service Definition - Part 2: Common Management Information Service'
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 type: standard
 docid:
@@ -15,27 +17,36 @@ docid:
   scope: anchor
 docnumber: '9595.1988'
 date:
-  type: published
+- type: published
   value: '1988-12-22'
 contributor:
 - organization:
-    name: Internet Engineering Task Force
+    name:
+    - Internet Engineering Task Force
     abbreviation: IETF
-  role: publisher
+  role:
+  - publisher
 - organization:
-    name: International Organization for Standardization
-  role: author
+    name:
+    - International Organization for Standardization
+  role:
+  - author
 revdate: '1988-12-22'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 series:
-  type: main
+- type: main
   title:
     content: ISO
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
   number: Standard 9595
-place: Fremont, CA
-fetched: '2022-01-05'
+place:
+- Fremont, CA
+fetched: '2022-01-06'
 doctype: rfc

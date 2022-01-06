@@ -1,12 +1,14 @@
 ---
 id: W3CPICS-rules
 title:
-  content: PICSRules 1.1
-  language: en
-  script: Latn
+- content: PICSRules 1.1
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://www.w3.org/TR/REC-PICSRules
+- content: http://www.w3.org/TR/REC-PICSRules
   type: src
 type: standard
 docid:
@@ -17,116 +19,148 @@ docid:
   scope: anchor
 docnumber: PICS-rules
 date:
-  type: published
+- type: published
   value: '1997-12-29'
 contributor:
 - organization:
-    name: Internet Engineering Task Force
+    name:
+    - Internet Engineering Task Force
     abbreviation: IETF
-  role: publisher
+  role:
+  - publisher
 - person:
     name:
       initial:
-        content: C.
-        language: en
+      - content: C.
+        language:
+        - en
       surname:
         content: Evans
-        language: en
+        language:
+        - en
       completename:
         content: Christopher Evans
-        language: en
+        language:
+        - en
     affiliation:
-      organization:
-        name: Microsoft
+    - organization:
+        name:
+        - Microsoft
         abbreviation: W3C
     contact:
-      type: email
+    - type: email
       value: cevans@microsoft.com
-  role: author
+  role:
+  - author
 - person:
     name:
       initial:
-        content: C.D.W.
-        language: en
+      - content: C.D.W.
+        language:
+        - en
       surname:
         content: Feather
-        language: en
+        language:
+        - en
       completename:
         content: Clive D.W. Feather
-        language: en
+        language:
+        - en
     affiliation:
-      organization:
-        name: Demon Internet Ltd.
+    - organization:
+        name:
+        - Demon Internet Ltd.
         abbreviation: W3C
     contact:
-      type: email
+    - type: email
       value: clive@demon.net
-  role: author
+  role:
+  - author
 - person:
     name:
       initial:
-        content: A.
-        language: en
+      - content: A.
+        language:
+        - en
       surname:
         content: Hopmann
-        language: en
+        language:
+        - en
       completename:
         content: Alex Hopmann
-        language: en
+        language:
+        - en
     affiliation:
-      organization:
-        name: Microsoft
+    - organization:
+        name:
+        - Microsoft
     contact:
-      type: email
+    - type: email
       value: alexhop@microsoft.com
-  role: author
+  role:
+  - author
 - person:
     name:
       initial:
-        content: M.
-        language: en
+      - content: M.
+        language:
+        - en
       surname:
         content: Presler-Marshall
-        language: en
+        language:
+        - en
       completename:
         content: Martin Presler-Marshall
-        language: en
+        language:
+        - en
     affiliation:
-      organization:
-        name: IBM
+    - organization:
+        name:
+        - IBM
     contact:
-      type: email
+    - type: email
       value: mpresler@us.ibm.com
-  role: author
+  role:
+  - author
 - person:
     name:
       initial:
-        content: P.
-        language: en
+      - content: P.
+        language:
+        - en
       surname:
         content: Resnick
-        language: en
+        language:
+        - en
       completename:
         content: Paul Resnick
-        language: en
+        language:
+        - en
     affiliation:
-      organization:
-        name: AT&T
+    - organization:
+        name:
+        - AT&T
     contact:
-      type: email
+    - type: email
       value: presnick@research.att.com
-  role: author
+  role:
+  - author
 revdate: '1997-12-29'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 series:
-  type: main
+- type: main
   title:
     content: W3C Recommendation
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
   number: REC-PICSRules
-place: Fremont, CA
-fetched: '2022-01-05'
+place:
+- Fremont, CA
+fetched: '2022-01-06'
 doctype: rfc

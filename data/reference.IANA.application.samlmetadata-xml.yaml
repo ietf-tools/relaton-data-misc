@@ -1,10 +1,12 @@
 ---
 id: IANAapplication.samlmetadata-xml
 title:
-  content: "\n            application/samlmetadata+xml MIME Media Type Registration\n
+- content: "\n            application/samlmetadata+xml MIME Media Type Registration\n
     \       "
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 type: standard
 docid:
@@ -15,39 +17,51 @@ docid:
   scope: anchor
 docnumber: application.samlmetadata-xml
 date:
-  type: published
+- type: published
   value: '2004-12-01'
 contributor:
 - organization:
-    name: Internet Engineering Task Force
+    name:
+    - Internet Engineering Task Force
     abbreviation: IETF
-  role: publisher
+  role:
+  - publisher
 - person:
     name:
       initial:
-        content: ''
-        language: en
+      - content: ''
+        language:
+        - en
       surname:
         content: OASIS Security Services Technical Committee (SSTC)
-        language: en
+        language:
+        - en
       completename:
         content: ''
-        language: en
+        language:
+        - en
     affiliation:
-      organization:
-        name: OASIS SSTC
-  role: author
+    - organization:
+        name:
+        - OASIS SSTC
+  role:
+  - author
 revdate: '2004-12-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 series:
-  type: main
+- type: main
   title:
     content: IANA MIME Media Types Registry
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
   number: application/samlmetadata+xml
-place: Fremont, CA
-fetched: '2022-01-05'
+place:
+- Fremont, CA
+fetched: '2022-01-06'
 doctype: rfc

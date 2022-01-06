@@ -1,11 +1,13 @@
 ---
 id: ANSIX3-28.1976
 title:
-  content: Procedures for the Use of the Communication Control Characters of American
+- content: Procedures for the Use of the Communication Control Characters of American
     National Standard Code for Information Interchange in Specified Data Communication
     Links
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 type: standard
 docid:
@@ -16,27 +18,36 @@ docid:
   scope: anchor
 docnumber: X3-28.1976
 date:
-  type: published
+- type: published
   value: '1976-01-01'
 contributor:
 - organization:
-    name: Internet Engineering Task Force
+    name:
+    - Internet Engineering Task Force
     abbreviation: IETF
-  role: publisher
+  role:
+  - publisher
 - organization:
-    name: American National Standards Institute
-  role: author
+    name:
+    - American National Standards Institute
+  role:
+  - author
 revdate: '1976-01-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 series:
-  type: main
+- type: main
   title:
     content: ANSI
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
   number: X3.28
-place: Fremont, CA
-fetched: '2022-01-05'
+place:
+- Fremont, CA
+fetched: '2022-01-06'
 doctype: rfc

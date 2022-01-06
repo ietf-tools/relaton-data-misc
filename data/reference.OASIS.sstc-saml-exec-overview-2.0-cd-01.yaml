@@ -1,9 +1,11 @@
 ---
 id: OASISsstc-saml-exec-overview-2.0-cd-01
 title:
-  content: SAML V2.0 Executive Overview
-  language: en
-  script: Latn
+- content: SAML V2.0 Executive Overview
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 type: standard
 docid:
@@ -14,60 +16,77 @@ docid:
   scope: anchor
 docnumber: sstc-saml-exec-overview-2.0-cd-01
 date:
-  type: published
+- type: published
   value: '2005-04-01'
 contributor:
 - organization:
-    name: Internet Engineering Task Force
+    name:
+    - Internet Engineering Task Force
     abbreviation: IETF
-  role: publisher
+  role:
+  - publisher
 - person:
     name:
       initial:
-        content: P.
-        language: en
+      - content: P.
+        language:
+        - en
       surname:
         content: Madsen
-        language: en
+        language:
+        - en
       completename:
         content: Paul Madsen
-        language: en
+        language:
+        - en
     affiliation:
-      organization:
-        name: NTT
+    - organization:
+        name:
+        - NTT
     contact:
-      type: email
+    - type: email
       value: paulmadsen@rogers.com
-  role: author
+  role:
+  - author
 - person:
     name:
       initial:
-        content: E.
-        language: en
+      - content: E.
+        language:
+        - en
       surname:
         content: Maler
-        language: en
+        language:
+        - en
       completename:
         content: Eve Maler
-        language: en
+        language:
+        - en
     affiliation:
-      organization:
-        name: Sun Microsystems
+    - organization:
+        name:
+        - Sun Microsystems
     contact:
-      type: email
+    - type: email
       value: eve.maler@sun.com
-  role: author
+  role:
+  - author
 revdate: '2005-04-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 series:
-  type: main
+- type: main
   title:
     content: OASIS SSTC Committee Draft
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
   number: sstc-saml-exec-overview-2.0-cd-01
-place: Fremont, CA
-fetched: '2022-01-05'
+place:
+- Fremont, CA
+fetched: '2022-01-06'
 doctype: rfc

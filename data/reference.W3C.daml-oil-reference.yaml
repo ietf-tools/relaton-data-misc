@@ -1,12 +1,14 @@
 ---
 id: W3Cdaml+oil-reference
 title:
-  content: DAML+OIL (March 2001) Reference Description
-  language: en
-  script: Latn
+- content: DAML+OIL (March 2001) Reference Description
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://www.w3.org/TR/daml+oil-reference
+- content: http://www.w3.org/TR/daml+oil-reference
   type: src
 type: standard
 docid:
@@ -17,99 +19,131 @@ docid:
   scope: anchor
 docnumber: daml+oil-reference
 date:
-  type: published
+- type: published
   value: '2001-12-18'
 contributor:
 - organization:
-    name: Internet Engineering Task Force
+    name:
+    - Internet Engineering Task Force
     abbreviation: IETF
-  role: publisher
+  role:
+  - publisher
 - person:
     name:
       initial:
-        content: D.
-        language: en
+      - content: D.
+        language:
+        - en
       surname:
         content: Connolly
-        language: en
+        language:
+        - en
       completename:
         content: Dan Connolly
-        language: en
+        language:
+        - en
     affiliation:
-      organization:
-        name: W3C
-  role: author
+    - organization:
+        name:
+        - W3C
+  role:
+  - author
 - person:
     name:
       initial:
-        content: F.
-        language: en
+      - content: F.
+        language:
+        - en
       surname:
         content: van Harmelen
-        language: en
+        language:
+        - en
       completename:
         content: Frank van Harmelen
-        language: en
-  role: author
+        language:
+        - en
+  role:
+  - author
 - person:
     name:
       initial:
-        content: I.
-        language: en
+      - content: I.
+        language:
+        - en
       surname:
         content: Horrocks
-        language: en
+        language:
+        - en
       completename:
         content: Ian Horrocks
-        language: en
-  role: author
+        language:
+        - en
+  role:
+  - author
 - person:
     name:
       initial:
-        content: D.L.
-        language: en
+      - content: D.L.
+        language:
+        - en
       surname:
         content: McGuinness
-        language: en
+        language:
+        - en
       completename:
         content: Deborah L. McGuinness
-        language: en
-  role: author
+        language:
+        - en
+  role:
+  - author
 - person:
     name:
       initial:
-        content: P.F.
-        language: en
+      - content: P.F.
+        language:
+        - en
       surname:
         content: Patel-Schneider
-        language: en
+        language:
+        - en
       completename:
         content: Peter F. Patel-Schneider
-        language: en
-  role: author
+        language:
+        - en
+  role:
+  - author
 - person:
     name:
       initial:
-        content: L.A.
-        language: en
+      - content: L.A.
+        language:
+        - en
       surname:
         content: Stein
-        language: en
+        language:
+        - en
       completename:
         content: Lynn Andrea Stein
-        language: en
-  role: author
+        language:
+        - en
+  role:
+  - author
 revdate: '2001-12-18'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 series:
-  type: main
+- type: main
   title:
     content: W3C Note
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
   number: daml+oil-reference
-place: Fremont, CA
-fetched: '2022-01-05'
+place:
+- Fremont, CA
+fetched: '2022-01-06'
 doctype: rfc

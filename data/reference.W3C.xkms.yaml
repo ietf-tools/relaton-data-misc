@@ -1,12 +1,14 @@
 ---
 id: W3Cxkms
 title:
-  content: XML Key Management Specification (XKMS)
-  language: en
-  script: Latn
+- content: XML Key Management Specification (XKMS)
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://www.w3.org/TR/xkms/
+- content: http://www.w3.org/TR/xkms/
   type: src
 type: standard
 docid:
@@ -17,150 +19,192 @@ docid:
   scope: anchor
 docnumber: xkms
 date:
-  type: published
+- type: published
   value: '2001-03-30'
 contributor:
 - organization:
-    name: Internet Engineering Task Force
+    name:
+    - Internet Engineering Task Force
     abbreviation: IETF
-  role: publisher
+  role:
+  - publisher
 - person:
     name:
       initial:
-        content: W.
-        language: en
+      - content: W.
+        language:
+        - en
       surname:
         content: Ford
-        language: en
+        language:
+        - en
       completename:
         content: Warwick Ford
-        language: en
+        language:
+        - en
     affiliation:
-      organization:
-        name: VeriSign
+    - organization:
+        name:
+        - VeriSign
     contact:
-      type: email
+    - type: email
       value: wford@verisign.com
-  role: author
+  role:
+  - author
 - person:
     name:
       initial:
-        content: P.
-        language: en
+      - content: P.
+        language:
+        - en
       surname:
         content: Hallam-Baker
-        language: en
+        language:
+        - en
       completename:
         content: Phillip Hallam-Baker
-        language: en
+        language:
+        - en
     affiliation:
-      organization:
-        name: VeriSign
+    - organization:
+        name:
+        - VeriSign
     contact:
-      type: email
+    - type: email
       value: pbaker@verisign.com
-  role: author
+  role:
+  - author
 - person:
     name:
       initial:
-        content: B.
-        language: en
+      - content: B.
+        language:
+        - en
       surname:
         content: Fox
-        language: en
+        language:
+        - en
       completename:
         content: Barbara Fox
-        language: en
+        language:
+        - en
     affiliation:
-      organization:
-        name: Microsoft
+    - organization:
+        name:
+        - Microsoft
     contact:
-      type: email
+    - type: email
       value: bfox@EXCHANGE.MICROSOFT.com
-  role: author
+  role:
+  - author
 - person:
     name:
       initial:
-        content: B.
-        language: en
+      - content: B.
+        language:
+        - en
       surname:
         content: Dillaway
-        language: en
+        language:
+        - en
       completename:
         content: Blair Dillaway
-        language: en
+        language:
+        - en
     affiliation:
-      organization:
-        name: Microsoft
+    - organization:
+        name:
+        - Microsoft
     contact:
-      type: email
+    - type: email
       value: blaird@microsoft.com
-  role: author
+  role:
+  - author
 - person:
     name:
       initial:
-        content: B.
-        language: en
+      - content: B.
+        language:
+        - en
       surname:
         content: LaMacchia
-        language: en
+        language:
+        - en
       completename:
         content: Brian LaMacchia
-        language: en
+        language:
+        - en
     affiliation:
-      organization:
-        name: Microsoft
+    - organization:
+        name:
+        - Microsoft
     contact:
-      type: email
+    - type: email
       value: bal@microsoft.com
-  role: author
+  role:
+  - author
 - person:
     name:
       initial:
-        content: J.
-        language: en
+      - content: J.
+        language:
+        - en
       surname:
         content: Epstein
-        language: en
+        language:
+        - en
       completename:
         content: Jeremy Epstein
-        language: en
+        language:
+        - en
     affiliation:
-      organization:
-        name: webMethods
+    - organization:
+        name:
+        - webMethods
     contact:
-      type: email
+    - type: email
       value: jepstein@webmethods.com
-  role: author
+  role:
+  - author
 - person:
     name:
       initial:
-        content: J.
-        language: en
+      - content: J.
+        language:
+        - en
       surname:
         content: Lapp
-        language: en
+        language:
+        - en
       completename:
         content: Joe Lapp
-        language: en
+        language:
+        - en
     affiliation:
-      organization:
-        name: webMethods
+    - organization:
+        name:
+        - webMethods
     contact:
-      type: email
+    - type: email
       value: jlapp@webmethods.com
-  role: author
+  role:
+  - author
 revdate: '2001-03-30'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 series:
-  type: main
+- type: main
   title:
     content: W3C Note
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
   number: xkms
-place: Fremont, CA
-fetched: '2022-01-05'
+place:
+- Fremont, CA
+fetched: '2022-01-06'
 doctype: rfc

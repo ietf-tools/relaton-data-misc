@@ -1,13 +1,15 @@
 ---
 id: CCITTF401.1992
 title:
-  content: Message Handling Services - Operations and Definitions of Service - Naming
+- content: Message Handling Services - Operations and Definitions of Service - Naming
     and Addressing for Public Message Handling Services, Annex B
-  language: en
-  script: Latn
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: gopher://info.itu.ch/9/.1/ITUdoc/.dirtree/.1/.itu- t/.rec/.f/.23068/.7724.zip
+- content: gopher://info.itu.ch/9/.1/ITUdoc/.dirtree/.1/.itu- t/.rec/.f/.23068/.7724.zip
   type: src
 type: standard
 docid:
@@ -18,27 +20,36 @@ docid:
   scope: anchor
 docnumber: F401.1992
 date:
-  type: published
+- type: published
   value: '1992-08-01'
 contributor:
 - organization:
-    name: Internet Engineering Task Force
+    name:
+    - Internet Engineering Task Force
     abbreviation: IETF
-  role: publisher
+  role:
+  - publisher
 - organization:
-    name: International Telephone and Telegraph Consultative Committee
-  role: author
+    name:
+    - International Telephone and Telegraph Consultative Committee
+  role:
+  - author
 revdate: '1992-08-01'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 series:
-  type: main
+- type: main
   title:
     content: CCITT
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
   number: Recommendation F.401
-place: Fremont, CA
-fetched: '2022-01-05'
+place:
+- Fremont, CA
+fetched: '2022-01-06'
 doctype: rfc

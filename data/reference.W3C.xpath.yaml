@@ -1,12 +1,14 @@
 ---
 id: W3Cxpath
 title:
-  content: XML Path Language (XPath) Version 1.0
-  language: en
-  script: Latn
+- content: XML Path Language (XPath) Version 1.0
+  language:
+  - en
+  script:
+  - Latn
   format: text/plain
 link:
-  content: http://www.w3.org/TR/xpath
+- content: http://www.w3.org/TR/xpath
   type: src
 type: standard
 docid:
@@ -17,60 +19,77 @@ docid:
   scope: anchor
 docnumber: xpath
 date:
-  type: published
+- type: published
   value: '1999-11-16'
 contributor:
 - organization:
-    name: Internet Engineering Task Force
+    name:
+    - Internet Engineering Task Force
     abbreviation: IETF
-  role: publisher
+  role:
+  - publisher
 - person:
     name:
       initial:
-        content: J.
-        language: en
+      - content: J.
+        language:
+        - en
       surname:
         content: Clark
-        language: en
+        language:
+        - en
       completename:
         content: James Clark
-        language: en
+        language:
+        - en
     affiliation:
-      organization:
-        name: "\n      "
+    - organization:
+        name:
+        - "\n      "
     contact:
-      type: email
+    - type: email
       value: jjc@jclark.com
-  role: author
+  role:
+  - author
 - person:
     name:
       initial:
-        content: S.
-        language: en
+      - content: S.
+        language:
+        - en
       surname:
         content: DeRose
-        language: en
+        language:
+        - en
       completename:
         content: Steve DeRose
-        language: en
+        language:
+        - en
     affiliation:
-      organization:
-        name: "\n      "
+    - organization:
+        name:
+        - "\n      "
     contact:
-      type: email
+    - type: email
       value: Steven_DeRose@Brown.edu
-  role: author
+  role:
+  - author
 revdate: '1999-11-16'
-language: en
-script: Latn
+language:
+- en
+script:
+- Latn
 series:
-  type: main
+- type: main
   title:
     content: W3C Recommendation
-    language: en
-    script: Latn
+    language:
+    - en
+    script:
+    - Latn
     format: text/plain
   number: xpath
-place: Fremont, CA
-fetched: '2022-01-05'
+place:
+- Fremont, CA
+fetched: '2022-01-06'
 doctype: rfc
