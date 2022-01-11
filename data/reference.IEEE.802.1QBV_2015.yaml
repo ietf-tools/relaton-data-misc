@@ -33,7 +33,7 @@ contributor:
   - publisher
 - organization:
     name:
-    - IEEE
+    - Istitute of Electrical and Electronics Engineers
   role:
   - author
 revdate: '2016-03-18'
@@ -61,5 +61,5 @@ series:
   number: 802.1Qbv-2015
 place:
 - Fremont, CA
-fetched: '2022-01-10'
+fetched: '2022-01-11'
 doctype: ieee

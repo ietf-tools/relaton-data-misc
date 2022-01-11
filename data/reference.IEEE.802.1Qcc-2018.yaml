@@ -34,7 +34,7 @@ contributor:
   - publisher
 - organization:
     name:
-    - IEEE
+    - Istitute of Electrical and Electronics Engineers
   role:
   - author
 revdate: '2018-10-31'
@@ -62,5 +62,5 @@ series:
   number: 802.1Qcc-2018
 place:
 - Fremont, CA
-fetched: '2022-01-10'
+fetched: '2022-01-11'
 doctype: ieee
