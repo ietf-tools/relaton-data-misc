@@ -18,7 +18,7 @@ docid:
 docnumber: '8601.1988'
 date:
 - type: published
-  value: '1988-06-01'
+  value: 1988-06
 contributor:
 - organization:
     name:
@@ -31,7 +31,7 @@ contributor:
     - International Organization for Standardization
   role:
   - author
-revdate: '1988-06-01'
+revdate: 1988-06
 language:
 - en
 script:
@@ -48,5 +48,5 @@ series:
   number: Standard 8601
 place:
 - Fremont, CA
-fetched: '2022-01-16'
+fetched: '2022-01-17'
 doctype: rfc

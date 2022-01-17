@@ -17,7 +17,7 @@ docid:
 docnumber: 161-1.1993
 date:
 - type: published
-  value: '1993-04-01'
+  value: 1993-04
 contributor:
 - organization:
     name:
@@ -30,7 +30,7 @@ contributor:
     - National Institute of Standards and Technology
   role:
   - author
-revdate: '1993-04-01'
+revdate: 1993-04
 language:
 - en
 script:
@@ -47,5 +47,5 @@ series:
   number: PUB 161-1
 place:
 - Fremont, CA
-fetched: '2022-01-16'
+fetched: '2022-01-17'
 doctype: rfc

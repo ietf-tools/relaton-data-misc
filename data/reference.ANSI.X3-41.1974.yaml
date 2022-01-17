@@ -18,7 +18,7 @@ docid:
 docnumber: X3-41.1974
 date:
 - type: published
-  value: '1974-01-01'
+  value: '1974'
 contributor:
 - organization:
     name:
@@ -31,7 +31,7 @@ contributor:
     - American National Standards Institute
   role:
   - author
-revdate: '1974-01-01'
+revdate: '1974'
 language:
 - en
 script:
@@ -57,5 +57,5 @@ series:
   number: PUB 35
 place:
 - Fremont, CA
-fetched: '2022-01-16'
+fetched: '2022-01-17'
 doctype: rfc

@@ -17,7 +17,7 @@ docid:
 docnumber: '1394.1995'
 date:
 - type: published
-  value: '1995-01-01'
+  value: '1995'
 contributor:
 - organization:
     name:
@@ -30,7 +30,7 @@ contributor:
     - ''
   role:
   - author
-revdate: '1995-01-01'
+revdate: '1995'
 language:
 - en
 script:
@@ -47,5 +47,5 @@ series:
   number: Standard 1394
 place:
 - Fremont, CA
-fetched: '2022-01-16'
+fetched: '2022-01-17'
 doctype: ieee

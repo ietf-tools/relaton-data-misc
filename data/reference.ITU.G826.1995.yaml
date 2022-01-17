@@ -18,7 +18,7 @@ docid:
 docnumber: G826.1995
 date:
 - type: published
-  value: '1995-09-01'
+  value: 1995-09
 contributor:
 - organization:
     name:
@@ -31,7 +31,7 @@ contributor:
     - International Telecommunications Union
   role:
   - author
-revdate: '1995-09-01'
+revdate: 1995-09
 language:
 - en
 script:
@@ -48,5 +48,5 @@ series:
   number: Recommendation G.826
 place:
 - Fremont, CA
-fetched: '2022-01-16'
+fetched: '2022-01-17'
 doctype: rfc

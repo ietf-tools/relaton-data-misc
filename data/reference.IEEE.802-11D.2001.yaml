@@ -21,6 +21,9 @@ docid:
   type: IETF
   scope: anchor
 docnumber: 802-11D.2001
+date:
+- type: published
+  value: 2001-00
 contributor:
 - organization:
     name:
@@ -33,6 +36,7 @@ contributor:
     - ''
   role:
   - author
+revdate: 2001-00
 language:
 - en
 script:
@@ -49,5 +53,5 @@ series:
   number: Standard 802.11d
 place:
 - Fremont, CA
-fetched: '2022-01-16'
+fetched: '2022-01-17'
 doctype: ieee

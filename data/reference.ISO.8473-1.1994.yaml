@@ -17,7 +17,7 @@ docid:
 docnumber: 8473-1.1994
 date:
 - type: published
-  value: '1994-01-01'
+  value: '1994'
 contributor:
 - organization:
     name:
@@ -30,7 +30,7 @@ contributor:
     - International Organization for Standardization
   role:
   - author
-revdate: '1994-01-01'
+revdate: '1994'
 language:
 - en
 script:
@@ -47,5 +47,5 @@ series:
   number: Standard 8473-1
 place:
 - Fremont, CA
-fetched: '2022-01-16'
+fetched: '2022-01-17'
 doctype: rfc

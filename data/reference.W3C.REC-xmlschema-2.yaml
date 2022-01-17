@@ -20,7 +20,7 @@ docid:
 docnumber: REC-xmlschema-2
 date:
 - type: published
-  value: '2001-05-02'
+  value: 2001-05
 contributor:
 - organization:
     name:
@@ -68,7 +68,7 @@ contributor:
         - Microsoft
   role:
   - author
-revdate: '2001-05-02'
+revdate: 2001-05
 language:
 - en
 script:
@@ -85,5 +85,5 @@ series:
   number: REC-xmlschema-2
 place:
 - Fremont, CA
-fetched: '2022-01-16'
+fetched: '2022-01-17'
 doctype: rfc

@@ -20,6 +20,9 @@ docid:
   type: IETF
   scope: anchor
 docnumber: 802-11F.2003
+date:
+- type: published
+  value: 2003-00
 contributor:
 - organization:
     name:
@@ -32,6 +35,7 @@ contributor:
     - ''
   role:
   - author
+revdate: 2003-00
 language:
 - en
 script:
@@ -48,5 +52,5 @@ series:
   number: Standard 802.11f
 place:
 - Fremont, CA
-fetched: '2022-01-16'
+fetched: '2022-01-17'
 doctype: ieee

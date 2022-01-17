@@ -17,7 +17,7 @@ docid:
 docnumber: '2014.1975'
 date:
 - type: published
-  value: '1975-01-01'
+  value: '1975'
 contributor:
 - organization:
     name:
@@ -30,7 +30,7 @@ contributor:
     - International Organization for Standardization
   role:
   - author
-revdate: '1975-01-01'
+revdate: '1975'
 language:
 - en
 script:
@@ -47,5 +47,5 @@ series:
   number: Standard 2014
 place:
 - Fremont, CA
-fetched: '2022-01-16'
+fetched: '2022-01-17'
 doctype: rfc

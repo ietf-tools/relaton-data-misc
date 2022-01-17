@@ -19,7 +19,7 @@ docid:
 docnumber: sstc-saml-tech-overview-2.0-draft-16
 date:
 - type: published
-  value: '2008-05-01'
+  value: 2008-05
 contributor:
 - organization:
     name:
@@ -165,7 +165,7 @@ contributor:
       value: trscavo@gmail.com
   role:
   - author
-revdate: '2008-05-01'
+revdate: 2008-05
 language:
 - en
 script:
@@ -182,5 +182,5 @@ series:
   number: sstc-saml-tech-overview-2.0-draft-16
 place:
 - Fremont, CA
-fetched: '2022-01-16'
+fetched: '2022-01-17'
 doctype: rfc

@@ -20,7 +20,7 @@ docid:
 docnumber: 46-2.1993
 date:
 - type: published
-  value: '1993-12-01'
+  value: 1993-12
 contributor:
 - organization:
     name:
@@ -33,7 +33,7 @@ contributor:
     - National Institute of Standards and Technology
   role:
   - author
-revdate: '1993-12-01'
+revdate: 1993-12
 language:
 - en
 script:
@@ -50,5 +50,5 @@ series:
   number: PUB 46-2
 place:
 - Fremont, CA
-fetched: '2022-01-16'
+fetched: '2022-01-17'
 doctype: rfc

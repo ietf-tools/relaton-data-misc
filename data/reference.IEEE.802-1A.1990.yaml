@@ -18,7 +18,7 @@ docid:
 docnumber: 802-1A.1990
 date:
 - type: published
-  value: '1990-01-01'
+  value: '1990'
 contributor:
 - organization:
     name:
@@ -31,7 +31,7 @@ contributor:
     - Institute of Electrical and Electronics Engineers
   role:
   - author
-revdate: '1990-01-01'
+revdate: '1990'
 language:
 - en
 script:
@@ -48,5 +48,5 @@ series:
   number: Standard 802.1A
 place:
 - Fremont, CA
-fetched: '2022-01-16'
+fetched: '2022-01-17'
 doctype: ieee

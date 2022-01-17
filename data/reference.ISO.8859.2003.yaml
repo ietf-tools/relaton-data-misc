@@ -30,7 +30,7 @@ docid:
 docnumber: '8859.2003'
 date:
 - type: published
-  value: '2003-01-01'
+  value: '2003'
 contributor:
 - organization:
     name:
@@ -43,7 +43,7 @@ contributor:
     - International Organization for Standardization
   role:
   - author
-revdate: '2003-01-01'
+revdate: '2003'
 language:
 - en
 script:
@@ -60,5 +60,5 @@ series:
   number: Standard 8859
 place:
 - Fremont, CA
-fetched: '2022-01-16'
+fetched: '2022-01-17'
 doctype: rfc

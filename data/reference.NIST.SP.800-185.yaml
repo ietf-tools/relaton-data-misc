@@ -22,7 +22,7 @@ docid:
 docnumber: SP.800-185
 date:
 - type: published
-  value: '2016-12-01'
+  value: 2016-12
 contributor:
 - organization:
     name:
@@ -90,7 +90,7 @@ contributor:
         - National Institute of Standards and Technology
   role:
   - author
-revdate: '2016-12-01'
+revdate: 2016-12
 language:
 - en
 script:
@@ -107,5 +107,5 @@ series:
   number: SP 800-185
 place:
 - Fremont, CA
-fetched: '2022-01-16'
+fetched: '2022-01-17'
 doctype: rfc

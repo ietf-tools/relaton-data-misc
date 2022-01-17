@@ -18,7 +18,7 @@ docid:
 docnumber: 55-2.1987
 date:
 - type: published
-  value: '1987-02-03'
+  value: 1987-02
 contributor:
 - organization:
     name:
@@ -31,7 +31,7 @@ contributor:
     - National Institute of Standards and Technology
   role:
   - author
-revdate: '1987-02-03'
+revdate: 1987-02
 language:
 - en
 script:
@@ -48,5 +48,5 @@ series:
   number: PUB 55-2
 place:
 - Fremont, CA
-fetched: '2022-01-16'
+fetched: '2022-01-17'
 doctype: rfc

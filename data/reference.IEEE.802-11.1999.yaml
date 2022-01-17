@@ -22,7 +22,7 @@ docid:
 docnumber: 802-11.1999
 date:
 - type: published
-  value: '1999-01-01'
+  value: '1999'
 contributor:
 - organization:
     name:
@@ -35,7 +35,7 @@ contributor:
     - ''
   role:
   - author
-revdate: '1999-01-01'
+revdate: '1999'
 language:
 - en
 script:
@@ -52,5 +52,5 @@ series:
   number: Standard 802.11
 place:
 - Fremont, CA
-fetched: '2022-01-16'
+fetched: '2022-01-17'
 doctype: ieee

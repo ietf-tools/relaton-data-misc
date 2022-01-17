@@ -17,7 +17,7 @@ docid:
 docnumber: '98.1983'
 date:
 - type: published
-  value: '1983-01-01'
+  value: 1983-01
 contributor:
 - organization:
     name:
@@ -30,7 +30,7 @@ contributor:
     - National Institute of Standards and Technology
   role:
   - author
-revdate: '1983-01-01'
+revdate: 1983-01
 language:
 - en
 script:
@@ -47,5 +47,5 @@ series:
   number: PUB 98
 place:
 - Fremont, CA
-fetched: '2022-01-16'
+fetched: '2022-01-17'
 doctype: rfc

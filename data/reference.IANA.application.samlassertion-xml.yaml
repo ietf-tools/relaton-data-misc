@@ -18,7 +18,7 @@ docid:
 docnumber: application.samlassertion-xml
 date:
 - type: published
-  value: '2004-12-01'
+  value: 2004-12
 contributor:
 - organization:
     name:
@@ -46,7 +46,7 @@ contributor:
         - OASIS SSTC
   role:
   - author
-revdate: '2004-12-01'
+revdate: 2004-12
 language:
 - en
 script:
@@ -63,5 +63,5 @@ series:
   number: application/samlassertion+xml
 place:
 - Fremont, CA
-fetched: '2022-01-16'
+fetched: '2022-01-17'
 doctype: rfc

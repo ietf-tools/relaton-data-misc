@@ -18,7 +18,7 @@ docid:
 docnumber: '4335.1979'
 date:
 - type: published
-  value: '1979-01-01'
+  value: '1979'
 contributor:
 - organization:
     name:
@@ -31,7 +31,7 @@ contributor:
     - International Organization for Standardization
   role:
   - author
-revdate: '1979-01-01'
+revdate: '1979'
 language:
 - en
 script:
@@ -48,5 +48,5 @@ series:
   number: Standard 4335
 place:
 - Fremont, CA
-fetched: '2022-01-16'
+fetched: '2022-01-17'
 doctype: rfc

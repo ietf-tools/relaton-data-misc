@@ -17,7 +17,7 @@ docid:
 docnumber: Q931.1993
 date:
 - type: published
-  value: '1993-05-01'
+  value: 1993-05
 contributor:
 - organization:
     name:
@@ -30,7 +30,7 @@ contributor:
     - International Telecommunications Union
   role:
   - author
-revdate: '1993-05-01'
+revdate: 1993-05
 language:
 - en
 script:
@@ -47,5 +47,5 @@ series:
   number: Recommendation Q.931
 place:
 - Fremont, CA
-fetched: '2022-01-16'
+fetched: '2022-01-17'
 doctype: rfc

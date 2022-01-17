@@ -17,7 +17,7 @@ docid:
 docnumber: H245.1996
 date:
 - type: published
-  value: '1996-03-01'
+  value: 1996-03
 contributor:
 - organization:
     name:
@@ -30,7 +30,7 @@ contributor:
     - International Telecommunications Union
   role:
   - author
-revdate: '1996-03-01'
+revdate: 1996-03
 language:
 - en
 script:
@@ -47,5 +47,5 @@ series:
   number: Recommendation H.245
 place:
 - Fremont, CA
-fetched: '2022-01-16'
+fetched: '2022-01-17'
 doctype: rfc

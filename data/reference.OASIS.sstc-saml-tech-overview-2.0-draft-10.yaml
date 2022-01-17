@@ -19,7 +19,7 @@ docid:
 docnumber: sstc-saml-tech-overview-2.0-draft-10
 date:
 - type: published
-  value: '2006-10-01'
+  value: 2006-10
 contributor:
 - organization:
     name:
@@ -119,7 +119,7 @@ contributor:
       value: eve.maler@sun.com
   role:
   - author
-revdate: '2006-10-01'
+revdate: 2006-10
 language:
 - en
 script:
@@ -136,5 +136,5 @@ series:
   number: sstc-saml-tech-overview-2.0-draft-10
 place:
 - Fremont, CA
-fetched: '2022-01-16'
+fetched: '2022-01-17'
 doctype: rfc

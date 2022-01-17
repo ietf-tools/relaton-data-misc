@@ -20,7 +20,7 @@ docid:
 docnumber: 180-2.2002
 date:
 - type: published
-  value: '2002-08-01'
+  value: 2002-08
 contributor:
 - organization:
     name:
@@ -33,7 +33,7 @@ contributor:
     - National Institute of Standards and Technology
   role:
   - author
-revdate: '2002-08-01'
+revdate: 2002-08
 language:
 - en
 script:
@@ -50,5 +50,5 @@ series:
   number: PUB 180-2
 place:
 - Fremont, CA
-fetched: '2022-01-16'
+fetched: '2022-01-17'
 doctype: rfc

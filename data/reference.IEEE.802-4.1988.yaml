@@ -17,7 +17,7 @@ docid:
 docnumber: 802-4.1988
 date:
 - type: published
-  value: '1988-05-01'
+  value: 1988-05
 contributor:
 - organization:
     name:
@@ -30,7 +30,7 @@ contributor:
     - Institute of Electrical and Electronics Engineers
   role:
   - author
-revdate: '1988-05-01'
+revdate: 1988-05
 language:
 - en
 script:
@@ -47,5 +47,5 @@ series:
   number: Standard 802.4
 place:
 - Fremont, CA
-fetched: '2022-01-16'
+fetched: '2022-01-17'
 doctype: ieee

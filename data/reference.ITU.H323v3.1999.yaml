@@ -18,7 +18,7 @@ docid:
 docnumber: H323v3.1999
 date:
 - type: published
-  value: '1999-09-01'
+  value: 1999-09
 contributor:
 - organization:
     name:
@@ -31,7 +31,7 @@ contributor:
     - ''
   role:
   - author
-revdate: '1999-09-01'
+revdate: 1999-09
 language:
 - en
 script:
@@ -48,5 +48,5 @@ series:
   number: Recommendation H.323v3
 place:
 - Fremont, CA
-fetched: '2022-01-16'
+fetched: '2022-01-17'
 doctype: rfc

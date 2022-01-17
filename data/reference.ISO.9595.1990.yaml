@@ -18,7 +18,7 @@ docid:
 docnumber: '9595.1990'
 date:
 - type: published
-  value: '1990-11-01'
+  value: 1990-11
 contributor:
 - organization:
     name:
@@ -31,7 +31,7 @@ contributor:
     - International Organization for Standardization
   role:
   - author
-revdate: '1990-11-01'
+revdate: 1990-11
 language:
 - en
 script:
@@ -48,5 +48,5 @@ series:
   number: Standard 9595
 place:
 - Fremont, CA
-fetched: '2022-01-16'
+fetched: '2022-01-17'
 doctype: rfc

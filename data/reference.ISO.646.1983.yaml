@@ -18,7 +18,7 @@ docid:
 docnumber: '646.1983'
 date:
 - type: published
-  value: '1983-01-01'
+  value: '1983'
 contributor:
 - organization:
     name:
@@ -31,7 +31,7 @@ contributor:
     - International Organization for Standardization
   role:
   - author
-revdate: '1983-01-01'
+revdate: '1983'
 language:
 - en
 script:
@@ -48,5 +48,5 @@ series:
   number: Standard 646
 place:
 - Fremont, CA
-fetched: '2022-01-16'
+fetched: '2022-01-17'
 doctype: rfc

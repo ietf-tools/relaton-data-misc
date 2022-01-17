@@ -17,7 +17,7 @@ docid:
 docnumber: '9.1993'
 date:
 - type: published
-  value: '1993-06-03'
+  value: 1993-06
 contributor:
 - organization:
     name:
@@ -30,7 +30,7 @@ contributor:
     - RSA Laboratories
   role:
   - author
-revdate: '1993-06-03'
+revdate: 1993-06
 language:
 - en
 script:
@@ -47,5 +47,5 @@ series:
   number: '9'
 place:
 - Fremont, CA
-fetched: '2022-01-16'
+fetched: '2022-01-17'
 doctype: rfc

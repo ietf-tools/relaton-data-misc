@@ -17,7 +17,7 @@ docid:
 docnumber: 1003-1G.1997
 date:
 - type: published
-  value: '1997-03-01'
+  value: 1997-03
 contributor:
 - organization:
     name:
@@ -30,7 +30,7 @@ contributor:
     - Institute of Electrical and Electronics Engineers
   role:
   - author
-revdate: '1997-03-01'
+revdate: 1997-03
 language:
 - en
 script:
@@ -47,5 +47,5 @@ series:
   number: Standard 1003.1G
 place:
 - Fremont, CA
-fetched: '2022-01-16'
+fetched: '2022-01-17'
 doctype: ieee

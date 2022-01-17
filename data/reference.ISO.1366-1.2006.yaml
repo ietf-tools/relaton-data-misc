@@ -19,7 +19,7 @@ docid:
 docnumber: 3166-1.2006
 date:
 - type: published
-  value: '2006-01-01'
+  value: '2006'
 contributor:
 - organization:
     name:
@@ -34,7 +34,7 @@ contributor:
       Standardization
   role:
   - author
-revdate: '2006-01-01'
+revdate: '2006'
 language:
 - en
 script:
@@ -51,5 +51,5 @@ series:
   number: Standard 3166-1
 place:
 - Fremont, CA
-fetched: '2022-01-16'
+fetched: '2022-01-17'
 doctype: rfc
