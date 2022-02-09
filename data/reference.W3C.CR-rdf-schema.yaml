@@ -14,6 +14,7 @@ type: standard
 docid:
 - id: W3C CR-rdf-schema
   type: IETF
+  primary: true
 - id: W3C.CR-rdf-schema
   type: IETF
   scope: anchor
@@ -85,5 +86,5 @@ series:
   number: CR-rdf-schema
 place:
 - Fremont, CA
-fetched: '2022-02-08'
+fetched: '2022-02-09'
 doctype: rfc

@@ -12,6 +12,7 @@ type: standard
 docid:
 - id: CCITT G821.1988
   type: IETF
+  primary: true
 - id: CCITT.G821.1988
   type: IETF
   scope: anchor
@@ -48,5 +49,5 @@ series:
   number: Recommendation G.821
 place:
 - Fremont, CA
-fetched: '2022-02-08'
+fetched: '2022-02-09'
 doctype: rfc

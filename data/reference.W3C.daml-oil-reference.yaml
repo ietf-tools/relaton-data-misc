@@ -14,6 +14,7 @@ type: standard
 docid:
 - id: W3C daml+oil-reference
   type: IETF
+  primary: true
 - id: W3C.daml+oil-reference
   type: IETF
   scope: anchor
@@ -145,5 +146,5 @@ series:
   number: daml+oil-reference
 place:
 - Fremont, CA
-fetched: '2022-02-08'
+fetched: '2022-02-09'
 doctype: rfc

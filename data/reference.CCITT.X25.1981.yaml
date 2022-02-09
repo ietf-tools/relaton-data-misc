@@ -12,6 +12,7 @@ type: standard
 docid:
 - id: CCITT X25.1981
   type: IETF
+  primary: true
 - id: CCITT.X25.1981
   type: IETF
   scope: anchor
@@ -48,5 +49,5 @@ series:
   number: Recommendation X.25
 place:
 - Fremont, CA
-fetched: '2022-02-08'
+fetched: '2022-02-09'
 doctype: rfc

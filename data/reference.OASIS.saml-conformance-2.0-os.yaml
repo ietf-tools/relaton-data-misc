@@ -13,6 +13,7 @@ type: standard
 docid:
 - id: OASIS saml-conformance-2.0-os
   type: IETF
+  primary: true
 - id: OASIS.saml-conformance-2.0-os
   type: IETF
   scope: anchor
@@ -113,5 +114,5 @@ series:
   number: saml-conformance-2.0-os
 place:
 - Fremont, CA
-fetched: '2022-02-08'
+fetched: '2022-02-09'
 doctype: rfc

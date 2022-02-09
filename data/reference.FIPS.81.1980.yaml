@@ -14,6 +14,7 @@ type: standard
 docid:
 - id: FIPS 81.1980
   type: IETF
+  primary: true
 - id: FIPS.81.1980
   type: IETF
   scope: anchor
@@ -50,5 +51,5 @@ series:
   number: PUB 81
 place:
 - Fremont, CA
-fetched: '2022-02-08'
+fetched: '2022-02-09'
 doctype: rfc

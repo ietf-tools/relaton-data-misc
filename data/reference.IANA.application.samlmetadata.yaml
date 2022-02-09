@@ -12,6 +12,7 @@ type: standard
 docid:
 - id: IANA application.samlmetadata-xml
   type: IETF
+  primary: true
 - id: IANA.application.samlmetadata-xml
   type: IETF
   scope: anchor
@@ -63,5 +64,5 @@ series:
   number: application/samlmetadata+xml
 place:
 - Fremont, CA
-fetched: '2022-02-08'
+fetched: '2022-02-09'
 doctype: rfc

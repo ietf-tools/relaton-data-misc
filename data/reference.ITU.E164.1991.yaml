@@ -11,6 +11,7 @@ type: standard
 docid:
 - id: ITU E164.1991
   type: IETF
+  primary: true
 - id: ITU.E164.1991
   type: IETF
   scope: anchor
@@ -47,5 +48,5 @@ series:
   number: Recommendation E.164
 place:
 - Fremont, CA
-fetched: '2022-02-08'
+fetched: '2022-02-09'
 doctype: rfc

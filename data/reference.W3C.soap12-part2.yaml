@@ -14,6 +14,7 @@ type: standard
 docid:
 - id: W3C soap12-part2
   type: IETF
+  primary: true
 - id: W3C.soap12-part2
   type: IETF
   scope: anchor
@@ -160,5 +161,5 @@ series:
   number: soap12-part2
 place:
 - Fremont, CA
-fetched: '2022-02-08'
+fetched: '2022-02-09'
 doctype: rfc

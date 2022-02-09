@@ -12,6 +12,7 @@ type: standard
 docid:
 - id: IEEE P802-3K.1992
   type: IETF
+  primary: true
 - id: IEEE.P802-3K.1992
   type: IETF
   scope: anchor
@@ -48,5 +49,5 @@ series:
   number: Draft Supplement P802.3K
 place:
 - Fremont, CA
-fetched: '2022-02-08'
+fetched: '2022-02-09'
 doctype: ieee

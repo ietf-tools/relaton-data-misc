@@ -13,6 +13,7 @@ type: standard
 docid:
 - id: OASIS saml-profiles-2.0-os
   type: IETF
+  primary: true
 - id: OASIS.saml-profiles-2.0-os
   type: IETF
   scope: anchor
@@ -205,5 +206,5 @@ series:
   number: OASIS.saml-profiles-2.0-os
 place:
 - Fremont, CA
-fetched: '2022-02-08'
+fetched: '2022-02-09'
 doctype: rfc

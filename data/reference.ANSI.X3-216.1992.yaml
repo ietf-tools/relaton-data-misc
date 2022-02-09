@@ -12,6 +12,7 @@ type: standard
 docid:
 - id: ANSI X3-216.1992
   type: IETF
+  primary: true
 - id: ANSI.X3-216.1992
   type: IETF
   scope: anchor
@@ -48,5 +49,5 @@ series:
   number: X3.216
 place:
 - Fremont, CA
-fetched: '2022-02-08'
+fetched: '2022-02-09'
 doctype: rfc

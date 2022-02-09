@@ -11,6 +11,7 @@ type: standard
 docid:
 - id: CCITT X121.1988
   type: IETF
+  primary: true
 - id: CCITT.X121.1988
   type: IETF
   scope: anchor
@@ -47,5 +48,5 @@ series:
   number: Recommendation X.121
 place:
 - Fremont, CA
-fetched: '2022-02-08'
+fetched: '2022-02-09'
 doctype: rfc

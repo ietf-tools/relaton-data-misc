@@ -14,6 +14,7 @@ type: standard
 docid:
 - id: ANSI Z39-50.1992
   type: IETF
+  primary: true
 - id: ANSI.Z39-50.1992
   type: IETF
   scope: anchor
@@ -50,5 +51,5 @@ series:
   number: Z39.50
 place:
 - Fremont, CA
-fetched: '2022-02-08'
+fetched: '2022-02-09'
 doctype: rfc

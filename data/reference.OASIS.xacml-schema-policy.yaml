@@ -14,6 +14,7 @@ type: standard
 docid:
 - id: OASIS xacml-schema-policy
   type: IETF
+  primary: true
 - id: OASIS.xacml-schema-policy
   type: IETF
   scope: anchor
@@ -87,5 +88,5 @@ series:
   number: xacml-schema-policy
 place:
 - Fremont, CA
-fetched: '2022-02-08'
+fetched: '2022-02-09'
 doctype: rfc

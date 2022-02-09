@@ -14,6 +14,7 @@ type: standard
 docid:
 - id: W3C soap11
   type: IETF
+  primary: true
 - id: W3C.soap11
   type: IETF
   scope: anchor
@@ -229,5 +230,5 @@ series:
   number: soap11
 place:
 - Fremont, CA
-fetched: '2022-02-08'
+fetched: '2022-02-09'
 doctype: rfc

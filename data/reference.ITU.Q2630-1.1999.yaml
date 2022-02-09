@@ -11,6 +11,7 @@ type: standard
 docid:
 - id: ITU Q2630-1.1999
   type: IETF
+  primary: true
 - id: ITU.Q2630-1.1999
   type: IETF
   scope: anchor
@@ -47,5 +48,5 @@ series:
   number: Recommendation Q.2630.1
 place:
 - Fremont, CA
-fetched: '2022-02-08'
+fetched: '2022-02-09'
 doctype: rfc

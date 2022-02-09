@@ -12,6 +12,7 @@ type: standard
 docid:
 - id: ISO 3297.2007
   type: IETF
+  primary: true
 - id: ISO.3297.2007
   type: IETF
   scope: anchor
@@ -50,5 +51,5 @@ series:
   number: Standard 3297
 place:
 - Fremont, CA
-fetched: '2022-02-08'
+fetched: '2022-02-09'
 doctype: rfc

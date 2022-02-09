@@ -13,6 +13,7 @@ type: standard
 docid:
 - id: ITU Q2931.1994
   type: IETF
+  primary: true
 - id: ITU.Q2931.1994
   type: IETF
   scope: anchor
@@ -49,5 +50,5 @@ series:
   number: Recommendation Q.2931
 place:
 - Fremont, CA
-fetched: '2022-02-08'
+fetched: '2022-02-09'
 doctype: rfc

@@ -12,6 +12,7 @@ type: standard
 docid:
 - id: ANSI T1-M1.1993
   type: IETF
+  primary: true
 - id: ANSI.T1-M1.1993
   type: IETF
   scope: anchor
@@ -48,5 +49,5 @@ series:
   number: T1M1.3
 place:
 - Fremont, CA
-fetched: '2022-02-08'
+fetched: '2022-02-09'
 doctype: rfc

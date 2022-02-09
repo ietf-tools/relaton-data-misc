@@ -13,6 +13,7 @@ type: standard
 docid:
 - id: OASIS sstc-saml-tech-overview-2.0-draft-08
   type: IETF
+  primary: true
 - id: OASIS.sstc-saml-tech-overview-2.0-draft-08
   type: IETF
   scope: anchor
@@ -90,5 +91,5 @@ series:
   number: sstc-saml-tech-overview-2.0-draft-08
 place:
 - Fremont, CA
-fetched: '2022-02-08'
+fetched: '2022-02-09'
 doctype: rfc

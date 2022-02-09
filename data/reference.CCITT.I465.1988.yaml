@@ -12,6 +12,7 @@ type: standard
 docid:
 - id: CCITT I465.1988
   type: IETF
+  primary: true
 - id: CCITT.I465.1988
   type: IETF
   scope: anchor
@@ -57,5 +58,5 @@ series:
   number: Recommendation V.120
 place:
 - Fremont, CA
-fetched: '2022-02-08'
+fetched: '2022-02-09'
 doctype: rfc

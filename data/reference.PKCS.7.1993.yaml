@@ -11,6 +11,7 @@ type: standard
 docid:
 - id: PKCS 7.1993
   type: IETF
+  primary: true
 - id: PKCS.7.1993
   type: IETF
   scope: anchor
@@ -47,5 +48,5 @@ series:
   number: '7'
 place:
 - Fremont, CA
-fetched: '2022-02-08'
+fetched: '2022-02-09'
 doctype: rfc

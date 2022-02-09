@@ -15,6 +15,7 @@ type: standard
 docid:
 - id: IEEE 802.1QBV_2015
   type: IETF
+  primary: true
 - id: IEEE.802.1QBV_2015
   type: IETF
   scope: anchor
@@ -61,5 +62,5 @@ series:
   number: 802.1Qbv-2015
 place:
 - Fremont, CA
-fetched: '2022-02-08'
+fetched: '2022-02-09'
 doctype: ieee

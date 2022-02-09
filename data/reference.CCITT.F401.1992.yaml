@@ -15,6 +15,7 @@ type: standard
 docid:
 - id: CCITT F401.1992
   type: IETF
+  primary: true
 - id: CCITT.F401.1992
   type: IETF
   scope: anchor
@@ -51,5 +52,5 @@ series:
   number: Recommendation F.401
 place:
 - Fremont, CA
-fetched: '2022-02-08'
+fetched: '2022-02-09'
 doctype: rfc

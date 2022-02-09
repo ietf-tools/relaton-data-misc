@@ -12,6 +12,7 @@ type: standard
 docid:
 - id: IEEE P802-5D.1989
   type: IETF
+  primary: true
 - id: IEEE.P802-5D.1989
   type: IETF
   scope: anchor
@@ -48,5 +49,5 @@ series:
   number: Draft P802.5D
 place:
 - Fremont, CA
-fetched: '2022-02-08'
+fetched: '2022-02-09'
 doctype: ieee

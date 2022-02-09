@@ -15,6 +15,7 @@ type: standard
 docid:
 - id: OASIS sstc-core
   type: IETF
+  primary: true
 - id: OASIS.sstc-core
   type: IETF
   scope: anchor
@@ -92,5 +93,5 @@ series:
   number: sstc-core
 place:
 - Fremont, CA
-fetched: '2022-02-08'
+fetched: '2022-02-09'
 doctype: rfc

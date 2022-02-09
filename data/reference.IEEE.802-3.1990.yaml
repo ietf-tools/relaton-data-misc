@@ -13,6 +13,7 @@ type: standard
 docid:
 - id: IEEE 802-3.1990
   type: IETF
+  primary: true
 - id: IEEE.802-3.1990
   type: IETF
   scope: anchor
@@ -49,5 +50,5 @@ series:
   number: Standard 802.3
 place:
 - Fremont, CA
-fetched: '2022-02-08'
+fetched: '2022-02-09'
 doctype: ieee
