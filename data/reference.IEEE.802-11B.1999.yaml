@@ -52,7 +52,5 @@ series:
     - Latn
     format: text/plain
   number: Standard 802.11b
-place:
-- Fremont, CA
-fetched: '2022-02-11'
+fetched: '2022-02-12'
 doctype: ieee
