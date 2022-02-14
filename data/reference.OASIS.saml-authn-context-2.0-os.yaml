@@ -158,5 +158,5 @@ series:
     - Latn
     format: text/plain
   number: saml-authn-context-2.0-os
-fetched: '2022-02-13'
+fetched: '2022-02-14'
 doctype: rfc
