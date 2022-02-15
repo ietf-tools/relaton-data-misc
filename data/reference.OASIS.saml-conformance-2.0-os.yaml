@@ -112,5 +112,5 @@ series:
     - Latn
     format: text/plain
   number: saml-conformance-2.0-os
-fetched: '2022-02-14'
+fetched: '2022-02-15'
 doctype: rfc
