@@ -24,7 +24,7 @@ docid:
 docnumber: 802-11B.1999
 date:
 - type: published
-  value: 1999-00
+  value: 1999-09
 contributor:
 - organization:
     name:
@@ -37,7 +37,7 @@ contributor:
     - ''
   role:
   - author
-revdate: 1999-00
+revdate: 1999-09
 language:
 - en
 script:
@@ -52,5 +52,5 @@ series:
     - Latn
     format: text/plain
   number: Standard 802.11b
-fetched: '2022-02-17'
+fetched: '2022-02-18'
 doctype: ieee

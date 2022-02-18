@@ -18,7 +18,7 @@ docid:
 docnumber: I363.1993
 date:
 - type: published
-  value: 1993-00
+  value: 1993-03
 contributor:
 - organization:
     name:
@@ -31,7 +31,7 @@ contributor:
     - International Telecommunications Union
   role:
   - author
-revdate: 1993-00
+revdate: 1993-03
 language:
 - en
 script:
@@ -46,5 +46,5 @@ series:
     - Latn
     format: text/plain
   number: Recommendation I.363
-fetched: '2022-02-17'
+fetched: '2022-02-18'
 doctype: rfc

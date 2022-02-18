@@ -25,7 +25,7 @@ docid:
 docnumber: 802-11H.2003
 date:
 - type: published
-  value: 2003-00
+  value: 2003-10
 contributor:
 - organization:
     name:
@@ -38,7 +38,7 @@ contributor:
     - ''
   role:
   - author
-revdate: 2003-00
+revdate: 2003-10
 language:
 - en
 script:
@@ -53,5 +53,5 @@ series:
     - Latn
     format: text/plain
   number: Standard 802.11h
-fetched: '2022-02-17'
+fetched: '2022-02-18'
 doctype: ieee
