@@ -158,5 +158,5 @@ series:
     - Latn
     format: text/plain
   number: saml-bindings-2.0-os
-fetched: '2022-02-27'
+fetched: '2022-02-28'
 doctype: rfc
