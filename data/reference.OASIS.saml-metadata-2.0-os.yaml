@@ -135,5 +135,5 @@ series:
     - Latn
     format: text/plain
   number: saml-metadata-2.0-os
-fetched: '2022-04-02'
+fetched: '2022-04-03'
 doctype: rfc
