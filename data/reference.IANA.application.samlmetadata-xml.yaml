@@ -62,5 +62,5 @@ series:
     - Latn
     format: text/plain
   number: application/samlmetadata+xml
-fetched: '2022-04-08'
+fetched: '2022-04-09'
 doctype: rfc
