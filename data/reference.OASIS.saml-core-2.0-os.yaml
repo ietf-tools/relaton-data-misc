@@ -135,5 +135,5 @@ series:
     - Latn
     format: text/plain
   number: saml-core-2.0-os
-fetched: '2022-05-08'
+fetched: '2022-05-09'
 doctype: rfc
