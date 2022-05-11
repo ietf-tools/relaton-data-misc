@@ -24,7 +24,7 @@ jobs:
           ruby-version: 3.0
       - name: Install gem
         run: |
-          gem install relaton-ietf
+          gem install relaton-ieee
       - name: Fetch documents
         run: |
           rm -rf data
