@@ -11,22 +11,16 @@ title:
 type: standard
 docid:
 - id: ANSI X3-230.1994
-  type: IETF
+  type: ANSI
   primary: true
 - id: ANSI.X3-230.1994
-  type: IETF
+  type: ANSI
   scope: anchor
 docnumber: X3-230.1994
 date:
 - type: published
   value: '1994'
 contributor:
-- organization:
-    name:
-    - Internet Engineering Task Force
-    abbreviation: IETF
-  role:
-  - publisher
 - organization:
     name:
     - American National Standards Institute
@@ -47,5 +41,4 @@ series:
     - Latn
     format: text/plain
   number: X3.230
-fetched: '2022-05-10'
 doctype: rfc

@@ -12,22 +12,16 @@ title:
 type: standard
 docid:
 - id: OASIS sstc-saml-tech-overview-2.0-draft-10
-  type: IETF
+  type: OASIS
   primary: true
 - id: OASIS.sstc-saml-tech-overview-2.0-draft-10
-  type: IETF
+  type: OASIS
   scope: anchor
 docnumber: sstc-saml-tech-overview-2.0-draft-10
 date:
 - type: published
   value: 2006-10
 contributor:
-- organization:
-    name:
-    - Internet Engineering Task Force
-    abbreviation: IETF
-  role:
-  - publisher
 - person:
     name:
       initial:
@@ -135,5 +129,4 @@ series:
     - Latn
     format: text/plain
   number: sstc-saml-tech-overview-2.0-draft-10
-fetched: '2022-05-10'
 doctype: rfc

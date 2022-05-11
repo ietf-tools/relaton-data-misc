@@ -11,22 +11,16 @@ title:
 type: standard
 docid:
 - id: CCITT X25.1976
-  type: IETF
+  type: CCITT
   primary: true
 - id: CCITT.X25.1976
-  type: IETF
+  type: CCITT
   scope: anchor
 docnumber: X25.1976
 date:
 - type: published
   value: '1976'
 contributor:
-- organization:
-    name:
-    - Internet Engineering Task Force
-    abbreviation: IETF
-  role:
-  - publisher
 - organization:
     name:
     - International Telephone and Telegraph Consultative Committee
@@ -47,5 +41,4 @@ series:
     - Latn
     format: text/plain
   number: Recommendation X.25
-fetched: '2022-05-10'
 doctype: rfc

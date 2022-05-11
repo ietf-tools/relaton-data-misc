@@ -11,22 +11,16 @@ title:
 type: standard
 docid:
 - id: ITU Q931.1998
-  type: IETF
+  type: ITU
   primary: true
 - id: ITU.Q931.1998
-  type: IETF
+  type: ITU
   scope: anchor
 docnumber: Q931.1998
 date:
 - type: published
   value: 1998-05
 contributor:
-- organization:
-    name:
-    - Internet Engineering Task Force
-    abbreviation: IETF
-  role:
-  - publisher
 - organization:
     name:
     - ''
@@ -47,5 +41,4 @@ series:
     - Latn
     format: text/plain
   number: Standard 9594-1
-fetched: '2022-05-10'
 doctype: rfc

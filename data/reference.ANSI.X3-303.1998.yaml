@@ -10,22 +10,16 @@ title:
 type: standard
 docid:
 - id: ANSI X3-303.1998
-  type: IETF
+  type: ANSI
   primary: true
 - id: ANSI.X3-303.1998
-  type: IETF
+  type: ANSI
   scope: anchor
 docnumber: X3-303.1998
 date:
 - type: published
   value: '1998'
 contributor:
-- organization:
-    name:
-    - Internet Engineering Task Force
-    abbreviation: IETF
-  role:
-  - publisher
 - organization:
     name:
     - American National Standards Institute
@@ -46,5 +40,4 @@ series:
     - Latn
     format: text/plain
   number: X3.303
-fetched: '2022-05-10'
 doctype: rfc

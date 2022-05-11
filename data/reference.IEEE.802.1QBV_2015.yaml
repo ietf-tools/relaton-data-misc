@@ -14,10 +14,10 @@ link:
 type: standard
 docid:
 - id: IEEE 802.1QBV_2015
-  type: IETF
+  type: IEEE
   primary: true
 - id: IEEE.802.1QBV_2015
-  type: IETF
+  type: IEEE
   scope: anchor
 - id: 10.1109/IEEESTD.2016.7572858
   type: DOI
@@ -26,12 +26,6 @@ date:
 - type: published
   value: '2016-03-18'
 contributor:
-- organization:
-    name:
-    - Internet Engineering Task Force
-    abbreviation: IETF
-  role:
-  - publisher
 - organization:
     name:
     - Istitute of Electrical and Electronics Engineers
@@ -60,5 +54,4 @@ series:
     - Latn
     format: text/plain
   number: 802.1Qbv-2015
-fetched: '2022-05-10'
 doctype: ieee

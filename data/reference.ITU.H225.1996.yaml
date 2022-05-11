@@ -11,22 +11,16 @@ title:
 type: standard
 docid:
 - id: ITU H225.1996
-  type: IETF
+  type: ITU
   primary: true
 - id: ITU.H225.1996
-  type: IETF
+  type: ITU
   scope: anchor
 docnumber: H225.1996
 date:
 - type: published
   value: 1996-11
 contributor:
-- organization:
-    name:
-    - Internet Engineering Task Force
-    abbreviation: IETF
-  role:
-  - publisher
 - organization:
     name:
     - International Telecommunications Union
@@ -47,5 +41,4 @@ series:
     - Latn
     format: text/plain
   number: Recommendation H.225.0
-fetched: '2022-05-10'
 doctype: rfc

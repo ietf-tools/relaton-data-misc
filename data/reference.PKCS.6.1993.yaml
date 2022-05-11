@@ -10,22 +10,16 @@ title:
 type: standard
 docid:
 - id: PKCS 6.1993
-  type: IETF
+  type: PKCS
   primary: true
 - id: PKCS.6.1993
-  type: IETF
+  type: PKCS
   scope: anchor
 docnumber: '6.1993'
 date:
 - type: published
   value: 1993-11
 contributor:
-- organization:
-    name:
-    - Internet Engineering Task Force
-    abbreviation: IETF
-  role:
-  - publisher
 - organization:
     name:
     - RSA Laboratories
@@ -46,5 +40,4 @@ series:
     - Latn
     format: text/plain
   number: '6'
-fetched: '2022-05-10'
 doctype: rfc

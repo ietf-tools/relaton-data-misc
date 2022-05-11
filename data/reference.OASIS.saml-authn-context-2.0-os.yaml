@@ -12,22 +12,16 @@ title:
 type: standard
 docid:
 - id: OASIS saml-authn-context-2.0-os
-  type: IETF
+  type: OASIS
   primary: true
 - id: OASIS.saml-authn-context-2.0-os
-  type: IETF
+  type: OASIS
   scope: anchor
 docnumber: saml-authn-context-2.0-os
 date:
 - type: published
   value: 2005-03
 contributor:
-- organization:
-    name:
-    - Internet Engineering Task Force
-    abbreviation: IETF
-  role:
-  - publisher
 - person:
     name:
       initial:
@@ -158,5 +152,4 @@ series:
     - Latn
     format: text/plain
   number: saml-authn-context-2.0-os
-fetched: '2022-05-10'
 doctype: rfc

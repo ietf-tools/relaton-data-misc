@@ -10,22 +10,16 @@ title:
 type: standard
 docid:
 - id: ITU X420.1996
-  type: IETF
+  type: ITU
   primary: true
 - id: ITU.X420.1996
-  type: IETF
+  type: ITU
   scope: anchor
 docnumber: X420.1996
 date:
 - type: published
   value: '1996'
 contributor:
-- organization:
-    name:
-    - Internet Engineering Task Force
-    abbreviation: IETF
-  role:
-  - publisher
 - organization:
     name:
     - International Telecommunications Union
@@ -46,5 +40,4 @@ series:
     - Latn
     format: text/plain
   number: Recommendation X.420
-fetched: '2022-05-10'
 doctype: rfc

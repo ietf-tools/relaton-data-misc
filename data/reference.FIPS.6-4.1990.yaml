@@ -11,22 +11,16 @@ title:
 type: standard
 docid:
 - id: FIPS 6-4.1990
-  type: IETF
+  type: FIPS
   primary: true
 - id: FIPS.6-4.1990
-  type: IETF
+  type: FIPS
   scope: anchor
 docnumber: 6-4.1990
 date:
 - type: published
   value: '1990-08-31'
 contributor:
-- organization:
-    name:
-    - Internet Engineering Task Force
-    abbreviation: IETF
-  role:
-  - publisher
 - organization:
     name:
     - National Institute of Standards and Technology
@@ -47,5 +41,4 @@ series:
     - Latn
     format: text/plain
   number: PUB 6-4
-fetched: '2022-05-10'
 doctype: rfc

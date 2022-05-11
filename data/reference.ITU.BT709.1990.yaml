@@ -11,22 +11,16 @@ title:
 type: standard
 docid:
 - id: ITU BT709.1990
-  type: IETF
+  type: ITU
   primary: true
 - id: ITU.BT709.1990
-  type: IETF
+  type: ITU
   scope: anchor
 docnumber: BT709.1990
 date:
 - type: published
   value: '1990'
 contributor:
-- organization:
-    name:
-    - Internet Engineering Task Force
-    abbreviation: IETF
-  role:
-  - publisher
 - organization:
     name:
     - International Telecommunications Union
@@ -47,5 +41,4 @@ series:
     - Latn
     format: text/plain
   number: Recommendation BT.709
-fetched: '2022-05-10'
 doctype: rfc

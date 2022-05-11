@@ -11,22 +11,16 @@ title:
 type: standard
 docid:
 - id: CCITT X690.1994
-  type: IETF
+  type: CCITT
   primary: true
 - id: CCITT.X690.1994
-  type: IETF
+  type: CCITT
   scope: anchor
 docnumber: X690.1994
 date:
 - type: published
   value: 1994-07
 contributor:
-- organization:
-    name:
-    - Internet Engineering Task Force
-    abbreviation: IETF
-  role:
-  - publisher
 - organization:
     name:
     - |-
@@ -49,5 +43,4 @@ series:
     - Latn
     format: text/plain
   number: Recommendation X.690
-fetched: '2022-05-10'
 doctype: rfc

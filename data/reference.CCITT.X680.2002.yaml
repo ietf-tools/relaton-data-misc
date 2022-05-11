@@ -10,22 +10,16 @@ title:
 type: standard
 docid:
 - id: CCITT X680.2002
-  type: IETF
+  type: CCITT
   primary: true
 - id: CCITT.X680.2002
-  type: IETF
+  type: CCITT
   scope: anchor
 docnumber: X680.2002
 date:
 - type: published
   value: 2002-07
 contributor:
-- organization:
-    name:
-    - Internet Engineering Task Force
-    abbreviation: IETF
-  role:
-  - publisher
 - organization:
     name:
     - |-
@@ -48,5 +42,4 @@ series:
     - Latn
     format: text/plain
   number: Recommendation X.680
-fetched: '2022-05-10'
 doctype: rfc

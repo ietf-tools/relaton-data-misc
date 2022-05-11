@@ -12,22 +12,16 @@ title:
 type: standard
 docid:
 - id: ITU X521.1997
-  type: IETF
+  type: ITU
   primary: true
 - id: ITU.X521.1997
-  type: IETF
+  type: ITU
   scope: anchor
 docnumber: X521.1997
 date:
 - type: published
   value: '1997'
 contributor:
-- organization:
-    name:
-    - Internet Engineering Task Force
-    abbreviation: IETF
-  role:
-  - publisher
 - organization:
     name:
     - International Telecommunications Union
@@ -57,5 +51,4 @@ series:
     - Latn
     format: text/plain
   number: Standard 9594-7
-fetched: '2022-05-10'
 doctype: rfc

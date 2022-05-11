@@ -11,22 +11,16 @@ title:
 type: standard
 docid:
 - id: CCITT X219.1987
-  type: IETF
+  type: CCITT
   primary: true
 - id: CCITT.X219.1987
-  type: IETF
+  type: CCITT
   scope: anchor
 docnumber: X219.1987
 date:
 - type: published
   value: 1987-11
 contributor:
-- organization:
-    name:
-    - Internet Engineering Task Force
-    abbreviation: IETF
-  role:
-  - publisher
 - organization:
     name:
     - International Telephone and Telegraph Consultative Committee
@@ -47,5 +41,4 @@ series:
     - Latn
     format: text/plain
   number: Recommendation X.219
-fetched: '2022-05-10'
 doctype: rfc

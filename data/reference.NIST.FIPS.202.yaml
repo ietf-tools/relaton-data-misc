@@ -13,10 +13,10 @@ link:
 type: standard
 docid:
 - id: NIST FIPS.202
-  type: IETF
+  type: NIST
   primary: true
 - id: NIST.FIPS.202
-  type: IETF
+  type: NIST
   scope: anchor
 - id: 10.6028/nist.fips.202
   type: DOI
@@ -25,12 +25,6 @@ date:
 - type: published
   value: 2015-08
 contributor:
-- organization:
-    name:
-    - Internet Engineering Task Force
-    abbreviation: IETF
-  role:
-  - publisher
 - person:
     name:
       initial:
@@ -66,5 +60,4 @@ series:
     - Latn
     format: text/plain
   number: PUB 202
-fetched: '2022-05-10'
 doctype: rfc

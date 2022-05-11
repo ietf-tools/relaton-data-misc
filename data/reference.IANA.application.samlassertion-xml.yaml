@@ -11,22 +11,16 @@ title:
 type: standard
 docid:
 - id: IANA application.samlassertion-xml
-  type: IETF
+  type: IANA
   primary: true
 - id: IANA.application.samlassertion-xml
-  type: IETF
+  type: IANA
   scope: anchor
 docnumber: application.samlassertion-xml
 date:
 - type: published
   value: 2004-12
 contributor:
-- organization:
-    name:
-    - Internet Engineering Task Force
-    abbreviation: IETF
-  role:
-  - publisher
 - person:
     name:
       initial:
@@ -62,5 +56,4 @@ series:
     - Latn
     format: text/plain
   number: application/samlassertion+xml
-fetched: '2022-05-10'
 doctype: rfc

@@ -13,22 +13,16 @@ link:
 type: standard
 docid:
 - id: W3C P3P-rdfschema
-  type: IETF
+  type: W3C
   primary: true
 - id: W3C.P3P-rdfschema
-  type: IETF
+  type: W3C
   scope: anchor
 docnumber: P3P-rdfschema
 date:
 - type: published
   value: '2002-01-25'
 contributor:
-- organization:
-    name:
-    - Internet Engineering Task Force
-    abbreviation: IETF
-  role:
-  - publisher
 - person:
     name:
       initial:
@@ -114,5 +108,4 @@ series:
     - Latn
     format: text/plain
   number: P3P-rdfschema
-fetched: '2022-05-10'
 doctype: rfc

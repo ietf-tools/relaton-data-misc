@@ -13,22 +13,16 @@ link:
 type: standard
 docid:
 - id: W3C CR-rdf-schema
-  type: IETF
+  type: W3C
   primary: true
 - id: W3C.CR-rdf-schema
-  type: IETF
+  type: W3C
   scope: anchor
 docnumber: CR-rdf-schema
 date:
 - type: published
   value: '2000-03-27'
 contributor:
-- organization:
-    name:
-    - Internet Engineering Task Force
-    abbreviation: IETF
-  role:
-  - publisher
 - person:
     name:
       initial:
@@ -84,5 +78,4 @@ series:
     - Latn
     format: text/plain
   number: CR-rdf-schema
-fetched: '2022-05-10'
 doctype: rfc

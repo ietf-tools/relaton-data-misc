@@ -16,22 +16,16 @@ link:
 type: standard
 docid:
 - id: IEEE 802-11A.1999
-  type: IETF
+  type: IEEE
   primary: true
 - id: IEEE.802-11A.1999
-  type: IETF
+  type: IEEE
   scope: anchor
 docnumber: 802-11A.1999
 date:
 - type: published
   value: 1999-09
 contributor:
-- organization:
-    name:
-    - Internet Engineering Task Force
-    abbreviation: IETF
-  role:
-  - publisher
 - organization:
     name:
     - ''
@@ -52,5 +46,4 @@ series:
     - Latn
     format: text/plain
   number: Standard 802.11a
-fetched: '2022-05-10'
 doctype: ieee

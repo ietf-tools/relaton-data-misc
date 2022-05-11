@@ -13,22 +13,16 @@ link:
 type: standard
 docid:
 - id: W3C REC-RUBY
-  type: IETF
+  type: W3C
   primary: true
 - id: W3C.REC-RUBY
-  type: IETF
+  type: W3C
   scope: anchor
 docnumber: REC-RUBY
 date:
 - type: published
   value: '2001-05-31'
 contributor:
-- organization:
-    name:
-    - Internet Engineering Task Force
-    abbreviation: IETF
-  role:
-  - publisher
 - person:
     name:
       initial:
@@ -124,5 +118,4 @@ series:
     - Latn
     format: text/plain
   number: REC-RUBY
-fetched: '2022-05-10'
 doctype: rfc

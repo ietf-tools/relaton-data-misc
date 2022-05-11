@@ -11,22 +11,16 @@ title:
 type: standard
 docid:
 - id: ISO 9577.1996
-  type: IETF
+  type: ISO
   primary: true
 - id: ISO.9577.1996
-  type: IETF
+  type: ISO
   scope: anchor
 docnumber: '9577.1996'
 date:
 - type: published
   value: 1996-12
 contributor:
-- organization:
-    name:
-    - Internet Engineering Task Force
-    abbreviation: IETF
-  role:
-  - publisher
 - organization:
     name:
     - International Organization for Standardization
@@ -47,5 +41,4 @@ series:
     - Latn
     format: text/plain
   number: Technical Report 9577
-fetched: '2022-05-10'
 doctype: rfc

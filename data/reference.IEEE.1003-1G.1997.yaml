@@ -10,22 +10,16 @@ title:
 type: standard
 docid:
 - id: IEEE 1003-1G.1997
-  type: IETF
+  type: IEEE
   primary: true
 - id: IEEE.1003-1G.1997
-  type: IETF
+  type: IEEE
   scope: anchor
 docnumber: 1003-1G.1997
 date:
 - type: published
   value: 1997-03
 contributor:
-- organization:
-    name:
-    - Internet Engineering Task Force
-    abbreviation: IETF
-  role:
-  - publisher
 - organization:
     name:
     - Institute of Electrical and Electronics Engineers
@@ -46,5 +40,4 @@ series:
     - Latn
     format: text/plain
   number: Standard 1003.1G
-fetched: '2022-05-10'
 doctype: ieee

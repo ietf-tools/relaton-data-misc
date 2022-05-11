@@ -10,22 +10,16 @@ title:
 type: standard
 docid:
 - id: FIPS 146-1.1989
-  type: IETF
+  type: FIPS
   primary: true
 - id: FIPS.146-1.1989
-  type: IETF
+  type: FIPS
   scope: anchor
 docnumber: 146-1.1989
 date:
 - type: published
   value: 1989-04
 contributor:
-- organization:
-    name:
-    - Internet Engineering Task Force
-    abbreviation: IETF
-  role:
-  - publisher
 - organization:
     name:
     - National Institute of Standards and Technology
@@ -46,5 +40,4 @@ series:
     - Latn
     format: text/plain
   number: PUB 146-1
-fetched: '2022-05-10'
 doctype: rfc

@@ -10,22 +10,16 @@ title:
 type: standard
 docid:
 - id: ISO 7498-4.1994
-  type: IETF
+  type: ISO
   primary: true
 - id: ISO.7498-4.1994
-  type: IETF
+  type: ISO
   scope: anchor
 docnumber: 7498-4.1994
 date:
 - type: published
   value: '1994'
 contributor:
-- organization:
-    name:
-    - Internet Engineering Task Force
-    abbreviation: IETF
-  role:
-  - publisher
 - organization:
     name:
     - International Organization for Standardization
@@ -46,5 +40,4 @@ series:
     - Latn
     format: text/plain
   number: Standard 7498-4
-fetched: '2022-05-10'
 doctype: rfc

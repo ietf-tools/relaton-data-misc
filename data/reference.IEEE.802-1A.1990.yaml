@@ -11,22 +11,16 @@ title:
 type: standard
 docid:
 - id: IEEE 802-1A.1990
-  type: IETF
+  type: IEEE
   primary: true
 - id: IEEE.802-1A.1990
-  type: IETF
+  type: IEEE
   scope: anchor
 docnumber: 802-1A.1990
 date:
 - type: published
   value: '1990'
 contributor:
-- organization:
-    name:
-    - Internet Engineering Task Force
-    abbreviation: IETF
-  role:
-  - publisher
 - organization:
     name:
     - Institute of Electrical and Electronics Engineers
@@ -47,5 +41,4 @@ series:
     - Latn
     format: text/plain
   number: Standard 802.1A
-fetched: '2022-05-10'
 doctype: ieee

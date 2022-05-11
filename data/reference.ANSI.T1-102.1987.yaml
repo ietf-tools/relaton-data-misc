@@ -10,22 +10,16 @@ title:
 type: standard
 docid:
 - id: ANSI T1-102.1987
-  type: IETF
+  type: ANSI
   primary: true
 - id: ANSI.T1-102.1987
-  type: IETF
+  type: ANSI
   scope: anchor
 docnumber: T1-102.1987
 date:
 - type: published
   value: '1987'
 contributor:
-- organization:
-    name:
-    - Internet Engineering Task Force
-    abbreviation: IETF
-  role:
-  - publisher
 - organization:
     name:
     - American National Standards Institute
@@ -46,5 +40,4 @@ series:
     - Latn
     format: text/plain
   number: T1
-fetched: '2022-05-10'
 doctype: rfc

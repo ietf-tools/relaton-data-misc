@@ -10,22 +10,16 @@ title:
 type: standard
 docid:
 - id: ITU H245.1998
-  type: IETF
+  type: ITU
   primary: true
 - id: ITU.H245.1998
-  type: IETF
+  type: ITU
   scope: anchor
 docnumber: H245.1998
 date:
 - type: published
   value: '1998'
 contributor:
-- organization:
-    name:
-    - Internet Engineering Task Force
-    abbreviation: IETF
-  role:
-  - publisher
 - organization:
     name:
     - International Telecommunications Union
@@ -46,5 +40,4 @@ series:
     - Latn
     format: text/plain
   number: Recommendation H.245
-fetched: '2022-05-10'
 doctype: rfc

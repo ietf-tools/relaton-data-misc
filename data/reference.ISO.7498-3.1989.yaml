@@ -11,22 +11,16 @@ title:
 type: standard
 docid:
 - id: ISO 7498-3.1989
-  type: IETF
+  type: ISO
   primary: true
 - id: ISO.7498-3.1989
-  type: IETF
+  type: ISO
   scope: anchor
 docnumber: 7498-3.1989
 date:
 - type: published
   value: 1989-03
 contributor:
-- organization:
-    name:
-    - Internet Engineering Task Force
-    abbreviation: IETF
-  role:
-  - publisher
 - organization:
     name:
     - International Organization for Standardization
@@ -47,5 +41,4 @@ series:
     - Latn
     format: text/plain
   number: Draft Standard 7498-3
-fetched: '2022-05-10'
 doctype: rfc

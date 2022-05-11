@@ -13,22 +13,16 @@ link:
 type: standard
 docid:
 - id: FIPS 81.1980
-  type: IETF
+  type: FIPS
   primary: true
 - id: FIPS.81.1980
-  type: IETF
+  type: FIPS
   scope: anchor
 docnumber: '81.1980'
 date:
 - type: published
   value: 1980-12
 contributor:
-- organization:
-    name:
-    - Internet Engineering Task Force
-    abbreviation: IETF
-  role:
-  - publisher
 - organization:
     name:
     - National Institute of Standards and Technology
@@ -49,5 +43,4 @@ series:
     - Latn
     format: text/plain
   number: PUB 81
-fetched: '2022-05-10'
 doctype: rfc

@@ -11,22 +11,16 @@ title:
 type: standard
 docid:
 - id: ISO 8859-1.1987
-  type: IETF
+  type: ISO
   primary: true
 - id: ISO.8859-1.1987
-  type: IETF
+  type: ISO
   scope: anchor
 docnumber: 8859-1.1987
 date:
 - type: published
   value: '1987'
 contributor:
-- organization:
-    name:
-    - Internet Engineering Task Force
-    abbreviation: IETF
-  role:
-  - publisher
 - organization:
     name:
     - International Organization for Standardization
@@ -47,5 +41,4 @@ series:
     - Latn
     format: text/plain
   number: Standard 8859-1
-fetched: '2022-05-10'
 doctype: rfc

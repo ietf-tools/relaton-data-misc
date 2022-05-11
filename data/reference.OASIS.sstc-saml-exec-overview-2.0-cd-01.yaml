@@ -10,22 +10,16 @@ title:
 type: standard
 docid:
 - id: OASIS sstc-saml-exec-overview-2.0-cd-01
-  type: IETF
+  type: OASIS
   primary: true
 - id: OASIS.sstc-saml-exec-overview-2.0-cd-01
-  type: IETF
+  type: OASIS
   scope: anchor
 docnumber: sstc-saml-exec-overview-2.0-cd-01
 date:
 - type: published
   value: 2005-04
 contributor:
-- organization:
-    name:
-    - Internet Engineering Task Force
-    abbreviation: IETF
-  role:
-  - publisher
 - person:
     name:
       initial:
@@ -87,5 +81,4 @@ series:
     - Latn
     format: text/plain
   number: sstc-saml-exec-overview-2.0-cd-01
-fetched: '2022-05-10'
 doctype: rfc

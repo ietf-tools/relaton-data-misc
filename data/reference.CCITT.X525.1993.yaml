@@ -11,22 +11,16 @@ title:
 type: standard
 docid:
 - id: CCITT X525.1993
-  type: IETF
+  type: CCITT
   primary: true
 - id: CCITT.X525.1993
-  type: IETF
+  type: CCITT
   scope: anchor
 docnumber: X525.1993
 date:
 - type: published
   value: 1993-11
 contributor:
-- organization:
-    name:
-    - Internet Engineering Task Force
-    abbreviation: IETF
-  role:
-  - publisher
 - organization:
     name:
     - |-
@@ -49,5 +43,4 @@ series:
     - Latn
     format: text/plain
   number: Recommendation X.525
-fetched: '2022-05-10'
 doctype: rfc

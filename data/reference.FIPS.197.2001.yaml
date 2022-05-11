@@ -13,22 +13,16 @@ link:
 type: standard
 docid:
 - id: FIPS 197.2001
-  type: IETF
+  type: FIPS
   primary: true
 - id: FIPS.197.2001
-  type: IETF
+  type: FIPS
   scope: anchor
 docnumber: '197.2001'
 date:
 - type: published
   value: 2001-11
 contributor:
-- organization:
-    name:
-    - Internet Engineering Task Force
-    abbreviation: IETF
-  role:
-  - publisher
 - organization:
     name:
     - National Institute of Standards and Technology
@@ -49,5 +43,4 @@ series:
     - Latn
     format: text/plain
   number: PUB 197
-fetched: '2022-05-10'
 doctype: rfc

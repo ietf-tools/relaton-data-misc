@@ -10,22 +10,16 @@ title:
 type: standard
 docid:
 - id: ITU H341.1999
-  type: IETF
+  type: ITU
   primary: true
 - id: ITU.H341.1999
-  type: IETF
+  type: ITU
   scope: anchor
 docnumber: H341.1999
 date:
 - type: published
   value: 1999-05
 contributor:
-- organization:
-    name:
-    - Internet Engineering Task Force
-    abbreviation: IETF
-  role:
-  - publisher
 - organization:
     name:
     - ''
@@ -46,5 +40,4 @@ series:
     - Latn
     format: text/plain
   number: Recommendation H.341
-fetched: '2022-05-10'
 doctype: rfc

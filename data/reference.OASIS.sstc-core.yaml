@@ -14,22 +14,16 @@ link:
 type: standard
 docid:
 - id: OASIS sstc-core
-  type: IETF
+  type: OASIS
   primary: true
 - id: OASIS.sstc-core
-  type: IETF
+  type: OASIS
   scope: anchor
 docnumber: sstc-core
 date:
 - type: published
   value: '2002-05-31'
 contributor:
-- organization:
-    name:
-    - Internet Engineering Task Force
-    abbreviation: IETF
-  role:
-  - publisher
 - person:
     name:
       initial:
@@ -91,5 +85,4 @@ series:
     - Latn
     format: text/plain
   number: sstc-core
-fetched: '2022-05-10'
 doctype: rfc

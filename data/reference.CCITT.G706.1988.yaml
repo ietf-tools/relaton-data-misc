@@ -11,22 +11,16 @@ title:
 type: standard
 docid:
 - id: CCITT G706.1988
-  type: IETF
+  type: CCITT
   primary: true
 - id: CCITT.G706.1988
-  type: IETF
+  type: CCITT
   scope: anchor
 docnumber: G706.1988
 date:
 - type: published
   value: 1988-07
 contributor:
-- organization:
-    name:
-    - Internet Engineering Task Force
-    abbreviation: IETF
-  role:
-  - publisher
 - organization:
     name:
     - International Telephone and Telegraph Consultative Committee
@@ -47,5 +41,4 @@ series:
     - Latn
     format: text/plain
   number: Recommendation G.706
-fetched: '2022-05-10'
 doctype: rfc

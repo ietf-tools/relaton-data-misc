@@ -13,22 +13,16 @@ link:
 type: standard
 docid:
 - id: OASIS xacml-schema-policy
-  type: IETF
+  type: OASIS
   primary: true
 - id: OASIS.xacml-schema-policy
-  type: IETF
+  type: OASIS
   scope: anchor
 docnumber: xacml-schema-policy
 date:
 - type: published
   value: '2002-07-12'
 contributor:
-- organization:
-    name:
-    - Internet Engineering Task Force
-    abbreviation: IETF
-  role:
-  - publisher
 - person:
     name:
       initial:
@@ -86,5 +80,4 @@ series:
     - Latn
     format: text/plain
   number: xacml-schema-policy
-fetched: '2022-05-10'
 doctype: rfc

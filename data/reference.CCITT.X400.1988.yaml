@@ -10,22 +10,16 @@ title:
 type: standard
 docid:
 - id: CCITT X400.1988
-  type: IETF
+  type: CCITT
   primary: true
 - id: CCITT.X400.1988
-  type: IETF
+  type: CCITT
   scope: anchor
 docnumber: X400.1988
 date:
 - type: published
   value: 1988-04
 contributor:
-- organization:
-    name:
-    - Internet Engineering Task Force
-    abbreviation: IETF
-  role:
-  - publisher
 - organization:
     name:
     - International Telephone and Telegraph Consultative Committee
@@ -55,5 +49,4 @@ series:
     - Latn
     format: text/plain
   number: Standard 10021-1
-fetched: '2022-05-10'
 doctype: rfc

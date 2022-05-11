@@ -14,22 +14,16 @@ link:
 type: standard
 docid:
 - id: CCITT F401.1992
-  type: IETF
+  type: CCITT
   primary: true
 - id: CCITT.F401.1992
-  type: IETF
+  type: CCITT
   scope: anchor
 docnumber: F401.1992
 date:
 - type: published
   value: 1992-08
 contributor:
-- organization:
-    name:
-    - Internet Engineering Task Force
-    abbreviation: IETF
-  role:
-  - publisher
 - organization:
     name:
     - International Telephone and Telegraph Consultative Committee
@@ -50,5 +44,4 @@ series:
     - Latn
     format: text/plain
   number: Recommendation F.401
-fetched: '2022-05-10'
 doctype: rfc

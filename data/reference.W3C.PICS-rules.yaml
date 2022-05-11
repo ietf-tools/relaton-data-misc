@@ -13,22 +13,16 @@ link:
 type: standard
 docid:
 - id: W3C PICS-rules
-  type: IETF
+  type: W3C
   primary: true
 - id: W3C.PICS-rules
-  type: IETF
+  type: W3C
   scope: anchor
 docnumber: PICS-rules
 date:
 - type: published
   value: '1997-12-29'
 contributor:
-- organization:
-    name:
-    - Internet Engineering Task Force
-    abbreviation: IETF
-  role:
-  - publisher
 - person:
     name:
       initial:
@@ -161,5 +155,4 @@ series:
     - Latn
     format: text/plain
   number: REC-PICSRules
-fetched: '2022-05-10'
 doctype: rfc

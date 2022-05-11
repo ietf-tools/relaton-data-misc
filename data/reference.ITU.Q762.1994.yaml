@@ -11,22 +11,16 @@ title:
 type: standard
 docid:
 - id: ITU Q762.1994
-  type: IETF
+  type: ITU
   primary: true
 - id: ITU.Q762.1994
-  type: IETF
+  type: ITU
   scope: anchor
 docnumber: Q762.1994
 date:
 - type: published
   value: 1994-04
 contributor:
-- organization:
-    name:
-    - Internet Engineering Task Force
-    abbreviation: IETF
-  role:
-  - publisher
 - organization:
     name:
     - International Telecommunications Union
@@ -47,5 +41,4 @@ series:
     - Latn
     format: text/plain
   number: Recommendation Q.762
-fetched: '2022-05-10'
 doctype: rfc

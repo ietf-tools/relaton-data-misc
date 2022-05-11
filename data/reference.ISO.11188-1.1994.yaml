@@ -12,22 +12,16 @@ title:
 type: standard
 docid:
 - id: ISO 11188-1.1994
-  type: IETF
+  type: ISO
   primary: true
 - id: ISO.11188-1.1994
-  type: IETF
+  type: ISO
   scope: anchor
 docnumber: 11188-1.1994
 date:
 - type: published
   value: 1994-06
 contributor:
-- organization:
-    name:
-    - Internet Engineering Task Force
-    abbreviation: IETF
-  role:
-  - publisher
 - organization:
     name:
     - International Organization for Standardization
@@ -48,5 +42,4 @@ series:
     - Latn
     format: text/plain
   number: Draft Standard 11188-1
-fetched: '2022-05-10'
 doctype: rfc

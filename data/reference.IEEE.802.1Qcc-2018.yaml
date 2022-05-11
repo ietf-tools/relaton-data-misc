@@ -15,10 +15,10 @@ link:
 type: standard
 docid:
 - id: IEEE 802.1Qcc-2018
-  type: IETF
+  type: IEEE
   primary: true
 - id: IEEE.802.1Qcc-2018
-  type: IETF
+  type: IEEE
   scope: anchor
 - id: 10.1109/ieeestd.2018.8514112
   type: DOI
@@ -27,12 +27,6 @@ date:
 - type: published
   value: '2018-10-31'
 contributor:
-- organization:
-    name:
-    - Internet Engineering Task Force
-    abbreviation: IETF
-  role:
-  - publisher
 - organization:
     name:
     - Istitute of Electrical and Electronics Engineers
@@ -61,5 +55,4 @@ series:
     - Latn
     format: text/plain
   number: 802.1Qcc-2018
-fetched: '2022-05-10'
 doctype: ieee

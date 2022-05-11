@@ -11,22 +11,16 @@ title:
 type: standard
 docid:
 - id: ISO 8073.1984
-  type: IETF
+  type: ISO
   primary: true
 - id: ISO.8073.1984
-  type: IETF
+  type: ISO
   scope: anchor
 docnumber: '8073.1984'
 date:
 - type: published
   value: 1984-06
 contributor:
-- organization:
-    name:
-    - Internet Engineering Task Force
-    abbreviation: IETF
-  role:
-  - publisher
 - organization:
     name:
     - International Organization for Standardization
@@ -47,5 +41,4 @@ series:
     - Latn
     format: text/plain
   number: Standard 8073
-fetched: '2022-05-10'
 doctype: rfc

@@ -13,22 +13,16 @@ link:
 type: standard
 docid:
 - id: W3C REC-XHTML
-  type: IETF
+  type: W3C
   primary: true
 - id: W3C.REC-XHTML
-  type: IETF
+  type: W3C
   scope: anchor
 docnumber: REC-XHTML
 date:
 - type: published
   value: '2000-01-26'
 contributor:
-- organization:
-    name:
-    - Internet Engineering Task Force
-    abbreviation: IETF
-  role:
-  - publisher
 - person:
     name:
       initial:
@@ -64,5 +58,4 @@ series:
     - Latn
     format: text/plain
   number: REC-XHTML
-fetched: '2022-05-10'
 doctype: rfc

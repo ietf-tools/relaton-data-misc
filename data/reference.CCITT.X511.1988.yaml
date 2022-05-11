@@ -11,22 +11,16 @@ title:
 type: standard
 docid:
 - id: CCITT X511.1988
-  type: IETF
+  type: CCITT
   primary: true
 - id: CCITT.X511.1988
-  type: IETF
+  type: CCITT
   scope: anchor
 docnumber: X511.1988
 date:
 - type: published
   value: 1988-11
 contributor:
-- organization:
-    name:
-    - Internet Engineering Task Force
-    abbreviation: IETF
-  role:
-  - publisher
 - organization:
     name:
     - |-
@@ -49,5 +43,4 @@ series:
     - Latn
     format: text/plain
   number: Recommendation X.511
-fetched: '2022-05-10'
 doctype: rfc
