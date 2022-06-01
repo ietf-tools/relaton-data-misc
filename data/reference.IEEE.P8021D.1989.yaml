@@ -1,5 +1,5 @@
 ---
-id: IEEEP8021D.1989
+id: IEEEDraftP802.1D
 title:
 - content: 802 Local and Metropolitan Area Networks, MAC Bridges
   language:
@@ -9,13 +9,10 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: IEEE P8021D.1989
+- id: IEEE Draft P802.1D
   type: IEEE
   primary: true
-- id: IEEE.P8021D.1989
-  type: IEEE
-  scope: anchor
-docnumber: P8021D.1989
+docnumber: IEEE Draft P802.1D
 date:
 - type: published
   value: '1989-07-14'

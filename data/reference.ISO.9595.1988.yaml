@@ -13,10 +13,7 @@ docid:
 - id: ISO 9595.1988
   type: ISO
   primary: true
-- id: ISO.9595.1988
-  type: ISO
-  scope: anchor
-docnumber: '9595.1988'
+docnumber: ISO 9595.1988
 date:
 - type: published
   value: '1988-12-22'

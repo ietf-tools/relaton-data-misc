@@ -1,5 +1,5 @@
 ---
-id: ANSIX125.1997
+id: ANSIX12.5
 title:
 - content: Interchange Control Structure for Electronic Data Interchange
   language:
@@ -9,13 +9,10 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: ANSI X125.1997
-  type: ANSI
+- id: ANSI X12.5
+  type: IEEE
   primary: true
-- id: ANSI.X125.1997
-  type: ANSI
-  scope: anchor
-docnumber: X125.1997
+docnumber: ANSI X12.5
 date:
 - type: published
   value: '1997'

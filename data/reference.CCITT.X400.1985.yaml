@@ -12,10 +12,7 @@ docid:
 - id: CCITT X400.1985
   type: CCITT
   primary: true
-- id: CCITT.X400.1985
-  type: CCITT
-  scope: anchor
-docnumber: X400.1985
+docnumber: CCITT X400.1985
 date:
 - type: published
   value: '1985'

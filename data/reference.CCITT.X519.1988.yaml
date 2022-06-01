@@ -13,10 +13,7 @@ docid:
 - id: CCITT X519.1988
   type: CCITT
   primary: true
-- id: CCITT.X519.1988
-  type: CCITT
-  scope: anchor
-docnumber: X519.1988
+docnumber: CCITT X519.1988
 date:
 - type: published
   value: 1988-11

@@ -12,10 +12,7 @@ docid:
 - id: ITU I363-5.1996
   type: ITU
   primary: true
-- id: ITU.I363-5.1996
-  type: ITU
-  scope: anchor
-docnumber: I363-5.1996
+docnumber: ITU I363-5.1996
 date:
 - type: published
   value: 1996-08

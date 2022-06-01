@@ -1,5 +1,5 @@
 ---
-id: IEEE754.1985
+id: IEEEStandard754
 title:
 - content: Standard for Binary Floating-Point Arithmetic
   language:
@@ -9,13 +9,10 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: IEEE 754.1985
+- id: IEEE Standard 754
   type: IEEE
   primary: true
-- id: IEEE.754.1985
-  type: IEEE
-  scope: anchor
-docnumber: '754.1985'
+docnumber: IEEE Standard 754
 date:
 - type: published
   value: 1985-08

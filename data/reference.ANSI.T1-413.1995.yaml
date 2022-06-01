@@ -1,5 +1,5 @@
 ---
-id: ANSIT1-413.1995
+id: ANSIT1.413
 title:
 - content: Telecommunications - Network and Customer Installation Interfaces - Asymmetric
     Digital Subscriber Line (ASDL) Metallic Interface
@@ -10,13 +10,10 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: ANSI T1-413.1995
-  type: ANSI
+- id: ANSI T1.413
+  type: IEEE
   primary: true
-- id: ANSI.T1-413.1995
-  type: ANSI
-  scope: anchor
-docnumber: T1-413.1995
+docnumber: ANSI T1.413
 date:
 - type: published
   value: '1995'

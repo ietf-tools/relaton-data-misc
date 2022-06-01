@@ -1,5 +1,5 @@
 ---
-id: NIST500-162.1990
+id: 500-162
 title:
 - content: NIST Stable Implementers Agreements
   language:
@@ -9,13 +9,10 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: NIST 500-162.1990
+- id: 500-162
   type: NIST
   primary: true
-- id: NIST.500-162.1990
-  type: NIST
-  scope: anchor
-docnumber: 500-162.1990
+docnumber: 500-162
 date:
 - type: published
   value: 1990-06

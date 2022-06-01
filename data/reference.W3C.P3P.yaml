@@ -12,10 +12,7 @@ docid:
 - id: W3C P3P
   type: W3C
   primary: true
-- id: W3C.P3P
-  type: W3C
-  scope: anchor
-docnumber: P3P
+docnumber: W3C P3P
 date:
 - type: published
   value: '2002-04-16'

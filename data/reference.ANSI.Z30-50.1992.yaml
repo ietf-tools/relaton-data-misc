@@ -1,5 +1,5 @@
 ---
-id: ANSIZ30-50.1992
+id: ANSIZ30.50
 title:
 - content: 'Information Retrieval Service and Protocol: Information Retrieval Application
     Service Definition and Protocol Specification for Open Systems Interconnection'
@@ -10,13 +10,10 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: ANSI Z30-50.1992
-  type: ANSI
+- id: ANSI Z30.50
+  type: IEEE
   primary: true
-- id: ANSI.Z30-50.1992
-  type: ANSI
-  scope: anchor
-docnumber: Z30-50.1992
+docnumber: ANSI Z30.50
 date:
 - type: published
   value: '1992'

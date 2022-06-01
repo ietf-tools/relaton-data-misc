@@ -13,10 +13,7 @@ docid:
 - id: ISO 9577.1999
   type: ISO
   primary: true
-- id: ISO.9577.1999
-  type: ISO
-  scope: anchor
-docnumber: '9577.1999'
+docnumber: ISO 9577.1999
 date:
 - type: published
   value: 1999-12

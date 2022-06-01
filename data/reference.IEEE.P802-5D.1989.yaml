@@ -1,5 +1,5 @@
 ---
-id: IEEEP802-5D.1989
+id: IEEEDraftP802.5D
 title:
 - content: Draft Addendum to ANSI/IEEE Std 802.5-1988 Token Ring MAC and PHY Specification
     Enhancement for Multiple-Ring Networks
@@ -10,13 +10,10 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: IEEE P802-5D.1989
+- id: IEEE Draft P802.5D
   type: IEEE
   primary: true
-- id: IEEE.P802-5D.1989
-  type: IEEE
-  scope: anchor
-docnumber: P802-5D.1989
+docnumber: IEEE Draft P802.5D
 date:
 - type: published
   value: 1989-05

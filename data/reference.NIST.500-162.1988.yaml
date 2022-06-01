@@ -1,5 +1,5 @@
 ---
-id: NIST500-162.1988
+id: 500-162
 title:
 - content: Stable Implementation Agreements for Open Systems Interconnection Protocols,
     Version 2 Edition 1
@@ -10,13 +10,10 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: NIST 500-162.1988
+- id: 500-162
   type: NIST
   primary: true
-- id: NIST.500-162.1988
-  type: NIST
-  scope: anchor
-docnumber: 500-162.1988
+docnumber: 500-162
 date:
 - type: published
   value: 1988-12

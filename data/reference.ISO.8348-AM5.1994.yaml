@@ -12,10 +12,7 @@ docid:
 - id: ISO 8348-AM5.1994
   type: ISO
   primary: true
-- id: ISO.8348-AM5.1994
-  type: ISO
-  scope: anchor
-docnumber: 8348-AM5.1994
+docnumber: ISO 8348-AM5.1994
 date:
 - type: published
   value: '1994'

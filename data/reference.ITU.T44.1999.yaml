@@ -12,10 +12,7 @@ docid:
 - id: ITU T44.1999
   type: ITU
   primary: true
-- id: ITU.T44.1999
-  type: ITU
-  scope: anchor
-docnumber: T44.1999
+docnumber: ITU T44.1999
 date:
 - type: published
   value: 1999-04

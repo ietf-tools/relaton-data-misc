@@ -1,5 +1,5 @@
 ---
-id: ANSIT1-105-02.1998
+id: ANSIT1.105
 title:
 - content: Telecommunications - Synchronous Optical Network (SONET) - Payload Mappings
   language:
@@ -9,13 +9,10 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: ANSI T1-105-02.1998
-  type: ANSI
+- id: ANSI T1.105
+  type: IEEE
   primary: true
-- id: ANSI.T1-105-02.1998
-  type: ANSI
-  scope: anchor
-docnumber: T1-105-02.1998
+docnumber: ANSI T1.105
 date:
 - type: published
   value: 1998-05

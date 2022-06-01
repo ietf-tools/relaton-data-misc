@@ -13,10 +13,7 @@ docid:
 - id: ITU T81.1992
   type: ITU
   primary: true
-- id: ITU.T81.1992
-  type: ITU
-  scope: anchor
-docnumber: T81.1992
+docnumber: ITU T81.1992
 date:
 - type: published
   value: '1992'

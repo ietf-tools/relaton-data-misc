@@ -1,5 +1,5 @@
 ---
-id: ANSIX3-4.1968
+id: ANSIX3.4
 title:
 - content: USA Code for Information Interchange
   language:
@@ -9,13 +9,10 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: ANSI X3-4.1968
-  type: ANSI
+- id: ANSI X3.4
+  type: IEEE
   primary: true
-- id: ANSI.X3-4.1968
-  type: ANSI
-  scope: anchor
-docnumber: X3-4.1968
+docnumber: ANSI X3.4
 date:
 - type: published
   value: '1968'

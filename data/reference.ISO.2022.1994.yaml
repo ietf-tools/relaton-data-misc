@@ -12,10 +12,7 @@ docid:
 - id: ISO 2022.1994
   type: ISO
   primary: true
-- id: ISO.2022.1994
-  type: ISO
-  scope: anchor
-docnumber: '2022.1994'
+docnumber: ISO 2022.1994
 date:
 - type: published
   value: '1994'

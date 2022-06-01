@@ -12,10 +12,7 @@ docid:
 - id: ISO 13213.1994
   type: ISO
   primary: true
-- id: ISO.13213.1994
-  type: ISO
-  scope: anchor
-docnumber: '13213.1994'
+docnumber: ISO 13213.1994
 date:
 - type: published
   value: '1994'

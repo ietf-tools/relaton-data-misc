@@ -13,10 +13,7 @@ docid:
 - id: IANA application.samlmetadata-xml
   type: IANA
   primary: true
-- id: IANA.application.samlmetadata-xml
-  type: IANA
-  scope: anchor
-docnumber: application.samlmetadata-xml
+docnumber: IANA application.samlmetadata-xml
 date:
 - type: published
   value: 2004-12

@@ -1,5 +1,5 @@
 ---
-id: IEEE802.1QBV_2015
+id: IEEE802.1Qbv-2015
 title:
 - content: 'IEEE Standard for Local and metropolitan area networks -- Bridges and
     Bridged Networks - Amendment 25: Enhancements for Scheduled Traffic'
@@ -13,22 +13,19 @@ link:
   type: src
 type: standard
 docid:
-- id: IEEE 802.1QBV_2015
+- id: IEEE 802.1Qbv-2015
   type: IEEE
   primary: true
-- id: IEEE.802.1QBV_2015
-  type: IEEE
-  scope: anchor
 - id: 10.1109/IEEESTD.2016.7572858
   type: DOI
-docnumber: 802.1QBV_2015
+docnumber: IEEE 802.1Qbv-2015
 date:
 - type: published
   value: '2016-03-18'
 contributor:
 - organization:
     name:
-    - Istitute of Electrical and Electronics Engineers
+    - Institute of Electrical and Electronics Engineers
   role:
   - author
 revdate: '2016-03-18'
@@ -54,4 +51,13 @@ series:
     - Latn
     format: text/plain
   number: 802.1Qbv-2015
+- type: main
+  title:
+    content: DOI
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: 10.1109/IEEESTD.2016.7572858
 doctype: ieee

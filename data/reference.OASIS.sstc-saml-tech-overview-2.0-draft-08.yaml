@@ -14,10 +14,7 @@ docid:
 - id: OASIS sstc-saml-tech-overview-2.0-draft-08
   type: OASIS
   primary: true
-- id: OASIS.sstc-saml-tech-overview-2.0-draft-08
-  type: OASIS
-  scope: anchor
-docnumber: sstc-saml-tech-overview-2.0-draft-08
+docnumber: OASIS sstc-saml-tech-overview-2.0-draft-08
 date:
 - type: published
   value: 2005-09

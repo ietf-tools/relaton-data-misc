@@ -14,10 +14,7 @@ docid:
 - id: ITU X530.2001
   type: ITU
   primary: true
-- id: ITU.X530.2001
-  type: ITU
-  scope: anchor
-docnumber: X530.2001
+docnumber: ITU X530.2001
 date:
 - type: published
   value: '2001'

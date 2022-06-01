@@ -13,10 +13,7 @@ docid:
 - id: ITU I365-1.1993
   type: ITU
   primary: true
-- id: ITU.I365-1.1993
-  type: ITU
-  scope: anchor
-docnumber: I365-1.1993
+docnumber: ITU I365-1.1993
 date:
 - type: published
   value: 1993-11

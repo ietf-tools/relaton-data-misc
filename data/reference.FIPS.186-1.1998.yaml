@@ -15,10 +15,7 @@ docid:
 - id: FIPS 186-1.1998
   type: FIPS
   primary: true
-- id: FIPS.186-1.1998
-  type: FIPS
-  scope: anchor
-docnumber: 186-1.1998
+docnumber: FIPS 186-1.1998
 date:
 - type: published
   value: 1998-12

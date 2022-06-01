@@ -15,12 +15,9 @@ docid:
 - id: NIST SP.800-185
   type: NIST
   primary: true
-- id: NIST.SP.800-185
-  type: NIST
-  scope: anchor
 - id: 10.6028/nist.sp.800-185
   type: DOI
-docnumber: SP.800-185
+docnumber: NIST SP.800-185
 date:
 - type: published
   value: 2016-12
@@ -100,4 +97,13 @@ series:
     - Latn
     format: text/plain
   number: SP 800-185
+- type: main
+  title:
+    content: DOI
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: 10.6028/nist.sp.800-185
 doctype: rfc

@@ -15,12 +15,9 @@ docid:
 - id: NIST FIPS.202
   type: NIST
   primary: true
-- id: NIST.FIPS.202
-  type: NIST
-  scope: anchor
 - id: 10.6028/nist.fips.202
   type: DOI
-docnumber: FIPS.202
+docnumber: NIST FIPS.202
 date:
 - type: published
   value: 2015-08
@@ -60,4 +57,13 @@ series:
     - Latn
     format: text/plain
   number: PUB 202
+- type: main
+  title:
+    content: DOI
+    language:
+    - en
+    script:
+    - Latn
+    format: text/plain
+  number: 10.6028/nist.fips.202
 doctype: rfc

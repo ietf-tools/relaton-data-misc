@@ -14,10 +14,7 @@ docid:
 - id: OASIS saml-bindings-2.0-os
   type: OASIS
   primary: true
-- id: OASIS.saml-bindings-2.0-os
-  type: OASIS
-  scope: anchor
-docnumber: saml-bindings-2.0-os
+docnumber: OASIS saml-bindings-2.0-os
 date:
 - type: published
   value: 2005-03

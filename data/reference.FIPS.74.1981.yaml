@@ -15,10 +15,7 @@ docid:
 - id: FIPS 74.1981
   type: FIPS
   primary: true
-- id: FIPS.74.1981
-  type: FIPS
-  scope: anchor
-docnumber: '74.1981'
+docnumber: FIPS 74.1981
 date:
 - type: published
   value: 1981-04

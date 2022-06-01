@@ -13,10 +13,7 @@ docid:
 - id: FIPS 55-2.1987
   type: FIPS
   primary: true
-- id: FIPS.55-2.1987
-  type: FIPS
-  scope: anchor
-docnumber: 55-2.1987
+docnumber: FIPS 55-2.1987
 date:
 - type: published
   value: 1987-02

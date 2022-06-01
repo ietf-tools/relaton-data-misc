@@ -1,5 +1,5 @@
 ---
-id: NIST500-163.1989
+id: 500-163
 title:
 - content: Government Open Systems Interconnection Profile Users' Guide
   language:
@@ -9,13 +9,10 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: NIST 500-163.1989
+- id: 500-163
   type: NIST
   primary: true
-- id: NIST.500-163.1989
-  type: NIST
-  scope: anchor
-docnumber: 500-163.1989
+docnumber: 500-163
 date:
 - type: published
   value: 1989-08

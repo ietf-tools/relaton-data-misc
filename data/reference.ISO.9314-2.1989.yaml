@@ -12,10 +12,7 @@ docid:
 - id: ISO 9314-2.1989
   type: ISO
   primary: true
-- id: ISO.9314-2.1989
-  type: ISO
-  scope: anchor
-docnumber: 9314-2.1989
+docnumber: ISO 9314-2.1989
 date:
 - type: published
   value: '1989'

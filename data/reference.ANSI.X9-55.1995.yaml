@@ -1,5 +1,5 @@
 ---
-id: ANSIX9-55.1995
+id: ANSIX9.55
 title:
 - content: 'Public Key Cryptography For The Financial Services Industry: Extensions
     To Public Key Certificates And Certificate Revocation Lists'
@@ -10,13 +10,10 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: ANSI X9-55.1995
-  type: ANSI
+- id: ANSI X9.55
+  type: IEEE
   primary: true
-- id: ANSI.X9-55.1995
-  type: ANSI
-  scope: anchor
-docnumber: X9-55.1995
+docnumber: ANSI X9.55
 date:
 - type: published
   value: 1995-12

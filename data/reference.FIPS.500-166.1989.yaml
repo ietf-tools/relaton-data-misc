@@ -12,10 +12,7 @@ docid:
 - id: FIPS 500-166.1989
   type: FIPS
   primary: true
-- id: FIPS.500-166.1989
-  type: FIPS
-  scope: anchor
-docnumber: 500-166.1989
+docnumber: FIPS 500-166.1989
 date:
 - type: published
   value: 1989-08

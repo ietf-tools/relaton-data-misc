@@ -12,10 +12,7 @@ docid:
 - id: ISO 4335.1977
   type: ISO
   primary: true
-- id: ISO.4335.1977
-  type: ISO
-  scope: anchor
-docnumber: '4335.1977'
+docnumber: ISO 4335.1977
 date:
 - type: published
   value: '1977'

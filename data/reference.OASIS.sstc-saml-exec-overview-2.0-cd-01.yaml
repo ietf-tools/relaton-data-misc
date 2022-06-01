@@ -12,10 +12,7 @@ docid:
 - id: OASIS sstc-saml-exec-overview-2.0-cd-01
   type: OASIS
   primary: true
-- id: OASIS.sstc-saml-exec-overview-2.0-cd-01
-  type: OASIS
-  scope: anchor
-docnumber: sstc-saml-exec-overview-2.0-cd-01
+docnumber: OASIS sstc-saml-exec-overview-2.0-cd-01
 date:
 - type: published
   value: 2005-04

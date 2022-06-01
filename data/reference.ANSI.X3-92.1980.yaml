@@ -1,5 +1,5 @@
 ---
-id: ANSIX3-92.1980
+id: ANSIX3.92
 title:
 - content: Data Encryption Algorithm
   language:
@@ -9,13 +9,10 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: ANSI X3-92.1980
-  type: ANSI
+- id: ANSI X3.92
+  type: IEEE
   primary: true
-- id: ANSI.X3-92.1980
-  type: ANSI
-  scope: anchor
-docnumber: X3-92.1980
+docnumber: ANSI X3.92
 date:
 - type: published
   value: 1980-12

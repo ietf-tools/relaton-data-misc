@@ -1,5 +1,5 @@
 ---
-id: ANSIT1-S1.1990
+id: ANSIT1S1
 title:
 - content: Telecommunications - DSSI Core Aspects of Frame Rely
   language:
@@ -9,13 +9,10 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: ANSI T1-S1.1990
-  type: ANSI
+- id: ANSI T1S1
+  type: IEEE
   primary: true
-- id: ANSI.T1-S1.1990
-  type: ANSI
-  scope: anchor
-docnumber: T1-S1.1990
+docnumber: ANSI T1S1
 date:
 - type: published
   value: 1990-03

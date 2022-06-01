@@ -1,5 +1,5 @@
 ---
-id: ANSIX3-4.1977
+id: ANSIX3.4
 title:
 - content: Code for Information Interchange
   language:
@@ -9,13 +9,10 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: ANSI X3-4.1977
-  type: ANSI
+- id: ANSI X3.4
+  type: IEEE
   primary: true
-- id: ANSI.X3-4.1977
-  type: ANSI
-  scope: anchor
-docnumber: X3-4.1977
+docnumber: ANSI X3.4
 date:
 - type: published
   value: '1977'

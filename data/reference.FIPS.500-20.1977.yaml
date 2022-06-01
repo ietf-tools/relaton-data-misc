@@ -13,10 +13,7 @@ docid:
 - id: FIPS 500-20.1977
   type: FIPS
   primary: true
-- id: FIPS.500-20.1977
-  type: FIPS
-  scope: anchor
-docnumber: 500-20.1977
+docnumber: FIPS 500-20.1977
 date:
 - type: published
   value: 1977-11

@@ -12,10 +12,7 @@ docid:
 - id: FIPS 113.1985
   type: FIPS
   primary: true
-- id: FIPS.113.1985
-  type: FIPS
-  scope: anchor
-docnumber: '113.1985'
+docnumber: FIPS 113.1985
 date:
 - type: published
   value: 1985-05

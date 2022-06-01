@@ -12,10 +12,7 @@ docid:
 - id: CCITT X500.1993
   type: CCITT
   primary: true
-- id: CCITT.X500.1993
-  type: CCITT
-  scope: anchor
-docnumber: X500.1993
+docnumber: CCITT X500.1993
 date:
 - type: published
   value: 1993-11

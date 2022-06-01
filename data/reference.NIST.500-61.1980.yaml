@@ -1,5 +1,5 @@
 ---
-id: NIST500-61.1980
+id: 500-61
 title:
 - content: Maintenance Testing for the Data Encryption Standard
   language:
@@ -9,13 +9,10 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: NIST 500-61.1980
+- id: 500-61
   type: NIST
   primary: true
-- id: NIST.500-61.1980
-  type: NIST
-  scope: anchor
-docnumber: 500-61.1980
+docnumber: 500-61
 date:
 - type: published
   value: 1980-08

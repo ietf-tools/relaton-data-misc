@@ -15,10 +15,7 @@ docid:
 - id: FIPS 180-2.2002
   type: FIPS
   primary: true
-- id: FIPS.180-2.2002
-  type: FIPS
-  scope: anchor
-docnumber: 180-2.2002
+docnumber: FIPS 180-2.2002
 date:
 - type: published
   value: 2002-08

@@ -13,10 +13,7 @@ docid:
 - id: ISO 8208.1990
   type: ISO
   primary: true
-- id: ISO.8208.1990
-  type: ISO
-  scope: anchor
-docnumber: '8208.1990'
+docnumber: ISO 8208.1990
 date:
 - type: published
   value: 1990-03

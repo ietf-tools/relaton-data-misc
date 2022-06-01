@@ -13,10 +13,7 @@ docid:
 - id: ITU X744.1996
   type: ITU
   primary: true
-- id: ITU.X744.1996
-  type: ITU
-  scope: anchor
-docnumber: X744.1996
+docnumber: ITU X744.1996
 date:
 - type: published
   value: '1996'

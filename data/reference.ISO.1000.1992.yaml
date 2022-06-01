@@ -13,10 +13,7 @@ docid:
 - id: ISO 1000.1992
   type: ISO
   primary: true
-- id: ISO.1000.1992
-  type: ISO
-  scope: anchor
-docnumber: '1000.1992'
+docnumber: ISO 1000.1992
 date:
 - type: published
   value: '1992'

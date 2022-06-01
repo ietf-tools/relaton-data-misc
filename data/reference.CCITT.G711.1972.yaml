@@ -12,10 +12,7 @@ docid:
 - id: CCITT G711.1972
   type: CCITT
   primary: true
-- id: CCITT.G711.1972
-  type: CCITT
-  scope: anchor
-docnumber: G711.1972
+docnumber: CCITT G711.1972
 date:
 - type: published
   value: '1972'

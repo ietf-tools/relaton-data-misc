@@ -13,10 +13,7 @@ docid:
 - id: ITU Q762.1994
   type: ITU
   primary: true
-- id: ITU.Q762.1994
-  type: ITU
-  scope: anchor
-docnumber: Q762.1994
+docnumber: ITU Q762.1994
 date:
 - type: published
   value: 1994-04

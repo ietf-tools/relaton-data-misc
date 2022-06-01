@@ -13,10 +13,7 @@ docid:
 - id: ISO 9735.1993
   type: ISO
   primary: true
-- id: ISO.9735.1993
-  type: ISO
-  scope: anchor
-docnumber: '9735.1993'
+docnumber: ISO 9735.1993
 date:
 - type: published
   value: 1993-03

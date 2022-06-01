@@ -1,5 +1,5 @@
 ---
-id: NIST500-20.1977
+id: 500-20
 title:
 - content: Validating the Correctness of Hardware Implementations of the NBS Data
     Encryption Standard
@@ -10,13 +10,10 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: NIST 500-20.1977
+- id: 500-20
   type: NIST
   primary: true
-- id: NIST.500-20.1977
-  type: NIST
-  scope: anchor
-docnumber: 500-20.1977
+docnumber: 500-20
 date:
 - type: published
   value: 1977-11

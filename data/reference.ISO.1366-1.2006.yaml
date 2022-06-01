@@ -14,10 +14,7 @@ docid:
 - id: ISO 3166-1.2006
   type: ISO
   primary: true
-- id: ISO.3166-1.2006
-  type: ISO
-  scope: anchor
-docnumber: 3166-1.2006
+docnumber: ISO 3166-1.2006
 date:
 - type: published
   value: '2006'

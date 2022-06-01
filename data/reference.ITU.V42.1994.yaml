@@ -13,10 +13,7 @@ docid:
 - id: ITU V42.1994
   type: ITU
   primary: true
-- id: ITU.V42.1994
-  type: ITU
-  scope: anchor
-docnumber: V42.1994
+docnumber: ITU V42.1994
 date:
 - type: published
   value: '1994'

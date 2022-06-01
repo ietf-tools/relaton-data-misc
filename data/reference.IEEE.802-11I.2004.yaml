@@ -1,5 +1,5 @@
 ---
-id: IEEE802-11I.2004
+id: IEEEStandard802.11i
 title:
 - content: 'Information technology - Telecommunications and information exchange between
     systems - Local and metropolitan area networks - Specific requirements - Part
@@ -15,13 +15,10 @@ link:
   type: src
 type: standard
 docid:
-- id: IEEE 802-11I.2004
+- id: IEEE Standard 802.11i
   type: IEEE
   primary: true
-- id: IEEE.802-11I.2004
-  type: IEEE
-  scope: anchor
-docnumber: 802-11I.2004
+docnumber: IEEE Standard 802.11i
 date:
 - type: published
   value: 2004-07

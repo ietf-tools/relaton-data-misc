@@ -12,10 +12,7 @@ docid:
 - id: ISO 9542-AD.1991
   type: ISO
   primary: true
-- id: ISO.9542-AD.1991
-  type: ISO
-  scope: anchor
-docnumber: 9542-AD.1991
+docnumber: ISO 9542-AD.1991
 date:
 - type: published
   value: 1991-03

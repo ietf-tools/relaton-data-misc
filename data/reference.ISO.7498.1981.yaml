@@ -12,10 +12,7 @@ docid:
 - id: ISO 7498.1981
   type: ISO
   primary: true
-- id: ISO.7498.1981
-  type: ISO
-  scope: anchor
-docnumber: '7498.1981'
+docnumber: ISO 7498.1981
 date:
 - type: published
   value: '1981'

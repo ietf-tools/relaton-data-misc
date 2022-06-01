@@ -1,5 +1,5 @@
 ---
-id: ANSIX3-51.1975
+id: ANSIX3.51
 title:
 - content: Representations of Universal Time, Local Time Differentials, and United
     States Time Zone References for Information Interchange
@@ -10,13 +10,10 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: ANSI X3-51.1975
-  type: ANSI
+- id: ANSI X3.51
+  type: IEEE
   primary: true
-- id: ANSI.X3-51.1975
-  type: ANSI
-  scope: anchor
-docnumber: X3-51.1975
+docnumber: ANSI X3.51
 date:
 - type: published
   value: '1975'

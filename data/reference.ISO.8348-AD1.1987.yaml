@@ -13,10 +13,7 @@ docid:
 - id: ISO 8348-AD1.1987
   type: ISO
   primary: true
-- id: ISO.8348-AD1.1987
-  type: ISO
-  scope: anchor
-docnumber: 8348-AD1.1987
+docnumber: ISO 8348-AD1.1987
 date:
 - type: published
   value: '1987'

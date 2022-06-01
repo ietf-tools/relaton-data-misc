@@ -13,10 +13,7 @@ docid:
 - id: CCITT E164.1991
   type: CCITT
   primary: true
-- id: CCITT.E164.1991
-  type: CCITT
-  scope: anchor
-docnumber: E164.1991
+docnumber: CCITT E164.1991
 date:
 - type: published
   value: '1991'

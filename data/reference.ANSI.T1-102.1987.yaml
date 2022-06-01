@@ -1,5 +1,5 @@
 ---
-id: ANSIT1-102.1987
+id: ANSIT1
 title:
 - content: Telecommunications - Digital Hierarchy - Electrical Interfaces
   language:
@@ -9,13 +9,10 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: ANSI T1-102.1987
-  type: ANSI
+- id: ANSI T1
+  type: IEEE
   primary: true
-- id: ANSI.T1-102.1987
-  type: ANSI
-  scope: anchor
-docnumber: T1-102.1987
+docnumber: ANSI T1
 date:
 - type: published
   value: '1987'

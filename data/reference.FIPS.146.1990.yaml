@@ -12,10 +12,7 @@ docid:
 - id: FIPS 146.1990
   type: FIPS
   primary: true
-- id: FIPS.146.1990
-  type: FIPS
-  scope: anchor
-docnumber: '146.1990'
+docnumber: FIPS 146.1990
 date:
 - type: published
   value: 1990-10

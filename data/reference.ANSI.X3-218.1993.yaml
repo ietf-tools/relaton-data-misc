@@ -1,5 +1,5 @@
 ---
-id: ANSIX3-218.1993
+id: ANSIX3.218
 title:
 - content: High-Performance Parallel Interface - Encapsulation of IEEE 802.2 (IEEE
     Std 802.2) Logical Link Control Protocol Data Units (802.2 Link Encapsulation)
@@ -11,13 +11,10 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: ANSI X3-218.1993
-  type: ANSI
+- id: ANSI X3.218
+  type: IEEE
   primary: true
-- id: ANSI.X3-218.1993
-  type: ANSI
-  scope: anchor
-docnumber: X3-218.1993
+docnumber: ANSI X3.218
 date:
 - type: published
   value: '1993'

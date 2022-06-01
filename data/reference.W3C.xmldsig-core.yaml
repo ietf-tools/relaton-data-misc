@@ -15,10 +15,7 @@ docid:
 - id: W3C xmldsig-core
   type: W3C
   primary: true
-- id: W3C.xmldsig-core
-  type: W3C
-  scope: anchor
-docnumber: xmldsig-core
+docnumber: W3C xmldsig-core
 date:
 - type: published
   value: 2000-10

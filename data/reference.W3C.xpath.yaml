@@ -15,10 +15,7 @@ docid:
 - id: W3C xpath
   type: W3C
   primary: true
-- id: W3C.xpath
-  type: W3C
-  scope: anchor
-docnumber: xpath
+docnumber: W3C xpath
 date:
 - type: published
   value: '1999-11-16'

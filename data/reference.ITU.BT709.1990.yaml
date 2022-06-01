@@ -13,10 +13,7 @@ docid:
 - id: ITU BT709.1990
   type: ITU
   primary: true
-- id: ITU.BT709.1990
-  type: ITU
-  scope: anchor
-docnumber: BT709.1990
+docnumber: ITU BT709.1990
 date:
 - type: published
   value: '1990'

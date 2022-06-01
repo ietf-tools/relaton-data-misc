@@ -14,10 +14,7 @@ docid:
 - id: ITU X518.1993
   type: ITU
   primary: true
-- id: ITU.X518.1993
-  type: ITU
-  scope: anchor
-docnumber: X518.1993
+docnumber: ITU X518.1993
 date:
 - type: published
   value: '1993'

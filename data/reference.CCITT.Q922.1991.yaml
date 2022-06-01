@@ -12,10 +12,7 @@ docid:
 - id: CCITT Q922.1991
   type: CCITT
   primary: true
-- id: CCITT.Q922.1991
-  type: CCITT
-  scope: anchor
-docnumber: Q922.1991
+docnumber: CCITT Q922.1991
 date:
 - type: published
   value: 1991-04

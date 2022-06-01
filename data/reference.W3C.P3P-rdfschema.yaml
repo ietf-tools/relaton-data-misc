@@ -15,10 +15,7 @@ docid:
 - id: W3C P3P-rdfschema
   type: W3C
   primary: true
-- id: W3C.P3P-rdfschema
-  type: W3C
-  scope: anchor
-docnumber: P3P-rdfschema
+docnumber: W3C P3P-rdfschema
 date:
 - type: published
   value: '2002-01-25'

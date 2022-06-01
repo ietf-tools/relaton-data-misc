@@ -25,10 +25,7 @@ docid:
 - id: ISO 8859.2003
   type: ISO
   primary: true
-- id: ISO.8859.2003
-  type: ISO
-  scope: anchor
-docnumber: '8859.2003'
+docnumber: ISO 8859.2003
 date:
 - type: published
   value: '2003'

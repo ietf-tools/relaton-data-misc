@@ -14,10 +14,7 @@ docid:
 - id: ISO 8473.1992
   type: ISO
   primary: true
-- id: ISO.8473.1992
-  type: ISO
-  scope: anchor
-docnumber: '8473.1992'
+docnumber: ISO 8473.1992
 date:
 - type: published
   value: '1992'

@@ -1,5 +1,5 @@
 ---
-id: ANSIX3-66.1979
+id: ANSIX3.66
 title:
 - content: Advanced Data Communication Procedures (ADCCP)
   language:
@@ -9,13 +9,10 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: ANSI X3-66.1979
-  type: ANSI
+- id: ANSI X3.66
+  type: IEEE
   primary: true
-- id: ANSI.X3-66.1979
-  type: ANSI
-  scope: anchor
-docnumber: X3-66.1979
+docnumber: ANSI X3.66
 date:
 - type: published
   value: '1979'

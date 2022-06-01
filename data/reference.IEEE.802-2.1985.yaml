@@ -1,5 +1,5 @@
 ---
-id: IEEE802-2.1985
+id: IEEEStandard802.2
 title:
 - content: 'Local Area Networks: Logical Link Control'
   language:
@@ -9,13 +9,10 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: IEEE 802-2.1985
+- id: IEEE Standard 802.2
   type: IEEE
   primary: true
-- id: IEEE.802-2.1985
-  type: IEEE
-  scope: anchor
-docnumber: 802-2.1985
+docnumber: IEEE Standard 802.2
 date:
 - type: published
   value: '1985'

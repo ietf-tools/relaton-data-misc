@@ -12,10 +12,7 @@ docid:
 - id: ISO 9945-2-2.1991
   type: ISO
   primary: true
-- id: ISO.9945-2-2.1991
-  type: ISO
-  scope: anchor
-docnumber: 9945-2-2.1991
+docnumber: ISO 9945-2-2.1991
 date:
 - type: published
   value: 1991-10

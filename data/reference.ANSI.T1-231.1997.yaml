@@ -1,5 +1,5 @@
 ---
-id: ANSIT1-231.1997
+id: ANSIT1.231
 title:
 - content: Telecommunications - Digital Hierarchy - Layer 1 In-Service Digital Transmission
     Performance Monitoring
@@ -10,13 +10,10 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: ANSI T1-231.1997
-  type: ANSI
+- id: ANSI T1.231
+  type: IEEE
   primary: true
-- id: ANSI.T1-231.1997
-  type: ANSI
-  scope: anchor
-docnumber: T1-231.1997
+docnumber: ANSI T1.231
 date:
 - type: published
   value: 1997-09

@@ -1,5 +1,5 @@
 ---
-id: ANSIT1-105.1995
+id: ANSIT1.105
 title:
 - content: Telecommunications - Synchronous Optical Network (SONET) - Basic Description
     Including Multiplex Structures, Rates, and Formats
@@ -10,13 +10,10 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: ANSI T1-105.1995
-  type: ANSI
+- id: ANSI T1.105
+  type: IEEE
   primary: true
-- id: ANSI.T1-105.1995
-  type: ANSI
-  scope: anchor
-docnumber: T1-105.1995
+docnumber: ANSI T1.105
 date:
 - type: published
   value: 1995-10

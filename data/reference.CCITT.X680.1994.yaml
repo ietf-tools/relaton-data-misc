@@ -13,10 +13,7 @@ docid:
 - id: CCITT X680.1994
   type: CCITT
   primary: true
-- id: CCITT.X680.1994
-  type: CCITT
-  scope: anchor
-docnumber: X680.1994
+docnumber: CCITT X680.1994
 date:
 - type: published
   value: 1994-07

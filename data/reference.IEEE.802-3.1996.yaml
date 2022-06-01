@@ -1,5 +1,5 @@
 ---
-id: IEEE802-3.1996
+id: IEEEStandard802.3
 title:
 - content: 'Information technology - Telecommunications and Information Exchange between
     Systems - Local and Metropolitan Area Networks - Specific requirements - Part
@@ -12,13 +12,10 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: IEEE 802-3.1996
+- id: IEEE Standard 802.3
   type: IEEE
   primary: true
-- id: IEEE.802-3.1996
-  type: IEEE
-  scope: anchor
-docnumber: 802-3.1996
+docnumber: IEEE Standard 802.3
 date:
 - type: published
   value: '1996'

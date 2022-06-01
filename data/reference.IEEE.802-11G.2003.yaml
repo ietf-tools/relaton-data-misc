@@ -1,5 +1,5 @@
 ---
-id: IEEE802-11G.2003
+id: IEEEStandard802.11g
 title:
 - content: 'Information technology - Telecommunications and information exchange between
     systems - Local and metropolitan area networks - Specific requirements - Part
@@ -15,13 +15,10 @@ link:
   type: src
 type: standard
 docid:
-- id: IEEE 802-11G.2003
+- id: IEEE Standard 802.11g
   type: IEEE
   primary: true
-- id: IEEE.802-11G.2003
-  type: IEEE
-  scope: anchor
-docnumber: 802-11G.2003
+docnumber: IEEE Standard 802.11g
 date:
 - type: published
   value: 2003-06

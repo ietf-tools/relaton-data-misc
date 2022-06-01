@@ -13,10 +13,7 @@ docid:
 - id: CCITT T411.1988
   type: CCITT
   primary: true
-- id: CCITT.T411.1988
-  type: CCITT
-  scope: anchor
-docnumber: T411.1988
+docnumber: CCITT T411.1988
 date:
 - type: published
   value: '1988'

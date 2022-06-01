@@ -13,10 +13,7 @@ docid:
 - id: ISO 11578.1996
   type: ISO
   primary: true
-- id: ISO.11578.1996
-  type: ISO
-  scope: anchor
-docnumber: '11578.1996'
+docnumber: ISO 11578.1996
 date:
 - type: published
   value: '1996'

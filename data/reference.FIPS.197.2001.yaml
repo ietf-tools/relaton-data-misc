@@ -15,10 +15,7 @@ docid:
 - id: FIPS 197.2001
   type: FIPS
   primary: true
-- id: FIPS.197.2001
-  type: FIPS
-  scope: anchor
-docnumber: '197.2001'
+docnumber: FIPS 197.2001
 date:
 - type: published
   value: 2001-11

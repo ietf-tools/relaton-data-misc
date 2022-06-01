@@ -1,5 +1,5 @@
 ---
-id: IEEE802-1Y.1990
+id: IEEEStandard802.1Y
 title:
 - content: Source Routing Tutorial for End System Operation
   language:
@@ -9,13 +9,10 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: IEEE 802-1Y.1990
+- id: IEEE Standard 802.1Y
   type: IEEE
   primary: true
-- id: IEEE.802-1Y.1990
-  type: IEEE
-  scope: anchor
-docnumber: 802-1Y.1990
+docnumber: IEEE Standard 802.1Y
 date:
 - type: published
   value: 1990-09

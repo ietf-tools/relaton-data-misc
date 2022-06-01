@@ -13,10 +13,7 @@ docid:
 - id: ISO 4335-AD1.1979
   type: ISO
   primary: true
-- id: ISO.4335-AD1.1979
-  type: ISO
-  scope: anchor
-docnumber: 4335-AD1.1979
+docnumber: ISO 4335-AD1.1979
 date:
 - type: published
   value: 1979-11

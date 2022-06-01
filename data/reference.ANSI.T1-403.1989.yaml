@@ -1,5 +1,5 @@
 ---
-id: ANSIT1-403.1989
+id: ANSIT1.403
 title:
 - content: Telecommunications - Carrier-to-Customer Installation - DS1 Metallic Interface
   language:
@@ -9,13 +9,10 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: ANSI T1-403.1989
-  type: ANSI
+- id: ANSI T1.403
+  type: IEEE
   primary: true
-- id: ANSI.T1-403.1989
-  type: ANSI
-  scope: anchor
-docnumber: T1-403.1989
+docnumber: ANSI T1.403
 date:
 - type: published
   value: 1989-02

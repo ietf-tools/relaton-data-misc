@@ -13,10 +13,7 @@ docid:
 - id: CCITT X225.1984
   type: CCITT
   primary: true
-- id: CCITT.X225.1984
-  type: CCITT
-  scope: anchor
-docnumber: X225.1984
+docnumber: CCITT X225.1984
 date:
 - type: published
   value: 1984-10

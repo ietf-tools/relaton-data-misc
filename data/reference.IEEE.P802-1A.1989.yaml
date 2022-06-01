@@ -1,5 +1,5 @@
 ---
-id: IEEEP802-1A.1989
+id: IEEEDraftP802.1A
 title:
 - content: Overview and Architecture
   language:
@@ -9,13 +9,10 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: IEEE P802-1A.1989
+- id: IEEE Draft P802.1A
   type: IEEE
   primary: true
-- id: IEEE.P802-1A.1989
-  type: IEEE
-  scope: anchor
-docnumber: P802-1A.1989
+docnumber: IEEE Draft P802.1A
 date:
 - type: published
   value: '1989'

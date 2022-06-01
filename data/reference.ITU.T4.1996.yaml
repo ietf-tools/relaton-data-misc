@@ -12,10 +12,7 @@ docid:
 - id: ITU T4.1996
   type: ITU
   primary: true
-- id: ITU.T4.1996
-  type: ITU
-  scope: anchor
-docnumber: T4.1996
+docnumber: ITU T4.1996
 date:
 - type: published
   value: '1996'

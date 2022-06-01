@@ -14,10 +14,7 @@ docid:
 - id: ISO 11572-2.1997
   type: ISO
   primary: true
-- id: ISO.11572-2.1997
-  type: ISO
-  scope: anchor
-docnumber: 11572-2.1997
+docnumber: ISO 11572-2.1997
 date:
 - type: published
   value: '1997'

@@ -13,10 +13,7 @@ docid:
 - id: ISO 646.1991
   type: ISO
   primary: true
-- id: ISO.646.1991
-  type: ISO
-  scope: anchor
-docnumber: '646.1991'
+docnumber: ISO 646.1991
 date:
 - type: published
   value: '1991'

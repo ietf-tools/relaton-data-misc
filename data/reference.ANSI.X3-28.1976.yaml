@@ -1,5 +1,5 @@
 ---
-id: ANSIX3-28.1976
+id: ANSIX3.28
 title:
 - content: Procedures for the Use of the Communication Control Characters of American
     National Standard Code for Information Interchange in Specified Data Communication
@@ -11,13 +11,10 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: ANSI X3-28.1976
-  type: ANSI
+- id: ANSI X3.28
+  type: IEEE
   primary: true
-- id: ANSI.X3-28.1976
-  type: ANSI
-  scope: anchor
-docnumber: X3-28.1976
+docnumber: ANSI X3.28
 date:
 - type: published
   value: '1976'

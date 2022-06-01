@@ -13,10 +13,7 @@ docid:
 - id: ITU F185.1998
   type: ITU
   primary: true
-- id: ITU.F185.1998
-  type: ITU
-  scope: anchor
-docnumber: F185.1998
+docnumber: ITU F185.1998
 date:
 - type: published
   value: '1998'

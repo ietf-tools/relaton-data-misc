@@ -1,5 +1,5 @@
 ---
-id: ANSIZ39-50.1995
+id: ANSIZ39.50
 title:
 - content: 'Information Retrieval: Application Service Definition and Protocol Specification'
   language:
@@ -9,13 +9,10 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: ANSI Z39-50.1995
-  type: ANSI
+- id: ANSI Z39.50
+  type: IEEE
   primary: true
-- id: ANSI.Z39-50.1995
-  type: ANSI
-  scope: anchor
-docnumber: Z39-50.1995
+docnumber: ANSI Z39.50
 date:
 - type: published
   value: '1995'

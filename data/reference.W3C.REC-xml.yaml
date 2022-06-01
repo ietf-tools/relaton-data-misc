@@ -1,5 +1,5 @@
 ---
-id: W3CREC-xml
+id: REC-xml
 title:
 - content: Extensible Markup Language (XML) 1.0 (2nd ed)
   language:
@@ -12,12 +12,9 @@ link:
   type: src
 type: standard
 docid:
-- id: W3C REC-xml
+- id: REC-xml
   type: W3C
   primary: true
-- id: W3C.REC-xml
-  type: W3C
-  scope: anchor
 docnumber: REC-xml
 date:
 - type: published

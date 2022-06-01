@@ -13,10 +13,7 @@ docid:
 - id: CCITT X219.1987
   type: CCITT
   primary: true
-- id: CCITT.X219.1987
-  type: CCITT
-  scope: anchor
-docnumber: X219.1987
+docnumber: CCITT X219.1987
 date:
 - type: published
   value: 1987-11

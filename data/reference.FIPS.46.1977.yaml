@@ -12,10 +12,7 @@ docid:
 - id: FIPS 46.1977
   type: FIPS
   primary: true
-- id: FIPS.46.1977
-  type: FIPS
-  scope: anchor
-docnumber: '46.1977'
+docnumber: FIPS 46.1977
 date:
 - type: published
   value: '1977-01-15'

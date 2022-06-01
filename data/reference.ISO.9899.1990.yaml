@@ -12,10 +12,7 @@ docid:
 - id: ISO 9899.1990
   type: ISO
   primary: true
-- id: ISO.9899.1990
-  type: ISO
-  scope: anchor
-docnumber: '9899.1990'
+docnumber: ISO 9899.1990
 date:
 - type: published
   value: '1990'

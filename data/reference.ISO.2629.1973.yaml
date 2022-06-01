@@ -12,10 +12,7 @@ docid:
 - id: ISO 2629.1973
   type: ISO
   primary: true
-- id: ISO.2629.1973
-  type: ISO
-  scope: anchor
-docnumber: '2629.1973'
+docnumber: ISO 2629.1973
 date:
 - type: published
   value: '1973'

@@ -1,5 +1,5 @@
 ---
-id: NIST500-214.1993
+id: 500-214
 title:
 - content: Stable Implementation Agreements for Open Systems Interconnection Protocols,
     Version 7, Edition 1
@@ -10,13 +10,10 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: NIST 500-214.1993
+- id: 500-214
   type: NIST
   primary: true
-- id: NIST.500-214.1993
-  type: NIST
-  scope: anchor
-docnumber: 500-214.1993
+docnumber: 500-214
 date:
 - type: published
   value: 1993-12

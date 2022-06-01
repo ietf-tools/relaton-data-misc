@@ -13,10 +13,7 @@ docid:
 - id: ITU T30.1996
   type: ITU
   primary: true
-- id: ITU.T30.1996
-  type: ITU
-  scope: anchor
-docnumber: T30.1996
+docnumber: ITU T30.1996
 date:
 - type: published
   value: 1996-07

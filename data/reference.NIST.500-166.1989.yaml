@@ -1,5 +1,5 @@
 ---
-id: NIST500-166.1989
+id: 500-166
 title:
 - content: 'Computer Viruses and Related Threats: A Management Guide'
   language:
@@ -9,13 +9,10 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: NIST 500-166.1989
+- id: 500-166
   type: NIST
   primary: true
-- id: NIST.500-166.1989
-  type: NIST
-  scope: anchor
-docnumber: 500-166.1989
+docnumber: 500-166
 date:
 - type: published
   value: 1989-08

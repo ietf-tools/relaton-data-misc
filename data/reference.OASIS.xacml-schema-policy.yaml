@@ -15,10 +15,7 @@ docid:
 - id: OASIS xacml-schema-policy
   type: OASIS
   primary: true
-- id: OASIS.xacml-schema-policy
-  type: OASIS
-  scope: anchor
-docnumber: xacml-schema-policy
+docnumber: OASIS xacml-schema-policy
 date:
 - type: published
   value: '2002-07-12'

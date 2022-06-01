@@ -1,5 +1,5 @@
 ---
-id: ANSIX9-9.1986
+id: ANSIX9.9
 title:
 - content: Financial Institution Message Authentication (Wholesale)
   language:
@@ -9,13 +9,10 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: ANSI X9-9.1986
-  type: ANSI
+- id: ANSI X9.9
+  type: IEEE
   primary: true
-- id: ANSI.X9-9.1986
-  type: ANSI
-  scope: anchor
-docnumber: X9-9.1986
+docnumber: ANSI X9.9
 date:
 - type: published
   value: '1986'

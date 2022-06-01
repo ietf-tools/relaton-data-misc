@@ -13,10 +13,7 @@ docid:
 - id: ISO 10646-1.1993
   type: ISO
   primary: true
-- id: ISO.10646-1.1993
-  type: ISO
-  scope: anchor
-docnumber: 10646-1.1993
+docnumber: ISO 10646-1.1993
 date:
 - type: published
   value: 1993-05

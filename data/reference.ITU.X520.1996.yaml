@@ -14,10 +14,7 @@ docid:
 - id: ITU X520.1996
   type: ITU
   primary: true
-- id: ITU.X520.1996
-  type: ITU
-  scope: anchor
-docnumber: X520.1996
+docnumber: ITU X520.1996
 date:
 - type: published
   value: '1996'

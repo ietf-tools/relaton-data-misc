@@ -14,10 +14,7 @@ docid:
 - id: ISO 3309-AM2.1992
   type: ISO
   primary: true
-- id: ISO.3309-AM2.1992
-  type: ISO
-  scope: anchor
-docnumber: 3309-AM2.1992
+docnumber: ISO 3309-AM2.1992
 date:
 - type: published
   value: '1992-01-15'

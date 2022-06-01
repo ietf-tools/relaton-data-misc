@@ -12,10 +12,7 @@ docid:
 - id: ITU G707.1996
   type: ITU
   primary: true
-- id: ITU.G707.1996
-  type: ITU
-  scope: anchor
-docnumber: G707.1996
+docnumber: ITU G707.1996
 date:
 - type: published
   value: 1996-05

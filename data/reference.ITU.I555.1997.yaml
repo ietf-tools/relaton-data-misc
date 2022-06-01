@@ -12,10 +12,7 @@ docid:
 - id: ITU I555.1997
   type: ITU
   primary: true
-- id: ITU.I555.1997
-  type: ITU
-  scope: anchor
-docnumber: I555.1997
+docnumber: ITU I555.1997
 date:
 - type: published
   value: 1997-09

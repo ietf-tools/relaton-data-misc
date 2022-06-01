@@ -16,10 +16,7 @@ docid:
 - id: OASIS sstc-core
   type: OASIS
   primary: true
-- id: OASIS.sstc-core
-  type: OASIS
-  scope: anchor
-docnumber: sstc-core
+docnumber: OASIS sstc-core
 date:
 - type: published
   value: '2002-05-31'

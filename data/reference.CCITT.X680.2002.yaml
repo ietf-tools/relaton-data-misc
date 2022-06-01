@@ -12,10 +12,7 @@ docid:
 - id: CCITT X680.2002
   type: CCITT
   primary: true
-- id: CCITT.X680.2002
-  type: CCITT
-  scope: anchor
-docnumber: X680.2002
+docnumber: CCITT X680.2002
 date:
 - type: published
   value: 2002-07

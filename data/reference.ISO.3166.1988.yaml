@@ -12,10 +12,7 @@ docid:
 - id: ISO 3166.1988
   type: ISO
   primary: true
-- id: ISO.3166.1988
-  type: ISO
-  scope: anchor
-docnumber: '3166.1988'
+docnumber: ISO 3166.1988
 date:
 - type: published
   value: '1988-08-15'

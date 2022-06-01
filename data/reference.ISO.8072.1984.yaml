@@ -13,10 +13,7 @@ docid:
 - id: ISO 8072.1984
   type: ISO
   primary: true
-- id: ISO.8072.1984
-  type: ISO
-  scope: anchor
-docnumber: '8072.1984'
+docnumber: ISO 8072.1984
 date:
 - type: published
   value: 1984-06

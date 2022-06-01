@@ -12,10 +12,7 @@ docid:
 - id: FIPS 500-61.1980
   type: FIPS
   primary: true
-- id: FIPS.500-61.1980
-  type: FIPS
-  scope: anchor
-docnumber: 500-61.1980
+docnumber: FIPS 500-61.1980
 date:
 - type: published
   value: 1980-08

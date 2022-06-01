@@ -13,10 +13,7 @@ docid:
 - id: ITU X411.1998
   type: ITU
   primary: true
-- id: ITU.X411.1998
-  type: ITU
-  scope: anchor
-docnumber: X411.1998
+docnumber: ITU X411.1998
 date:
 - type: published
   value: '1998'

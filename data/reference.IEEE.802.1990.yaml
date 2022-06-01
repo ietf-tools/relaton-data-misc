@@ -1,5 +1,5 @@
 ---
-id: IEEE802.1990
+id: IEEEStandard802
 title:
 - content: 'Local and Metropolitan Area Networks: Overview and Architecture'
   language:
@@ -9,13 +9,10 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: IEEE 802.1990
+- id: IEEE Standard 802
   type: IEEE
   primary: true
-- id: IEEE.802.1990
-  type: IEEE
-  scope: anchor
-docnumber: '802.1990'
+docnumber: IEEE Standard 802
 date:
 - type: published
   value: '1990'

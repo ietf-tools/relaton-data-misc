@@ -1,5 +1,5 @@
 ---
-id: IEEE802-3.1988
+id: IEEEStandard802.3
 title:
 - content: 802.3 Layer Management
   language:
@@ -9,13 +9,10 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: IEEE 802-3.1988
+- id: IEEE Standard 802.3
   type: IEEE
   primary: true
-- id: IEEE.802-3.1988
-  type: IEEE
-  scope: anchor
-docnumber: 802-3.1988
+docnumber: IEEE Standard 802.3
 date:
 - type: published
   value: 1988-11

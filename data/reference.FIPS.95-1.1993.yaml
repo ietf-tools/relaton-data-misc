@@ -12,10 +12,7 @@ docid:
 - id: FIPS 95-1.1993
   type: FIPS
   primary: true
-- id: FIPS.95-1.1993
-  type: FIPS
-  scope: anchor
-docnumber: 95-1.1993
+docnumber: FIPS 95-1.1993
 date:
 - type: published
   value: 1993-01
