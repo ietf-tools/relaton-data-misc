@@ -12,7 +12,10 @@ docid:
 - id: PKCS 8.1993
   type: PKCS
   primary: true
-docnumber: PKCS 8.1993
+- id: PKCS.8.1993
+  type: PKCS
+  scope: anchor
+docnumber: '8.1993'
 date:
 - type: published
   value: 1993-11

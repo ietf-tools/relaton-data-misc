@@ -12,7 +12,10 @@ docid:
 - id: ISO 7812-1.2000
   type: ISO
   primary: true
-docnumber: ISO 7812-1.2000
+- id: ISO.7812-1.2000
+  type: ISO
+  scope: anchor
+docnumber: 7812-1.2000
 date:
 - type: published
   value: '2000'

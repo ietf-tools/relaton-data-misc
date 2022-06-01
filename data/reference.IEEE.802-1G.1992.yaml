@@ -1,5 +1,5 @@
 ---
-id: IEEEDraftStandard802.1G
+id: IEEE802-1G.1992
 title:
 - content: Remote MAC Bridging
   language:
@@ -9,10 +9,13 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: IEEE Draft Standard 802.1G
+- id: IEEE 802-1G.1992
   type: IEEE
   primary: true
-docnumber: IEEE Draft Standard 802.1G
+- id: IEEE.802-1G.1992
+  type: IEEE
+  scope: anchor
+docnumber: 802-1G.1992
 date:
 - type: published
   value: '1992-12-30'

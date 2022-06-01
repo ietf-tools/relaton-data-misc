@@ -1,5 +1,5 @@
 ---
-id: ANSIX12.6
+id: ANSIX126.1997
 title:
 - content: Applications Control Structures for Electronic Data Interchange
   language:
@@ -9,10 +9,13 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: ANSI X12.6
-  type: IEEE
+- id: ANSI X126.1997
+  type: ANSI
   primary: true
-docnumber: ANSI X12.6
+- id: ANSI.X126.1997
+  type: ANSI
+  scope: anchor
+docnumber: X126.1997
 date:
 - type: published
   value: '1997'

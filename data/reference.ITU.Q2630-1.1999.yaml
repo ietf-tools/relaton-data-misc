@@ -12,7 +12,10 @@ docid:
 - id: ITU Q2630-1.1999
   type: ITU
   primary: true
-docnumber: ITU Q2630-1.1999
+- id: ITU.Q2630-1.1999
+  type: ITU
+  scope: anchor
+docnumber: Q2630-1.1999
 date:
 - type: published
   value: 1999-12

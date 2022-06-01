@@ -12,7 +12,10 @@ docid:
 - id: ISO 9594.1989
   type: ISO
   primary: true
-docnumber: ISO 9594.1989
+- id: ISO.9594.1989
+  type: ISO
+  scope: anchor
+docnumber: '9594.1989'
 date:
 - type: published
   value: '1989'

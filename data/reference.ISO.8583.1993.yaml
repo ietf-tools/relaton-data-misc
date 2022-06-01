@@ -12,7 +12,10 @@ docid:
 - id: ISO 8583.1993
   type: ISO
   primary: true
-docnumber: ISO 8583.1993
+- id: ISO.8583.1993
+  type: ISO
+  scope: anchor
+docnumber: '8583.1993'
 date:
 - type: published
   value: '1993-12-15'

@@ -13,7 +13,10 @@ docid:
 - id: CCITT X501.1988
   type: CCITT
   primary: true
-docnumber: CCITT X501.1988
+- id: CCITT.X501.1988
+  type: CCITT
+  scope: anchor
+docnumber: X501.1988
 date:
 - type: published
   value: 1988-11

@@ -1,5 +1,5 @@
 ---
-id: ANSIX3.241
+id: ANSIX3-241.1994
 title:
 - content: Data Compression Method, Adaptive Coding with Sliding Window of Information
     Interchange
@@ -10,10 +10,13 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: ANSI X3.241
-  type: IEEE
+- id: ANSI X3-241.1994
+  type: ANSI
   primary: true
-docnumber: ANSI X3.241
+- id: ANSI.X3-241.1994
+  type: ANSI
+  scope: anchor
+docnumber: X3-241.1994
 date:
 - type: published
   value: '1994'

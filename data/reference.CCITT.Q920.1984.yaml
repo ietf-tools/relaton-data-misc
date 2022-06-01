@@ -12,7 +12,10 @@ docid:
 - id: CCITT Q920.1984
   type: CCITT
   primary: true
-docnumber: CCITT Q920.1984
+- id: CCITT.Q920.1984
+  type: CCITT
+  scope: anchor
+docnumber: Q920.1984
 date:
 - type: published
   value: '1984'

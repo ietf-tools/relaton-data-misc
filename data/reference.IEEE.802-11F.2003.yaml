@@ -1,5 +1,5 @@
 ---
-id: IEEEStandard802.11f
+id: IEEE802-11F.2003
 title:
 - content: IEEE Trial-Use Recommended Practice for Multi-Vendor Access Point Interoperability
     via an Inter-Access Point Protocol Across Distribution Systems Supporting IEEE
@@ -14,10 +14,13 @@ link:
   type: src
 type: standard
 docid:
-- id: IEEE Standard 802.11f
+- id: IEEE 802-11F.2003
   type: IEEE
   primary: true
-docnumber: IEEE Standard 802.11f
+- id: IEEE.802-11F.2003
+  type: IEEE
+  scope: anchor
+docnumber: 802-11F.2003
 date:
 - type: published
   value: 2003-07

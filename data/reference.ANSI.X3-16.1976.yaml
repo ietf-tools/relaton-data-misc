@@ -1,5 +1,5 @@
 ---
-id: ANSIX3.16
+id: ANSIX3-16.1976
 title:
 - content: Character Structure and Character Parity Sense for Serial-by-Bit Data Communication
     in the American National Standard Code for Information Interchange
@@ -10,10 +10,13 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: ANSI X3.16
-  type: IEEE
+- id: ANSI X3-16.1976
+  type: ANSI
   primary: true
-docnumber: ANSI X3.16
+- id: ANSI.X3-16.1976
+  type: ANSI
+  scope: anchor
+docnumber: X3-16.1976
 date:
 - type: published
   value: '1976'

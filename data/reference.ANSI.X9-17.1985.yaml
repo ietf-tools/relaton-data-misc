@@ -1,5 +1,5 @@
 ---
-id: ANSIX9.17
+id: ANSIX9-17.1985
 title:
 - content: Financial Institution Key Management (Wholesale)
   language:
@@ -9,10 +9,13 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: ANSI X9.17
-  type: IEEE
+- id: ANSI X9-17.1985
+  type: ANSI
   primary: true
-docnumber: ANSI X9.17
+- id: ANSI.X9-17.1985
+  type: ANSI
+  scope: anchor
+docnumber: X9-17.1985
 date:
 - type: published
   value: 1985-04

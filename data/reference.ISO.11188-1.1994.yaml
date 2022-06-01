@@ -14,7 +14,10 @@ docid:
 - id: ISO 11188-1.1994
   type: ISO
   primary: true
-docnumber: ISO 11188-1.1994
+- id: ISO.11188-1.1994
+  type: ISO
+  scope: anchor
+docnumber: 11188-1.1994
 date:
 - type: published
   value: 1994-06

@@ -13,7 +13,10 @@ docid:
 - id: FIPS 59.1979
   type: FIPS
   primary: true
-docnumber: FIPS 59.1979
+- id: FIPS.59.1979
+  type: FIPS
+  scope: anchor
+docnumber: '59.1979'
 date:
 - type: published
   value: 1979-02

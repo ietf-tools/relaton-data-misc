@@ -1,5 +1,5 @@
 ---
-id: IEEEStandard1284.1
+id: IEEE1284-1.1997
 title:
 - content: Transport Independent Printer/System Interface
   language:
@@ -9,10 +9,13 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: IEEE Standard 1284.1
+- id: IEEE 1284-1.1997
   type: IEEE
   primary: true
-docnumber: IEEE Standard 1284.1
+- id: IEEE.1284-1.1997
+  type: IEEE
+  scope: anchor
+docnumber: 1284-1.1997
 date:
 - type: published
   value: '1997'

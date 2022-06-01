@@ -1,5 +1,5 @@
 ---
-id: ANSIX3.272
+id: ANSIX3-272.1996
 title:
 - content: Information Technology - Fibre Channel - Arbiturated Loop (FC-AL)
   language:
@@ -9,10 +9,13 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: ANSI X3.272
-  type: IEEE
+- id: ANSI X3-272.1996
+  type: ANSI
   primary: true
-docnumber: ANSI X3.272
+- id: ANSI.X3-272.1996
+  type: ANSI
+  scope: anchor
+docnumber: X3-272.1996
 date:
 - type: published
   value: '1996'

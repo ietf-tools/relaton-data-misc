@@ -15,7 +15,10 @@ docid:
 - id: ISO 10589.1990
   type: ISO
   primary: true
-docnumber: ISO 10589.1990
+- id: ISO.10589.1990
+  type: ISO
+  scope: anchor
+docnumber: '10589.1990'
 date:
 - type: published
   value: '1990'

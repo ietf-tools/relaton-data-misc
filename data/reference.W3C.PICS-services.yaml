@@ -16,7 +16,10 @@ docid:
 - id: W3C PICS-services
   type: W3C
   primary: true
-docnumber: W3C PICS-services
+- id: W3C.PICS-services
+  type: W3C
+  scope: anchor
+docnumber: PICS-services
 date:
 - type: published
   value: '1996-10-31'

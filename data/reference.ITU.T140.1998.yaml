@@ -12,7 +12,10 @@ docid:
 - id: ITU T140.1998
   type: ITU
   primary: true
-docnumber: ITU T140.1998
+- id: ITU.T140.1998
+  type: ITU
+  scope: anchor
+docnumber: T140.1998
 date:
 - type: published
   value: 1998-02

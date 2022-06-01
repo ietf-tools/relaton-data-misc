@@ -1,5 +1,5 @@
 ---
-id: ANSIT1.107
+id: ANSIT1-107.1988
 title:
 - content: Telecommunications - Digital Hierarchy - Formats Specification
   language:
@@ -9,10 +9,13 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: ANSI T1.107
-  type: IEEE
+- id: ANSI T1-107.1988
+  type: ANSI
   primary: true
-docnumber: ANSI T1.107
+- id: ANSI.T1-107.1988
+  type: ANSI
+  scope: anchor
+docnumber: T1-107.1988
 date:
 - type: published
   value: '1988'

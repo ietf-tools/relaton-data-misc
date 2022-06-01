@@ -1,5 +1,5 @@
 ---
-id: IEEEDraftSupplementP802.3P
+id: IEEEP802-3P.1992
 title:
 - content: Layer Management for 10 Mb/s Medium Access Unit (MAUs), Section 20, Draft
     5
@@ -10,10 +10,13 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: IEEE Draft Supplement P802.3P
+- id: IEEE P802-3P.1992
   type: IEEE
   primary: true
-docnumber: IEEE Draft Supplement P802.3P
+- id: IEEE.P802-3P.1992
+  type: IEEE
+  scope: anchor
+docnumber: P802-3P.1992
 date:
 - type: published
   value: '1992-07-11'

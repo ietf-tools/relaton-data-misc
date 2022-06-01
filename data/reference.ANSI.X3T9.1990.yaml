@@ -1,5 +1,5 @@
 ---
-id: ANSIX3T9.5
+id: ANSIX3T9.1990
 title:
 - content: FDDI Station Management
   language:
@@ -9,10 +9,13 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: ANSI X3T9.5
-  type: IEEE
+- id: ANSI X3T9.1990
+  type: ANSI
   primary: true
-docnumber: ANSI X3T9.5
+- id: ANSI.X3T9.1990
+  type: ANSI
+  scope: anchor
+docnumber: X3T9.1990
 date:
 - type: published
   value: '1990'

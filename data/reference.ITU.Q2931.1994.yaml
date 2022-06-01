@@ -14,7 +14,10 @@ docid:
 - id: ITU Q2931.1994
   type: ITU
   primary: true
-docnumber: ITU Q2931.1994
+- id: ITU.Q2931.1994
+  type: ITU
+  scope: anchor
+docnumber: Q2931.1994
 date:
 - type: published
   value: '1994'

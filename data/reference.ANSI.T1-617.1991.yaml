@@ -1,5 +1,5 @@
 ---
-id: ANSIT1.617
+id: ANSIT1-617.1991
 title:
 - content: Telecommunications - Integrated Services Digital Network (ISDN) - Digital
     Subscriber Signalling System Number 1 (DSS1) - Signalling Specification for Frame
@@ -11,10 +11,13 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: ANSI T1.617
-  type: IEEE
+- id: ANSI T1-617.1991
+  type: ANSI
   primary: true
-docnumber: ANSI T1.617
+- id: ANSI.T1-617.1991
+  type: ANSI
+  scope: anchor
+docnumber: T1-617.1991
 date:
 - type: published
   value: 1991-06

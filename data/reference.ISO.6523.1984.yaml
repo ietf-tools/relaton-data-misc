@@ -12,7 +12,10 @@ docid:
 - id: ISO 6523.1984
   type: ISO
   primary: true
-docnumber: ISO 6523.1984
+- id: ISO.6523.1984
+  type: ISO
+  scope: anchor
+docnumber: '6523.1984'
 date:
 - type: published
   value: '1984'

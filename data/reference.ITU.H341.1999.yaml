@@ -12,7 +12,10 @@ docid:
 - id: ITU H341.1999
   type: ITU
   primary: true
-docnumber: ITU H341.1999
+- id: ITU.H341.1999
+  type: ITU
+  scope: anchor
+docnumber: H341.1999
 date:
 - type: published
   value: 1999-05

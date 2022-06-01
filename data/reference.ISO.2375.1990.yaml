@@ -12,7 +12,10 @@ docid:
 - id: ISO 2375.1990
   type: ISO
   primary: true
-docnumber: ISO 2375.1990
+- id: ISO.2375.1990
+  type: ISO
+  scope: anchor
+docnumber: '2375.1990'
 date:
 - type: published
   value: 1990-12

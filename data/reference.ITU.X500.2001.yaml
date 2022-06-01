@@ -14,7 +14,10 @@ docid:
 - id: ITU X500.2001
   type: ITU
   primary: true
-docnumber: ITU X500.2001
+- id: ITU.X500.2001
+  type: ITU
+  scope: anchor
+docnumber: X500.2001
 date:
 - type: published
   value: 2001-02

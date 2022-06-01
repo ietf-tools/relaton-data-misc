@@ -1,5 +1,5 @@
 ---
-id: IEEEStandard1278.2
+id: IEEE1278-2.1995
 title:
 - content: Distributed Interactive Simulation - Communication services and Profiles
   language:
@@ -9,10 +9,13 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: IEEE Standard 1278.2
+- id: IEEE 1278-2.1995
   type: IEEE
   primary: true
-docnumber: IEEE Standard 1278.2
+- id: IEEE.1278-2.1995
+  type: IEEE
+  scope: anchor
+docnumber: 1278-2.1995
 date:
 - type: published
   value: '1995'

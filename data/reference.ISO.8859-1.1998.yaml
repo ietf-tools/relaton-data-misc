@@ -13,7 +13,10 @@ docid:
 - id: ISO 8859-1.1998
   type: ISO
   primary: true
-docnumber: ISO 8859-1.1998
+- id: ISO.8859-1.1998
+  type: ISO
+  scope: anchor
+docnumber: 8859-1.1998
 date:
 - type: published
   value: '1998'

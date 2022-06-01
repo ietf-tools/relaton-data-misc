@@ -12,7 +12,10 @@ docid:
 - id: CCITT X401.1991
   type: CCITT
   primary: true
-docnumber: CCITT X401.1991
+- id: CCITT.X401.1991
+  type: CCITT
+  scope: anchor
+docnumber: X401.1991
 date:
 - type: published
   value: 1991-02

@@ -1,5 +1,5 @@
 ---
-id: IEEEStandard1003.2
+id: IEEE1003-2.1992
 title:
 - content: 'Information Technology - Portable Operating System Interface (POSIX) -
     Part 2: Shell and Utilities (Vol. 1)'
@@ -10,10 +10,13 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: IEEE Standard 1003.2
+- id: IEEE 1003-2.1992
   type: IEEE
   primary: true
-docnumber: IEEE Standard 1003.2
+- id: IEEE.1003-2.1992
+  type: IEEE
+  scope: anchor
+docnumber: 1003-2.1992
 date:
 - type: published
   value: '1992'

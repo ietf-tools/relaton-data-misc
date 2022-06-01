@@ -1,5 +1,5 @@
 ---
-id: REC-xmlenc-core
+id: W3CREC-xmlenc-core
 title:
 - content: XML Encryption Syntax and Processing
   language:
@@ -12,9 +12,12 @@ link:
   type: src
 type: standard
 docid:
-- id: REC-xmlenc-core
+- id: W3C REC-xmlenc-core
   type: W3C
   primary: true
+- id: W3C.REC-xmlenc-core
+  type: W3C
+  scope: anchor
 docnumber: REC-xmlenc-core
 date:
 - type: published

@@ -1,5 +1,5 @@
 ---
-id: ANSIT1M1.3
+id: ANSIT1-M1.1993
 title:
 - content: Telecommunications - Layer 1 In-Service Digital Transmission Performance
     Monitoring
@@ -10,10 +10,13 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: ANSI T1M1.3
-  type: IEEE
+- id: ANSI T1-M1.1993
+  type: ANSI
   primary: true
-docnumber: ANSI T1M1.3
+- id: ANSI.T1-M1.1993
+  type: ANSI
+  scope: anchor
+docnumber: T1-M1.1993
 date:
 - type: published
   value: 1993-07

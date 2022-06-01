@@ -15,7 +15,10 @@ docid:
 - id: FIPS 46-2.1993
   type: FIPS
   primary: true
-docnumber: FIPS 46-2.1993
+- id: FIPS.46-2.1993
+  type: FIPS
+  scope: anchor
+docnumber: 46-2.1993
 date:
 - type: published
   value: 1993-12

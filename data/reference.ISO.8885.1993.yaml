@@ -14,7 +14,10 @@ docid:
 - id: ISO 8885.1993
   type: ISO
   primary: true
-docnumber: ISO 8885.1993
+- id: ISO.8885.1993
+  type: ISO
+  scope: anchor
+docnumber: '8885.1993'
 date:
 - type: published
   value: '1993'

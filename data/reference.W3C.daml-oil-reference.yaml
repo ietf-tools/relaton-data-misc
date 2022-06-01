@@ -15,7 +15,10 @@ docid:
 - id: W3C daml+oil-reference
   type: W3C
   primary: true
-docnumber: W3C daml+oil-reference
+- id: W3C.daml+oil-reference
+  type: W3C
+  scope: anchor
+docnumber: daml+oil-reference
 date:
 - type: published
   value: '2001-12-18'

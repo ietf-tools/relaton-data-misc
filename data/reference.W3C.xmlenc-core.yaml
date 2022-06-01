@@ -15,7 +15,10 @@ docid:
 - id: W3C xmlenc-core
   type: W3C
   primary: true
-docnumber: W3C xmlenc-core
+- id: W3C.xmlenc-core
+  type: W3C
+  scope: anchor
+docnumber: xmlenc-core
 date:
 - type: published
   value: 2002-08

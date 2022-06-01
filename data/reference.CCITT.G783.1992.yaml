@@ -13,7 +13,10 @@ docid:
 - id: CCITT G783.1992
   type: CCITT
   primary: true
-docnumber: CCITT G783.1992
+- id: CCITT.G783.1992
+  type: CCITT
+  scope: anchor
+docnumber: G783.1992
 date:
 - type: published
   value: 1992-11

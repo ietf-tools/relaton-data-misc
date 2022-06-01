@@ -12,7 +12,10 @@ docid:
 - id: ITU E164.1991
   type: ITU
   primary: true
-docnumber: ITU E164.1991
+- id: ITU.E164.1991
+  type: ITU
+  scope: anchor
+docnumber: E164.1991
 date:
 - type: published
   value: '1991'

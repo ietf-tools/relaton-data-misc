@@ -13,7 +13,10 @@ docid:
 - id: CCITT G726.1990
   type: CCITT
   primary: true
-docnumber: CCITT G726.1990
+- id: CCITT.G726.1990
+  type: CCITT
+  scope: anchor
+docnumber: G726.1990
 date:
 - type: published
   value: '1990'

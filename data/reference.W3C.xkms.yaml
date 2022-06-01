@@ -15,7 +15,10 @@ docid:
 - id: W3C xkms
   type: W3C
   primary: true
-docnumber: W3C xkms
+- id: W3C.xkms
+  type: W3C
+  scope: anchor
+docnumber: xkms
 date:
 - type: published
   value: '2001-03-30'

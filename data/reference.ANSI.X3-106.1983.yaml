@@ -1,5 +1,5 @@
 ---
-id: ANSIX3.106
+id: ANSIX3-106.1983
 title:
 - content: Information Systems - Data Link Encryption - Data Encryption Algorithm
     - Modes of Operation
@@ -10,10 +10,13 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: ANSI X3.106
-  type: IEEE
+- id: ANSI X3-106.1983
+  type: ANSI
   primary: true
-docnumber: ANSI X3.106
+- id: ANSI.X3-106.1983
+  type: ANSI
+  scope: anchor
+docnumber: X3-106.1983
 date:
 - type: published
   value: '1983'

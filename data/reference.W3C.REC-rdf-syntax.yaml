@@ -1,5 +1,5 @@
 ---
-id: REC-rdf-syntax
+id: W3CREC-rdf-syntax
 title:
 - content: Resource Description Framework (RDF) Model and Syntax Specification
   language:
@@ -12,9 +12,12 @@ link:
   type: src
 type: standard
 docid:
-- id: REC-rdf-syntax
+- id: W3C REC-rdf-syntax
   type: W3C
   primary: true
+- id: W3C.REC-rdf-syntax
+  type: W3C
+  scope: anchor
 docnumber: REC-rdf-syntax
 date:
 - type: published

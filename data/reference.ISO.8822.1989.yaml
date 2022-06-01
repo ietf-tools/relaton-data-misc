@@ -13,7 +13,10 @@ docid:
 - id: ISO 8822.1989
   type: ISO
   primary: true
-docnumber: ISO 8822.1989
+- id: ISO.8822.1989
+  type: ISO
+  scope: anchor
+docnumber: '8822.1989'
 date:
 - type: published
   value: '1989'

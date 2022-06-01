@@ -12,7 +12,10 @@ docid:
 - id: ITU H323.1998
   type: ITU
   primary: true
-docnumber: ITU H323.1998
+- id: ITU.H323.1998
+  type: ITU
+  scope: anchor
+docnumber: H323.1998
 date:
 - type: published
   value: '1998'

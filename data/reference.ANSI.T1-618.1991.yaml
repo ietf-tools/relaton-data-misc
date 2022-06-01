@@ -1,5 +1,5 @@
 ---
-id: ANSIT1.618
+id: ANSIT1-618.1991
 title:
 - content: Telecommunications - Integrated Services Digital Network - Core Aspects
     of Frame Protocol for Use with Frame Relay Bearer Service
@@ -10,10 +10,13 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: ANSI T1.618
-  type: IEEE
+- id: ANSI T1-618.1991
+  type: ANSI
   primary: true
-docnumber: ANSI T1.618
+- id: ANSI.T1-618.1991
+  type: ANSI
+  scope: anchor
+docnumber: T1-618.1991
 date:
 - type: published
   value: '1991-06-18'

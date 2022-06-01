@@ -15,7 +15,10 @@ docid:
 - id: W3C xml-c14n
   type: W3C
   primary: true
-docnumber: W3C xml-c14n
+- id: W3C.xml-c14n
+  type: W3C
+  scope: anchor
+docnumber: xml-c14n
 date:
 - type: published
   value: '2001-03-15'

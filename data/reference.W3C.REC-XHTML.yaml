@@ -1,5 +1,5 @@
 ---
-id: REC-XHTML
+id: W3CREC-XHTML
 title:
 - content: 'XHTML 1.0: The Extensible HyperText Markup Language'
   language:
@@ -12,9 +12,12 @@ link:
   type: src
 type: standard
 docid:
-- id: REC-XHTML
+- id: W3C REC-XHTML
   type: W3C
   primary: true
+- id: W3C.REC-XHTML
+  type: W3C
+  scope: anchor
 docnumber: REC-XHTML
 date:
 - type: published

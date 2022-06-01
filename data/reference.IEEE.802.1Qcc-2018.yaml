@@ -17,16 +17,19 @@ docid:
 - id: IEEE 802.1Qcc-2018
   type: IEEE
   primary: true
+- id: IEEE.802.1Qcc-2018
+  type: IEEE
+  scope: anchor
 - id: 10.1109/ieeestd.2018.8514112
   type: DOI
-docnumber: IEEE 802.1Qcc-2018
+docnumber: 802.1Qcc-2018
 date:
 - type: published
   value: '2018-10-31'
 contributor:
 - organization:
     name:
-    - Institute of Electrical and Electronics Engineers
+    - Istitute of Electrical and Electronics Engineers
   role:
   - author
 revdate: '2018-10-31'
@@ -52,13 +55,4 @@ series:
     - Latn
     format: text/plain
   number: 802.1Qcc-2018
-- type: main
-  title:
-    content: DOI
-    language:
-    - en
-    script:
-    - Latn
-    format: text/plain
-  number: 10.1109/ieeestd.2018.8514112
 doctype: ieee

@@ -1,5 +1,5 @@
 ---
-id: ANSIT1.607
+id: ANSIT1-607.1998
 title:
 - content: Telecommunications - Digital Subscriber Signaling System Number 1 (DSS1)
     - Layer 3 Signaling Specification for Circuit-Switched Bearer Services
@@ -10,10 +10,13 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: ANSI T1.607
-  type: IEEE
+- id: ANSI T1-607.1998
+  type: ANSI
   primary: true
-docnumber: ANSI T1.607
+- id: ANSI.T1-607.1998
+  type: ANSI
+  scope: anchor
+docnumber: T1-607.1998
 date:
 - type: published
   value: '1998'

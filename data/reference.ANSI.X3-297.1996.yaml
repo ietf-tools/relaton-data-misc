@@ -1,5 +1,5 @@
 ---
-id: ANSIX3.297
+id: ANSIX3-297.1996
 title:
 - content: Information Technology - Fibre Channel - Physical and Signalling Interface-2
     (FC-PH-2)
@@ -10,10 +10,13 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: ANSI X3.297
-  type: IEEE
+- id: ANSI X3-297.1996
+  type: ANSI
   primary: true
-docnumber: ANSI X3.297
+- id: ANSI.X3-297.1996
+  type: ANSI
+  scope: anchor
+docnumber: X3-297.1996
 date:
 - type: published
   value: '1996'

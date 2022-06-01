@@ -1,5 +1,5 @@
 ---
-id: ANSIX9.44
+id: ANSIX9-44.1993
 title:
 - content: 'Public Key Cryptography Using Reversible Algorithms for the Financial
     Services Industry: Transport of Symmetric Algorithm Keys Using RSA'
@@ -10,10 +10,13 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: ANSI X9.44
-  type: IEEE
+- id: ANSI X9-44.1993
+  type: ANSI
   primary: true
-docnumber: ANSI X9.44
+- id: ANSI.X9-44.1993
+  type: ANSI
+  scope: anchor
+docnumber: X9-44.1993
 date:
 - type: published
   value: '1993'

@@ -13,7 +13,10 @@ docid:
 - id: ISO 10160.1997
   type: ISO
   primary: true
-docnumber: ISO 10160.1997
+- id: ISO.10160.1997
+  type: ISO
+  scope: anchor
+docnumber: '10160.1997'
 date:
 - type: published
   value: 1997-04

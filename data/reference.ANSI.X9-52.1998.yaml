@@ -1,5 +1,5 @@
 ---
-id: ANSIX9.52
+id: ANSIX9-52.1998
 title:
 - content: Triple Data Encryption Algorithm Modes of Operation
   language:
@@ -9,10 +9,13 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: ANSI X9.52
-  type: IEEE
+- id: ANSI X9-52.1998
+  type: ANSI
   primary: true
-docnumber: ANSI X9.52
+- id: ANSI.X9-52.1998
+  type: ANSI
+  scope: anchor
+docnumber: X9-52.1998
 date:
 - type: published
   value: '1998'

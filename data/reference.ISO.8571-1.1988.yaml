@@ -13,7 +13,10 @@ docid:
 - id: ISO 8571-1.1988
   type: ISO
   primary: true
-docnumber: ISO 8571-1.1988
+- id: ISO.8571-1.1988
+  type: ISO
+  scope: anchor
+docnumber: 8571-1.1988
 date:
 - type: published
   value: 1988-10

@@ -13,7 +13,10 @@ docid:
 - id: CCITT X25.1976
   type: CCITT
   primary: true
-docnumber: CCITT X25.1976
+- id: CCITT.X25.1976
+  type: CCITT
+  scope: anchor
+docnumber: X25.1976
 date:
 - type: published
   value: '1976'

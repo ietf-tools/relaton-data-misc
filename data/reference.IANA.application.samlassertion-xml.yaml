@@ -13,7 +13,10 @@ docid:
 - id: IANA application.samlassertion-xml
   type: IANA
   primary: true
-docnumber: IANA application.samlassertion-xml
+- id: IANA.application.samlassertion-xml
+  type: IANA
+  scope: anchor
+docnumber: application.samlassertion-xml
 date:
 - type: published
   value: 2004-12

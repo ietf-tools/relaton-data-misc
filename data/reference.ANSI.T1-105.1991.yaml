@@ -1,5 +1,5 @@
 ---
-id: ANSIT1.105
+id: ANSIT1-105.1991
 title:
 - content: Telecommunications - Digital Hierarchy - Optical Interface Rates and Formats
     Specification
@@ -10,10 +10,13 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: ANSI T1.105
-  type: IEEE
+- id: ANSI T1-105.1991
+  type: ANSI
   primary: true
-docnumber: ANSI T1.105
+- id: ANSI.T1-105.1991
+  type: ANSI
+  scope: anchor
+docnumber: T1-105.1991
 date:
 - type: published
   value: '1991'

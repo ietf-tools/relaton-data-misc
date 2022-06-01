@@ -13,7 +13,10 @@ docid:
 - id: CCITT T30.1977
   type: CCITT
   primary: true
-docnumber: CCITT T30.1977
+- id: CCITT.T30.1977
+  type: CCITT
+  scope: anchor
+docnumber: T30.1977
 date:
 - type: published
   value: '1977'

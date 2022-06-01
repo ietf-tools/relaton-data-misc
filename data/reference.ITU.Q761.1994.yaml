@@ -12,7 +12,10 @@ docid:
 - id: ITU Q761.1994
   type: ITU
   primary: true
-docnumber: ITU Q761.1994
+- id: ITU.Q761.1994
+  type: ITU
+  scope: anchor
+docnumber: Q761.1994
 date:
 - type: published
   value: 1994-04

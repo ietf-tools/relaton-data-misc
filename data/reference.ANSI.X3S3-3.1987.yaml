@@ -1,5 +1,5 @@
 ---
-id: ANSIX3S3.3
+id: ANSIX3S3-3.1987
 title:
 - content: Intermediate System to Intermediate System Intra-Domain Routing Exchange
     Protocol
@@ -10,10 +10,13 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: ANSI X3S3.3
-  type: IEEE
+- id: ANSI X3S3-3.1987
+  type: ANSI
   primary: true
-docnumber: ANSI X3S3.3
+- id: ANSI.X3S3-3.1987
+  type: ANSI
+  scope: anchor
+docnumber: X3S3-3.1987
 date:
 - type: published
   value: '1987'

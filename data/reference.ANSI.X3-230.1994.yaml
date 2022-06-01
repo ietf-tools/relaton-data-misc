@@ -1,5 +1,5 @@
 ---
-id: ANSIX3.230
+id: ANSIX3-230.1994
 title:
 - content: Information Technology - Fibre Channel - Physical and Signaling Interface
     (FC-PH)
@@ -10,10 +10,13 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: ANSI X3.230
-  type: IEEE
+- id: ANSI X3-230.1994
+  type: ANSI
   primary: true
-docnumber: ANSI X3.230
+- id: ANSI.X3-230.1994
+  type: ANSI
+  scope: anchor
+docnumber: X3-230.1994
 date:
 - type: published
   value: '1994'

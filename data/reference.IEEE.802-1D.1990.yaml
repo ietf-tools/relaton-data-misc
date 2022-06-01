@@ -1,5 +1,5 @@
 ---
-id: IEEEStandard802.1D
+id: IEEE802-1D.1990
 title:
 - content: Local Area Network MAC (Media Access Control) Bridges
   language:
@@ -9,10 +9,13 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: IEEE Standard 802.1D
+- id: IEEE 802-1D.1990
   type: IEEE
   primary: true
-docnumber: IEEE Standard 802.1D
+- id: IEEE.802-1D.1990
+  type: IEEE
+  scope: anchor
+docnumber: 802-1D.1990
 date:
 - type: published
   value: '1990'

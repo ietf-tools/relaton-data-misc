@@ -1,5 +1,5 @@
 ---
-id: ANSIX3.41
+id: ANSIX3-41.1974
 title:
 - content: Code Extension Techniques for Use with the 7-bit Coded Character Set of
     American National Standard Code (ASCII) for Information Interchange
@@ -10,10 +10,13 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: ANSI X3.41
-  type: IEEE
+- id: ANSI X3-41.1974
+  type: ANSI
   primary: true
-docnumber: ANSI X3.41
+- id: ANSI.X3-41.1974
+  type: ANSI
+  scope: anchor
+docnumber: X3-41.1974
 date:
 - type: published
   value: '1974'

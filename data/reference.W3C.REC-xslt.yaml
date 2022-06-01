@@ -1,5 +1,5 @@
 ---
-id: REC-xslt
+id: W3CREC-xslt
 title:
 - content: XSL Transformations (XSLT) Version 1.0
   language:
@@ -12,9 +12,12 @@ link:
   type: src
 type: standard
 docid:
-- id: REC-xslt
+- id: W3C REC-xslt
   type: W3C
   primary: true
+- id: W3C.REC-xslt
+  type: W3C
+  scope: anchor
 docnumber: REC-xslt
 date:
 - type: published

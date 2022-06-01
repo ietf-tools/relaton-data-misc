@@ -14,7 +14,10 @@ docid:
 - id: ISO 8802-5.1995
   type: ISO
   primary: true
-docnumber: ISO 8802-5.1995
+- id: ISO.8802-5.1995
+  type: ISO
+  scope: anchor
+docnumber: 8802-5.1995
 date:
 - type: published
   value: '1995'

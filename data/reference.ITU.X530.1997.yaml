@@ -14,7 +14,10 @@ docid:
 - id: ITU X530.1997
   type: ITU
   primary: true
-docnumber: ITU X530.1997
+- id: ITU.X530.1997
+  type: ITU
+  scope: anchor
+docnumber: X530.1997
 date:
 - type: published
   value: '1997'

@@ -15,7 +15,10 @@ docid:
 - id: W3C soap11
   type: W3C
   primary: true
-docnumber: W3C soap11
+- id: W3C.soap11
+  type: W3C
+  scope: anchor
+docnumber: soap11
 date:
 - type: published
   value: 2000-05

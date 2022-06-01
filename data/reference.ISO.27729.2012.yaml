@@ -13,7 +13,10 @@ docid:
 - id: ISO 27729.2012
   type: ISO
   primary: true
-docnumber: ISO 27729.2012
+- id: ISO.27729.2012
+  type: ISO
+  scope: anchor
+docnumber: '27729.2012'
 date:
 - type: published
   value: '2012-03-09'

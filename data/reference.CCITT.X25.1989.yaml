@@ -14,7 +14,10 @@ docid:
 - id: CCITT X25.1989
   type: CCITT
   primary: true
-docnumber: CCITT X25.1989
+- id: CCITT.X25.1989
+  type: CCITT
+  scope: anchor
+docnumber: X25.1989
 date:
 - type: published
   value: '1989'

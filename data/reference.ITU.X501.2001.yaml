@@ -14,7 +14,10 @@ docid:
 - id: ITU X501.2001
   type: ITU
   primary: true
-docnumber: ITU X501.2001
+- id: ITU.X501.2001
+  type: ITU
+  scope: anchor
+docnumber: X501.2001
 date:
 - type: published
   value: 2001-02

@@ -1,5 +1,5 @@
 ---
-id: ANSIX3.216
+id: ANSIX3-216.1992
 title:
 - content: The Structure and Semantics of the Domain-Specific Part (DSP) of the OSI
     Network Service Access Point (NSAP) Address
@@ -10,10 +10,13 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: ANSI X3.216
-  type: IEEE
+- id: ANSI X3-216.1992
+  type: ANSI
   primary: true
-docnumber: ANSI X3.216
+- id: ANSI.X3-216.1992
+  type: ANSI
+  scope: anchor
+docnumber: X3-216.1992
 date:
 - type: published
   value: '1992'

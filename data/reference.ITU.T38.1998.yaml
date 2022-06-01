@@ -13,7 +13,10 @@ docid:
 - id: ITU T38.1998
   type: ITU
   primary: true
-docnumber: ITU T38.1998
+- id: ITU.T38.1998
+  type: ITU
+  scope: anchor
+docnumber: T38.1998
 date:
 - type: published
   value: '1998'

@@ -1,5 +1,5 @@
 ---
-id: IEEEStandard1394
+id: IEEE1394.1995
 title:
 - content: Standard for a High Performance Serial Bus
   language:
@@ -9,10 +9,13 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: IEEE Standard 1394
+- id: IEEE 1394.1995
   type: IEEE
   primary: true
-docnumber: IEEE Standard 1394
+- id: IEEE.1394.1995
+  type: IEEE
+  scope: anchor
+docnumber: '1394.1995'
 date:
 - type: published
   value: '1995'

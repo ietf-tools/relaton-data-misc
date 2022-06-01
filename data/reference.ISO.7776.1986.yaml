@@ -13,7 +13,10 @@ docid:
 - id: ISO 7776.1986
   type: ISO
   primary: true
-docnumber: ISO 7776.1986
+- id: ISO.7776.1986
+  type: ISO
+  scope: anchor
+docnumber: '7776.1986'
 date:
 - type: published
   value: 1986-12

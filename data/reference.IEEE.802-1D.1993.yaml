@@ -1,5 +1,5 @@
 ---
-id: IEEEStandard802.1D
+id: IEEE802-1D.1993
 title:
 - content: Information technology - Telecommunications and information exchange between
     systems - Local area networks - Media access control (MAC) bridges
@@ -10,10 +10,13 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: IEEE Standard 802.1D
+- id: IEEE 802-1D.1993
   type: IEEE
   primary: true
-docnumber: IEEE Standard 802.1D
+- id: IEEE.802-1D.1993
+  type: IEEE
+  scope: anchor
+docnumber: 802-1D.1993
 date:
 - type: published
   value: 1993-07

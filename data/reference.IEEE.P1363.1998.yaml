@@ -1,5 +1,5 @@
 ---
-id: IEEEDraftP1363
+id: IEEEP1363.1998
 title:
 - content: Standard Specifications for Public Key Cryptography
   language:
@@ -9,10 +9,13 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: IEEE Draft P1363
+- id: IEEE P1363.1998
   type: IEEE
   primary: true
-docnumber: IEEE Draft P1363
+- id: IEEE.P1363.1998
+  type: IEEE
+  scope: anchor
+docnumber: P1363.1998
 date:
 - type: published
   value: '1998'

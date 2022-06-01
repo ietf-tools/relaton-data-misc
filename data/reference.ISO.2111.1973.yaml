@@ -13,7 +13,10 @@ docid:
 - id: ISO 2111.1973
   type: ISO
   primary: true
-docnumber: ISO 2111.1973
+- id: ISO.2111.1973
+  type: ISO
+  scope: anchor
+docnumber: '2111.1973'
 date:
 - type: published
   value: '1973'

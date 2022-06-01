@@ -1,5 +1,5 @@
 ---
-id: IEEEDraftP1394A
+id: IEEEP1394A.1995
 title:
 - content: Draft Standard for a High Performance Serial Bus (Supplement)
   language:
@@ -9,10 +9,13 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: IEEE Draft P1394A
+- id: IEEE P1394A.1995
   type: IEEE
   primary: true
-docnumber: IEEE Draft P1394A
+- id: IEEE.P1394A.1995
+  type: IEEE
+  scope: anchor
+docnumber: P1394A.1995
 date:
 - type: published
   value: '1995'

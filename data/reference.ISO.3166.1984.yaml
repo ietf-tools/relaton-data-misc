@@ -12,7 +12,10 @@ docid:
 - id: ISO 3166.1984
   type: ISO
   primary: true
-docnumber: ISO 3166.1984
+- id: ISO.3166.1984
+  type: ISO
+  scope: anchor
+docnumber: '3166.1984'
 date:
 - type: published
   value: '1984'

@@ -1,5 +1,5 @@
 ---
-id: REC-RUBY
+id: W3CREC-RUBY
 title:
 - content: Ruby Annotation
   language:
@@ -12,9 +12,12 @@ link:
   type: src
 type: standard
 docid:
-- id: REC-RUBY
+- id: W3C REC-RUBY
   type: W3C
   primary: true
+- id: W3C.REC-RUBY
+  type: W3C
+  scope: anchor
 docnumber: REC-RUBY
 date:
 - type: published

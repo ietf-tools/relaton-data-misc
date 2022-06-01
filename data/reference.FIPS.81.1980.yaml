@@ -15,7 +15,10 @@ docid:
 - id: FIPS 81.1980
   type: FIPS
   primary: true
-docnumber: FIPS 81.1980
+- id: FIPS.81.1980
+  type: FIPS
+  scope: anchor
+docnumber: '81.1980'
 date:
 - type: published
   value: 1980-12

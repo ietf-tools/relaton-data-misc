@@ -1,5 +1,5 @@
 ---
-id: IEEEStandard802.5
+id: IEEE802-5.1989
 title:
 - content: Token Ring Access Method and Physical Layer Specifications
   language:
@@ -9,10 +9,13 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: IEEE Standard 802.5
+- id: IEEE 802-5.1989
   type: IEEE
   primary: true
-docnumber: IEEE Standard 802.5
+- id: IEEE.802-5.1989
+  type: IEEE
+  scope: anchor
+docnumber: 802-5.1989
 date:
 - type: published
   value: '1989'

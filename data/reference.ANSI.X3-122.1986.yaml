@@ -1,5 +1,5 @@
 ---
-id: ANSIX3.122
+id: ANSIX3-122.1986
 title:
 - content: 'Draft Proposal: Virtual Device Metafile'
   language:
@@ -9,10 +9,13 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: ANSI X3.122
-  type: IEEE
+- id: ANSI X3-122.1986
+  type: ANSI
   primary: true
-docnumber: ANSI X3.122
+- id: ANSI.X3-122.1986
+  type: ANSI
+  scope: anchor
+docnumber: X3-122.1986
 date:
 - type: published
   value: '1986'

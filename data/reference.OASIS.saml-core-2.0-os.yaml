@@ -14,7 +14,10 @@ docid:
 - id: OASIS saml-core-2.0-os
   type: OASIS
   primary: true
-docnumber: OASIS saml-core-2.0-os
+- id: OASIS.saml-core-2.0-os
+  type: OASIS
+  scope: anchor
+docnumber: saml-core-2.0-os
 date:
 - type: published
   value: 2005-03

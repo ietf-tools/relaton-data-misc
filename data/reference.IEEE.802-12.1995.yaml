@@ -1,5 +1,5 @@
 ---
-id: IEEEStandard802.12
+id: IEEE802-12.1995
 title:
 - content: Demand Priority Access Method, Physical Layer and Repeater Specifications
     for 100 Mb/s Operation
@@ -10,10 +10,13 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: IEEE Standard 802.12
+- id: IEEE 802-12.1995
   type: IEEE
   primary: true
-docnumber: IEEE Standard 802.12
+- id: IEEE.802-12.1995
+  type: IEEE
+  scope: anchor
+docnumber: 802-12.1995
 date:
 - type: published
   value: '1995'

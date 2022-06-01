@@ -13,7 +13,10 @@ docid:
 - id: ISO 8072-AD1.1986
   type: ISO
   primary: true
-docnumber: ISO 8072-AD1.1986
+- id: ISO.8072-AD1.1986
+  type: ISO
+  scope: anchor
+docnumber: 8072-AD1.1986
 date:
 - type: published
   value: 1986-12

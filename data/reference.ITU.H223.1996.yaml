@@ -12,7 +12,10 @@ docid:
 - id: ITU H223.1996
   type: ITU
   primary: true
-docnumber: ITU H223.1996
+- id: ITU.H223.1996
+  type: ITU
+  scope: anchor
+docnumber: H223.1996
 date:
 - type: published
   value: '1996'

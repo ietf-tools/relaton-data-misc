@@ -13,7 +13,10 @@ docid:
 - id: ITU T85.1995
   type: ITU
   primary: true
-docnumber: ITU T85.1995
+- id: ITU.T85.1995
+  type: ITU
+  scope: anchor
+docnumber: T85.1995
 date:
 - type: published
   value: '1995'

@@ -13,7 +13,10 @@ docid:
 - id: ITU T6.1984
   type: ITU
   primary: true
-docnumber: ITU T6.1984
+- id: ITU.T6.1984
+  type: ITU
+  scope: anchor
+docnumber: T6.1984
 date:
 - type: published
   value: '1984'

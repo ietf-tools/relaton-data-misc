@@ -1,5 +1,5 @@
 ---
-id: ANSIX3.303
+id: ANSIX3-303.1998
 title:
 - content: Fibre Channel Physical and Signalling Interface-3 (FC-PH-3)
   language:
@@ -9,10 +9,13 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: ANSI X3.303
-  type: IEEE
+- id: ANSI X3-303.1998
+  type: ANSI
   primary: true
-docnumber: ANSI X3.303
+- id: ANSI.X3-303.1998
+  type: ANSI
+  scope: anchor
+docnumber: X3-303.1998
 date:
 - type: published
   value: '1998'

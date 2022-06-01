@@ -1,5 +1,5 @@
 ---
-id: ANSIX3.210
+id: ANSIX3-210.1992
 title:
 - content: High-Performance Parallel Interface - Framing Protocol (HIPPI-FP)
   language:
@@ -9,10 +9,13 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: ANSI X3.210
-  type: IEEE
+- id: ANSI X3-210.1992
+  type: ANSI
   primary: true
-docnumber: ANSI X3.210
+- id: ANSI.X3-210.1992
+  type: ANSI
+  scope: anchor
+docnumber: X3-210.1992
 date:
 - type: published
   value: '1992'

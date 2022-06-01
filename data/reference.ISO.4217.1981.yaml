@@ -12,7 +12,10 @@ docid:
 - id: ISO 4217.1981
   type: ISO
   primary: true
-docnumber: ISO 4217.1981
+- id: ISO.4217.1981
+  type: ISO
+  scope: anchor
+docnumber: '4217.1981'
 date:
 - type: published
   value: '1981'

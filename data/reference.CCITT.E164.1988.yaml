@@ -12,7 +12,10 @@ docid:
 - id: CCITT E164.1988
   type: CCITT
   primary: true
-docnumber: CCITT E164.1988
+- id: CCITT.E164.1988
+  type: CCITT
+  scope: anchor
+docnumber: E164.1988
 date:
 - type: published
   value: '1988'

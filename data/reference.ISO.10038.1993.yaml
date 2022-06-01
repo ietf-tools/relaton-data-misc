@@ -13,7 +13,10 @@ docid:
 - id: ISO 10038.1993
   type: ISO
   primary: true
-docnumber: ISO 10038.1993
+- id: ISO.10038.1993
+  type: ISO
+  scope: anchor
+docnumber: '10038.1993'
 date:
 - type: published
   value: '1993'

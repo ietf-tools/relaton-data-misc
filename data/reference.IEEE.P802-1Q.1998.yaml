@@ -1,5 +1,5 @@
 ---
-id: IEEEDraftP802.1Q
+id: IEEEP802-1Q.1998
 title:
 - content: 'Local and Metropolitan Area Networks: Virtual Bridged Local Area Networks'
   language:
@@ -9,10 +9,13 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: IEEE Draft P802.1Q
+- id: IEEE P802-1Q.1998
   type: IEEE
   primary: true
-docnumber: IEEE Draft P802.1Q
+- id: IEEE.P802-1Q.1998
+  type: IEEE
+  scope: anchor
+docnumber: P802-1Q.1998
 date:
 - type: published
   value: 1998-03

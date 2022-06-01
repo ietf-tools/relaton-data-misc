@@ -1,5 +1,5 @@
 ---
-id: IEEEStandard1278.1
+id: IEEE1278-1.1995
 title:
 - content: Distributed Interactive Simulation - Application protocols
   language:
@@ -9,10 +9,13 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: IEEE Standard 1278.1
+- id: IEEE 1278-1.1995
   type: IEEE
   primary: true
-docnumber: IEEE Standard 1278.1
+- id: IEEE.1278-1.1995
+  type: IEEE
+  scope: anchor
+docnumber: 1278-1.1995
 date:
 - type: published
   value: '1995'

@@ -12,7 +12,10 @@ docid:
 - id: CCITT T4.1980
   type: CCITT
   primary: true
-docnumber: CCITT T4.1980
+- id: CCITT.T4.1980
+  type: CCITT
+  scope: anchor
+docnumber: T4.1980
 date:
 - type: published
   value: '1980'

@@ -12,7 +12,10 @@ docid:
 - id: CCITT X420.1988
   type: CCITT
   primary: true
-docnumber: CCITT X420.1988
+- id: CCITT.X420.1988
+  type: CCITT
+  scope: anchor
+docnumber: X420.1988
 date:
 - type: published
   value: '1988'

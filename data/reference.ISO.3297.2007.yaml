@@ -13,7 +13,10 @@ docid:
 - id: ISO 3297.2007
   type: ISO
   primary: true
-docnumber: ISO 3297.2007
+- id: ISO.3297.2007
+  type: ISO
+  scope: anchor
+docnumber: '3297.2007'
 date:
 - type: published
   value: '2007-09-09'

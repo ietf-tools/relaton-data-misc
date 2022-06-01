@@ -1,5 +1,5 @@
 ---
-id: REC-xml-names
+id: W3CREC-xml-names
 title:
 - content: Namespaces in XML
   language:
@@ -12,9 +12,12 @@ link:
   type: src
 type: standard
 docid:
-- id: REC-xml-names
+- id: W3C REC-xml-names
   type: W3C
   primary: true
+- id: W3C.REC-xml-names
+  type: W3C
+  scope: anchor
 docnumber: REC-xml-names
 date:
 - type: published

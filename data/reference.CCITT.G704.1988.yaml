@@ -13,7 +13,10 @@ docid:
 - id: CCITT G704.1988
   type: CCITT
   primary: true
-docnumber: CCITT G704.1988
+- id: CCITT.G704.1988
+  type: CCITT
+  scope: anchor
+docnumber: G704.1988
 date:
 - type: published
   value: 1988-07

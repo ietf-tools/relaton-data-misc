@@ -13,7 +13,10 @@ docid:
 - id: ISO 13818-6.1995
   type: ISO
   primary: true
-docnumber: ISO 13818-6.1995
+- id: ISO.13818-6.1995
+  type: ISO
+  scope: anchor
+docnumber: 13818-6.1995
 date:
 - type: published
   value: 1995-11

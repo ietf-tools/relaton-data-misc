@@ -13,7 +13,10 @@ docid:
 - id: ITU V18.1998
   type: ITU
   primary: true
-docnumber: ITU V18.1998
+- id: ITU.V18.1998
+  type: ITU
+  scope: anchor
+docnumber: V18.1998
 date:
 - type: published
   value: 1998-02

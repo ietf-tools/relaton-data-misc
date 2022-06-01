@@ -12,7 +12,10 @@ docid:
 - id: CCITT X121.1978
   type: CCITT
   primary: true
-docnumber: CCITT X121.1978
+- id: CCITT.X121.1978
+  type: CCITT
+  scope: anchor
+docnumber: X121.1978
 date:
 - type: published
   value: '1978'

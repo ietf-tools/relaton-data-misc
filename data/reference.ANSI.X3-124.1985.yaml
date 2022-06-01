@@ -1,5 +1,5 @@
 ---
-id: ANSIX3.124
+id: ANSIX3-124.1985
 title:
 - content: 'Draft Proposal: Graphical Kernel System'
   language:
@@ -9,10 +9,13 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: ANSI X3.124
-  type: IEEE
+- id: ANSI X3-124.1985
+  type: ANSI
   primary: true
-docnumber: ANSI X3.124
+- id: ANSI.X3-124.1985
+  type: ANSI
+  scope: anchor
+docnumber: X3-124.1985
 date:
 - type: published
   value: '1985'

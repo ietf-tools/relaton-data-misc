@@ -1,5 +1,5 @@
 ---
-id: IEEEStandard802.6
+id: IEEE802-6.1990
 title:
 - content: Distributed Queue Dual Bus (DQDB) Subnetwork of a Metropolitan Area Network
     (MAN) Standard
@@ -10,10 +10,13 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: IEEE Standard 802.6
+- id: IEEE 802-6.1990
   type: IEEE
   primary: true
-docnumber: IEEE Standard 802.6
+- id: IEEE.802-6.1990
+  type: IEEE
+  scope: anchor
+docnumber: 802-6.1990
 date:
 - type: published
   value: 1990-12

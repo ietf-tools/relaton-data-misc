@@ -1,5 +1,5 @@
 ---
-id: IEEEStandard802.4
+id: IEEE802-4.1988
 title:
 - content: Token-Passing Bus Access Method and Physical Layer Specifications
   language:
@@ -9,10 +9,13 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: IEEE Standard 802.4
+- id: IEEE 802-4.1988
   type: IEEE
   primary: true
-docnumber: IEEE Standard 802.4
+- id: IEEE.802-4.1988
+  type: IEEE
+  scope: anchor
+docnumber: 802-4.1988
 date:
 - type: published
   value: 1988-05

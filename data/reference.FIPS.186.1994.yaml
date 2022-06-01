@@ -12,7 +12,10 @@ docid:
 - id: FIPS 186.1994
   type: FIPS
   primary: true
-docnumber: FIPS 186.1994
+- id: FIPS.186.1994
+  type: FIPS
+  scope: anchor
+docnumber: '186.1994'
 date:
 - type: published
   value: 1994-05

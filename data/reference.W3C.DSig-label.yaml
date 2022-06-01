@@ -15,7 +15,10 @@ docid:
 - id: W3C DSig-label
   type: W3C
   primary: true
-docnumber: W3C DSig-label
+- id: W3C.DSig-label
+  type: W3C
+  scope: anchor
+docnumber: DSig-label
 date:
 - type: published
   value: '1998-05-27'

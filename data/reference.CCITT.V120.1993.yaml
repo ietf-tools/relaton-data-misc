@@ -13,7 +13,10 @@ docid:
 - id: CCITT V120.1993
   type: CCITT
   primary: true
-docnumber: CCITT V120.1993
+- id: CCITT.V120.1993
+  type: CCITT
+  scope: anchor
+docnumber: V120.1993
 date:
 - type: published
   value: '1993'

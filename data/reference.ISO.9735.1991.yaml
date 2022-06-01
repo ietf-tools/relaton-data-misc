@@ -14,7 +14,10 @@ docid:
 - id: ISO 9735.1991
   type: ISO
   primary: true
-docnumber: ISO 9735.1991
+- id: ISO.9735.1991
+  type: ISO
+  scope: anchor
+docnumber: '9735.1991'
 date:
 - type: published
   value: '1991'

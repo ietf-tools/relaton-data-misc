@@ -12,7 +12,10 @@ docid:
 - id: ISO 3307.1975
   type: ISO
   primary: true
-docnumber: ISO 3307.1975
+- id: ISO.3307.1975
+  type: ISO
+  scope: anchor
+docnumber: '3307.1975'
 date:
 - type: published
   value: '1975'

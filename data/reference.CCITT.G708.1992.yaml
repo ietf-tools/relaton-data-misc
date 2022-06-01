@@ -12,7 +12,10 @@ docid:
 - id: CCITT G708.1992
   type: CCITT
   primary: true
-docnumber: CCITT G708.1992
+- id: CCITT.G708.1992
+  type: CCITT
+  scope: anchor
+docnumber: G708.1992
 date:
 - type: published
   value: 1992-06

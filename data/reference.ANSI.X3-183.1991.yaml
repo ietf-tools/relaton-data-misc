@@ -1,5 +1,5 @@
 ---
-id: ANSIX3.183
+id: ANSIX3-183.1991
 title:
 - content: High-Performance Parallel Interface - Mechanical, Electrical and Signalling
     Protocol Specification (HIPPI-PH)
@@ -10,10 +10,13 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: ANSI X3.183
-  type: IEEE
+- id: ANSI X3-183.1991
+  type: ANSI
   primary: true
-docnumber: ANSI X3.183
+- id: ANSI.X3-183.1991
+  type: ANSI
+  scope: anchor
+docnumber: X3-183.1991
 date:
 - type: published
   value: '1991'

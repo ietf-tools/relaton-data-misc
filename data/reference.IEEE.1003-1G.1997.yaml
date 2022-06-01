@@ -1,5 +1,5 @@
 ---
-id: IEEEStandard1003.1G
+id: IEEE1003-1G.1997
 title:
 - content: Protocol Independent Interfaces
   language:
@@ -9,10 +9,13 @@ title:
   format: text/plain
 type: standard
 docid:
-- id: IEEE Standard 1003.1G
+- id: IEEE 1003-1G.1997
   type: IEEE
   primary: true
-docnumber: IEEE Standard 1003.1G
+- id: IEEE.1003-1G.1997
+  type: IEEE
+  scope: anchor
+docnumber: 1003-1G.1997
 date:
 - type: published
   value: 1997-03

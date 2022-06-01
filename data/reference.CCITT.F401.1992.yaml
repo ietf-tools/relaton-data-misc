@@ -16,7 +16,10 @@ docid:
 - id: CCITT F401.1992
   type: CCITT
   primary: true
-docnumber: CCITT F401.1992
+- id: CCITT.F401.1992
+  type: CCITT
+  scope: anchor
+docnumber: F401.1992
 date:
 - type: published
   value: 1992-08

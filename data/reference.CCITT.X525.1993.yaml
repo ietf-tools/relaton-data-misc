@@ -13,7 +13,10 @@ docid:
 - id: CCITT X525.1993
   type: CCITT
   primary: true
-docnumber: CCITT X525.1993
+- id: CCITT.X525.1993
+  type: CCITT
+  scope: anchor
+docnumber: X525.1993
 date:
 - type: published
   value: 1993-11

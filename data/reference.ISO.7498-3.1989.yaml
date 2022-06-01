@@ -13,7 +13,10 @@ docid:
 - id: ISO 7498-3.1989
   type: ISO
   primary: true
-docnumber: ISO 7498-3.1989
+- id: ISO.7498-3.1989
+  type: ISO
+  scope: anchor
+docnumber: 7498-3.1989
 date:
 - type: published
   value: 1989-03
