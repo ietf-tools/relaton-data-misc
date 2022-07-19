@@ -42,8 +42,7 @@ contributor:
         name:
         - Textuality and Netscape
     contact:
-    - type: email
-      value: tbray@textuality.com
+    - email: tbray@textuality.com
   role:
   - author
 - person:
@@ -65,8 +64,7 @@ contributor:
         name:
         - Microsoft
     contact:
-    - type: email
-      value: jeanpa@microsoft.com
+    - email: jeanpa@microsoft.com
   role:
   - author
 - person:
@@ -88,8 +86,7 @@ contributor:
         name:
         - University of Illinois at Chicago and Text Encoding Initiative
     contact:
-    - type: email
-      value: cmsmcq@uic.edu
+    - email: cmsmcq@uic.edu
   role:
   - author
 - person:
@@ -111,8 +108,7 @@ contributor:
         name:
         - Sun Microsystems
     contact:
-    - type: email
-      value: eve.maler@east.sun.com
+    - email: eve.maler@east.sun.com
   role:
   - author
 revdate: 2000-10

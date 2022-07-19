@@ -43,8 +43,7 @@ contributor:
         - Hewlett Packard
         abbreviation: HP
     contact:
-    - type: email
-      value: brian_mcbride@hp.com
+    - email: brian_mcbride@hp.com
   role:
   - author
 - person:
@@ -66,8 +65,7 @@ contributor:
         name:
         - W3C
     contact:
-    - type: email
-      value: rigo@w3.org
+    - email: rigo@w3.org
   role:
   - author
 - person:
@@ -89,8 +87,7 @@ contributor:
         name:
         - AT&T
     contact:
-    - type: uri
-      value: http://lorrie.cranor.org/
+    - uri: http://lorrie.cranor.org/
   role:
   - author
 revdate: '2002-01-25'

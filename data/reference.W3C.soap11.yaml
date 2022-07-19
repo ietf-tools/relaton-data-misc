@@ -42,8 +42,7 @@ contributor:
         name:
         - Developmentor
     contact:
-    - type: email
-      value: dbox@develop.com
+    - email: dbox@develop.com
   role:
   - author
 - person:
@@ -65,8 +64,7 @@ contributor:
         name:
         - IBM
     contact:
-    - type: email
-      value: davide@us.ibm.com
+    - email: davide@us.ibm.com
   role:
   - author
 - person:
@@ -88,8 +86,7 @@ contributor:
         name:
         - Microsoft
     contact:
-    - type: email
-      value: gopalk@microsoft.com
+    - email: gopalk@microsoft.com
   role:
   - author
 - person:
@@ -111,8 +108,7 @@ contributor:
         name:
         - Microsoft
     contact:
-    - type: email
-      value: andrewl@microsoft.com
+    - email: andrewl@microsoft.com
   role:
   - author
 - person:
@@ -134,8 +130,7 @@ contributor:
         name:
         - Lotus Development Corp.
     contact:
-    - type: email
-      value: Noah_Mendelsohn@lotus.com
+    - email: Noah_Mendelsohn@lotus.com
   role:
   - author
 - person:
@@ -157,8 +152,7 @@ contributor:
         name:
         - Microsoft
     contact:
-    - type: email
-      value: frystyk@microsoft.com
+    - email: frystyk@microsoft.com
   role:
   - author
 - person:
@@ -180,8 +174,7 @@ contributor:
         name:
         - Microsoft
     contact:
-    - type: email
-      value: satisht@microsoft.com
+    - email: satisht@microsoft.com
   role:
   - author
 - person:
@@ -203,8 +196,7 @@ contributor:
         name:
         - UserLand Software
     contact:
-    - type: email
-      value: dave@userland.com
+    - email: dave@userland.com
   role:
   - author
 revdate: 2000-05

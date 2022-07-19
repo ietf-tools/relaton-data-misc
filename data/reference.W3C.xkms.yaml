@@ -42,8 +42,7 @@ contributor:
         name:
         - VeriSign
     contact:
-    - type: email
-      value: wford@verisign.com
+    - email: wford@verisign.com
   role:
   - author
 - person:
@@ -65,8 +64,7 @@ contributor:
         name:
         - VeriSign
     contact:
-    - type: email
-      value: pbaker@verisign.com
+    - email: pbaker@verisign.com
   role:
   - author
 - person:
@@ -88,8 +86,7 @@ contributor:
         name:
         - Microsoft
     contact:
-    - type: email
-      value: bfox@EXCHANGE.MICROSOFT.com
+    - email: bfox@EXCHANGE.MICROSOFT.com
   role:
   - author
 - person:
@@ -111,8 +108,7 @@ contributor:
         name:
         - Microsoft
     contact:
-    - type: email
-      value: blaird@microsoft.com
+    - email: blaird@microsoft.com
   role:
   - author
 - person:
@@ -134,8 +130,7 @@ contributor:
         name:
         - Microsoft
     contact:
-    - type: email
-      value: bal@microsoft.com
+    - email: bal@microsoft.com
   role:
   - author
 - person:
@@ -157,8 +152,7 @@ contributor:
         name:
         - webMethods
     contact:
-    - type: email
-      value: jepstein@webmethods.com
+    - email: jepstein@webmethods.com
   role:
   - author
 - person:
@@ -180,8 +174,7 @@ contributor:
         name:
         - webMethods
     contact:
-    - type: email
-      value: jlapp@webmethods.com
+    - email: jlapp@webmethods.com
   role:
   - author
 revdate: '2001-03-30'

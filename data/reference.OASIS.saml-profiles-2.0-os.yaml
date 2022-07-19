@@ -41,8 +41,7 @@ contributor:
         name:
         - Altos Origin
     contact:
-    - type: email
-      value: ''
+    - email: ''
   role:
   - author
 - person:
@@ -64,8 +63,7 @@ contributor:
         name:
         - Internet2
     contact:
-    - type: email
-      value: cantor.2@osu.edu
+    - email: cantor.2@osu.edu
   role:
   - author
 - person:
@@ -87,8 +85,7 @@ contributor:
         name:
         - NeuStar
     contact:
-    - type: email
-      value: Jeff.Hodges@neustar.biz
+    - email: Jeff.Hodges@neustar.biz
   role:
   - author
 - person:
@@ -110,8 +107,7 @@ contributor:
         name:
         - Nokia
     contact:
-    - type: email
-      value: Frederick.Hirsch@nokia.com
+    - email: Frederick.Hirsch@nokia.com
   role:
   - author
 - person:
@@ -133,8 +129,7 @@ contributor:
         name:
         - Principal Identity
     contact:
-    - type: email
-      value: pmishra@principalidentity.com
+    - email: pmishra@principalidentity.com
   role:
   - author
 - person:
@@ -156,8 +151,7 @@ contributor:
         name:
         - RSA Security
     contact:
-    - type: email
-      value: rphilpott@rsasecurity.com
+    - email: rphilpott@rsasecurity.com
   role:
   - author
 - person:
@@ -179,8 +173,7 @@ contributor:
         name:
         - Sun Microsystems
     contact:
-    - type: email
-      value: eve.maler@sun.com
+    - email: eve.maler@sun.com
   role:
   - author
 revdate: 2005-03

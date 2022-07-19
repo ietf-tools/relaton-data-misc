@@ -41,8 +41,7 @@ contributor:
         name:
         - Enosis Group LLC
     contact:
-    - type: email
-      value: ''
+    - email: ''
   role:
   - author
 - person:
@@ -64,8 +63,7 @@ contributor:
         name:
         - PA Consulting
     contact:
-    - type: email
-      value: ''
+    - email: ''
   role:
   - author
 - person:
@@ -87,8 +85,7 @@ contributor:
         name:
         - RSA Security
     contact:
-    - type: email
-      value: ''
+    - email: ''
   role:
   - author
 - person:
@@ -110,8 +107,7 @@ contributor:
         name:
         - Sun Microsystems
     contact:
-    - type: email
-      value: eve.maler@sun.com
+    - email: eve.maler@sun.com
   role:
   - author
 - person:
@@ -133,8 +129,7 @@ contributor:
         name:
         - NTT
     contact:
-    - type: email
-      value: paulmadsen@rogers.com
+    - email: paulmadsen@rogers.com
   role:
   - author
 - person:
@@ -156,8 +151,7 @@ contributor:
         name:
         - NCSA/University of Illinois
     contact:
-    - type: email
-      value: trscavo@gmail.com
+    - email: trscavo@gmail.com
   role:
   - author
 revdate: 2008-05

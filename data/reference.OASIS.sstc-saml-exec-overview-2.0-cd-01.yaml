@@ -39,8 +39,7 @@ contributor:
         name:
         - NTT
     contact:
-    - type: email
-      value: paulmadsen@rogers.com
+    - email: paulmadsen@rogers.com
   role:
   - author
 - person:
@@ -62,8 +61,7 @@ contributor:
         name:
         - Sun Microsystems
     contact:
-    - type: email
-      value: eve.maler@sun.com
+    - email: eve.maler@sun.com
   role:
   - author
 revdate: 2005-04

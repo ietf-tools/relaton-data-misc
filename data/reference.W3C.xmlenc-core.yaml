@@ -42,8 +42,7 @@ contributor:
         name:
         - Motorola
     contact:
-    - type: email
-      value: dee3@torque.pothole.com
+    - email: dee3@torque.pothole.com
   role:
   - author
 - person:
@@ -65,8 +64,7 @@ contributor:
         name:
         - W3C
     contact:
-    - type: email
-      value: reagle@w3.org
+    - email: reagle@w3.org
   role:
   - author
 revdate: 2002-08

@@ -43,8 +43,7 @@ contributor:
         - Microsoft
         abbreviation: W3C
     contact:
-    - type: email
-      value: cevans@microsoft.com
+    - email: cevans@microsoft.com
   role:
   - author
 - person:
@@ -67,8 +66,7 @@ contributor:
         - Demon Internet Ltd.
         abbreviation: W3C
     contact:
-    - type: email
-      value: clive@demon.net
+    - email: clive@demon.net
   role:
   - author
 - person:
@@ -90,8 +88,7 @@ contributor:
         name:
         - Microsoft
     contact:
-    - type: email
-      value: alexhop@microsoft.com
+    - email: alexhop@microsoft.com
   role:
   - author
 - person:
@@ -113,8 +110,7 @@ contributor:
         name:
         - IBM
     contact:
-    - type: email
-      value: mpresler@us.ibm.com
+    - email: mpresler@us.ibm.com
   role:
   - author
 - person:
@@ -136,8 +132,7 @@ contributor:
         name:
         - AT&T
     contact:
-    - type: email
-      value: presnick@research.att.com
+    - email: presnick@research.att.com
   role:
   - author
 revdate: '1997-12-29'

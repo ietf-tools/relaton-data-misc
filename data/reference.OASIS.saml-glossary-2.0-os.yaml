@@ -41,8 +41,7 @@ contributor:
         name:
         - NeuStar
     contact:
-    - type: email
-      value: Jeff.Hodges@neustar.biz
+    - email: Jeff.Hodges@neustar.biz
   role:
   - author
 - person:
@@ -64,8 +63,7 @@ contributor:
         name:
         - RSA Security
     contact:
-    - type: email
-      value: rphilpott@rsasecurity.com
+    - email: rphilpott@rsasecurity.com
   role:
   - author
 - person:
@@ -87,8 +85,7 @@ contributor:
         name:
         - Sun Microsystems
     contact:
-    - type: email
-      value: eve.maler@sun.com
+    - email: eve.maler@sun.com
   role:
   - author
 revdate: 2005-03

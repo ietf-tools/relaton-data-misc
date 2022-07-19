@@ -42,8 +42,7 @@ contributor:
         name:
         - Textuality
     contact:
-    - type: email
-      value: tbray@textuality.com
+    - email: tbray@textuality.com
   role:
   - author
 - person:
@@ -65,8 +64,7 @@ contributor:
         name:
         - Hewlett-Packard Company
     contact:
-    - type: email
-      value: dmh@corp.hp.com
+    - email: dmh@corp.hp.com
   role:
   - author
 - person:
@@ -88,8 +86,7 @@ contributor:
         name:
         - Microsoft
     contact:
-    - type: email
-      value: andrewl@microsoft.com
+    - email: andrewl@microsoft.com
   role:
   - author
 revdate: '1999-01-14'

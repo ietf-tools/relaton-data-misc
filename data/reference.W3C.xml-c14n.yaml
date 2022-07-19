@@ -42,8 +42,7 @@ contributor:
         name:
         - "\n      "
     contact:
-    - type: email
-      value: jboyer@PureEdge.com
+    - email: jboyer@PureEdge.com
   role:
   - author
 revdate: '2001-03-15'

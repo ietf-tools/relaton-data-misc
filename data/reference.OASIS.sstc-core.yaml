@@ -43,8 +43,7 @@ contributor:
         name:
         - VeriSign
     contact:
-    - type: email
-      value: pbaker@verisign.com
+    - email: pbaker@verisign.com
   role:
   - author
 - person:
@@ -66,8 +65,7 @@ contributor:
         name:
         - Sun Microsystems
     contact:
-    - type: email
-      value: eve.maler@sun.com
+    - email: eve.maler@sun.com
   role:
   - author
 revdate: '2002-05-31'

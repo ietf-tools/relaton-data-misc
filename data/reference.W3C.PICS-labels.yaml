@@ -43,18 +43,16 @@ contributor:
         - World Wide Web Consortium
         abbreviation: W3C
     contact:
-    - street:
-      - MIT Laboratory for Computer Science
-      city: Cambridge
-      state: MA
-      country: US
-      postcode: '02139'
-    - type: phone
-      value: "+ 1 617 253 2613"
-    - type: email
-      value: jmiller@w3.org
-    - type: uri
-      value: http://www.w3c.org
+    - address:
+        street:
+        - MIT Laboratory for Computer Science
+        city: Cambridge
+        state: MA
+        country: US
+        postcode: '02139'
+    - phone: "+ 1 617 253 2613"
+    - email: jmiller@w3.org
+    - uri: http://www.w3c.org
   role:
   - author
 - person:
@@ -76,8 +74,7 @@ contributor:
         name:
         - Spyglass
     contact:
-    - type: email
-      value: timk@spyglass.com
+    - email: timk@spyglass.com
   role:
   - author
 - person:
@@ -99,8 +96,7 @@ contributor:
         name:
         - AT&T
     contact:
-    - type: email
-      value: presnick@research.att.com
+    - email: presnick@research.att.com
   role:
   - author
 - person:
@@ -122,8 +118,7 @@ contributor:
         name:
         - OpenMarket
     contact:
-    - type: email
-      value: treese@OpenMarket.com
+    - email: treese@OpenMarket.com
   role:
   - author
 revdate: '1996-10-31'

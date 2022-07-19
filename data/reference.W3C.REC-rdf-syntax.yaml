@@ -42,8 +42,7 @@ contributor:
         name:
         - Nokia Research Centre
     contact:
-    - type: email
-      value: ora.lassila@research.nokia.com
+    - email: ora.lassila@research.nokia.com
   role:
   - author
 - person:
@@ -66,18 +65,16 @@ contributor:
         - World Wide Web Consortium
         abbreviation: W3C
     contact:
-    - street:
-      - MIT Laboratory for Computer Science
-      city: Cambridge
-      state: MA
-      country: US
-      postcode: '02139'
-    - type: phone
-      value: "+ 1 617 253 2613"
-    - type: email
-      value: swick@w3.org
-    - type: uri
-      value: http://www.w3c.org
+    - address:
+        street:
+        - MIT Laboratory for Computer Science
+        city: Cambridge
+        state: MA
+        country: US
+        postcode: '02139'
+    - phone: "+ 1 617 253 2613"
+    - email: swick@w3.org
+    - uri: http://www.w3c.org
   role:
   - author
 revdate: '1999-02-22'

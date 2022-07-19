@@ -42,8 +42,7 @@ contributor:
         name:
         - Developmentor
     contact:
-    - type: email
-      value: marting@develop.com
+    - email: marting@develop.com
   role:
   - author
 - person:
@@ -65,8 +64,7 @@ contributor:
         name:
         - Sun Microsystems
     contact:
-    - type: email
-      value: marc.hadley@sun.com
+    - email: marc.hadley@sun.com
   role:
   - author
 - person:
@@ -88,8 +86,7 @@ contributor:
         name:
         - IBM
     contact:
-    - type: email
-      value: Noah_Mendelsohn@us.ibm.com
+    - email: Noah_Mendelsohn@us.ibm.com
   role:
   - author
 - person:
@@ -111,8 +108,7 @@ contributor:
         name:
         - Canon
     contact:
-    - type: email
-      value: moreau@crf.canon.fr
+    - email: moreau@crf.canon.fr
   role:
   - author
 - person:
@@ -134,8 +130,7 @@ contributor:
         name:
         - Microsoft
     contact:
-    - type: email
-      value: henrikn@microsoft.com
+    - email: henrikn@microsoft.com
   role:
   - author
 revdate: '2002-06-26'

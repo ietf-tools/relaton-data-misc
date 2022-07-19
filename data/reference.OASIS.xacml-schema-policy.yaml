@@ -38,8 +38,7 @@ contributor:
         language:
         - en
     contact:
-    - type: email
-      value: simon@godik.com
+    - email: simon@godik.com
   role:
   - author
 - person:
@@ -61,8 +60,7 @@ contributor:
         name:
         - Entrust
     contact:
-    - type: email
-      value: tim.moses@entrust.com
+    - email: tim.moses@entrust.com
   role:
   - author
 revdate: '2002-07-12'

@@ -42,8 +42,7 @@ contributor:
         name:
         - "\n      "
     contact:
-    - type: email
-      value: jjc@jclark.com
+    - email: jjc@jclark.com
   role:
   - author
 - person:
@@ -65,8 +64,7 @@ contributor:
         name:
         - "\n      "
     contact:
-    - type: email
-      value: Steven_DeRose@Brown.edu
+    - email: Steven_DeRose@Brown.edu
   role:
   - author
 revdate: '1999-11-16'

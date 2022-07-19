@@ -40,8 +40,7 @@ contributor:
         - World Wide Web Consortium
         abbreviation: W3C
     contact:
-    - type: email
-      value: massimo@w3.or
+    - email: massimo@w3.or
   role:
   - author
 - person:
@@ -103,8 +102,7 @@ contributor:
         name:
         - IBM
     contact:
-    - type: email
-      value: mpresler@us.ibm.com
+    - email: mpresler@us.ibm.com
   role:
   - author
 - person:

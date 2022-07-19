@@ -42,8 +42,7 @@ contributor:
         name:
         - Carnegie Mellon University, Department of Computer Science
     contact:
-    - type: email
-      value: yhchu@cs.cmu.edu
+    - email: yhchu@cs.cmu.edu
   role:
   - author
 - person:
@@ -65,8 +64,7 @@ contributor:
         name:
         - MatchLogic, Inc.
     contact:
-    - type: email
-      value: philipd@matchlogic.com
+    - email: philipd@matchlogic.com
   role:
   - author
 - person:
@@ -88,8 +86,7 @@ contributor:
         name:
         - Microsoft Corporation
     contact:
-    - type: email
-      value: bal@microsoft.com
+    - email: bal@microsoft.com
   role:
   - author
 - person:
@@ -111,8 +108,7 @@ contributor:
         name:
         - IAIK, University of Technology, Graz
     contact:
-    - type: email
-      value: plipp@iaik.tu-graz.ac.at
+    - email: plipp@iaik.tu-graz.ac.at
   role:
   - author
 revdate: '1998-05-27'
