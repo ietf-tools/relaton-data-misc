@@ -25,12 +25,6 @@ docnumber: 802-11D.2001
 date:
 - type: published
   value: 2001-06
-contributor:
-- organization:
-    name:
-    - ''
-  role:
-  - author
 revdate: 2001-06
 language:
 - en

@@ -19,12 +19,6 @@ docnumber: H341.1999
 date:
 - type: published
   value: 1999-05
-contributor:
-- organization:
-    name:
-    - ''
-  role:
-  - author
 revdate: 1999-05
 language:
 - en

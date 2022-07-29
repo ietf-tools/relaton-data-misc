@@ -24,12 +24,6 @@ docnumber: 802-11.1999
 date:
 - type: published
   value: '1999'
-contributor:
-- organization:
-    name:
-    - ''
-  role:
-  - author
 revdate: '1999'
 language:
 - en

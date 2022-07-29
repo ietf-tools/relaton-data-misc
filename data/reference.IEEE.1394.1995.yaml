@@ -19,12 +19,6 @@ docnumber: '1394.1995'
 date:
 - type: published
   value: '1995'
-contributor:
-- organization:
-    name:
-    - ''
-  role:
-  - author
 revdate: '1995'
 language:
 - en

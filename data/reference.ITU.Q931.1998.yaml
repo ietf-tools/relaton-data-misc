@@ -20,12 +20,6 @@ docnumber: Q931.1998
 date:
 - type: published
   value: 1998-05
-contributor:
-- organization:
-    name:
-    - ''
-  role:
-  - author
 revdate: 1998-05
 language:
 - en

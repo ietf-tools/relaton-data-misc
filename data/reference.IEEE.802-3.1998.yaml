@@ -22,12 +22,6 @@ docnumber: 802-3.1998
 date:
 - type: published
   value: 1998-09
-contributor:
-- organization:
-    name:
-    - ''
-  role:
-  - author
 revdate: 1998-09
 language:
 - en

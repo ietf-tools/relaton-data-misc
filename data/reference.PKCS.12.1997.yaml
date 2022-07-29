@@ -19,12 +19,6 @@ docnumber: '12.1997'
 date:
 - type: published
   value: 1997-04
-contributor:
-- organization:
-    name:
-    - ''
-  role:
-  - author
 revdate: 1997-04
 language:
 - en

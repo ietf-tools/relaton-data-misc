@@ -24,12 +24,6 @@ docnumber: 802-11F.2003
 date:
 - type: published
   value: 2003-07
-contributor:
-- organization:
-    name:
-    - ''
-  role:
-  - author
 revdate: 2003-07
 language:
 - en

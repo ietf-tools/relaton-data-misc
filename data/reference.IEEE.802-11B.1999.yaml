@@ -25,12 +25,6 @@ docnumber: 802-11B.1999
 date:
 - type: published
   value: 1999-09
-contributor:
-- organization:
-    name:
-    - ''
-  role:
-  - author
 revdate: 1999-09
 language:
 - en

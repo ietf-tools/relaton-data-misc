@@ -21,12 +21,6 @@ docnumber: 802-3.1990
 date:
 - type: published
   value: 1990-09
-contributor:
-- organization:
-    name:
-    - ''
-  role:
-  - author
 revdate: 1990-09
 language:
 - en
