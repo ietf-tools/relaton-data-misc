@@ -19,14 +19,14 @@ docid:
 docnumber: '3309.1991'
 date:
 - type: published
-  value: 1991-06
+  value: '1991-06-01'
 contributor:
 - organization:
     name:
     - International Organization for Standardization
   role:
   - author
-revdate: 1991-06
+revdate: '1991-06-01'
 language:
 - en
 script:

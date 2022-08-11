@@ -19,14 +19,14 @@ docid:
 docnumber: P802-3K.1992
 date:
 - type: published
-  value: 1992-04
+  value: '1992-04-09'
 contributor:
 - organization:
     name:
     - Institute of Electrical and Electronics Engineers
   role:
   - author
-revdate: 1992-04
+revdate: '1992-04-09'
 language:
 - en
 script:

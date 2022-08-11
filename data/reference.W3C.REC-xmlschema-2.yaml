@@ -21,7 +21,7 @@ docid:
 docnumber: REC-xmlschema-2
 date:
 - type: published
-  value: 2001-05
+  value: '2001-05-02'
 contributor:
 - person:
     name:
@@ -63,7 +63,7 @@ contributor:
         - Microsoft
   role:
   - author
-revdate: 2001-05
+revdate: '2001-05-02'
 language:
 - en
 script:

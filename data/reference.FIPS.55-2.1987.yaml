@@ -19,14 +19,14 @@ docid:
 docnumber: 55-2.1987
 date:
 - type: published
-  value: 1987-02
+  value: '1987-02-03'
 contributor:
 - organization:
     name:
     - National Institute of Standards and Technology
   role:
   - author
-revdate: 1987-02
+revdate: '1987-02-03'
 language:
 - en
 script:

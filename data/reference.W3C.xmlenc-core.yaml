@@ -21,7 +21,7 @@ docid:
 docnumber: xmlenc-core
 date:
 - type: published
-  value: 2002-08
+  value: '2002-08-02'
 contributor:
 - person:
     name:
@@ -67,7 +67,7 @@ contributor:
     - email: reagle@w3.org
   role:
   - author
-revdate: 2002-08
+revdate: '2002-08-02'
 language:
 - en
 script:

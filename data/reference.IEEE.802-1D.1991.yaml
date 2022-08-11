@@ -18,14 +18,14 @@ docid:
 docnumber: 802-1D.1991
 date:
 - type: published
-  value: 1991-03
+  value: '1991-03-08'
 contributor:
 - organization:
     name:
     - Institute of Electrical and Electronics Engineers
   role:
   - author
-revdate: 1991-03
+revdate: '1991-03-08'
 language:
 - en
 script:

@@ -18,14 +18,14 @@ docid:
 docnumber: '9.1993'
 date:
 - type: published
-  value: 1993-06
+  value: '1993-06-03'
 contributor:
 - organization:
     name:
     - RSA Laboratories
   role:
   - author
-revdate: 1993-06
+revdate: '1993-06-03'
 language:
 - en
 script:

@@ -18,14 +18,14 @@ docid:
 docnumber: X9-17.1985
 date:
 - type: published
-  value: 1985-04
+  value: '1985-04-04'
 contributor:
 - organization:
     name:
     - American National Standards Institute
   role:
   - author
-revdate: 1985-04
+revdate: '1985-04-04'
 language:
 - en
 script:

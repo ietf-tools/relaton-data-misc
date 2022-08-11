@@ -21,7 +21,7 @@ docid:
 docnumber: REC-xml
 date:
 - type: published
-  value: 2000-10
+  value: '2000-10-06'
 contributor:
 - person:
     name:
@@ -111,7 +111,7 @@ contributor:
     - email: eve.maler@east.sun.com
   role:
   - author
-revdate: 2000-10
+revdate: '2000-10-06'
 language:
 - en
 script:
