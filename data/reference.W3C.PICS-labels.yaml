@@ -25,10 +25,11 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: J.
-        language:
-        - en
+      given:
+        formatted_initials:
+          content: J.
+          language:
+          - en
       surname:
         content: Miller
         language:
@@ -40,8 +41,9 @@ contributor:
     affiliation:
     - organization:
         name:
-        - World Wide Web Consortium
-        abbreviation: W3C
+        - content: World Wide Web Consortium
+        abbreviation:
+          content: W3C
     contact:
     - address:
         street:
@@ -57,10 +59,11 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: T.
-        language:
-        - en
+      given:
+        formatted_initials:
+          content: T.
+          language:
+          - en
       surname:
         content: Krauskopf
         language:
@@ -72,17 +75,18 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Spyglass
+        - content: Spyglass
     contact:
     - email: timk@spyglass.com
   role:
   - author
 - person:
     name:
-      initial:
-      - content: P.
-        language:
-        - en
+      given:
+        formatted_initials:
+          content: P.
+          language:
+          - en
       surname:
         content: Resnick
         language:
@@ -94,17 +98,18 @@ contributor:
     affiliation:
     - organization:
         name:
-        - AT&T
+        - content: AT&T
     contact:
     - email: presnick@research.att.com
   role:
   - author
 - person:
     name:
-      initial:
-      - content: W.
-        language:
-        - en
+      given:
+        formatted_initials:
+          content: W.
+          language:
+          - en
       surname:
         content: Treese
         language:
@@ -116,7 +121,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - OpenMarket
+        - content: OpenMarket
     contact:
     - email: treese@OpenMarket.com
   role:

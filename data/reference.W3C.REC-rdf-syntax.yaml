@@ -25,10 +25,11 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: O.
-        language:
-        - en
+      given:
+        formatted_initials:
+          content: O.
+          language:
+          - en
       surname:
         content: Lassila
         language:
@@ -40,17 +41,18 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Nokia Research Centre
+        - content: Nokia Research Centre
     contact:
     - email: ora.lassila@research.nokia.com
   role:
   - author
 - person:
     name:
-      initial:
-      - content: R.
-        language:
-        - en
+      given:
+        formatted_initials:
+          content: R.
+          language:
+          - en
       surname:
         content: Swick
         language:
@@ -62,8 +64,9 @@ contributor:
     affiliation:
     - organization:
         name:
-        - World Wide Web Consortium
-        abbreviation: W3C
+        - content: World Wide Web Consortium
+        abbreviation:
+          content: W3C
     contact:
     - address:
         street:

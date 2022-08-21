@@ -25,10 +25,11 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: J.
-        language:
-        - en
+      given:
+        formatted_initials:
+          content: J.
+          language:
+          - en
       surname:
         content: Boyer
         language:
@@ -40,7 +41,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - "\n      "
+        - content: "\n      "
     contact:
     - email: jboyer@PureEdge.com
   role:

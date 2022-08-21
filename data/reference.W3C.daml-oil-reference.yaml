@@ -25,10 +25,11 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: D.
-        language:
-        - en
+      given:
+        formatted_initials:
+          content: D.
+          language:
+          - en
       surname:
         content: Connolly
         language:
@@ -40,15 +41,16 @@ contributor:
     affiliation:
     - organization:
         name:
-        - W3C
+        - content: W3C
   role:
   - author
 - person:
     name:
-      initial:
-      - content: F.
-        language:
-        - en
+      given:
+        formatted_initials:
+          content: F.
+          language:
+          - en
       surname:
         content: van Harmelen
         language:
@@ -61,10 +63,11 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: I.
-        language:
-        - en
+      given:
+        formatted_initials:
+          content: I.
+          language:
+          - en
       surname:
         content: Horrocks
         language:
@@ -77,10 +80,11 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: D.L.
-        language:
-        - en
+      given:
+        formatted_initials:
+          content: D.L.
+          language:
+          - en
       surname:
         content: McGuinness
         language:
@@ -93,10 +97,11 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: P.F.
-        language:
-        - en
+      given:
+        formatted_initials:
+          content: P.F.
+          language:
+          - en
       surname:
         content: Patel-Schneider
         language:
@@ -109,10 +114,11 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: L.A.
-        language:
-        - en
+      given:
+        formatted_initials:
+          content: L.A.
+          language:
+          - en
       surname:
         content: Stein
         language:

@@ -23,11 +23,12 @@ date:
 contributor:
 - organization:
     name:
-    - |-
-      Technical Committee ISO/TC 46, Information and
-            documentation, Subcommittee SC 9, Identification and
-            description.
-    abbreviation: ISO/TC46
+    - content: |-
+        Technical Committee ISO/TC 46, Information and
+              documentation, Subcommittee SC 9, Identification and
+              description.
+    abbreviation:
+      content: ISO/TC46
   role:
   - author
 revdate: '2012-03-09'

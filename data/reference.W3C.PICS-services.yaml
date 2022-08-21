@@ -26,10 +26,11 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: J.
-        language:
-        - en
+      given:
+        formatted_initials:
+          content: J.
+          language:
+          - en
       surname:
         content: Miller
         language:
@@ -41,8 +42,9 @@ contributor:
     affiliation:
     - organization:
         name:
-        - World Wide Web Consortium
-        abbreviation: W3C
+        - content: World Wide Web Consortium
+        abbreviation:
+          content: W3C
     contact:
     - address:
         street:
@@ -58,10 +60,11 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: P.
-        language:
-        - en
+      given:
+        formatted_initials:
+          content: P.
+          language:
+          - en
       surname:
         content: Resnick
         language:
@@ -73,17 +76,18 @@ contributor:
     affiliation:
     - organization:
         name:
-        - AT&T
+        - content: AT&T
     contact:
     - email: presnick@research.att.com
   role:
   - author
 - person:
     name:
-      initial:
-      - content: D.
-        language:
-        - en
+      given:
+        formatted_initials:
+          content: D.
+          language:
+          - en
       surname:
         content: Singer
         language:
@@ -95,7 +99,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - IBM
+        - content: IBM
     contact:
     - email: singer@almaden.ibm.com
   role:

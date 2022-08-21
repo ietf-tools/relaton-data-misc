@@ -25,10 +25,11 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: T.
-        language:
-        - en
+      given:
+        formatted_initials:
+          content: T.
+          language:
+          - en
       surname:
         content: Bray
         language:
@@ -40,15 +41,16 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Textuality and Netscape
+        - content: Textuality and Netscape
   role:
   - author
 - person:
     name:
-      initial:
-      - content: J.
-        language:
-        - en
+      given:
+        formatted_initials:
+          content: J.
+          language:
+          - en
       surname:
         content: Paoli
         language:
@@ -60,15 +62,16 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Microsoft
+        - content: Microsoft
   role:
   - author
 - person:
     name:
-      initial:
-      - content: C. M.
-        language:
-        - en
+      given:
+        formatted_initials:
+          content: C. M.
+          language:
+          - en
       surname:
         content: Sperberg-McQueen
         language:
@@ -80,7 +83,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - University of Illinois at Chicago
+        - content: University of Illinois at Chicago
   role:
   - author
 revdate: '1998-02-10'

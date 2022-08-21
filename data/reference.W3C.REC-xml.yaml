@@ -25,10 +25,11 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: T.
-        language:
-        - en
+      given:
+        formatted_initials:
+          content: T.
+          language:
+          - en
       surname:
         content: Bray
         language:
@@ -40,17 +41,18 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Textuality and Netscape
+        - content: Textuality and Netscape
     contact:
     - email: tbray@textuality.com
   role:
   - author
 - person:
     name:
-      initial:
-      - content: J.
-        language:
-        - en
+      given:
+        formatted_initials:
+          content: J.
+          language:
+          - en
       surname:
         content: Paoli
         language:
@@ -62,17 +64,18 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Microsoft
+        - content: Microsoft
     contact:
     - email: jeanpa@microsoft.com
   role:
   - author
 - person:
     name:
-      initial:
-      - content: C.M.
-        language:
-        - en
+      given:
+        formatted_initials:
+          content: C.M.
+          language:
+          - en
       surname:
         content: Sperberg-McQueen
         language:
@@ -84,17 +87,18 @@ contributor:
     affiliation:
     - organization:
         name:
-        - University of Illinois at Chicago and Text Encoding Initiative
+        - content: University of Illinois at Chicago and Text Encoding Initiative
     contact:
     - email: cmsmcq@uic.edu
   role:
   - author
 - person:
     name:
-      initial:
-      - content: E.
-        language:
-        - en
+      given:
+        formatted_initials:
+          content: E.
+          language:
+          - en
       surname:
         content: Maler
         language:
@@ -106,7 +110,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Sun Microsystems
+        - content: Sun Microsystems
     contact:
     - email: eve.maler@east.sun.com
   role:

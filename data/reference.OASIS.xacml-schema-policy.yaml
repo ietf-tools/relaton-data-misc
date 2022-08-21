@@ -25,10 +25,11 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: S.
-        language:
-        - en
+      given:
+        formatted_initials:
+          content: S.
+          language:
+          - en
       surname:
         content: Godik
         language:
@@ -43,10 +44,11 @@ contributor:
   - author
 - person:
     name:
-      initial:
-      - content: T.
-        language:
-        - en
+      given:
+        formatted_initials:
+          content: T.
+          language:
+          - en
       surname:
         content: Moses
         language:
@@ -58,7 +60,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Entrust
+        - content: Entrust
     contact:
     - email: tim.moses@entrust.com
   role:

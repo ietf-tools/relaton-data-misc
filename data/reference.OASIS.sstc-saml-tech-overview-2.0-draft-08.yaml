@@ -24,10 +24,11 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: J.
-        language:
-        - en
+      given:
+        formatted_initials:
+          content: J.
+          language:
+          - en
       surname:
         content: Hughes
         language:
@@ -39,17 +40,18 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Individual
+        - content: Individual
     contact:
     - email: ''
   role:
   - author
 - person:
     name:
-      initial:
-      - content: E.
-        language:
-        - en
+      given:
+        formatted_initials:
+          content: E.
+          language:
+          - en
       surname:
         content: Maler
         language:
@@ -61,7 +63,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Sun Microsystems
+        - content: Sun Microsystems
     contact:
     - email: eve.maler@sun.com
   role:

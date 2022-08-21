@@ -24,10 +24,11 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: P.
-        language:
-        - en
+      given:
+        formatted_initials:
+          content: P.
+          language:
+          - en
       surname:
         content: Mishra
         language:
@@ -39,17 +40,18 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Principal Identity
+        - content: Principal Identity
     contact:
     - email: pmishra@principalidentity.com
   role:
   - author
 - person:
     name:
-      initial:
-      - content: R.
-        language:
-        - en
+      given:
+        formatted_initials:
+          content: R.
+          language:
+          - en
       surname:
         content: Philpott
         language:
@@ -61,17 +63,18 @@ contributor:
     affiliation:
     - organization:
         name:
-        - RSA Security
+        - content: RSA Security
     contact:
     - email: rphilpott@rsasecurity.com
   role:
   - author
 - person:
     name:
-      initial:
-      - content: E.
-        language:
-        - en
+      given:
+        formatted_initials:
+          content: E.
+          language:
+          - en
       surname:
         content: Maler
         language:
@@ -83,7 +86,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Sun Microsystems
+        - content: Sun Microsystems
     contact:
     - email: eve.maler@sun.com
   role:

@@ -25,10 +25,11 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: J.
-        language:
-        - en
+      given:
+        formatted_initials:
+          content: J.
+          language:
+          - en
       surname:
         content: Clark
         language:
@@ -40,17 +41,18 @@ contributor:
     affiliation:
     - organization:
         name:
-        - "\n      "
+        - content: "\n      "
     contact:
     - email: jjc@jclark.com
   role:
   - author
 - person:
     name:
-      initial:
-      - content: S.
-        language:
-        - en
+      given:
+        formatted_initials:
+          content: S.
+          language:
+          - en
       surname:
         content: DeRose
         language:
@@ -62,7 +64,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - "\n      "
+        - content: "\n      "
     contact:
     - email: Steven_DeRose@Brown.edu
   role:

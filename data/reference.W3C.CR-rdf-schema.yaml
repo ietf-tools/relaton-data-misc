@@ -25,10 +25,11 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: D.
-        language:
-        - en
+      given:
+        formatted_initials:
+          content: D.
+          language:
+          - en
       surname:
         content: Brickley
         language:
@@ -40,15 +41,16 @@ contributor:
     affiliation:
     - organization:
         name:
-        - University of Bristol
+        - content: University of Bristol
   role:
   - author
 - person:
     name:
-      initial:
-      - content: R.V.
-        language:
-        - en
+      given:
+        formatted_initials:
+          content: R.V.
+          language:
+          - en
       surname:
         content: Guha
         language:
@@ -60,7 +62,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Epinions
+        - content: Epinions
   role:
   - author
 revdate: '2000-03-27'

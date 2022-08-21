@@ -25,10 +25,11 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: D.
-        language:
-        - en
+      given:
+        formatted_initials:
+          content: D.
+          language:
+          - en
       surname:
         content: Box
         language:
@@ -40,17 +41,18 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Developmentor
+        - content: Developmentor
     contact:
     - email: dbox@develop.com
   role:
   - author
 - person:
     name:
-      initial:
-      - content: D.
-        language:
-        - en
+      given:
+        formatted_initials:
+          content: D.
+          language:
+          - en
       surname:
         content: Ehnebuske
         language:
@@ -62,17 +64,18 @@ contributor:
     affiliation:
     - organization:
         name:
-        - IBM
+        - content: IBM
     contact:
     - email: davide@us.ibm.com
   role:
   - author
 - person:
     name:
-      initial:
-      - content: G.
-        language:
-        - en
+      given:
+        formatted_initials:
+          content: G.
+          language:
+          - en
       surname:
         content: Kakivaya
         language:
@@ -84,17 +87,18 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Microsoft
+        - content: Microsoft
     contact:
     - email: gopalk@microsoft.com
   role:
   - author
 - person:
     name:
-      initial:
-      - content: A.
-        language:
-        - en
+      given:
+        formatted_initials:
+          content: A.
+          language:
+          - en
       surname:
         content: Layman
         language:
@@ -106,17 +110,18 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Microsoft
+        - content: Microsoft
     contact:
     - email: andrewl@microsoft.com
   role:
   - author
 - person:
     name:
-      initial:
-      - content: N.
-        language:
-        - en
+      given:
+        formatted_initials:
+          content: N.
+          language:
+          - en
       surname:
         content: Mendelsohn
         language:
@@ -128,17 +133,18 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Lotus Development Corp.
+        - content: Lotus Development Corp.
     contact:
     - email: Noah_Mendelsohn@lotus.com
   role:
   - author
 - person:
     name:
-      initial:
-      - content: H.
-        language:
-        - en
+      given:
+        formatted_initials:
+          content: H.
+          language:
+          - en
       surname:
         content: Nielsen
         language:
@@ -150,17 +156,18 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Microsoft
+        - content: Microsoft
     contact:
     - email: frystyk@microsoft.com
   role:
   - author
 - person:
     name:
-      initial:
-      - content: S.
-        language:
-        - en
+      given:
+        formatted_initials:
+          content: S.
+          language:
+          - en
       surname:
         content: Thatte
         language:
@@ -172,17 +179,18 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Microsoft
+        - content: Microsoft
     contact:
     - email: satisht@microsoft.com
   role:
   - author
 - person:
     name:
-      initial:
-      - content: D.
-        language:
-        - en
+      given:
+        formatted_initials:
+          content: D.
+          language:
+          - en
       surname:
         content: Winer
         language:
@@ -194,7 +202,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - UserLand Software
+        - content: UserLand Software
     contact:
     - email: dave@userland.com
   role:

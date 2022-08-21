@@ -24,10 +24,11 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: S.
-        language:
-        - en
+      given:
+        formatted_initials:
+          content: S.
+          language:
+          - en
       surname:
         content: Cantor
         language:
@@ -39,17 +40,18 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Internet2
+        - content: Internet2
     contact:
     - email: cantor.2@osu.edu
   role:
   - author
 - person:
     name:
-      initial:
-      - content: J.
-        language:
-        - en
+      given:
+        formatted_initials:
+          content: J.
+          language:
+          - en
       surname:
         content: Moreh
         language:
@@ -61,17 +63,18 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Sigaba
+        - content: Sigaba
     contact:
     - email: jmoreh@sigaba.com
   role:
   - author
 - person:
     name:
-      initial:
-      - content: R.
-        language:
-        - en
+      given:
+        formatted_initials:
+          content: R.
+          language:
+          - en
       surname:
         content: Philpott
         language:
@@ -83,17 +86,18 @@ contributor:
     affiliation:
     - organization:
         name:
-        - RSA Security
+        - content: RSA Security
     contact:
     - email: rphilpott@rsasecurity.com
   role:
   - author
 - person:
     name:
-      initial:
-      - content: E.
-        language:
-        - en
+      given:
+        formatted_initials:
+          content: E.
+          language:
+          - en
       surname:
         content: Maler
         language:
@@ -105,7 +109,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Sun Microsystems
+        - content: Sun Microsystems
     contact:
     - email: eve.maler@sun.com
   role:

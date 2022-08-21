@@ -23,22 +23,21 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: ''
-        language:
-        - en
+      given:
+        formatted_initials:
+          language:
+          - en
       surname:
         content: OASIS Security Services Technical Committee (SSTC)
         language:
         - en
       completename:
-        content: ''
         language:
         - en
     affiliation:
     - organization:
         name:
-        - OASIS SSTC
+        - content: OASIS SSTC
   role:
   - author
 revdate: 2004-12

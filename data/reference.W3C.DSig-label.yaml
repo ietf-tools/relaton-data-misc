@@ -25,10 +25,11 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: Y.
-        language:
-        - en
+      given:
+        formatted_initials:
+          content: Y.
+          language:
+          - en
       surname:
         content: 'Chu '
         language:
@@ -40,17 +41,18 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Carnegie Mellon University, Department of Computer Science
+        - content: Carnegie Mellon University, Department of Computer Science
     contact:
     - email: yhchu@cs.cmu.edu
   role:
   - author
 - person:
     name:
-      initial:
-      - content: P.
-        language:
-        - en
+      given:
+        formatted_initials:
+          content: P.
+          language:
+          - en
       surname:
         content: DesAutels
         language:
@@ -62,17 +64,18 @@ contributor:
     affiliation:
     - organization:
         name:
-        - MatchLogic, Inc.
+        - content: MatchLogic, Inc.
     contact:
     - email: philipd@matchlogic.com
   role:
   - author
 - person:
     name:
-      initial:
-      - content: B.
-        language:
-        - en
+      given:
+        formatted_initials:
+          content: B.
+          language:
+          - en
       surname:
         content: LaMacchia
         language:
@@ -84,17 +87,18 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Microsoft Corporation
+        - content: Microsoft Corporation
     contact:
     - email: bal@microsoft.com
   role:
   - author
 - person:
     name:
-      initial:
-      - content: P.
-        language:
-        - en
+      given:
+        formatted_initials:
+          content: P.
+          language:
+          - en
       surname:
         content: Lipp
         language:
@@ -106,7 +110,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - IAIK, University of Technology, Graz
+        - content: IAIK, University of Technology, Graz
     contact:
     - email: plipp@iaik.tu-graz.ac.at
   role:

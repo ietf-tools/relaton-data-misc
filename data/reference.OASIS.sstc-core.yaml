@@ -26,10 +26,11 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: P.
-        language:
-        - en
+      given:
+        formatted_initials:
+          content: P.
+          language:
+          - en
       surname:
         content: Hallam-Baker
         language:
@@ -41,17 +42,18 @@ contributor:
     affiliation:
     - organization:
         name:
-        - VeriSign
+        - content: VeriSign
     contact:
     - email: pbaker@verisign.com
   role:
   - author
 - person:
     name:
-      initial:
-      - content: E.
-        language:
-        - en
+      given:
+        formatted_initials:
+          content: E.
+          language:
+          - en
       surname:
         content: Maler
         language:
@@ -63,7 +65,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Sun Microsystems
+        - content: Sun Microsystems
     contact:
     - email: eve.maler@sun.com
   role:

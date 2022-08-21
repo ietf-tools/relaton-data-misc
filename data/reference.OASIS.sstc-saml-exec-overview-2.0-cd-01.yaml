@@ -22,10 +22,11 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: P.
-        language:
-        - en
+      given:
+        formatted_initials:
+          content: P.
+          language:
+          - en
       surname:
         content: Madsen
         language:
@@ -37,17 +38,18 @@ contributor:
     affiliation:
     - organization:
         name:
-        - NTT
+        - content: NTT
     contact:
     - email: paulmadsen@rogers.com
   role:
   - author
 - person:
     name:
-      initial:
-      - content: E.
-        language:
-        - en
+      given:
+        formatted_initials:
+          content: E.
+          language:
+          - en
       surname:
         content: Maler
         language:
@@ -59,7 +61,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Sun Microsystems
+        - content: Sun Microsystems
     contact:
     - email: eve.maler@sun.com
   role:

@@ -25,10 +25,11 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: T.
-        language:
-        - en
+      given:
+        formatted_initials:
+          content: T.
+          language:
+          - en
       surname:
         content: Bray
         language:
@@ -40,17 +41,18 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Textuality
+        - content: Textuality
     contact:
     - email: tbray@textuality.com
   role:
   - author
 - person:
     name:
-      initial:
-      - content: D.
-        language:
-        - en
+      given:
+        formatted_initials:
+          content: D.
+          language:
+          - en
       surname:
         content: Hollander
         language:
@@ -62,17 +64,18 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Hewlett-Packard Company
+        - content: Hewlett-Packard Company
     contact:
     - email: dmh@corp.hp.com
   role:
   - author
 - person:
     name:
-      initial:
-      - content: A.
-        language:
-        - en
+      given:
+        formatted_initials:
+          content: A.
+          language:
+          - en
       surname:
         content: Layman
         language:
@@ -84,7 +87,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Microsoft
+        - content: Microsoft
     contact:
     - email: andrewl@microsoft.com
   role:

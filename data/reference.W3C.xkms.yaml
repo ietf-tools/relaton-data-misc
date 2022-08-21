@@ -25,10 +25,11 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: W.
-        language:
-        - en
+      given:
+        formatted_initials:
+          content: W.
+          language:
+          - en
       surname:
         content: Ford
         language:
@@ -40,17 +41,18 @@ contributor:
     affiliation:
     - organization:
         name:
-        - VeriSign
+        - content: VeriSign
     contact:
     - email: wford@verisign.com
   role:
   - author
 - person:
     name:
-      initial:
-      - content: P.
-        language:
-        - en
+      given:
+        formatted_initials:
+          content: P.
+          language:
+          - en
       surname:
         content: Hallam-Baker
         language:
@@ -62,17 +64,18 @@ contributor:
     affiliation:
     - organization:
         name:
-        - VeriSign
+        - content: VeriSign
     contact:
     - email: pbaker@verisign.com
   role:
   - author
 - person:
     name:
-      initial:
-      - content: B.
-        language:
-        - en
+      given:
+        formatted_initials:
+          content: B.
+          language:
+          - en
       surname:
         content: Fox
         language:
@@ -84,17 +87,18 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Microsoft
+        - content: Microsoft
     contact:
     - email: bfox@EXCHANGE.MICROSOFT.com
   role:
   - author
 - person:
     name:
-      initial:
-      - content: B.
-        language:
-        - en
+      given:
+        formatted_initials:
+          content: B.
+          language:
+          - en
       surname:
         content: Dillaway
         language:
@@ -106,17 +110,18 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Microsoft
+        - content: Microsoft
     contact:
     - email: blaird@microsoft.com
   role:
   - author
 - person:
     name:
-      initial:
-      - content: B.
-        language:
-        - en
+      given:
+        formatted_initials:
+          content: B.
+          language:
+          - en
       surname:
         content: LaMacchia
         language:
@@ -128,17 +133,18 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Microsoft
+        - content: Microsoft
     contact:
     - email: bal@microsoft.com
   role:
   - author
 - person:
     name:
-      initial:
-      - content: J.
-        language:
-        - en
+      given:
+        formatted_initials:
+          content: J.
+          language:
+          - en
       surname:
         content: Epstein
         language:
@@ -150,17 +156,18 @@ contributor:
     affiliation:
     - organization:
         name:
-        - webMethods
+        - content: webMethods
     contact:
     - email: jepstein@webmethods.com
   role:
   - author
 - person:
     name:
-      initial:
-      - content: J.
-        language:
-        - en
+      given:
+        formatted_initials:
+          content: J.
+          language:
+          - en
       surname:
         content: Lapp
         language:
@@ -172,7 +179,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - webMethods
+        - content: webMethods
     contact:
     - email: jlapp@webmethods.com
   role:

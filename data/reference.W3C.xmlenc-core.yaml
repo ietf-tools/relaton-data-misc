@@ -25,10 +25,11 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: D.
-        language:
-        - en
+      given:
+        formatted_initials:
+          content: D.
+          language:
+          - en
       surname:
         content: Eastlake
         language:
@@ -40,17 +41,18 @@ contributor:
     affiliation:
     - organization:
         name:
-        - Motorola
+        - content: Motorola
     contact:
     - email: dee3@torque.pothole.com
   role:
   - author
 - person:
     name:
-      initial:
-      - content: J.
-        language:
-        - en
+      given:
+        formatted_initials:
+          content: J.
+          language:
+          - en
       surname:
         content: 'Reagle '
         language:
@@ -62,7 +64,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - W3C
+        - content: W3C
     contact:
     - email: reagle@w3.org
   role:

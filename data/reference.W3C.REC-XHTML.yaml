@@ -25,10 +25,11 @@ date:
 contributor:
 - person:
     name:
-      initial:
-      - content: S.
-        language:
-        - en
+      given:
+        formatted_initials:
+          content: S.
+          language:
+          - en
       surname:
         content: Pemberton
         language:
@@ -40,7 +41,7 @@ contributor:
     affiliation:
     - organization:
         name:
-        - CWI
+        - content: CWI
   role:
   - author
 revdate: '2000-01-26'
