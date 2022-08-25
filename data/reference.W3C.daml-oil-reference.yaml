@@ -26,6 +26,10 @@ contributor:
 - person:
     name:
       given:
+        forename:
+        - language:
+          - en
+          initial: D
         formatted_initials:
           content: D.
           language:
@@ -47,6 +51,10 @@ contributor:
 - person:
     name:
       given:
+        forename:
+        - language:
+          - en
+          initial: F
         formatted_initials:
           content: F.
           language:
@@ -64,6 +72,10 @@ contributor:
 - person:
     name:
       given:
+        forename:
+        - language:
+          - en
+          initial: I
         formatted_initials:
           content: I.
           language:
@@ -81,6 +93,13 @@ contributor:
 - person:
     name:
       given:
+        forename:
+        - language:
+          - en
+          initial: D
+        - language:
+          - en
+          initial: L
         formatted_initials:
           content: D.L.
           language:
@@ -98,6 +117,13 @@ contributor:
 - person:
     name:
       given:
+        forename:
+        - language:
+          - en
+          initial: P
+        - language:
+          - en
+          initial: F
         formatted_initials:
           content: P.F.
           language:
@@ -115,6 +141,13 @@ contributor:
 - person:
     name:
       given:
+        forename:
+        - language:
+          - en
+          initial: L
+        - language:
+          - en
+          initial: A
         formatted_initials:
           content: L.A.
           language:

@@ -26,6 +26,10 @@ contributor:
 - person:
     name:
       given:
+        forename:
+        - language:
+          - en
+          initial: W
         formatted_initials:
           content: W.
           language:
@@ -49,6 +53,10 @@ contributor:
 - person:
     name:
       given:
+        forename:
+        - language:
+          - en
+          initial: P
         formatted_initials:
           content: P.
           language:
@@ -72,6 +80,10 @@ contributor:
 - person:
     name:
       given:
+        forename:
+        - language:
+          - en
+          initial: B
         formatted_initials:
           content: B.
           language:
@@ -95,6 +107,10 @@ contributor:
 - person:
     name:
       given:
+        forename:
+        - language:
+          - en
+          initial: B
         formatted_initials:
           content: B.
           language:
@@ -118,6 +134,10 @@ contributor:
 - person:
     name:
       given:
+        forename:
+        - language:
+          - en
+          initial: B
         formatted_initials:
           content: B.
           language:
@@ -141,6 +161,10 @@ contributor:
 - person:
     name:
       given:
+        forename:
+        - language:
+          - en
+          initial: J
         formatted_initials:
           content: J.
           language:
@@ -164,6 +188,10 @@ contributor:
 - person:
     name:
       given:
+        forename:
+        - language:
+          - en
+          initial: J
         formatted_initials:
           content: J.
           language:

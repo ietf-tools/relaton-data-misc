@@ -26,6 +26,10 @@ contributor:
 - person:
     name:
       given:
+        forename:
+        - language:
+          - en
+          initial: T
         formatted_initials:
           content: T.
           language:
@@ -49,6 +53,10 @@ contributor:
 - person:
     name:
       given:
+        forename:
+        - language:
+          - en
+          initial: J
         formatted_initials:
           content: J.
           language:
@@ -72,6 +80,13 @@ contributor:
 - person:
     name:
       given:
+        forename:
+        - language:
+          - en
+          initial: C
+        - language:
+          - en
+          initial: M
         formatted_initials:
           content: C.M.
           language:
@@ -95,6 +110,10 @@ contributor:
 - person:
     name:
       given:
+        forename:
+        - language:
+          - en
+          initial: E
         formatted_initials:
           content: E.
           language:

@@ -27,6 +27,10 @@ contributor:
 - person:
     name:
       given:
+        forename:
+        - language:
+          - en
+          initial: J
         formatted_initials:
           content: J.
           language:
@@ -61,6 +65,10 @@ contributor:
 - person:
     name:
       given:
+        forename:
+        - language:
+          - en
+          initial: P
         formatted_initials:
           content: P.
           language:
@@ -84,6 +92,10 @@ contributor:
 - person:
     name:
       given:
+        forename:
+        - language:
+          - en
+          initial: D
         formatted_initials:
           content: D.
           language:

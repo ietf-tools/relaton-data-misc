@@ -26,6 +26,10 @@ contributor:
 - person:
     name:
       given:
+        forename:
+        - language:
+          - en
+          initial: J
         formatted_initials:
           content: J.
           language:
