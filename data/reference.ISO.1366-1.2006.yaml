@@ -28,7 +28,7 @@ contributor:
         International Organization for
         Standardization
   role:
-  - author
+  - type: author
 revdate: '2006'
 language:
 - en

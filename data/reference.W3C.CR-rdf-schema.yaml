@@ -47,7 +47,7 @@ contributor:
         name:
         - content: University of Bristol
   role:
-  - author
+  - type: author
 - person:
     name:
       given:
@@ -75,7 +75,7 @@ contributor:
         name:
         - content: Epinions
   role:
-  - author
+  - type: author
 revdate: '2000-03-27'
 language:
 - en

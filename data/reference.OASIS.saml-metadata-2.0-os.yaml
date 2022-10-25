@@ -48,7 +48,7 @@ contributor:
     contact:
     - email: cantor.2@osu.edu
   role:
-  - author
+  - type: author
 - person:
     name:
       given:
@@ -75,7 +75,7 @@ contributor:
     contact:
     - email: jmoreh@sigaba.com
   role:
-  - author
+  - type: author
 - person:
     name:
       given:
@@ -102,7 +102,7 @@ contributor:
     contact:
     - email: rphilpott@rsasecurity.com
   role:
-  - author
+  - type: author
 - person:
     name:
       given:
@@ -129,7 +129,7 @@ contributor:
     contact:
     - email: eve.maler@sun.com
   role:
-  - author
+  - type: author
 revdate: 2005-03
 language:
 - en

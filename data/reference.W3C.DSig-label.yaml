@@ -49,7 +49,7 @@ contributor:
     contact:
     - email: yhchu@cs.cmu.edu
   role:
-  - author
+  - type: author
 - person:
     name:
       given:
@@ -76,7 +76,7 @@ contributor:
     contact:
     - email: philipd@matchlogic.com
   role:
-  - author
+  - type: author
 - person:
     name:
       given:
@@ -103,7 +103,7 @@ contributor:
     contact:
     - email: bal@microsoft.com
   role:
-  - author
+  - type: author
 - person:
     name:
       given:
@@ -130,7 +130,7 @@ contributor:
     contact:
     - email: plipp@iaik.tu-graz.ac.at
   role:
-  - author
+  - type: author
 revdate: '1998-05-27'
 language:
 - en

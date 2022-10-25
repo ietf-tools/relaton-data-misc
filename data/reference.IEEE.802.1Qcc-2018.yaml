@@ -31,7 +31,7 @@ contributor:
     name:
     - content: Institute of Electrical and Electronics Engineers
   role:
-  - author
+  - type: author
 revdate: '2018-10-31'
 language:
 - en

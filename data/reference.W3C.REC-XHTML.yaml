@@ -47,7 +47,7 @@ contributor:
         name:
         - content: CWI
   role:
-  - author
+  - type: author
 revdate: '2000-01-26'
 language:
 - en

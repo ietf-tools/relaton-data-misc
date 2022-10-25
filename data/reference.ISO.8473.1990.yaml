@@ -26,7 +26,7 @@ contributor:
     name:
     - content: International Organization for Standardization
   role:
-  - author
+  - type: author
 revdate: 1990-02
 language:
 - en

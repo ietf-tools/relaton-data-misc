@@ -25,7 +25,7 @@ contributor:
     name:
     - content: National Institute of Standards and Technology
   role:
-  - author
+  - type: author
 revdate: 1993-12
 language:
 - en

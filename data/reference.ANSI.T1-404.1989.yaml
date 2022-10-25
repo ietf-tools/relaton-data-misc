@@ -24,7 +24,7 @@ contributor:
     name:
     - content: American National Standards Institute
   role:
-  - author
+  - type: author
 revdate: '1989'
 language:
 - en

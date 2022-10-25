@@ -24,7 +24,7 @@ contributor:
     name:
     - content: RSA Laboratories
   role:
-  - author
+  - type: author
 revdate: 1991-06
 language:
 - en

@@ -27,7 +27,7 @@ contributor:
     name:
     - content: Institute of Electrical and Electronics Engineers
   role:
-  - author
+  - type: author
 revdate: '1996'
 language:
 - en

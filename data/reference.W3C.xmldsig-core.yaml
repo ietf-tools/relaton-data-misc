@@ -49,7 +49,7 @@ contributor:
     contact:
     - email: dee3@torque.pothole.com
   role:
-  - author
+  - type: author
 - person:
     name:
       given:
@@ -76,7 +76,7 @@ contributor:
     contact:
     - email: reagle@w3.org
   role:
-  - author
+  - type: author
 - person:
     name:
       given:
@@ -103,7 +103,7 @@ contributor:
     contact:
     - email: dsolo@alum.mit.edu
   role:
-  - author
+  - type: author
 revdate: '2000-10-06'
 language:
 - en

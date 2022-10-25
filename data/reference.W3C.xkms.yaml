@@ -49,7 +49,7 @@ contributor:
     contact:
     - email: wford@verisign.com
   role:
-  - author
+  - type: author
 - person:
     name:
       given:
@@ -76,7 +76,7 @@ contributor:
     contact:
     - email: pbaker@verisign.com
   role:
-  - author
+  - type: author
 - person:
     name:
       given:
@@ -103,7 +103,7 @@ contributor:
     contact:
     - email: bfox@EXCHANGE.MICROSOFT.com
   role:
-  - author
+  - type: author
 - person:
     name:
       given:
@@ -130,7 +130,7 @@ contributor:
     contact:
     - email: blaird@microsoft.com
   role:
-  - author
+  - type: author
 - person:
     name:
       given:
@@ -157,7 +157,7 @@ contributor:
     contact:
     - email: bal@microsoft.com
   role:
-  - author
+  - type: author
 - person:
     name:
       given:
@@ -184,7 +184,7 @@ contributor:
     contact:
     - email: jepstein@webmethods.com
   role:
-  - author
+  - type: author
 - person:
     name:
       given:
@@ -211,7 +211,7 @@ contributor:
     contact:
     - email: jlapp@webmethods.com
   role:
-  - author
+  - type: author
 revdate: '2001-03-30'
 language:
 - en

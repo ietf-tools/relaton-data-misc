@@ -49,7 +49,7 @@ contributor:
     contact:
     - email: ora.lassila@research.nokia.com
   role:
-  - author
+  - type: author
 - person:
     name:
       given:
@@ -87,7 +87,7 @@ contributor:
     - email: swick@w3.org
     - uri: http://www.w3c.org
   role:
-  - author
+  - type: author
 revdate: '1999-02-22'
 language:
 - en

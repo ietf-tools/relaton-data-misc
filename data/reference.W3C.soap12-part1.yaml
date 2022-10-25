@@ -49,7 +49,7 @@ contributor:
     contact:
     - email: marting@develop.com
   role:
-  - author
+  - type: author
 - person:
     name:
       given:
@@ -76,7 +76,7 @@ contributor:
     contact:
     - email: marc.hadley@sun.com
   role:
-  - author
+  - type: author
 - person:
     name:
       given:
@@ -103,7 +103,7 @@ contributor:
     contact:
     - email: Noah_Mendelsohn@us.ibm.com
   role:
-  - author
+  - type: author
 - person:
     name:
       given:
@@ -130,7 +130,7 @@ contributor:
     contact:
     - email: moreau@crf.canon.fr
   role:
-  - author
+  - type: author
 - person:
     name:
       given:
@@ -157,7 +157,7 @@ contributor:
     contact:
     - email: henrikn@microsoft.com
   role:
-  - author
+  - type: author
 revdate: '2002-06-26'
 language:
 - en

@@ -45,7 +45,7 @@ contributor:
     contact:
     - email: jjc@jclark.com
   role:
-  - author
+  - type: author
 revdate: '1999-11-16'
 language:
 - en

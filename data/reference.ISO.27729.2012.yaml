@@ -30,7 +30,7 @@ contributor:
     abbreviation:
       content: ISO/TC46
   role:
-  - author
+  - type: author
 revdate: '2012-03-09'
 language:
 - en

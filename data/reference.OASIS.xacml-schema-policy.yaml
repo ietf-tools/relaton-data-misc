@@ -45,7 +45,7 @@ contributor:
     contact:
     - email: simon@godik.com
   role:
-  - author
+  - type: author
 - person:
     name:
       given:
@@ -72,7 +72,7 @@ contributor:
     contact:
     - email: tim.moses@entrust.com
   role:
-  - author
+  - type: author
 revdate: '2002-07-12'
 language:
 - en

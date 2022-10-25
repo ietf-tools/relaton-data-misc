@@ -60,7 +60,7 @@ contributor:
     - email: jmiller@w3.org
     - uri: http://www.w3c.org
   role:
-  - author
+  - type: author
 - person:
     name:
       given:
@@ -87,7 +87,7 @@ contributor:
     contact:
     - email: timk@spyglass.com
   role:
-  - author
+  - type: author
 - person:
     name:
       given:
@@ -114,7 +114,7 @@ contributor:
     contact:
     - email: presnick@research.att.com
   role:
-  - author
+  - type: author
 - person:
     name:
       given:
@@ -141,7 +141,7 @@ contributor:
     contact:
     - email: treese@OpenMarket.com
   role:
-  - author
+  - type: author
 revdate: '1996-10-31'
 language:
 - en

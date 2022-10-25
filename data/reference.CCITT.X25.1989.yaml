@@ -26,7 +26,7 @@ contributor:
     name:
     - content: International Telephone and Telegraph Consultative Committee
   role:
-  - author
+  - type: author
 revdate: '1989'
 language:
 - en

@@ -49,7 +49,7 @@ contributor:
     contact:
     - email: tbray@textuality.com
   role:
-  - author
+  - type: author
 - person:
     name:
       given:
@@ -76,7 +76,7 @@ contributor:
     contact:
     - email: dmh@corp.hp.com
   role:
-  - author
+  - type: author
 - person:
     name:
       given:
@@ -103,7 +103,7 @@ contributor:
     contact:
     - email: andrewl@microsoft.com
   role:
-  - author
+  - type: author
 revdate: '1999-01-14'
 language:
 - en

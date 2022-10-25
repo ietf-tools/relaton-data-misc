@@ -39,7 +39,7 @@ contributor:
         name:
         - content: OASIS SSTC
   role:
-  - author
+  - type: author
 revdate: 2004-12
 language:
 - en

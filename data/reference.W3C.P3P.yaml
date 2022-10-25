@@ -48,7 +48,7 @@ contributor:
     contact:
     - email: massimo@w3.or
   role:
-  - author
+  - type: author
 - person:
     name:
       given:
@@ -73,7 +73,7 @@ contributor:
         name:
         - content: AT&T
   role:
-  - author
+  - type: author
 - person:
     name:
       given:
@@ -98,7 +98,7 @@ contributor:
         name:
         - content: ETH Zurich
   role:
-  - author
+  - type: author
 - person:
     name:
       given:
@@ -125,7 +125,7 @@ contributor:
     contact:
     - email: mpresler@us.ibm.com
   role:
-  - author
+  - type: author
 - person:
     name:
       given:
@@ -150,7 +150,7 @@ contributor:
         name:
         - content: W3C
   role:
-  - author
+  - type: author
 revdate: '2002-04-16'
 language:
 - en

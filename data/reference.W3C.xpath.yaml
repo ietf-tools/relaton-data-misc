@@ -49,7 +49,7 @@ contributor:
     contact:
     - email: jjc@jclark.com
   role:
-  - author
+  - type: author
 - person:
     name:
       given:
@@ -76,7 +76,7 @@ contributor:
     contact:
     - email: Steven_DeRose@Brown.edu
   role:
-  - author
+  - type: author
 revdate: '1999-11-16'
 language:
 - en

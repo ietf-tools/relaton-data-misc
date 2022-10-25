@@ -49,7 +49,7 @@ contributor:
     contact:
     - email: dbox@develop.com
   role:
-  - author
+  - type: author
 - person:
     name:
       given:
@@ -76,7 +76,7 @@ contributor:
     contact:
     - email: davide@us.ibm.com
   role:
-  - author
+  - type: author
 - person:
     name:
       given:
@@ -103,7 +103,7 @@ contributor:
     contact:
     - email: gopalk@microsoft.com
   role:
-  - author
+  - type: author
 - person:
     name:
       given:
@@ -130,7 +130,7 @@ contributor:
     contact:
     - email: andrewl@microsoft.com
   role:
-  - author
+  - type: author
 - person:
     name:
       given:
@@ -157,7 +157,7 @@ contributor:
     contact:
     - email: Noah_Mendelsohn@lotus.com
   role:
-  - author
+  - type: author
 - person:
     name:
       given:
@@ -184,7 +184,7 @@ contributor:
     contact:
     - email: frystyk@microsoft.com
   role:
-  - author
+  - type: author
 - person:
     name:
       given:
@@ -211,7 +211,7 @@ contributor:
     contact:
     - email: satisht@microsoft.com
   role:
-  - author
+  - type: author
 - person:
     name:
       given:
@@ -238,7 +238,7 @@ contributor:
     contact:
     - email: dave@userland.com
   role:
-  - author
+  - type: author
 revdate: '2000-05-08'
 language:
 - en
