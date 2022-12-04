@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ISO8571-5.1988
 title:
 - content: 'Information processing systems - Open Systems Interconnection - File Transfer,

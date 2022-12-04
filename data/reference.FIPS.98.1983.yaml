@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: FIPS98.1983
 title:
 - content: Specification for Message Format for Computer Based Message Systems

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CCITTX225.1984
 title:
 - content: Session Protocol Specification for Open Systems Interconnection (OSI) for

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ISO13818-6.1995
 title:
 - content: 'Information technology - Generic coding of moving pictures and associated

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ISO9074.1989
 title:
 - content: A Formal Description Technique based on an Extended State Transition Model

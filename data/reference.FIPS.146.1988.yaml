@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: FIPS146.1988
 title:
 - content: Government Open Systems Interconnection Profile (GOSIP) Version 1

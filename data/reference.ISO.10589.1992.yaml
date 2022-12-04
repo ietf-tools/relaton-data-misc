@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ISO10589.1992
 title:
 - content: Intermediate system to intermediate system intra-domain-routing routine

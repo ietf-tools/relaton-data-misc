@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CDSig-label
 title:
 - content: PICS Signed Labels (DSig) 1.0 Specification

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CCITTG709.1990
 title:
 - content: Synchronous Multiplexing Structure

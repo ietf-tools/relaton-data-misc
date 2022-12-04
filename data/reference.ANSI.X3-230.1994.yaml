@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ANSIX3-230.1994
 title:
 - content: Information Technology - Fibre Channel - Physical and Signaling Interface

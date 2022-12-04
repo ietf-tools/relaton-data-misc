@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ISO8348.1992
 title:
 - content: Information Processing Systems - Data Communications - Network Service

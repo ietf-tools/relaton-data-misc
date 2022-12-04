@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ANSIX9-9.1986
 title:
 - content: Financial Institution Message Authentication (Wholesale)

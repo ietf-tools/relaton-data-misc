@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ANSIX3T9.1984
 title:
 - content: FDDI Station Management (SMT)

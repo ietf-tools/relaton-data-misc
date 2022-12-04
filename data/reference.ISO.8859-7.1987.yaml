@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ISO8859-7.1987
 title:
 - content: 'Information Processing - 8-bit Single-Byte Coded Graphic Character Sets,

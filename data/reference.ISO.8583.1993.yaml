@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ISO8583.1993
 title:
 - content: Financial transaction card originated messages - Interchange message specifications

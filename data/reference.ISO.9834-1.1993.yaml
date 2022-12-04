@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ISO9834-1.1993
 title:
 - content: 'Procedures for the operation of OSI registration authorities - part 1:

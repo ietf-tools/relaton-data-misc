@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CCITTX690.2002
 title:
 - content: 'ASN.1 encoding rules: Specification of basic encoding Rules (BER), Canonical

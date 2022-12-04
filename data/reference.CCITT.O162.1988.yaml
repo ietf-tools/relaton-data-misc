@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CCITTO162.1988
 title:
 - content: Equipment To Perform In Service Monitoring On 2048 kbit/s Signals

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ISO2375.1990
 title:
 - content: International Register of Coded Character Sets to be Used With Escape Sequences

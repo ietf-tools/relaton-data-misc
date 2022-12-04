@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ITUH324.1996
 title:
 - content: Terminal for low bit rate multimedia communication

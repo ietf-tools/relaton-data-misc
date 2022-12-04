@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ISO9899.1990
 title:
 - content: Programming languages - C

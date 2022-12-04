@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CCITTX500.1993
 title:
 - content: The Directory - overview of concepts, models and services

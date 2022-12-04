@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ANSIX3-16.1976
 title:
 - content: Character Structure and Character Parity Sense for Serial-by-Bit Data Communication

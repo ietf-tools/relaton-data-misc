@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cxpath
 title:
 - content: XML Path Language (XPath) Version 1.0

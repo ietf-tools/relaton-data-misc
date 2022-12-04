@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ITUQ762.1994
 title:
 - content: General Function of Messages and Signals of the ISDN User Part of Signaling

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ITUI363.1993
 title:
 - content: B-ISDN ATM Adaptation Layer (AAL) Specification

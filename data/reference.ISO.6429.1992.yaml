@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ISO6429.1992
 title:
 - content: Information Technology - Control Functions for Coded Character Sets, 3rd

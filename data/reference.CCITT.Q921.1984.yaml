@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CCITTQ921.1984
 title:
 - content: ISDN User-network Interface Data Link Layer Specification

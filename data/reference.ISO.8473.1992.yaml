@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ISO8473.1992
 title:
 - content: Intermediate system to Intermediate system routing information exchange

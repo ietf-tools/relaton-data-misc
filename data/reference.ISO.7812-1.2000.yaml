@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ISO7812-1.2000
 title:
 - content: 'Identification card - Identification of issuers - Part 1: Numbering system'

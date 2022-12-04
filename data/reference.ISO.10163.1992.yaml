@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ISO10163.1992
 title:
 - content: Documentation - Search and Retrieve Protocol Definition

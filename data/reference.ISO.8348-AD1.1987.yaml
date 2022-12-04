@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ISO8348-AD1.1987
 title:
 - content: 'Information processing systems - Data communications Network Service Definition

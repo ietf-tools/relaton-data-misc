@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ITUV42.1994
 title:
 - content: Error-correcting Procedures for DCEs Using Asynchronous-to-Synchronous

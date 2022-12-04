@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ANSIX9-52.1998
 title:
 - content: Triple Data Encryption Algorithm Modes of Operation

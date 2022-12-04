@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: FIPS35.1975
 title:
 - content: Code Extension Techniques in 7 or 8 Bits

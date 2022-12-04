@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ISO8822.1987
 title:
 - content: Information Processing Systems - Open Systems Interconnection, Connection

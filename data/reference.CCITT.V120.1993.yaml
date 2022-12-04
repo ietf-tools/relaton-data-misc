@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CCITTV120.1993
 title:
 - content: Support by an ISDN of Data Terminal Equipment with V-Series Type Interfaces

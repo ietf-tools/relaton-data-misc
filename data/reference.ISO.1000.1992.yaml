@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ISO1000.1992
 title:
 - content: SI units and recommendations for the use of their multiples and of certain

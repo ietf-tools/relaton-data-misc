@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ISO7498-3.1989
 title:
 - content: 'Information Processing Systems - OSI Reference Model - Part3: Naming and

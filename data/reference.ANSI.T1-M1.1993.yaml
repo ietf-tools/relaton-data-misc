@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ANSIT1-M1.1993
 title:
 - content: Telecommunications - Layer 1 In-Service Digital Transmission Performance

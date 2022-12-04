@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cdaml+oil-reference
 title:
 - content: DAML+OIL (March 2001) Reference Description

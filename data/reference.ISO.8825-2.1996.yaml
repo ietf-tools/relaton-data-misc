@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ISO8825-2.1996
 title:
 - content: ": Information technology - ASN.1 encoding rules: Specification of Packed

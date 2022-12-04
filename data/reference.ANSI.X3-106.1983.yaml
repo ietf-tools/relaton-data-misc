@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ANSIX3-106.1983
 title:
 - content: Information Systems - Data Link Encryption - Data Encryption Algorithm

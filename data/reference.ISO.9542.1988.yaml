@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ISO9542.1988
 title:
 - content: End system to Intermediate system routeing exchange protocol for use in

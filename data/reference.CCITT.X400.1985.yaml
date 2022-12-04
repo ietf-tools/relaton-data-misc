@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CCITTX400.1985
 title:
 - content: Data Communication Networks - Message Handling Systems

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ISO9735.1993
 title:
 - content: UN/EDIFACT (Electronic Data Interchange for Administration, Commerce and

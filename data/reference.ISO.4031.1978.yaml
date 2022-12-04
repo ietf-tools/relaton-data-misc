@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ISO4031.1978
 title:
 - content: Information Interchange - Representation of local time differentials

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: NIST500-183.1990
 title:
 - content: Stable Agreements for Open Systems Interconnection Protocols

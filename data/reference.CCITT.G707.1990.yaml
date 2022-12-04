@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CCITTG707.1990
 title:
 - content: Synchronous Digital Hierarchy Bit Rates

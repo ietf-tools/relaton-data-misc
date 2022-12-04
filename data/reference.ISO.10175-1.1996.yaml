@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ISO10175-1.1996
 title:
 - content: 'Information technology - Text and office systems - Document Printing Application

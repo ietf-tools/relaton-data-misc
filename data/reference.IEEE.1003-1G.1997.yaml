@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEE1003-1G.1997
 title:
 - content: Protocol Independent Interfaces
@@ -41,3 +42,5 @@ series:
     format: text/plain
   number: Standard 1003.1G
 doctype: ieee
+ext:
+  schema-version: v1.0.0

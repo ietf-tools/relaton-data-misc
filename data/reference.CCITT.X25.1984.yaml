@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CCITTX25.1984
 title:
 - content: Interface Between Data Terminal Equipment (DTE) and Data Circuit Terminating

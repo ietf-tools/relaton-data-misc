@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ISO7776.1986
 title:
 - content: Information Processing Systems - Data Communication - High Level Data Link

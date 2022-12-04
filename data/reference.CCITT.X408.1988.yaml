@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CCITTX408.1988
 title:
 - content: 'Message Handling Systems: Encoded Information Type Conversion Rules'

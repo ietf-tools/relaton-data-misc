@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ISO4335-AD1.1979
 title:
 - content: Data communication - High-level data link control procedures - Elements

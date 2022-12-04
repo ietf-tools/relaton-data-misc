@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ISO9594-6.1987
 title:
 - content: 'The Directory: Selected Attribute Types'

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ISO13213.1994
 title:
 - content: Control and Status Register (CSR) Architecture for Microcomputer Buses

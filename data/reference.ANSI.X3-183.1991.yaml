@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ANSIX3-183.1991
 title:
 - content: High-Performance Parallel Interface - Mechanical, Electrical and Signalling

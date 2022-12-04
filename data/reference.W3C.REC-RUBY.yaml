@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CREC-RUBY
 title:
 - content: Ruby Annotation

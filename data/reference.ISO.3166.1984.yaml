@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ISO3166.1984
 title:
 - content: Codes for the Representation of Names of Countries

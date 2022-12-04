@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ISO10161-1.1997
 title:
 - content: 'Information and Documentation - Open Systems Interconnection - Interlibrary

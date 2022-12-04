@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: NISTFIPS.202
 title:
 - content: 'SHA-3 Standard:  Permutation-Based Hash and Extendable-Output Functions'

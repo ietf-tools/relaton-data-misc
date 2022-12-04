@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ITUI555.1997
 title:
 - content: Frame Relaying Bearer Service Internetworking

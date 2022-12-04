@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CREC-xmlenc-core
 title:
 - content: XML Encryption Syntax and Processing

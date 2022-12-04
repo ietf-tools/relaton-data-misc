@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CREC-xml
 title:
 - content: Extensible Markup Language (XML) 1.0 (2nd ed)

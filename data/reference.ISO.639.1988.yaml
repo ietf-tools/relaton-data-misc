@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ISO639.1988
 title:
 - content: Code for the representation of names of languages, 1st edition

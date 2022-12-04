@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ISO9798-3.1993
 title:
 - content: 'Information technology - Security Techniques - Entity authentication mechanisms

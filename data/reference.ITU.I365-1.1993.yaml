@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ITUI365-1.1993
 title:
 - content: 'B-ISDN ATM adaptation layer sublayers: Frame relaying service specific

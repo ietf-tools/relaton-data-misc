@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ANSIX3-122.1986
 title:
 - content: 'Draft Proposal: Virtual Device Metafile'

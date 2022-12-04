@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ANSIX3-124.1985
 title:
 - content: 'Draft Proposal: Graphical Kernel System'

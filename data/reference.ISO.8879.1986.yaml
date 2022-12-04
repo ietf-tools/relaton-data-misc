@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ISO8879.1986
 title:
 - content: Information processing - Text and office systems - Standard generalized

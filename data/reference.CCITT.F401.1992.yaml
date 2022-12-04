@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CCITTF401.1992
 title:
 - content: Message Handling Services - Operations and Definitions of Service - Naming

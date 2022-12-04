@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ISO8878.1987
 title:
 - content: Information processing systems - Data communications - Use of X.25 to provide

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Csoap12-part1
 title:
 - content: 'SOAP Version 1.2 Part 1: Messaging Framework'

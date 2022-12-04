@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CCITTX509.1988
 title:
 - content: 'Information Technology - Open Systems Interconnection - The Directory:

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CCITTX409.1984
 title:
 - content: 'Message Handling Systems: Presentation Transfer Syntax and Notation'

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: FIPS186-1.1998
 title:
 - content: Digital Signature Standard

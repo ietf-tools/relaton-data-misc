@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CCITTX214.1984
 title:
 - content: Transport Service Definitions for Open Systems Interconnection (OSI) for

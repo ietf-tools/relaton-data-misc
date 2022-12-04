@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ISO8372.1987
 title:
 - content: 'Information Processing Systems: Data Encipherment: Modes of Operation

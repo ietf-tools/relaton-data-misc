@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CREC-xmlschema-1
 title:
 - content: 'XML Schema Part 1: Structures'

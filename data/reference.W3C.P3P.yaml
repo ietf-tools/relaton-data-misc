@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3CP3P
 title:
 - content: The Platform for Privacy Preferences 1.0 (P3P1.0) Specification

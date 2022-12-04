@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cxml-c14n
 title:
 - content: Canonical XML Version 1.0

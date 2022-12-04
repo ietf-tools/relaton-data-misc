@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ISO9945-2-2.1991
 title:
 - content: CD POSIX Shell and Utilities, informative annex F

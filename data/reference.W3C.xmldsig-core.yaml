@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Cxmldsig-core
 title:
 - content: XML-Signature Syntax and Processing

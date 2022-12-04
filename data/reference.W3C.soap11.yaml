@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: W3Csoap11
 title:
 - content: Simple Object Access Protocol (SOAP) 1.1

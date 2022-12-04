@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: FIPS113.1985
 title:
 - content: Computer Data Authentication

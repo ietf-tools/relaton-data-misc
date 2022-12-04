@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CCITTG708.1992
 title:
 - content: Network Node Interface for the Synchronous Digital Hierarchy

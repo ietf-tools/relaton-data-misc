@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEE1278-2.1995
 title:
 - content: Distributed Interactive Simulation - Communication services and Profiles
@@ -41,3 +42,5 @@ series:
     format: text/plain
   number: Standard 1278.2
 doctype: ieee
+ext:
+  schema-version: v1.0.0

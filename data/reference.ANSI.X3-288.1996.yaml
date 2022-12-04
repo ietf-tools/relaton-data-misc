@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ANSIX3-288.1996
 title:
 - content: Information Technology - Fibre Channel - Generic Services (FC-GS)

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEE802-1A.1990
 title:
 - content: 'Local Area Networks and Metropolitan Area Networks: Overview and Architecture
@@ -42,3 +43,5 @@ series:
     format: text/plain
   number: Standard 802.1A
 doctype: ieee
+ext:
+  schema-version: v1.0.0

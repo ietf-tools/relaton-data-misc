@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ISO646.1983
 title:
 - content: Information Processing - ISO 7-bit coded character set for information

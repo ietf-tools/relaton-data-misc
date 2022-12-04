@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CCITTG704.1988
 title:
 - content: Synchronous frame structures used at primary and secondary hierarchical

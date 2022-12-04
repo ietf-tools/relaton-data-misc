@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IEEEP802-3K.1992
 title:
 - content: Layer Management for 10 Mb/s Baseband Repeaters, Section 19, Draft Supplement
@@ -42,3 +43,5 @@ series:
     format: text/plain
   number: Draft Supplement P802.3K
 doctype: ieee
+ext:
+  schema-version: v1.0.0

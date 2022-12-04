@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: CCITTX208.1988
 title:
 - content: Specification of Abstract Syntax Notation One (ASN.1)

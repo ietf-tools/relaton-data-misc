@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ANSIX3-241.1994
 title:
 - content: Data Compression Method, Adaptive Coding with Sliding Window of Information

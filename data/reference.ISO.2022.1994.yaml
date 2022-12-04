@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: ISO2022.1994
 title:
 - content: Information technology - Character code structure and extension techniques
