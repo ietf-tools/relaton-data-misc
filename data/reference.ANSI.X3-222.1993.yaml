@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: ANSIX3-222.1993
 title:
 - content: High-Performance Parallel Interface - Physical Switch Control (HIPPI-SC)
