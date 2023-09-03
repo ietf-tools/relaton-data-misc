@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: FIPS81.1980
 title:
 - content: DES Modes of Operation
