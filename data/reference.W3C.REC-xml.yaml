@@ -28,7 +28,8 @@ contributor:
     name:
       given:
         forename:
-        - language:
+        - content: 
+          language:
           - en
           initial: T
         formatted_initials:
@@ -55,7 +56,8 @@ contributor:
     name:
       given:
         forename:
-        - language:
+        - content: 
+          language:
           - en
           initial: J
         formatted_initials:
@@ -82,10 +84,12 @@ contributor:
     name:
       given:
         forename:
-        - language:
+        - content: 
+          language:
           - en
           initial: C
-        - language:
+        - content: 
+          language:
           - en
           initial: M
         formatted_initials:
@@ -112,7 +116,8 @@ contributor:
     name:
       given:
         forename:
-        - language:
+        - content: 
+          language:
           - en
           initial: E
         formatted_initials:

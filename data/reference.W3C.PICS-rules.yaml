@@ -28,7 +28,8 @@ contributor:
     name:
       given:
         forename:
-        - language:
+        - content: 
+          language:
           - en
           initial: C
         formatted_initials:
@@ -57,13 +58,16 @@ contributor:
     name:
       given:
         forename:
-        - language:
+        - content: 
+          language:
           - en
           initial: C
-        - language:
+        - content: 
+          language:
           - en
           initial: D
-        - language:
+        - content: 
+          language:
           - en
           initial: W
         formatted_initials:
@@ -92,7 +96,8 @@ contributor:
     name:
       given:
         forename:
-        - language:
+        - content: 
+          language:
           - en
           initial: A
         formatted_initials:
@@ -119,7 +124,8 @@ contributor:
     name:
       given:
         forename:
-        - language:
+        - content: 
+          language:
           - en
           initial: M
         formatted_initials:
@@ -146,7 +152,8 @@ contributor:
     name:
       given:
         forename:
-        - language:
+        - content: 
+          language:
           - en
           initial: P
         formatted_initials:
