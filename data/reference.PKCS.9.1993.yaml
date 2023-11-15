@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: PKCS9.1993
 title:
 - content: RSA Encryption Standard Version 1.4

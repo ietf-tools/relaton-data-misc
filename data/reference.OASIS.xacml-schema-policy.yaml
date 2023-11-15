@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: OASISxacml-schema-policy
 title:
 - content: OASIS eXtensible Access Control Markup Language (XACML)

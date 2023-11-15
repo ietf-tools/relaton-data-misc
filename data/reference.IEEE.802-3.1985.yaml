@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IEEE802-3.1985
 title:
 - content: Carrier Sense Multiple Access with Collision Detection (CSMA/CD) Access
