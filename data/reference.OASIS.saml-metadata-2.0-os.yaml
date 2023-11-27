@@ -150,4 +150,5 @@ series:
     - Latn
     format: text/plain
   number: saml-metadata-2.0-os
-doctype: rfc
+doctype:
+  type: rfc

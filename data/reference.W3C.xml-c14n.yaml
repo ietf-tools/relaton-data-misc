@@ -67,4 +67,5 @@ series:
     - Latn
     format: text/plain
   number: xpath
-doctype: rfc
+doctype:
+  type: rfc

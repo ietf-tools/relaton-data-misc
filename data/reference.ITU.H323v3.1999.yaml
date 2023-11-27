@@ -36,4 +36,5 @@ series:
     - Latn
     format: text/plain
   number: Recommendation H.323v3
-doctype: rfc
+doctype:
+  type: rfc

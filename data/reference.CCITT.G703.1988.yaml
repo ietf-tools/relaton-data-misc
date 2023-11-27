@@ -41,4 +41,5 @@ series:
     - Latn
     format: text/plain
   number: Recommendation G.703
-doctype: rfc
+doctype:
+  type: rfc

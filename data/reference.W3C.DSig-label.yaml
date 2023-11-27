@@ -151,4 +151,5 @@ series:
     - Latn
     format: text/plain
   number: REC-DSig-label
-doctype: rfc
+doctype:
+  type: rfc

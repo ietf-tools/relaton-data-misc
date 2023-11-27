@@ -41,4 +41,5 @@ series:
     - Latn
     format: text/plain
   number: Standard 7498-4
-doctype: rfc
+doctype:
+  type: rfc

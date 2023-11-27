@@ -191,4 +191,5 @@ series:
     - Latn
     format: text/plain
   number: REC-PICSRules
-doctype: rfc
+doctype:
+  type: rfc

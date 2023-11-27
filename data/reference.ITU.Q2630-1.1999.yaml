@@ -35,4 +35,5 @@ series:
     - Latn
     format: text/plain
   number: Recommendation Q.2630.1
-doctype: rfc
+doctype:
+  type: rfc

@@ -44,4 +44,5 @@ series:
     - Latn
     format: text/plain
   number: Recommendation X.511
-doctype: rfc
+doctype:
+  type: rfc

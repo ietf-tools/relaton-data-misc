@@ -41,4 +41,5 @@ series:
     - Latn
     format: text/plain
   number: Recommendation G.732
-doctype: rfc
+doctype:
+  type: rfc

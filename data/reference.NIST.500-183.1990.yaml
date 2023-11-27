@@ -41,4 +41,5 @@ series:
     - Latn
     format: text/plain
   number: 500-183
-doctype: rfc
+doctype:
+  type: rfc

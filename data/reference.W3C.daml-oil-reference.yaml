@@ -187,4 +187,5 @@ series:
     - Latn
     format: text/plain
   number: daml+oil-reference
-doctype: rfc
+doctype:
+  type: rfc

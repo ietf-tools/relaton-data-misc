@@ -123,4 +123,5 @@ series:
     - Latn
     format: text/plain
   number: xmldsig-core
-doctype: rfc
+doctype:
+  type: rfc

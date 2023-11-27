@@ -41,4 +41,5 @@ series:
     - Latn
     format: text/plain
   number: Recommendation Q.922
-doctype: rfc
+doctype:
+  type: rfc

@@ -42,4 +42,5 @@ series:
     - Latn
     format: text/plain
   number: Standard 10038
-doctype: rfc
+doctype:
+  type: rfc

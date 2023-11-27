@@ -106,4 +106,5 @@ series:
     - Latn
     format: text/plain
   number: REC-rdf-syntax
-doctype: rfc
+doctype:
+  type: rfc

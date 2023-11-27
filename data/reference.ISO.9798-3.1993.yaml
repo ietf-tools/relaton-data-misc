@@ -42,4 +42,5 @@ series:
     - Latn
     format: text/plain
   number: Standard 9798-3
-doctype: rfc
+doctype:
+  type: rfc

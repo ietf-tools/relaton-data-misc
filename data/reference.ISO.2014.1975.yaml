@@ -41,4 +41,5 @@ series:
     - Latn
     format: text/plain
   number: Standard 2014
-doctype: rfc
+doctype:
+  type: rfc

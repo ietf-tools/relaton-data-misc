@@ -123,4 +123,5 @@ series:
     - Latn
     format: text/plain
   number: REC-xml-names
-doctype: rfc
+doctype:
+  type: rfc

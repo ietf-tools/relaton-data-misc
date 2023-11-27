@@ -119,4 +119,5 @@ series:
     - Latn
     format: text/plain
   number: SP 800-185
-doctype: rfc
+doctype:
+  type: rfc

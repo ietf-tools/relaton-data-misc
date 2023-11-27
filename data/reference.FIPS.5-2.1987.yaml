@@ -42,4 +42,5 @@ series:
     - Latn
     format: text/plain
   number: PUB 5-2
-doctype: rfc
+doctype:
+  type: rfc

@@ -65,4 +65,5 @@ series:
     - Latn
     format: text/plain
   number: REC-XHTML
-doctype: rfc
+doctype:
+  type: rfc

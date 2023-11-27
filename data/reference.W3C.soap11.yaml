@@ -263,4 +263,5 @@ series:
     - Latn
     format: text/plain
   number: soap11
-doctype: rfc
+doctype:
+  type: rfc

@@ -41,4 +41,5 @@ series:
     - Latn
     format: text/plain
   number: Recommendation O.162
-doctype: rfc
+doctype:
+  type: rfc

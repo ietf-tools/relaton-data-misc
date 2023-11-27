@@ -42,4 +42,5 @@ series:
     - Latn
     format: text/plain
   number: Recommendation T.85
-doctype: rfc
+doctype:
+  type: rfc

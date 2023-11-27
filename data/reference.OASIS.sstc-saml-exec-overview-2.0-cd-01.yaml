@@ -92,4 +92,5 @@ series:
     - Latn
     format: text/plain
   number: sstc-saml-exec-overview-2.0-cd-01
-doctype: rfc
+doctype:
+  type: rfc

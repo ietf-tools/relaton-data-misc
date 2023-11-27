@@ -42,4 +42,5 @@ series:
     - Latn
     format: text/plain
   number: T1.607
-doctype: rfc
+doctype:
+  type: rfc

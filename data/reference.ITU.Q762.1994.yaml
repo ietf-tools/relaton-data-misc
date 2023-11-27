@@ -42,4 +42,5 @@ series:
     - Latn
     format: text/plain
   number: Recommendation Q.762
-doctype: rfc
+doctype:
+  type: rfc

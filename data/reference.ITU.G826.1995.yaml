@@ -42,4 +42,5 @@ series:
     - Latn
     format: text/plain
   number: Recommendation G.826
-doctype: rfc
+doctype:
+  type: rfc

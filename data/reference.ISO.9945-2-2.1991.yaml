@@ -41,4 +41,5 @@ series:
     - Latn
     format: text/plain
   number: Standard 9945-2.2
-doctype: rfc
+doctype:
+  type: rfc

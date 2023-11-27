@@ -42,4 +42,5 @@ series:
     - Latn
     format: text/plain
   number: X3.230
-doctype: rfc
+doctype:
+  type: rfc

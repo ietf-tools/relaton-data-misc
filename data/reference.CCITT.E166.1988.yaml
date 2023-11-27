@@ -41,4 +41,5 @@ series:
     - Latn
     format: text/plain
   number: Recommendation E.166
-doctype: rfc
+doctype:
+  type: rfc

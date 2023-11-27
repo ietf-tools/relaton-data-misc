@@ -162,4 +162,5 @@ series:
     - Latn
     format: text/plain
   number: REC-PICS-labels
-doctype: rfc
+doctype:
+  type: rfc

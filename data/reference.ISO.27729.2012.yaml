@@ -47,4 +47,5 @@ series:
     - Latn
     format: text/plain
   number: Draft Standard 27729
-doctype: rfc
+doctype:
+  type: rfc

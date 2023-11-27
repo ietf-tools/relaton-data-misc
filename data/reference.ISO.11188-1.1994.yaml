@@ -43,4 +43,5 @@ series:
     - Latn
     format: text/plain
   number: Draft Standard 11188-1
-doctype: rfc
+doctype:
+  type: rfc

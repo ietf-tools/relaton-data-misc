@@ -44,4 +44,5 @@ series:
     - Latn
     format: text/plain
   number: PUB 197
-doctype: rfc
+doctype:
+  type: rfc

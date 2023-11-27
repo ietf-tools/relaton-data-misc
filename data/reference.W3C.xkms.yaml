@@ -235,4 +235,5 @@ series:
     - Latn
     format: text/plain
   number: xkms
-doctype: rfc
+doctype:
+  type: rfc

@@ -44,4 +44,5 @@ series:
     - Latn
     format: text/plain
   number: PUB 81
-doctype: rfc
+doctype:
+  type: rfc

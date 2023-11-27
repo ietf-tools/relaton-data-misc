@@ -42,4 +42,5 @@ series:
     - Latn
     format: text/plain
   number: X9.44
-doctype: rfc
+doctype:
+  type: rfc

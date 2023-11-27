@@ -42,4 +42,5 @@ series:
     - Latn
     format: text/plain
   number: Draft Standard 9576
-doctype: rfc
+doctype:
+  type: rfc

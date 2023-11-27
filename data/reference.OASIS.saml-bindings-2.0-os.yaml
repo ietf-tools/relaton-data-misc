@@ -178,4 +178,5 @@ series:
     - Latn
     format: text/plain
   number: saml-bindings-2.0-os
-doctype: rfc
+doctype:
+  type: rfc

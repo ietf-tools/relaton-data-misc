@@ -41,6 +41,7 @@ series:
     - Latn
     format: text/plain
   number: Draft P1363
-doctype: ieee
+doctype:
+  type: ieee
 ext:
   schema-version: v1.0.0

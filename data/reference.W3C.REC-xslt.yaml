@@ -63,4 +63,5 @@ series:
     - Latn
     format: text/plain
   number: REC-xslt
-doctype: rfc
+doctype:
+  type: rfc

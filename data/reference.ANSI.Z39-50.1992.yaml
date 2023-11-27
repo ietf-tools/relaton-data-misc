@@ -44,4 +44,5 @@ series:
     - Latn
     format: text/plain
   number: Z39.50
-doctype: rfc
+doctype:
+  type: rfc

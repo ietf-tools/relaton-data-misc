@@ -135,4 +135,5 @@ series:
     - Latn
     format: text/plain
   number: REC-PICS-services
-doctype: rfc
+doctype:
+  type: rfc

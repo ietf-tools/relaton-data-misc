@@ -35,4 +35,5 @@ series:
     - Latn
     format: text/plain
   number: Recommendation H.341
-doctype: rfc
+doctype:
+  type: rfc

@@ -58,4 +58,5 @@ series:
     - Latn
     format: text/plain
   number: application/samlmetadata+xml
-doctype: rfc
+doctype:
+  type: rfc

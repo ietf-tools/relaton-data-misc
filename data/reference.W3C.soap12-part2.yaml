@@ -179,4 +179,5 @@ series:
     - Latn
     format: text/plain
   number: soap12-part2
-doctype: rfc
+doctype:
+  type: rfc

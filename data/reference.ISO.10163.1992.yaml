@@ -41,4 +41,5 @@ series:
     - Latn
     format: text/plain
   number: Standard 10163
-doctype: rfc
+doctype:
+  type: rfc

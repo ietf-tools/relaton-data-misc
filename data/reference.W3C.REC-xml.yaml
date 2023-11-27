@@ -155,4 +155,5 @@ series:
     - Latn
     format: text/plain
   number: REC-xml
-doctype: rfc
+doctype:
+  type: rfc

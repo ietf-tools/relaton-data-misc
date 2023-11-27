@@ -67,4 +67,5 @@ series:
     - Latn
     format: text/plain
   number: PUB 202
-doctype: rfc
+doctype:
+  type: rfc

@@ -122,4 +122,5 @@ series:
     - Latn
     format: text/plain
   number: saml-glossary-2.0-os
-doctype: rfc
+doctype:
+  type: rfc

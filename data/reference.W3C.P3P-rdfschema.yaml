@@ -125,4 +125,5 @@ series:
     - Latn
     format: text/plain
   number: P3P-rdfschema
-doctype: rfc
+doctype:
+  type: rfc

@@ -42,4 +42,5 @@ series:
     - Latn
     format: text/plain
   number: Recommendation BT.709
-doctype: rfc
+doctype:
+  type: rfc

@@ -41,4 +41,5 @@ series:
     - Latn
     format: text/plain
   number: X9.52
-doctype: rfc
+doctype:
+  type: rfc

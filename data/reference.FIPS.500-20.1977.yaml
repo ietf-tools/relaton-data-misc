@@ -42,4 +42,5 @@ series:
     - Latn
     format: text/plain
   number: PUB 500-20
-doctype: rfc
+doctype:
+  type: rfc

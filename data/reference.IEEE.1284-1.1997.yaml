@@ -35,6 +35,7 @@ series:
     - Latn
     format: text/plain
   number: Standard 1284.1
-doctype: ieee
+doctype:
+  type: ieee
 ext:
   schema-version: v1.0.0

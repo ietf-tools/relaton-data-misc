@@ -41,4 +41,5 @@ series:
     - Latn
     format: text/plain
   number: Standard 3307
-doctype: rfc
+doctype:
+  type: rfc

@@ -43,4 +43,5 @@ series:
     - Latn
     format: text/plain
   number: Standard 9594-1
-doctype: rfc
+doctype:
+  type: rfc

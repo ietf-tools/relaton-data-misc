@@ -43,4 +43,5 @@ series:
     - Latn
     format: text/plain
   number: Recommendation X.680
-doctype: rfc
+doctype:
+  type: rfc

@@ -143,4 +143,5 @@ series:
     - Latn
     format: text/plain
   number: REC-xmlschema-1
-doctype: rfc
+doctype:
+  type: rfc

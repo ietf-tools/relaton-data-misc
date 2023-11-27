@@ -42,4 +42,5 @@ series:
     - Latn
     format: text/plain
   number: Recommendation V.42
-doctype: rfc
+doctype:
+  type: rfc

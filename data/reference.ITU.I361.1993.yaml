@@ -41,4 +41,5 @@ series:
     - Latn
     format: text/plain
   number: Recommendation I.361
-doctype: rfc
+doctype:
+  type: rfc

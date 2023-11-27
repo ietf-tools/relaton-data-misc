@@ -42,4 +42,5 @@ series:
     - Latn
     format: text/plain
   number: Technical Report 9577
-doctype: rfc
+doctype:
+  type: rfc

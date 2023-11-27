@@ -35,4 +35,5 @@ series:
     - Latn
     format: text/plain
   number: '12'
-doctype: rfc
+doctype:
+  type: rfc

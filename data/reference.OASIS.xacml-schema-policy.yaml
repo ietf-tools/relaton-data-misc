@@ -91,4 +91,5 @@ series:
     - Latn
     format: text/plain
   number: xacml-schema-policy
-doctype: rfc
+doctype:
+  type: rfc

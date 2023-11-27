@@ -150,4 +150,5 @@ series:
     - Latn
     format: text/plain
   number: sstc-saml-tech-overview-2.0-draft-10
-doctype: rfc
+doctype:
+  type: rfc

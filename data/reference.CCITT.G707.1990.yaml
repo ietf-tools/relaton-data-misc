@@ -41,4 +41,5 @@ series:
     - Latn
     format: text/plain
   number: Recommendation G.707
-doctype: rfc
+doctype:
+  type: rfc

@@ -35,4 +35,5 @@ series:
     - Latn
     format: text/plain
   number: Recommendation T.140
-doctype: rfc
+doctype:
+  type: rfc

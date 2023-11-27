@@ -51,4 +51,5 @@ series:
     - Latn
     format: text/plain
   number: Recommendation V.120
-doctype: rfc
+doctype:
+  type: rfc

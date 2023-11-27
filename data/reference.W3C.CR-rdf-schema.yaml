@@ -95,4 +95,5 @@ series:
     - Latn
     format: text/plain
   number: CR-rdf-schema
-doctype: rfc
+doctype:
+  type: rfc

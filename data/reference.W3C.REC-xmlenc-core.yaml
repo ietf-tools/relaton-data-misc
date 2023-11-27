@@ -139,4 +139,5 @@ series:
     - Latn
     format: text/plain
   number: REC-xmlenc-core
-doctype: rfc
+doctype:
+  type: rfc

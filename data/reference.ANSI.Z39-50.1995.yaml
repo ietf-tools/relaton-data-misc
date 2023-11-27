@@ -50,4 +50,5 @@ series:
     - Latn
     format: text/plain
   number: Standard 23950
-doctype: rfc
+doctype:
+  type: rfc

@@ -41,4 +41,5 @@ series:
     - Latn
     format: text/plain
   number: Standard 8348 Amendment 5
-doctype: rfc
+doctype:
+  type: rfc

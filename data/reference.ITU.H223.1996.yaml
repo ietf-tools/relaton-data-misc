@@ -41,4 +41,5 @@ series:
     - Latn
     format: text/plain
   number: Recommendation H.223
-doctype: rfc
+doctype:
+  type: rfc

@@ -42,4 +42,5 @@ series:
     - Latn
     format: text/plain
   number: T1M1.3
-doctype: rfc
+doctype:
+  type: rfc

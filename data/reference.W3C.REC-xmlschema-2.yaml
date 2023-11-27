@@ -91,4 +91,5 @@ series:
     - Latn
     format: text/plain
   number: REC-xmlschema-2
-doctype: rfc
+doctype:
+  type: rfc

@@ -42,4 +42,5 @@ series:
     - Latn
     format: text/plain
   number: Recommendation I.365.1
-doctype: rfc
+doctype:
+  type: rfc

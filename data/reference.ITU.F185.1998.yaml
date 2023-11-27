@@ -42,4 +42,5 @@ series:
     - Latn
     format: text/plain
   number: Recommendation F.185
-doctype: rfc
+doctype:
+  type: rfc

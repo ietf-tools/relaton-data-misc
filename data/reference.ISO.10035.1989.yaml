@@ -41,4 +41,5 @@ series:
     - Latn
     format: text/plain
   number: Draft Standard 10035
-doctype: rfc
+doctype:
+  type: rfc

@@ -36,4 +36,5 @@ series:
     - Latn
     format: text/plain
   number: Recommendation V.18
-doctype: rfc
+doctype:
+  type: rfc

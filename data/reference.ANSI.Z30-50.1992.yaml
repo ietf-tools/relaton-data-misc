@@ -42,4 +42,5 @@ series:
     - Latn
     format: text/plain
   number: Z30.50
-doctype: rfc
+doctype:
+  type: rfc

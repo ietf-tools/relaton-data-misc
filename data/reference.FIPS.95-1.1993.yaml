@@ -41,4 +41,5 @@ series:
     - Latn
     format: text/plain
   number: PUB 95-1
-doctype: rfc
+doctype:
+  type: rfc

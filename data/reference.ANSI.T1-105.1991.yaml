@@ -42,4 +42,5 @@ series:
     - Latn
     format: text/plain
   number: T1.105
-doctype: rfc
+doctype:
+  type: rfc

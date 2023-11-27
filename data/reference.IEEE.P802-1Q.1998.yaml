@@ -41,6 +41,7 @@ series:
     - Latn
     format: text/plain
   number: Draft P802.1Q
-doctype: ieee
+doctype:
+  type: ieee
 ext:
   schema-version: v1.0.0

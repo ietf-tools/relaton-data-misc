@@ -42,6 +42,7 @@ series:
     - Latn
     format: text/plain
   number: Draft Supplement P802.3P
-doctype: ieee
+doctype:
+  type: ieee
 ext:
   schema-version: v1.0.0

@@ -96,4 +96,5 @@ series:
     - Latn
     format: text/plain
   number: sstc-core
-doctype: rfc
+doctype:
+  type: rfc

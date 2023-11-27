@@ -44,4 +44,5 @@ series:
     - Latn
     format: text/plain
   number: Standard 10589
-doctype: rfc
+doctype:
+  type: rfc

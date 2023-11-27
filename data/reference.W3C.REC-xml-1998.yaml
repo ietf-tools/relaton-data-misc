@@ -121,4 +121,5 @@ series:
     - Latn
     format: text/plain
   number: REC-xml-1998
-doctype: rfc
+doctype:
+  type: rfc
