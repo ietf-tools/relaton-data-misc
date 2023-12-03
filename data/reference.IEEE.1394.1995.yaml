@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IEEE1394.1995
 title:
 - content: Standard for a High Performance Serial Bus
@@ -38,4 +38,4 @@ series:
 doctype:
   type: ieee
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1

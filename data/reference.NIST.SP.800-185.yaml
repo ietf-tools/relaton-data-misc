@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: NISTSP.800-185
 title:
 - content: 'SHA-3 Derived Functions: cSHAKE, KMAC, TupleHash and ParallelHash'

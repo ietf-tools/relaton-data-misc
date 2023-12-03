@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IEEE754.1985
 title:
 - content: Standard for Binary Floating-Point Arithmetic
@@ -44,4 +44,4 @@ series:
 doctype:
   type: ieee
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1

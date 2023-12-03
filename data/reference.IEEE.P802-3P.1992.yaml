@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IEEEP802-3P.1992
 title:
 - content: Layer Management for 10 Mb/s Medium Access Unit (MAUs), Section 20, Draft
@@ -45,4 +45,4 @@ series:
 doctype:
   type: ieee
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1

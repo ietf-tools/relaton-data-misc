@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IEEE802-1D.1991
 title:
 - content: MAC Bridges, IEEE Project 802 Local and Metropolitan Area Networks
@@ -44,4 +44,4 @@ series:
 doctype:
   type: ieee
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1

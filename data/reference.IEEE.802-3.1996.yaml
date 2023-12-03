@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IEEE802-3.1996
 title:
 - content: 'Information technology - Telecommunications and Information Exchange between
@@ -47,4 +47,4 @@ series:
 doctype:
   type: ieee
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IEEE802.1QBV_2015
 title:
 - content: 'IEEE Standard for Local and metropolitan area networks -- Bridges and
@@ -58,4 +58,4 @@ series:
 doctype:
   type: ieee
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1

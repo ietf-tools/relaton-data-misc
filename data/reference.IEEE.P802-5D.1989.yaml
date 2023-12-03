@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IEEEP802-5D.1989
 title:
 - content: Draft Addendum to ANSI/IEEE Std 802.5-1988 Token Ring MAC and PHY Specification
@@ -45,4 +45,4 @@ series:
 doctype:
   type: ieee
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1

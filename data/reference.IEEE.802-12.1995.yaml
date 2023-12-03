@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IEEE802-12.1995
 title:
 - content: Demand Priority Access Method, Physical Layer and Repeater Specifications
@@ -45,4 +45,4 @@ series:
 doctype:
   type: ieee
 ext:
-  schema-version: v1.0.0
+  schema-version: v1.0.1

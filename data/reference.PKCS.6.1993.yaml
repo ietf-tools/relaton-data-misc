@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: PKCS6.1993
 title:
 - content: Extended-Certificate Syntax Standard, version 1.5
