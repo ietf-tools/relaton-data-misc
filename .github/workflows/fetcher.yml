@@ -16,7 +16,7 @@ jobs:
       - name: Checkout source
         uses: actions/checkout@v2
         with:
-          repository: ietf-ribose/bibxml-data-misc
+          repository: ietf-tools/bibxml-data-misc
           path: bibxml-data-misc
       - name: Use Ruby
         uses: ruby/setup-ruby@v1
