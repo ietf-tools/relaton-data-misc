@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ITUQ762.1994
 title:
 - content: General Function of Messages and Signals of the ISDN User Part of Signaling
@@ -42,5 +42,4 @@ series:
     - Latn
     format: text/plain
   number: Recommendation Q.762
-doctype:
-  type: rfc
+doctype: rfc

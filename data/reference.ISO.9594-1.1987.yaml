@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ISO9594-1.1987
 title:
 - content: 'The Directory: Overview of Concepts, Models and Services'
@@ -41,5 +41,4 @@ series:
     - Latn
     format: text/plain
   number: Standard 9594-1
-doctype:
-  type: rfc
+doctype: rfc

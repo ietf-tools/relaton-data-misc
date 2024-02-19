@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: CCITTX400.1988
 title:
 - content: 'Message Handling: System and Service Overview'
@@ -50,5 +50,4 @@ series:
     - Latn
     format: text/plain
   number: Standard 10021-1
-doctype:
-  type: rfc
+doctype: rfc

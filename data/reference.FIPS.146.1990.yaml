@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: FIPS146.1990
 title:
 - content: Government Open Systems Interconnection Profile (GOSIP) Version 2
@@ -41,5 +41,4 @@ series:
     - Latn
     format: text/plain
   number: PUB 146
-doctype:
-  type: rfc
+doctype: rfc

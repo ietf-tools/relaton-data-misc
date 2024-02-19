@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ISO9735.1993
 title:
 - content: UN/EDIFACT (Electronic Data Interchange for Administration, Commerce and
@@ -42,5 +42,4 @@ series:
     - Latn
     format: text/plain
   number: Standard 9735
-doctype:
-  type: rfc
+doctype: rfc

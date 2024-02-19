@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ISO10021.1988
 title:
 - content: Information Technology - Text communication - Message-Oriented Text Interchange
@@ -42,5 +42,4 @@ series:
     - Latn
     format: text/plain
   number: Standard 10021
-doctype:
-  type: rfc
+doctype: rfc

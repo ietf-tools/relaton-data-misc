@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ANSIX3-4.1986
 title:
 - content: Coded Character Set - 7-bit American Standard Code for Information Interchange
@@ -41,5 +41,4 @@ series:
     - Latn
     format: text/plain
   number: X3.4
-doctype:
-  type: rfc
+doctype: rfc

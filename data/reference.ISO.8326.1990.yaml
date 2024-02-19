@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ISO8326.1990
 title:
 - content: Information processing systems - Open Systems Interconnection - Basic connection
@@ -42,5 +42,4 @@ series:
     - Latn
     format: text/plain
   number: Standard 8326
-doctype:
-  type: rfc
+doctype: rfc

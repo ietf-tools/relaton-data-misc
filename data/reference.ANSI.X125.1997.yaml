@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ANSIX125.1997
 title:
 - content: Interchange Control Structure for Electronic Data Interchange
@@ -41,5 +41,4 @@ series:
     - Latn
     format: text/plain
   number: X12.5
-doctype:
-  type: rfc
+doctype: rfc

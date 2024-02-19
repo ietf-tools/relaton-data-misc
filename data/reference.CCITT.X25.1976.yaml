@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: CCITTX25.1976
 title:
 - content: Interface Between Data Terminal Equipment (DTE) and Data Circuit-terminating
@@ -42,5 +42,4 @@ series:
     - Latn
     format: text/plain
   number: Recommendation X.25
-doctype:
-  type: rfc
+doctype: rfc

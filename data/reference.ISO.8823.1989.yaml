@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ISO8823.1989
 title:
 - content: Information processing systems - Open Systems Interconnection - Connection-oriented
@@ -42,5 +42,4 @@ series:
     - Latn
     format: text/plain
   number: Standard 8823
-doctype:
-  type: rfc
+doctype: rfc

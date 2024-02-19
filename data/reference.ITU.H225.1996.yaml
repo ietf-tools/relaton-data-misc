@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ITUH225.1996
 title:
 - content: Media stream packetization and synchronization on non-guaranteed quality
@@ -42,5 +42,4 @@ series:
     - Latn
     format: text/plain
   number: Recommendation H.225.0
-doctype:
-  type: rfc
+doctype: rfc

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: CCITTX410.1984
 title:
 - content: 'Message Handling Systems: Remote Operations and Reliable Transfer Server'
@@ -41,5 +41,4 @@ series:
     - Latn
     format: text/plain
   number: Recommendation X.410
-doctype:
-  type: rfc
+doctype: rfc

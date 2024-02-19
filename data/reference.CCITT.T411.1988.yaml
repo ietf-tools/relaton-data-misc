@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: CCITTT411.1988
 title:
 - content: Open Document Architecture (ODA) and Interchange Format, Introduction and
@@ -42,5 +42,4 @@ series:
     - Latn
     format: text/plain
   number: Recommendation T.411
-doctype:
-  type: rfc
+doctype: rfc

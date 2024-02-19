@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: CCITTE163.1988
 title:
 - content: Numbering Plan for the International Telephone Service
@@ -41,5 +41,4 @@ series:
     - Latn
     format: text/plain
   number: Recommendation E.163
-doctype:
-  type: rfc
+doctype: rfc

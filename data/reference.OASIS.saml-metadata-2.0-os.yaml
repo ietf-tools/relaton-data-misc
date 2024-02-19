@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: OASISsaml-metadata-2.0-os
 title:
 - content: |-
@@ -150,5 +150,4 @@ series:
     - Latn
     format: text/plain
   number: saml-metadata-2.0-os
-doctype:
-  type: rfc
+doctype: rfc

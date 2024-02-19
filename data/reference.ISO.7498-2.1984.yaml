@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ISO7498-2.1984
 title:
 - content: Security Architecture. Open Systems Interconnection Basic Reference Model
@@ -41,5 +41,4 @@ series:
     - Latn
     format: text/plain
   number: Standard 7498-2
-doctype:
-  type: rfc
+doctype: rfc

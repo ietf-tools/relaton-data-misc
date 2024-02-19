@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ANSIT1-S1.1990
 title:
 - content: Telecommunications - DSSI Core Aspects of Frame Rely
@@ -41,5 +41,4 @@ series:
     - Latn
     format: text/plain
   number: T1S1
-doctype:
-  type: rfc
+doctype: rfc

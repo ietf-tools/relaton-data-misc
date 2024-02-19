@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: FIPS81.1980
 title:
 - content: DES Modes of Operation
@@ -44,5 +44,4 @@ series:
     - Latn
     format: text/plain
   number: PUB 81
-doctype:
-  type: rfc
+doctype: rfc

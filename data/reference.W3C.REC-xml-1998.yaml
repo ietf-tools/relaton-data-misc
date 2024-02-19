@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: W3CREC-xml-1998
 title:
 - content: Extensible Markup Language (XML) 1.0
@@ -121,5 +121,4 @@ series:
     - Latn
     format: text/plain
   number: REC-xml-1998
-doctype:
-  type: rfc
+doctype: rfc

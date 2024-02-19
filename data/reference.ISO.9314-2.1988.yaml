@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ISO9314-2.1988
 title:
 - content: Fiber Distributed Data Interface (FDDI) - Media Access Control
@@ -41,5 +41,4 @@ series:
     - Latn
     format: text/plain
   number: Standard 9314-2
-doctype:
-  type: rfc
+doctype: rfc

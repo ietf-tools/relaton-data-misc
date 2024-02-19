@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ISO8473-1.1994
 title:
 - content: Protocol for providing the connectionless-mode network service
@@ -41,5 +41,4 @@ series:
     - Latn
     format: text/plain
   number: Standard 8473-1
-doctype:
-  type: rfc
+doctype: rfc

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: CCITTG704.1988
 title:
 - content: Synchronous frame structures used at primary and secondary hierarchical
@@ -42,5 +42,4 @@ series:
     - Latn
     format: text/plain
   number: Recommendation G.704
-doctype:
-  type: rfc
+doctype: rfc

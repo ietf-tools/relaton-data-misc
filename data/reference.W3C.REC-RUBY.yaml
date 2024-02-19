@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: W3CREC-RUBY
 title:
 - content: Ruby Annotation
@@ -143,5 +143,4 @@ series:
     - Latn
     format: text/plain
   number: REC-RUBY
-doctype:
-  type: rfc
+doctype: rfc

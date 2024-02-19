@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ITUG826.1995
 title:
 - content: Error Performance Parameters and Objectives for International Constant
@@ -42,5 +42,4 @@ series:
     - Latn
     format: text/plain
   number: Recommendation G.826
-doctype:
-  type: rfc
+doctype: rfc

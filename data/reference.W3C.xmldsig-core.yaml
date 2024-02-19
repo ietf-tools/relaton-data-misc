@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: W3Cxmldsig-core
 title:
 - content: XML-Signature Syntax and Processing
@@ -123,5 +123,4 @@ series:
     - Latn
     format: text/plain
   number: xmldsig-core
-doctype:
-  type: rfc
+doctype: rfc

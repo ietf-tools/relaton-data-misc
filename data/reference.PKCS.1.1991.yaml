@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: PKCS1.1991
 title:
 - content: RSA Encryption Standard, Version 1.1
@@ -41,5 +41,4 @@ series:
     - Latn
     format: text/plain
   number: '1'
-doctype:
-  type: rfc
+doctype: rfc

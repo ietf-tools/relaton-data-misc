@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ANSIX3-124.1985
 title:
 - content: 'Draft Proposal: Graphical Kernel System'
@@ -41,5 +41,4 @@ series:
     - Latn
     format: text/plain
   number: X3.124
-doctype:
-  type: rfc
+doctype: rfc

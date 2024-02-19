@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: PKCS3.1993
 title:
 - content: Diffie-Hellman Key-Agreement Standard, Version 1.4
@@ -41,5 +41,4 @@ series:
     - Latn
     format: text/plain
   number: '3'
-doctype:
-  type: rfc
+doctype: rfc

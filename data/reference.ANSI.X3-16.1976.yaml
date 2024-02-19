@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ANSIX3-16.1976
 title:
 - content: Character Structure and Character Parity Sense for Serial-by-Bit Data Communication
@@ -42,5 +42,4 @@ series:
     - Latn
     format: text/plain
   number: X3.16
-doctype:
-  type: rfc
+doctype: rfc

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: CCITTX409.1984
 title:
 - content: 'Message Handling Systems: Presentation Transfer Syntax and Notation'
@@ -41,5 +41,4 @@ series:
     - Latn
     format: text/plain
   number: Recommendation X.409
-doctype:
-  type: rfc
+doctype: rfc

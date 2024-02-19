@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: FIPS180-2.2002
 title:
 - content: Secure Hash Standard
@@ -44,5 +44,4 @@ series:
     - Latn
     format: text/plain
   number: PUB 180-2
-doctype:
-  type: rfc
+doctype: rfc

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ANSIX3-92.1981
 title:
 - content: Data Encryption Algorithm
@@ -41,5 +41,4 @@ series:
     - Latn
     format: text/plain
   number: X3.92
-doctype:
-  type: rfc
+doctype: rfc

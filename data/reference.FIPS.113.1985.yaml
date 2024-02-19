@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: FIPS113.1985
 title:
 - content: Computer Data Authentication
@@ -41,5 +41,4 @@ series:
     - Latn
     format: text/plain
   number: PUB 113
-doctype:
-  type: rfc
+doctype: rfc

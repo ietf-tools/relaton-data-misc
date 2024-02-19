@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ITUQ2630-1.1999
 title:
 - content: AAL type 2 Signalling Protocol (Capability Set 1)
@@ -35,5 +35,4 @@ series:
     - Latn
     format: text/plain
   number: Recommendation Q.2630.1
-doctype:
-  type: rfc
+doctype: rfc

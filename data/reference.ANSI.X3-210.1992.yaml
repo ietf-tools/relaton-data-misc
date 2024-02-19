@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ANSIX3-210.1992
 title:
 - content: High-Performance Parallel Interface - Framing Protocol (HIPPI-FP)
@@ -41,5 +41,4 @@ series:
     - Latn
     format: text/plain
   number: X3.210
-doctype:
-  type: rfc
+doctype: rfc

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ANSIT1-617.1991
 title:
 - content: Telecommunications - Integrated Services Digital Network (ISDN) - Digital
@@ -43,5 +43,4 @@ series:
     - Latn
     format: text/plain
   number: T1.617
-doctype:
-  type: rfc
+doctype: rfc

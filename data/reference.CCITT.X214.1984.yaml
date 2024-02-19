@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: CCITTX214.1984
 title:
 - content: Transport Service Definitions for Open Systems Interconnection (OSI) for
@@ -42,5 +42,4 @@ series:
     - Latn
     format: text/plain
   number: Recommendation X.214
-doctype:
-  type: rfc
+doctype: rfc

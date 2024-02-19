@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ANSIT1-607.1998
 title:
 - content: Telecommunications - Digital Subscriber Signaling System Number 1 (DSS1)
@@ -42,5 +42,4 @@ series:
     - Latn
     format: text/plain
   number: T1.607
-doctype:
-  type: rfc
+doctype: rfc

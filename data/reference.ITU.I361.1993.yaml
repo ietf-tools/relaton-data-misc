@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ITUI361.1993
 title:
 - content: B-ISDN ATM Layer Specification
@@ -41,5 +41,4 @@ series:
     - Latn
     format: text/plain
   number: Recommendation I.361
-doctype:
-  type: rfc
+doctype: rfc

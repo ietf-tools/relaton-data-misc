@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ISO8073.1984
 title:
 - content: 'Information Processing Systems - Open Systems Interconnection: Transport
@@ -42,5 +42,4 @@ series:
     - Latn
     format: text/plain
   number: Standard 8073
-doctype:
-  type: rfc
+doctype: rfc

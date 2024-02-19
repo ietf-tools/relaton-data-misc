@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: NISTSP.800-185
 title:
 - content: 'SHA-3 Derived Functions: cSHAKE, KMAC, TupleHash and ParallelHash'
@@ -119,5 +119,4 @@ series:
     - Latn
     format: text/plain
   number: SP 800-185
-doctype:
-  type: rfc
+doctype: rfc

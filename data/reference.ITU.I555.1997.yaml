@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ITUI555.1997
 title:
 - content: Frame Relaying Bearer Service Internetworking
@@ -41,5 +41,4 @@ series:
     - Latn
     format: text/plain
   number: Recommendation I.555
-doctype:
-  type: rfc
+doctype: rfc

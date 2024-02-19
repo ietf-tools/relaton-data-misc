@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: FIPS98.1983
 title:
 - content: Specification for Message Format for Computer Based Message Systems
@@ -41,5 +41,4 @@ series:
     - Latn
     format: text/plain
   number: PUB 98
-doctype:
-  type: rfc
+doctype: rfc

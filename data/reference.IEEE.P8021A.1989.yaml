@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: IEEEP8021A.1989
 title:
 - content: Overview and Architecture
@@ -41,7 +41,6 @@ series:
     - Latn
     format: text/plain
   number: Draft P802.1A
-doctype:
-  type: ieee
+doctype: ieee
 ext:
-  schema-version: v1.0.1
+  schema-version: v1.0.0

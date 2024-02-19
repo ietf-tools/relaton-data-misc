@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ITUQ2931.1994
 title:
 - content: Broadband Integrated Service Digital Network (B-ISDN) Digital Subscriber
@@ -43,5 +43,4 @@ series:
     - Latn
     format: text/plain
   number: Recommendation Q.2931
-doctype:
-  type: rfc
+doctype: rfc

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ANSIT1-107.1988
 title:
 - content: Telecommunications - Digital Hierarchy - Formats Specification
@@ -41,5 +41,4 @@ series:
     - Latn
     format: text/plain
   number: T1.107
-doctype:
-  type: rfc
+doctype: rfc

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: CCITTG711.1972
 title:
 - content: Pulse Code Modulation (PCM) of Voice Frequencies
@@ -41,5 +41,4 @@ series:
     - Latn
     format: text/plain
   number: Recommendation G.711
-doctype:
-  type: rfc
+doctype: rfc

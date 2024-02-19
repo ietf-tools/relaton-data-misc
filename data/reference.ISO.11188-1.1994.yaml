@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ISO11188-1.1994
 title:
 - content: 'Information Technology - International Standardised Profile - Common Upper
@@ -43,5 +43,4 @@ series:
     - Latn
     format: text/plain
   number: Draft Standard 11188-1
-doctype:
-  type: rfc
+doctype: rfc

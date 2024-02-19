@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: W3Csoap11
 title:
 - content: Simple Object Access Protocol (SOAP) 1.1
@@ -263,5 +263,4 @@ series:
     - Latn
     format: text/plain
   number: soap11
-doctype:
-  type: rfc
+doctype: rfc

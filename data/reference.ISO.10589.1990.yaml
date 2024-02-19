@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ISO10589.1990
 title:
 - content: Information processing systems - Telecommunications and information exchange
@@ -44,5 +44,4 @@ series:
     - Latn
     format: text/plain
   number: Standard 10589
-doctype:
-  type: rfc
+doctype: rfc

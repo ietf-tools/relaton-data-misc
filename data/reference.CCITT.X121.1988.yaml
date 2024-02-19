@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: CCITTX121.1988
 title:
 - content: International Numbering Plan for the Public Data Networks
@@ -41,5 +41,4 @@ series:
     - Latn
     format: text/plain
   number: Recommendation X.121
-doctype:
-  type: rfc
+doctype: rfc

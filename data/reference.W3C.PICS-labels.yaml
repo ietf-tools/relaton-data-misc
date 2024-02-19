@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: W3CPICS-labels
 title:
 - content: PICS Label Distribution Label Syntax and Communication Protocols
@@ -162,5 +162,4 @@ series:
     - Latn
     format: text/plain
   number: REC-PICS-labels
-doctype:
-  type: rfc
+doctype: rfc

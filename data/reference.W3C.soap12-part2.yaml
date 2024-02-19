@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: W3Csoap12-part2
 title:
 - content: 'SOAP Version 1.2 Part 2: Adjuncts'
@@ -179,5 +179,4 @@ series:
     - Latn
     format: text/plain
   number: soap12-part2
-doctype:
-  type: rfc
+doctype: rfc

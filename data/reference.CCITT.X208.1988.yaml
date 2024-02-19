@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: CCITTX208.1988
 title:
 - content: Specification of Abstract Syntax Notation One (ASN.1)
@@ -43,5 +43,4 @@ series:
     - Latn
     format: text/plain
   number: Recommendation X.208
-doctype:
-  type: rfc
+doctype: rfc

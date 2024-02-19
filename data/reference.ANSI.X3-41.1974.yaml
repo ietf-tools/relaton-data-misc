@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ANSIX3-41.1974
 title:
 - content: Code Extension Techniques for Use with the 7-bit Coded Character Set of
@@ -51,5 +51,4 @@ series:
     - Latn
     format: text/plain
   number: PUB 35
-doctype:
-  type: rfc
+doctype: rfc

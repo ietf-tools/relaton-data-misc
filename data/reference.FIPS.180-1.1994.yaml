@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: FIPS180-1.1994
 title:
 - content: Secure Hash Standard
@@ -41,5 +41,4 @@ series:
     - Latn
     format: text/plain
   number: PUB 180-1
-doctype:
-  type: rfc
+doctype: rfc

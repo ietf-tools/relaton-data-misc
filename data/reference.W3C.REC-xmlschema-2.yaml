@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: W3CREC-xmlschema-2
 title:
 - content: 'XML Schema Part 2: Datatypes'
@@ -91,5 +91,4 @@ series:
     - Latn
     format: text/plain
   number: REC-xmlschema-2
-doctype:
-  type: rfc
+doctype: rfc

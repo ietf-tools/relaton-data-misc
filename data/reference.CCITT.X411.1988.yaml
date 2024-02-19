@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: CCITTX411.1988
 title:
 - content: 'Message Handling Systems: Message Transfer System: Abstract Service Definition
@@ -42,5 +42,4 @@ series:
     - Latn
     format: text/plain
   number: Recommendation X.411
-doctype:
-  type: rfc
+doctype: rfc

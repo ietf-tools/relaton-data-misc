@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: W3Cxml-c14n
 title:
 - content: Canonical XML Version 1.0
@@ -67,5 +67,4 @@ series:
     - Latn
     format: text/plain
   number: xpath
-doctype:
-  type: rfc
+doctype: rfc

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: CCITTT30.1988
 title:
 - content: Procedures For Document Facsimile Transmission in the General Switched
@@ -42,5 +42,4 @@ series:
     - Latn
     format: text/plain
   number: Recommendation T.30
-doctype:
-  type: rfc
+doctype: rfc

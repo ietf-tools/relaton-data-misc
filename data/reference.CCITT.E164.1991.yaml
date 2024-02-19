@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: CCITTE164.1991
 title:
 - content: Telephone Network and ISDN Operation, Numbering, Routing and Mobile Service
@@ -42,5 +42,4 @@ series:
     - Latn
     format: text/plain
   number: Recommendation E.164
-doctype:
-  type: rfc
+doctype: rfc

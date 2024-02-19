@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ISO3309.1984
 title:
 - content: Information Processing Systems - - Data Communication High-Level Data Link
@@ -42,5 +42,4 @@ series:
     - Latn
     format: text/plain
   number: Standard 3309
-doctype:
-  type: rfc
+doctype: rfc

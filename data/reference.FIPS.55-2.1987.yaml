@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: FIPS55-2.1987
 title:
 - content: 'Guideline: Codes for Named Populated Places, Primary County Divisions,
@@ -42,5 +42,4 @@ series:
     - Latn
     format: text/plain
   number: PUB 55-2
-doctype:
-  type: rfc
+doctype: rfc
