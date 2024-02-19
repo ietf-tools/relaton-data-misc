@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: IEEE802-12.1995
 title:
 - content: Demand Priority Access Method, Physical Layer and Repeater Specifications
@@ -42,7 +42,6 @@ series:
     - Latn
     format: text/plain
   number: Standard 802.12
-doctype:
-  type: ieee
+doctype: ieee
 ext:
-  schema-version: v1.0.1
+  schema-version: v1.0.0

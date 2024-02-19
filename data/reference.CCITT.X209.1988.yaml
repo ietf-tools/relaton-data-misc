@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: CCITTX209.1988
 title:
 - content: Specification of Basic Encoding Rules for Abstract Syntax Notation One
@@ -42,5 +42,4 @@ series:
     - Latn
     format: text/plain
   number: Recommendation X.209
-doctype:
-  type: rfc
+doctype: rfc

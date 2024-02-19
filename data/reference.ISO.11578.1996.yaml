@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ISO11578.1996
 title:
 - content: Information technology - Open Systems Interconnection - Remote Procedure
@@ -42,5 +42,4 @@ series:
     - Latn
     format: text/plain
   number: Standard 11578
-doctype:
-  type: rfc
+doctype: rfc

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: IEEEP1394B.1995
 title:
 - content: Draft Standard for a High Performance Serial Bus (Supplement)
@@ -41,7 +41,6 @@ series:
     - Latn
     format: text/plain
   number: Draft P1394B
-doctype:
-  type: ieee
+doctype: ieee
 ext:
-  schema-version: v1.0.1
+  schema-version: v1.0.0

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: CCITTX25.1989
 title:
 - content: 'Data Communication Networks: Services and Facilities, Interfaces. Interface
@@ -43,5 +43,4 @@ series:
     - Latn
     format: text/plain
   number: Recommendation X.25
-doctype:
-  type: rfc
+doctype: rfc

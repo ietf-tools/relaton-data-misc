@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: W3Cxkms
 title:
 - content: XML Key Management Specification (XKMS)
@@ -235,5 +235,4 @@ series:
     - Latn
     format: text/plain
   number: xkms
-doctype:
-  type: rfc
+doctype: rfc

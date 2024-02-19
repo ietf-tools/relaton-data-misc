@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: CCITTG783.1992
 title:
 - content: Characteristics of Synchronous Digital Hierarchy (SDH) Multiplexing Equipment
@@ -42,5 +42,4 @@ series:
     - Latn
     format: text/plain
   number: Recommendation G.783
-doctype:
-  type: rfc
+doctype: rfc

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ISO9594.1989
 title:
 - content: Information technology - Open Systems Interconnection - The Directory
@@ -41,5 +41,4 @@ series:
     - Latn
     format: text/plain
   number: Standard 9594
-doctype:
-  type: rfc
+doctype: rfc

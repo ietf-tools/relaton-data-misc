@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: CCITTX680.1994
 title:
 - content: 'Specification of Abstract Syntax Notation One (ASN.1): Specification of
@@ -44,5 +44,4 @@ series:
     - Latn
     format: text/plain
   number: Recommendation X.680
-doctype:
-  type: rfc
+doctype: rfc

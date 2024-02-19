@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: OASISsstc-core
 title:
 - content: Assertions and Protocol for the OASIS Security Assertion Markup Language
@@ -96,5 +96,4 @@ series:
     - Latn
     format: text/plain
   number: sstc-core
-doctype:
-  type: rfc
+doctype: rfc

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ISO9594-6.1987
 title:
 - content: 'The Directory: Selected Attribute Types'
@@ -41,5 +41,4 @@ series:
     - Latn
     format: text/plain
   number: Standard 9594-6
-doctype:
-  type: rfc
+doctype: rfc

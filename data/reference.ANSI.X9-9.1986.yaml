@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ANSIX9-9.1986
 title:
 - content: Financial Institution Message Authentication (Wholesale)
@@ -41,5 +41,4 @@ series:
     - Latn
     format: text/plain
   number: X9.9
-doctype:
-  type: rfc
+doctype: rfc

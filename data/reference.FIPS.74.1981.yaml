@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: FIPS74.1981
 title:
 - content: Guidelines for Implementing and Using the NBS Data Encryption Standard
@@ -44,5 +44,4 @@ series:
     - Latn
     format: text/plain
   number: PUB 74
-doctype:
-  type: rfc
+doctype: rfc

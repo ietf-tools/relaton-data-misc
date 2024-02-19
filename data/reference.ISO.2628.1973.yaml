@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ISO2628.1973
 title:
 - content: Basic mode control procedures - Complements
@@ -41,5 +41,4 @@ series:
     - Latn
     format: text/plain
   number: Standard 2628
-doctype:
-  type: rfc
+doctype: rfc

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: OASISsstc-saml-exec-overview-2.0-cd-01
 title:
 - content: SAML V2.0 Executive Overview
@@ -92,5 +92,4 @@ series:
     - Latn
     format: text/plain
   number: sstc-saml-exec-overview-2.0-cd-01
-doctype:
-  type: rfc
+doctype: rfc

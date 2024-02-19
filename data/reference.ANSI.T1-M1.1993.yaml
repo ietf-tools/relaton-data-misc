@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ANSIT1-M1.1993
 title:
 - content: Telecommunications - Layer 1 In-Service Digital Transmission Performance
@@ -42,5 +42,4 @@ series:
     - Latn
     format: text/plain
   number: T1M1.3
-doctype:
-  type: rfc
+doctype: rfc

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ITUH245.1998
 title:
 - content: CONTROL PROTOCOL FOR MULTIMEDIA COMMUNICATION
@@ -41,5 +41,4 @@ series:
     - Latn
     format: text/plain
   number: Recommendation H.245
-doctype:
-  type: rfc
+doctype: rfc

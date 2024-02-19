@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: OASISsaml-profiles-2.0-os
 title:
 - content: |-
@@ -234,5 +234,4 @@ series:
     - Latn
     format: text/plain
   number: OASIS.saml-profiles-2.0-os
-doctype:
-  type: rfc
+doctype: rfc

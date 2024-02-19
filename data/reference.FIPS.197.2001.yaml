@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: FIPS197.2001
 title:
 - content: Advanced Encryption Standard (AES)
@@ -44,5 +44,4 @@ series:
     - Latn
     format: text/plain
   number: PUB 197
-doctype:
-  type: rfc
+doctype: rfc

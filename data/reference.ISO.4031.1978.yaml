@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ISO4031.1978
 title:
 - content: Information Interchange - Representation of local time differentials
@@ -41,5 +41,4 @@ series:
     - Latn
     format: text/plain
   number: Standard 4031
-doctype:
-  type: rfc
+doctype: rfc

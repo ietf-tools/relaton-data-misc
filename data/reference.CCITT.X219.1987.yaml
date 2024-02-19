@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: CCITTX219.1987
 title:
 - content: 'Information processing systems - Text Communication, Remote Operations:
@@ -42,5 +42,4 @@ series:
     - Latn
     format: text/plain
   number: Recommendation X.219
-doctype:
-  type: rfc
+doctype: rfc

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ISO8583.1993
 title:
 - content: Financial transaction card originated messages - Interchange message specifications
@@ -41,5 +41,4 @@ series:
     - Latn
     format: text/plain
   number: Standard 8583
-doctype:
-  type: rfc
+doctype: rfc

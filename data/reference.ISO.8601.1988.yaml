@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ISO8601.1988
 title:
 - content: Data elements and interchange formats - Information interchange - Representation
@@ -42,5 +42,4 @@ series:
     - Latn
     format: text/plain
   number: Standard 8601
-doctype:
-  type: rfc
+doctype: rfc

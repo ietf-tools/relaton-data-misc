@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ITUT82.1993
 title:
 - content: Information technology - Coded representation of picture and audio information
@@ -42,5 +42,4 @@ series:
     - Latn
     format: text/plain
   number: Recommendation T.82
-doctype:
-  type: rfc
+doctype: rfc

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ISO10160.1997
 title:
 - content: Information and Documentation - Open Systems Interconnection - Interlibrary
@@ -42,5 +42,4 @@ series:
     - Latn
     format: text/plain
   number: Standard 10160
-doctype:
-  type: rfc
+doctype: rfc

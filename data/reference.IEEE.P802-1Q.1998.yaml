@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: IEEEP802-1Q.1998
 title:
 - content: 'Local and Metropolitan Area Networks: Virtual Bridged Local Area Networks'
@@ -41,7 +41,6 @@ series:
     - Latn
     format: text/plain
   number: Draft P802.1Q
-doctype:
-  type: ieee
+doctype: ieee
 ext:
-  schema-version: v1.0.1
+  schema-version: v1.0.0

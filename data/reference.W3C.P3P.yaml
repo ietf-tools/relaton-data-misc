@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: W3CP3P
 title:
 - content: The Platform for Privacy Preferences 1.0 (P3P1.0) Specification
@@ -172,5 +172,4 @@ series:
     - Latn
     format: text/plain
   number: REC-PICS-services
-doctype:
-  type: rfc
+doctype: rfc

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ISO9834-1.1993
 title:
 - content: 'Procedures for the operation of OSI registration authorities - part 1:
@@ -42,5 +42,4 @@ series:
     - Latn
     format: text/plain
   number: Standard 9834-1
-doctype:
-  type: rfc
+doctype: rfc

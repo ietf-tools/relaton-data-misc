@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ITUT37.1998
 title:
 - content: Procedures for the transfer of facsimile data via store-and-forward on
@@ -42,5 +42,4 @@ series:
     - Latn
     format: text/plain
   number: Recommendation T.37
-doctype:
-  type: rfc
+doctype: rfc

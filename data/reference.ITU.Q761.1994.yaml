@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ITUQ761.1994
 title:
 - content: Functional Description of the ISDN User Part of Signaling System No. 7
@@ -41,5 +41,4 @@ series:
     - Latn
     format: text/plain
   number: Recommendation Q.761
-doctype:
-  type: rfc
+doctype: rfc

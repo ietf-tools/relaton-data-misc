@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ISO6429.1992
 title:
 - content: Information Technology - Control Functions for Coded Character Sets, 3rd
@@ -42,5 +42,4 @@ series:
     - Latn
     format: text/plain
   number: Standard 6429
-doctype:
-  type: rfc
+doctype: rfc

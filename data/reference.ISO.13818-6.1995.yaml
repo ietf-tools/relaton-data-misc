@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ISO13818-6.1995
 title:
 - content: 'Information technology - Generic coding of moving pictures and associated
@@ -42,5 +42,4 @@ series:
     - Latn
     format: text/plain
   number: Draft Standard 13818-6
-doctype:
-  type: rfc
+doctype: rfc

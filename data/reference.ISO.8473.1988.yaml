@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ISO8473.1988
 title:
 - content: Data communications protocol for providing the connectionless-mode network
@@ -42,5 +42,4 @@ series:
     - Latn
     format: text/plain
   number: Standard 8473
-doctype:
-  type: rfc
+doctype: rfc

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ISO10747.1993
 title:
 - content: Information Processing Systems - Telecommunications and Information Exchange
@@ -43,5 +43,4 @@ series:
     - Latn
     format: text/plain
   number: Standard 10747
-doctype:
-  type: rfc
+doctype: rfc

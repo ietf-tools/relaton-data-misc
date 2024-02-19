@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ISO8885.1993
 title:
 - content: Information technology - Telecommunications and information exchange between
@@ -43,5 +43,4 @@ series:
     - Latn
     format: text/plain
   number: Standard 8885
-doctype:
-  type: rfc
+doctype: rfc

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: CCITTQ922.1992
 title:
 - content: ISDN Data Link Layer Specification for Frame Mode Bearer Services
@@ -41,5 +41,4 @@ series:
     - Latn
     format: text/plain
   number: Recommendation Q.922
-doctype:
-  type: rfc
+doctype: rfc

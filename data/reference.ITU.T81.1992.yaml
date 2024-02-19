@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ITUT81.1992
 title:
 - content: Information technology - Digital compression and coding of continuous-tone
@@ -42,5 +42,4 @@ series:
     - Latn
     format: text/plain
   number: Recommendation T.81
-doctype:
-  type: rfc
+doctype: rfc

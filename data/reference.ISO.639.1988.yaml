@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ISO639.1988
 title:
 - content: Code for the representation of names of languages, 1st edition
@@ -41,5 +41,4 @@ series:
     - Latn
     format: text/plain
   number: Standard 639
-doctype:
-  type: rfc
+doctype: rfc

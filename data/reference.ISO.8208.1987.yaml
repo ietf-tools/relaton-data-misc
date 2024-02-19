@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ISO8208.1987
 title:
 - content: Information processing systems - Data communications - X.25 Packet Level
@@ -42,5 +42,4 @@ series:
     - Latn
     format: text/plain
   number: Standard 8208
-doctype:
-  type: rfc
+doctype: rfc

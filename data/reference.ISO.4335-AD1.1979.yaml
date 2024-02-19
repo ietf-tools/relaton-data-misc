@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ISO4335-AD1.1979
 title:
 - content: Data communication - High-level data link control procedures - Elements
@@ -42,5 +42,4 @@ series:
     - Latn
     format: text/plain
   number: Standard 4335 Addendum 1
-doctype:
-  type: rfc
+doctype: rfc

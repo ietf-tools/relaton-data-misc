@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ISO10175-1.1996
 title:
 - content: 'Information technology - Text and office systems - Document Printing Application
@@ -36,5 +36,4 @@ series:
     - Latn
     format: text/plain
   number: Standard 10175-1
-doctype:
-  type: rfc
+doctype: rfc

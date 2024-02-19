@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: IEEE1284-1.1997
 title:
 - content: Transport Independent Printer/System Interface
@@ -35,7 +35,6 @@ series:
     - Latn
     format: text/plain
   number: Standard 1284.1
-doctype:
-  type: ieee
+doctype: ieee
 ext:
-  schema-version: v1.0.1
+  schema-version: v1.0.0

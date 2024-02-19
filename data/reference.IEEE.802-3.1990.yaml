@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: IEEE802-3.1990
 title:
 - content: 'Information Processing Systems - Local Area Networks - Part 3: Carrier
@@ -37,7 +37,6 @@ series:
     - Latn
     format: text/plain
   number: Standard 802.3
-doctype:
-  type: ieee
+doctype: ieee
 ext:
-  schema-version: v1.0.1
+  schema-version: v1.0.0

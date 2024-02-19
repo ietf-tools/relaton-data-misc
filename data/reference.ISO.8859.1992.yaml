@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ISO8859.1992
 title:
 - content: 'Information processing - 8-bit single-byte coded graphic character sets
@@ -46,5 +46,4 @@ series:
     - Latn
     format: text/plain
   number: Standard 8859
-doctype:
-  type: rfc
+doctype: rfc

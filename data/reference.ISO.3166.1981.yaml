@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ISO3166.1981
 title:
 - content: Codes for the Representation of Names of Countries
@@ -41,5 +41,4 @@ series:
     - Latn
     format: text/plain
   number: Standard 3166
-doctype:
-  type: rfc
+doctype: rfc

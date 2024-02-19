@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ITUH324.1996
 title:
 - content: Terminal for low bit rate multimedia communication
@@ -41,5 +41,4 @@ series:
     - Latn
     format: text/plain
   number: Recommendation H.324
-doctype:
-  type: rfc
+doctype: rfc

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ISO9577.1999
 title:
 - content: Information technology - Telecommunications and Information exchange between
@@ -42,5 +42,4 @@ series:
     - Latn
     format: text/plain
   number: Technical Report 9577
-doctype:
-  type: rfc
+doctype: rfc

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ISO7498-AD1.1986
 title:
 - content: 'Information Processing Systems - OSI: Basic Reference Model Addendum 1:
@@ -42,5 +42,4 @@ series:
     - Latn
     format: text/plain
   number: Standard 7498 Addendum 1
-doctype:
-  type: rfc
+doctype: rfc

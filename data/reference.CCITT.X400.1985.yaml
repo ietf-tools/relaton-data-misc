@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: CCITTX400.1985
 title:
 - content: Data Communication Networks - Message Handling Systems
@@ -41,5 +41,4 @@ series:
     - Latn
     format: text/plain
   number: Recommendation X.400
-doctype:
-  type: rfc
+doctype: rfc

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: FIPS1-1.1980
 title:
 - content: Code for Information
@@ -41,5 +41,4 @@ series:
     - Latn
     format: text/plain
   number: PUB 1-1
-doctype:
-  type: rfc
+doctype: rfc

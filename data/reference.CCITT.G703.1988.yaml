@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: CCITTG703.1988
 title:
 - content: Physical/Electrical Characteristics of Hierarchical Digital Interfaces
@@ -41,5 +41,4 @@ series:
     - Latn
     format: text/plain
   number: Recommendation G.703
-doctype:
-  type: rfc
+doctype: rfc

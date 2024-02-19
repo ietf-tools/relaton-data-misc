@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ITUF185.1998
 title:
 - content: 'Internet facsimile: Guidelines for the support of the communication of
@@ -42,5 +42,4 @@ series:
     - Latn
     format: text/plain
   number: Recommendation F.185
-doctype:
-  type: rfc
+doctype: rfc

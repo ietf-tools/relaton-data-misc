@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: CCITTX408.1988
 title:
 - content: 'Message Handling Systems: Encoded Information Type Conversion Rules'
@@ -41,5 +41,4 @@ series:
     - Latn
     format: text/plain
   number: Recommendation X.408
-doctype:
-  type: rfc
+doctype: rfc

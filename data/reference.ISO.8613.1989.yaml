@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ISO8613.1989
 title:
 - content: 'Information Processing: Text and Office System; Office Document Architecture
@@ -42,5 +42,4 @@ series:
     - Latn
     format: text/plain
   number: Standard 8613
-doctype:
-  type: rfc
+doctype: rfc

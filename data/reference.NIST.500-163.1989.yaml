@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: NIST500-163.1989
 title:
 - content: Government Open Systems Interconnection Profile Users' Guide
@@ -41,5 +41,4 @@ series:
     - Latn
     format: text/plain
   number: 500-163
-doctype:
-  type: rfc
+doctype: rfc

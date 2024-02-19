@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: CCITTX419.1988
 title:
 - content: 'Message Handling: Protocol Specifications'
@@ -41,5 +41,4 @@ series:
     - Latn
     format: text/plain
   number: Recommendation X.419
-doctype:
-  type: rfc
+doctype: rfc

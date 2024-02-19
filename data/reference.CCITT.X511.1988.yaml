@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: CCITTX511.1988
 title:
 - content: 'Information Technology - Open Systems Interconnection - The Directory:
@@ -44,5 +44,4 @@ series:
     - Latn
     format: text/plain
   number: Recommendation X.511
-doctype:
-  type: rfc
+doctype: rfc

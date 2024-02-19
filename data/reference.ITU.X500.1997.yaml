@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ITUX500.1997
 title:
 - content: |-
@@ -52,5 +52,4 @@ series:
     - Latn
     format: text/plain
   number: Standard 9594-1
-doctype:
-  type: rfc
+doctype: rfc

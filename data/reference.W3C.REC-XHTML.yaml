@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: W3CREC-XHTML
 title:
 - content: 'XHTML 1.0: The Extensible HyperText Markup Language'
@@ -65,5 +65,4 @@ series:
     - Latn
     format: text/plain
   number: REC-XHTML
-doctype:
-  type: rfc
+doctype: rfc

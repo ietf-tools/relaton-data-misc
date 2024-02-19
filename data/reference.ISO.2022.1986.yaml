@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ISO2022.1986
 title:
 - content: 'Information Processing: ISO 7-bit and 8-bit coded character sets: Code
@@ -42,5 +42,4 @@ series:
     - Latn
     format: text/plain
   number: Standard 2022
-doctype:
-  type: rfc
+doctype: rfc

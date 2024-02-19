@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ANSIX3-51.1975
 title:
 - content: Representations of Universal Time, Local Time Differentials, and United
@@ -42,5 +42,4 @@ series:
     - Latn
     format: text/plain
   number: X3.51
-doctype:
-  type: rfc
+doctype: rfc

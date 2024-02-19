@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ISO9074.1989
 title:
 - content: A Formal Description Technique based on an Extended State Transition Model
@@ -41,5 +41,4 @@ series:
     - Latn
     format: text/plain
   number: Standard 9074
-doctype:
-  type: rfc
+doctype: rfc

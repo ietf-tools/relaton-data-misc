@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: PKCS7.1993
 title:
 - content: Cryptographic Message Syntax Standard. Version 1.5
@@ -41,5 +41,4 @@ series:
     - Latn
     format: text/plain
   number: '7'
-doctype:
-  type: rfc
+doctype: rfc

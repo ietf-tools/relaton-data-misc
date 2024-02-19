@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ISO4217.1981
 title:
 - content: Codes for the representation of currencies and funds
@@ -41,5 +41,4 @@ series:
     - Latn
     format: text/plain
   number: Standard 4217
-doctype:
-  type: rfc
+doctype: rfc

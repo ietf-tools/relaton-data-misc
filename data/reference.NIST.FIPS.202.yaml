@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: NISTFIPS.202
 title:
 - content: 'SHA-3 Standard:  Permutation-Based Hash and Extendable-Output Functions'
@@ -67,5 +67,4 @@ series:
     - Latn
     format: text/plain
   number: PUB 202
-doctype:
-  type: rfc
+doctype: rfc

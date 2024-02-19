@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: IANAapplication.samlassertion-xml
 title:
 - content: "\n            application/samlassertion+xml MIME Media Type Registration\n
@@ -58,5 +58,4 @@ series:
     - Latn
     format: text/plain
   number: application/samlassertion+xml
-doctype:
-  type: rfc
+doctype: rfc

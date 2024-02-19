@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: CCITTX420.1984
 title:
 - content: 'Message Handling Systems: Interpersonal Messaging User Agent Layer'
@@ -41,5 +41,4 @@ series:
     - Latn
     format: text/plain
   number: Recommendation X.420
-doctype:
-  type: rfc
+doctype: rfc

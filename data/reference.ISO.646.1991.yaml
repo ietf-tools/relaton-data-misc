@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ISO646.1991
 title:
 - content: Information technology - ISO 7-bit coded character set for information
@@ -42,5 +42,4 @@ series:
     - Latn
     format: text/plain
   number: Standard 646
-doctype:
-  type: rfc
+doctype: rfc

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: CCITTX690.2002
 title:
 - content: 'ASN.1 encoding rules: Specification of basic encoding Rules (BER), Canonical
@@ -44,5 +44,4 @@ series:
     - Latn
     format: text/plain
   number: Recommendation X.690
-doctype:
-  type: rfc
+doctype: rfc

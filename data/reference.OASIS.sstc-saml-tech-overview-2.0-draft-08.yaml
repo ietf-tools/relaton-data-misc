@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: OASISsstc-saml-tech-overview-2.0-draft-08
 title:
 - content: |-
@@ -94,5 +94,4 @@ series:
     - Latn
     format: text/plain
   number: sstc-saml-tech-overview-2.0-draft-08
-doctype:
-  type: rfc
+doctype: rfc

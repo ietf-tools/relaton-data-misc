@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ISO8878.1987
 title:
 - content: Information processing systems - Data communications - Use of X.25 to provide
@@ -42,5 +42,4 @@ series:
     - Latn
     format: text/plain
   number: Draft Standard 8878
-doctype:
-  type: rfc
+doctype: rfc

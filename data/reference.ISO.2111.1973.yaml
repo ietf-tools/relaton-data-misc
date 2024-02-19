@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ISO2111.1973
 title:
 - content: Data Communication - Basic mode control procedures - Code independent information
@@ -42,5 +42,4 @@ series:
     - Latn
     format: text/plain
   number: Standard 2111
-doctype:
-  type: rfc
+doctype: rfc

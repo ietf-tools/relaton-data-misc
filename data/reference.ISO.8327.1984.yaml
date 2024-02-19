@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ISO8327.1984
 title:
 - content: 'Information Processing Systems - Open Systems Interconnection: Session
@@ -42,5 +42,4 @@ series:
     - Latn
     format: text/plain
   number: Standard 8327
-doctype:
-  type: rfc
+doctype: rfc

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ANSIX9-52.1998
 title:
 - content: Triple Data Encryption Algorithm Modes of Operation
@@ -41,5 +41,4 @@ series:
     - Latn
     format: text/plain
   number: X9.52
-doctype:
-  type: rfc
+doctype: rfc

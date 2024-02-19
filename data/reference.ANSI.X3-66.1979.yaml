@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ANSIX3-66.1979
 title:
 - content: Advanced Data Communication Procedures (ADCCP)
@@ -41,5 +41,4 @@ series:
     - Latn
     format: text/plain
   number: X3.66
-doctype:
-  type: rfc
+doctype: rfc

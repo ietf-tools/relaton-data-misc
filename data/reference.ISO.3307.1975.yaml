@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ISO3307.1975
 title:
 - content: Information Interchange - Representations of time of the day
@@ -41,5 +41,4 @@ series:
     - Latn
     format: text/plain
   number: Standard 3307
-doctype:
-  type: rfc
+doctype: rfc

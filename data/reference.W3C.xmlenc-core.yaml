@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: W3Cxmlenc-core
 title:
 - content: XML Encryption Syntax and Processing
@@ -95,5 +95,4 @@ series:
     - Latn
     format: text/plain
   number: xmlenc-core
-doctype:
-  type: rfc
+doctype: rfc

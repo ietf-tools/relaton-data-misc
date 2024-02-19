@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ISO8473.1990
 title:
 - content: Intermediate System to Intermediate System Intra-Domain Routeing Exchange
@@ -43,5 +43,4 @@ series:
     - Latn
     format: text/plain
   number: Standard 8473
-doctype:
-  type: rfc
+doctype: rfc

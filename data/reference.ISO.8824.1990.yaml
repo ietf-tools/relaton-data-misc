@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ISO8824.1990
 title:
 - content: Information Processing Systems - Open Systems Interconnection - Specification
@@ -42,5 +42,4 @@ series:
     - Latn
     format: text/plain
   number: Standard 8824
-doctype:
-  type: rfc
+doctype: rfc

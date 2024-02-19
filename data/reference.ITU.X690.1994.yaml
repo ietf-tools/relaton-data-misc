@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ITUX690.1994
 title:
 - content: 'Information Technology - ASN.1 encoding rules: Specification of Basic
@@ -43,5 +43,4 @@ series:
     - Latn
     format: text/plain
   number: Recommendation X.690
-doctype:
-  type: rfc
+doctype: rfc

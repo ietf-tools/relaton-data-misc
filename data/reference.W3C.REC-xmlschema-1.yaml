@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: W3CREC-xmlschema-1
 title:
 - content: 'XML Schema Part 1: Structures'
@@ -143,5 +143,4 @@ series:
     - Latn
     format: text/plain
   number: REC-xmlschema-1
-doctype:
-  type: rfc
+doctype: rfc

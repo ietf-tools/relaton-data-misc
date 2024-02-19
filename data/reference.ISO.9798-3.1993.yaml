@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.5
 id: ISO9798-3.1993
 title:
 - content: 'Information technology - Security Techniques - Entity authentication mechanisms
@@ -42,5 +42,4 @@ series:
     - Latn
     format: text/plain
   number: Standard 9798-3
-doctype:
-  type: rfc
+doctype: rfc
