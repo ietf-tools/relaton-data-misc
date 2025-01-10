@@ -25,7 +25,7 @@ contributor:
     name:
       given:
         forename:
-        - content: 
+        - content:
           language:
           - en
           initial: M
@@ -55,7 +55,7 @@ contributor:
     name:
       given:
         forename:
-        - content: 
+        - content:
           language:
           - en
           initial: L
@@ -81,7 +81,7 @@ contributor:
     name:
       given:
         forename:
-        - content: 
+        - content:
           language:
           - en
           initial: M
@@ -107,7 +107,7 @@ contributor:
     name:
       given:
         forename:
-        - content: 
+        - content:
           language:
           - en
           initial: M
@@ -135,7 +135,7 @@ contributor:
     name:
       given:
         forename:
-        - content: 
+        - content:
           language:
           - en
           initial: J

@@ -28,7 +28,7 @@ contributor:
     name:
       given:
         forename:
-        - content: 
+        - content:
           language:
           - en
           initial: B
@@ -58,7 +58,7 @@ contributor:
     name:
       given:
         forename:
-        - content: 
+        - content:
           language:
           - en
           initial: R
@@ -86,7 +86,7 @@ contributor:
     name:
       given:
         forename:
-        - content: 
+        - content:
           language:
           - en
           initial: L

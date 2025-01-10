@@ -28,7 +28,7 @@ contributor:
     name:
       given:
         forename:
-        - content: 
+        - content:
           language:
           - en
           initial: D
@@ -54,7 +54,7 @@ contributor:
     name:
       given:
         forename:
-        - content: 
+        - content:
           language:
           - en
           initial: F
@@ -76,7 +76,7 @@ contributor:
     name:
       given:
         forename:
-        - content: 
+        - content:
           language:
           - en
           initial: I
@@ -98,11 +98,11 @@ contributor:
     name:
       given:
         forename:
-        - content: 
+        - content:
           language:
           - en
           initial: D
-        - content: 
+        - content:
           language:
           - en
           initial: L
@@ -124,11 +124,11 @@ contributor:
     name:
       given:
         forename:
-        - content: 
+        - content:
           language:
           - en
           initial: P
-        - content: 
+        - content:
           language:
           - en
           initial: F
@@ -150,11 +150,11 @@ contributor:
     name:
       given:
         forename:
-        - content: 
+        - content:
           language:
           - en
           initial: L
-        - content: 
+        - content:
           language:
           - en
           initial: A
